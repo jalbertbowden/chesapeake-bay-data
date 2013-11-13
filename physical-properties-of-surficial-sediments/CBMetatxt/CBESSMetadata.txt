@@ -1,0 +1,1511 @@
+MARYLAND DEPARTMENT OF NATURAL RESOURCES
+RESOURCE ASSESSMENT SERVICE
+MARYLAND GEOLOGICAL SURVEY
+Metadata
+Chesapeake Bay Earth Science Study (CBESS): 
+Physical Properties of Surficial Sediments, 
+Chesapeake Bay, Maryland (Tabular Data)
+                         
+1 Identification Information
+1.1 Citation
+8 Citation Information
+8.1 Originator: Kerhin, R.T., Halka, J.P., Wells, D.V., Hennessee, E.L., Blakeslee, P.J., Zoltan,
+N., and Cuthbertson, R.H.
+8.2 Publication Date: 1988
+8.4 Title:  Chesapeake Bay Earth Science Study (CBESS): Physical Properties of Surficial
+Sediments, Chesapeake Bay, Maryland (Tabular Data)
+8.5 Edition: 1
+8.8 Publication Information
+8.8.1 Publication Place: Baltimore, Maryland, USA
+8.8.2 Publisher: Maryland Geological Survey
+8.10 Online Linkage: http://www.mgs.md.gov
+1.2 Description
+1.2.1 Abstract: This is a data table, in comma-delimited, ASCII format, which contains
+information about selected physical properties, particularly grain size, of 4,255 surficial sediment
+samples from the Chesapeake Bay in Maryland.  Samples were collected on a 1-km grid by the
+Maryland Geological Survey (MGS) between June 1976 and August 1984.
+1.2.2 Purpose: One component of the Chesapeake Bay Earth Science Study (CBESS) was a
+baseline inventory of Chesapeake Bay bottom sediments, more particularly of those properties or
+features (e.g. sediment type, water content, sulfur content, carbon content, rate of sediment
+accumulation or erosion) that affect the distribution of toxic substances.  The project, funded by
+the Environmental Protection Agency (Contract No. EPA R805965), was a cooperative effort
+between the states of Maryland and Virginia.  The Maryland Geological Survey and the Virginia
+Institute of Marine Science (VIMS) were responsible for sampling and analyzing sediments
+deposited in the waters of their respective states.  Information contained in this data set is for
+Maryland only.
+1.2.3 Supplemental Information: 
+The first row of the data table contains column headings.  Parameters in the data table are in the
+following order:
+ID
+Raydist Red
+Raydist Green
+Sample Number
+Sample Description
+Latitude (decimal degrees, NAD27)
+Longitude (decimal degrees, NAD27)
+Collection Date
+Water Depth
+Water Content
+Bulk Density
+Total Carbon
+Organic Carbon
+Sulfur
+Gravel
+Phi -1.00
+Phi -0.75
+Phi -0.50
+Phi -0.25
+Phi 0.0
+Phi 0.25
+Phi 0.50
+Phi 0.75
+Phi 1.00
+Phi 1.25
+Phi 1.50
+Phi 1.75
+Phi 2.00
+Phi 2.25
+Phi 2.50
+Phi 2.75
+Phi 3.00
+Phi 3.25
+Phi 3.50
+Phi 3.75
+Phi 4.00
+Phi 4.33
+Phi 4.67
+Phi 5.00
+Phi 5.33
+Phi 5.67
+Phi 6.00
+Phi 6.33
+Phi 6.67
+Phi 7.00
+Phi 7.33
+Phi 7.67
+Phi 8.00
+Phi 8.33
+Phi 8.67
+Phi 9.00
+Phi 9.33
+Phi 9.67
+Phi 10.0
+Phi 11.0
+Phi 12.0
+Phi 13.0
+Phi 14.0
+Sand
+Silt
+Clay
+Shepard's Class
+Median
+Graphic Mean
+Graphic Sorting
+Graphic Skewness
+Graphic Kurtosis
+Moment Mean
+Moment Sorting
+Moment Skewness
+Moment Kurtosis
+
+See Section 5 for a complete explanation (e.g., definition, domain values, units of measurement)
+of each of these parameters.
+
+The data in this table have been mapped as a series of Chesapeake Bay Earth Science Atlases. 
+Five of seven of these atlases have been published.  Each atlas contains maps showing sampling
+locations, water content, sulfur content, carbon content, sediment type and patterns of erosion
+and deposition.
+
+Cuthbertson, R.H., ed., 1987, Chesapeake Bay Earth Science Atlas Nos. 1,2, (No. 1: Head of
+Chesapeake Bay; No. 2: Approaches to Baltimore Harbor): Baltimore, MD, Maryland Geological
+Survey.
+Kerhin, R.T., ed., 1980, Chesapeake Bay Earth Science Atlas No. 3:  Eastern Bay and South
+River: Baltimore, MD, Maryland Geological Survey.
+Halka, J.P., ed., 1982,  Chesapeake Bay Earth Science Atlas No. 4:  Choptank River and Herring
+Bay: Baltimore, MD, Maryland Geological Survey.
+Halka, J.P., and Wells, D.V., eds., 1982, Chesapeake Bay Earth Science Atlas No. 5:  Patuxent
+River and Vicinity: Baltimore, MD, Maryland Geological Survey.
+In addition, the following reports contain detailed information about sample collection and
+analytical methods, as well as an interpretation of the data:
+Kerhin, R.T., Halka, J.P., Wells, D.V., Hennessee, E.L., Blakeslee, P.J., Zoltan, N., and
+Cuthbertson, R.H., 1988, The Surficial Sediments of Chesapeake Bay, Maryland: Physical
+Characteristics and Sediment Budget:  Baltimore, MD, Maryland Geological Survey Report of
+Investigations No. 48, 82 p.
+Hennesse, E.L, Blakeslee, P.J., and Hill, J.M., 1986, The distributions of organic carbon and
+sulfur in surficial sediments of the Maryland portion of Chesapeake Bay: Jour. Sed. Pet., v. 56,
+no. 5, p. 674-683.
+1.3 Time Period of Content
+9 Time Period Information
+9.3 Range of Dates/Times
+9.3.1 Beginning Date: 197606
+9.3.3 Ending Date: 198408
+1.3.1 Currentness Reference: ground condition
+1.4 Status
+1.4.1 Progress: Complete
+1.4.2 Maintenance and Update Frequency: None planned
+1.5 Spatial Domain
+1.5.1 Bounding Coordinates
+1.5.1.1 West Bounding Coordinate: -76.667
+1.5.1.2 East Bounding Coordinate: -75.833
+1.5.1.3 North Bounding Coordinate: 39.75
+1.5.1.4 South Bounding Coordinate: 37.875
+1.6 Keywords
+1.6.1 Theme
+1.6.1.1 Theme Keyword Thesaurus: Global Change Master Directory List of Valid Keywords: 
+Earth Science Parameters Valid Keywords (CATEGORY > TOPIC > Term > Variable)
+http://gcmd.gsfc.nasa.gov/valids/parms.html 
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Coastal Process > Estuaries
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Coastal Process > Beaches
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Coastal Process > Sedimentation
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Marine Sediments > Sediment Grain
+Size
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Ocean Chemistry > Carbon
+1.6.1.2 Theme Keyword: EARTH SCIENCE > OCEANS > Ocean Chemistry > Organic Carbon
+1.6.1.1 Theme Keyword Thesaurus: None
+1.6.1.2 Theme Keyword: Surficial Sediments
+1.6.1.2 Theme Keyword: Physical Properties
+1.6.1.2 Theme Keyword: Water Content
+1.6.1.2 Theme Keyword: Bulk Density
+1.6.1.2 Theme Keyword: Sulfur
+1.6.2 Place
+1.6.2.1 Place Keyword Thesaurus: Geographic Names Information System
+http://www-nmd.usgs.gov/www/gnis/gnisform.html
+1.6.1.2 Theme Keyword: Maryland
+1.6.2.2 Place Keyword: Chesapeake Bay
+1.6.4 Temporal
+1.6.4.1 Temporal Keyword Thesaurus: Global Change Master Directory List of Valid Keywords: 
+Earth Science Parameters Valid Keywords (CATEGORY > TOPIC > Term > Variable)
+http://gcmd.gsfc.nasa.gov/valids/parms.html 
+1.6.4.2 Temporal Keyword: EARTH SCIENCE > PALEOCLIMATE > Geologic Time >
+Holocene
+1.7 Access Constraints: None
+1.8 Use Constraints:  Consider the age of the data (1976-1984), the sampling density (1-km grid)
+and the spatial and temporal variability of estuarine sediments in evaluating the fitness for use of
+this data set.
+Graphic displays and printed tabular listings derived from this data set may be used in
+publications
+and presentations, provided that credit is given to the originators of the data set (see Section 1.1
+Citation).
+The Maryland Geological Survey (MGS) makes no warranty, either express or implied, as to the
+use or appropriateness of the data, and there are no warranties of merchantability or fitness for a
+particular purpose or use.  MGS may not be subject to liability for human error, defect, or failure
+of machines, or any material used in connection with the machines, including tapes, disks, punch
+card and energy.  MGS may not be liable for any lost profits, consequential damages, or claims
+against the user by third parties.
+1.9 Point of Contact
+10 Contact Information
+10.1 Contact Person Primary
+10.1.1 Contact Person: Jeffrey Halka
+10.1.2 Contact Organization: Maryland Geological Survey
+10.3 Contact Position: Chief, Coastal & Estuarine Geology Program
+10.4 Contact Address
+10.4.1 Address Type: mailing and physical address
+10.4.2 Address: 2300 St. Paul Street
+10.4.3 City: Baltimore
+10.4.4 State or Province: Maryland
+10.4.5 Postal Code: 21218
+10.4.6 Country: USA
+10.5 Contact Voice Telephone: (410)554-5543
+10.7 Contact Facsimile Telephone: (410)554-5502
+10.8 Contact Electronic Mail Address: jhalka@mgs.dnr.md.gov
+10.9 Hours of Service: 9am - 5pm
+1.11 Data Set Credit: Funding for the Chesapeake Earth Science Study was provided by the U.S.
+Environment Protection Agency (EPA) under Contract No. EPA R805965.
+1.13 Native Data Set Environment
+Software: Microsoft Access for Windows 95, version 7.00
+Computer Operating System: Windows 95
+File Name: N:\Database\baysed.mdb (Table: tblAllCBESSData)
+1.14 Cross Reference
+The Virginia Institute of Marine Science produced a comparable data set for the Virginia portion
+of the Chesapeake Bay by, as reported in:
+Byrne, R.J, Hobbs, C.H., and Carron, M.J., 1982, Baseline sediment studies to determine
+distribution, physical properties, sedimentation budgets and rates in the Virginia portion of the
+Chesapeake Bay: Final report to the United States Environmental Protection Agency, Grant
+Number R806001010, Virginia Institute of Marine Science, College of William and Mary,
+Gloucester Point, Virginia, 155 p.
+2 Data Quality Information
+2.1 Attribute Accuracy
+2.1.1 Attribute Accuracy Report
+This section of the metadata summarizes information found in an appendix to the report by
+Kerhin
+and others (1988) cited in Section 1.2.3 Supplemental Information.  It will be easier to
+understand
+this section if you first read Section 2.5 Lineage.
+Quality assurance for grain-size analysis involved three major components: (1) calibration of the
+individual analytical instruments, (2) inter-calibration of specially designed instruments with
+similar devices at the Virginia Institute of Marine Sciences (VIMS), and (3) duplicate analyses at
+MGS and VIMS of sediments collected in both Maryland and Virginia waters.
+Instrument Calibration
+Calibration of the rapid sediment analyzer (RSA) was accomplished through the use of glass
+beads of known size, sphericity and density.  Calibration of the Coulter Counter was
+accomplished through procedures recommended in the manufacturer's operating manual.
+At the time of the CBESS study, most previous sedimentological studies had used pipetting
+techniques, rather than a Coulter Counter, to determine the size distribution of fine-grained
+sediments.  Therefore, for three sediment samples, MGS compared results obtained by the two
+methods.  For all three samples, the grain-size distribution resulting from Coulter Counter
+analysis
+was somewhat finer than that determined by pipette analysis.  The difference in the mean grain
+size calculated by each technique ranged from a low of 0.07 phi for one sample to a high of 0.29
+phi for another.  For each sample, the envelope enclosing the Coulter Counter data was smaller
+than that for the pipette data, indicating the superior precision of the Coulter Counter technique.
+Two possible explanations were offered to account for the difference in results obtained by the
+two techniques:  (1) particle density or shape effects, and (2) an instrument "noise" effect.  The
+second effect probably contributed more to the observed differences; Coulter Counter operators
+noticed that machine noise tended to accumulate in the output channels representing the finer end
+of the size distribution.  In any case, the differences between the two techniques were quite small.
+The greater precision of the Coulter Counter, coupled with its ease of operation, recommended
+its
+use.
+Inter-Laboratory Calibration
+Both MGS and VIMS processed 20 sediment samples, representative of a broad range of
+sediment types, to compare results from the two laboratories.  Eight samples were collected from
+the Bay in Virginia, and 12 from Maryland.  Each of the paired samples matched on Shepard's
+class.  For 14 of the samples, both institutions were able to determine mean grain size.  The
+analytical results were compared statistically, using a t-test for dependent samples.  At the 5%
+level of significance, there were no differences between the results obtained by MGS and VIMS.
+2.2 Logical Consistency Report
+Data were checked for permissible values.  For most of the parameters measured, "-999"
+indicates
+a missing value.
+2.3 Completeness Report
+Omissions
+The main trunk of the Maryland portion of the Chesapeake Bay was sampled, as well as Eastern
+Bay, the Choptank River, and Tangier Sound.  Within the study area, no samples were collected
+in the vicinity of  Aberdeen Proving Ground or Bloodsworth Island because of the risk of
+retrieving unexploded ordnance.
+Selection criteria 
+Total carbon, organic carbon, and total sulfur determinations were made for about 25% of the
+samples collected.  Initially, every mid-bay and certain nearshore samples were analyzed,
+providing coverage on a 1-km grid.  Sampling density was reduced when it became apparent that
+carbon and sulfur analyses could not keep pace with other phases of the project.  Results from the
+early analyses showed that in 85% of the sandy samples, carbon and sulfur were below detection. 
+Based on those findings, sandy samples - usually nearshore samples characterized by low water
+content - were excluded from analysis.  Later in the project, every fourth mid-bay sample was
+analyzed, provided that its water content exceeded 25% by weight.  If water content fell below
+that limit, the sample was generally replaced by a neighboring one.
+2.4 Positional Accuracy
+2.4.1 Horizontal Positional Accuracy
+2.4.1.1 Horizontal Positional Accuracy Report
+As described in Section 2.5.2.1 Process Description: Sample collection, surficial samples were
+collected according to two different protocols, "nearshore" or "mid-bay".  Accuracy of nearshore
+sample location was estimated to be ñ 30 m.  Teledyne-Hastings, the manufacturer of the Raydist
+radionavigational system used to locate mid-bay samples, reported the positional accuracy of the
+system as  ñ 0.5 m.  To ensure accuracy, the crew checked calibrations at least twice during each
+sampling day.  Based on these checks, operational accuracy was about ñ 1.5 m.  However, due to
+such factors as vessel orientation, wind, and tidal currents, mid-bay sampling accuracy was
+estimated to be ñ 10 m.
+2.4.2 Vertical Positional Accuracy
+2.4.2.1 Vertical Positional Accuracy Report
+Water depths recorded at each sampling site were not adjusted for tide level.
+2.5 Lineage
+2.5.2 Process Step
+2.5.2.1 Process Description: Sample collection
+Surficial samples, taken from the top 5 cm of the sediment column, were collected according to
+one of two different protocols.  Water depth dictated which protocol, "nearshore" or "mid-bay," 
+was used.
+Nearshore samples were collected in waters less than 3 m deep from a shallow draft, 17-ft Boston
+Whaler.  Samples were taken along shore-perpendicular transects located approximately 1 km
+apart.  The azimuth-range method, with a shore-based compass and transit or theodolite, was
+used for navigation.  Along a predetermined azimuth, a time-calibrated transect was made at a
+specific boat speed out to the limiting depth of 3 m.  Bottom samples were then collected at
+specific time-interval markers with a Dietz-Lafond sampler and packaged in labeled Whirl-Pak 
+bags.
+Mid-bay sampling, in waters deeper than 3 m, took place aboard several larger, deeper draft
+vessels.  Sampling sites were located with a Teledyne-Hastings Raydist radionavigational
+system. 
+Initially, boat crews followed curved Raydist "lanes," located 1 km apart, and collected samples
+at
+1 km intervals along those lanes.  This sampling plan accounts for the arcuate pattern of samples
+located between the Bay Bridge and Holland Point.  Later, sampling sites were located on an
+orthogonal, 1-km grid developed from a generation point (76o 38' 00" W and 38o 00' 00" N) and
+based on a Universal Transverse Mercator projection.  Locations, specified initially as latitude
+and
+longitude (NAD27), were converted to Raydist Red and Green coordinates.  The boat captain
+occupied the target locations, and the crew recorded actual Raydist values at the time of sample
+collection.  Actual Raydist coordinates were subsequently converted back to the geographic
+coordinates (NAD27) stored in the data table.
+At each mid-bay station, two samples were collected with a Van Veen or a Petersen grab
+sampler. 
+One sample, later analyzed for grain size composition, was packaged in a labeled Whirl-Pak 
+bag. 
+The other sample, for water, bulk density, carbon, and sulfur determinations, was placed in a
+labeled, 30-dram, opaque plastic vial and refrigerated.
+2.5.2.3 Process Date: Date of sample collection, reported for each sample in the data set
+2.5.2 Process Step
+2.5.2.1  Process Description: Water content
+The procedure for measuring water content consisted of weighing a 25-50 g split of the
+homogenized sample, drying the split at 65 degrees C, and reweighing it.  Water content, in
+percent, was calculated as:
+water content (%) = [water weight (g) / wet weight of sediment (g)] * 100,
+where water weight is the difference between the wet and dry weights of the sample.
+The procedure is based on the assumption that the sediment is saturated with free water (water
+that is not bound up in the crystalline lattice of clay minerals).
+2.5.2.3 Process Date: Unknown
+2.5.2 Process Step
+2.5.2.1  Process Description: Bulk density
+Bulk density, in g/cubic cm, was calculated from the weights used in determining water content,
+as:
+bulk density (g/cubic cm) = wet weight of sediment (g) /[(dry weight of sediment (g) / 2.72
+(g/cubic cm)) + water weight (g)].
+The calculation is based on the assumption that the average grain density of the particulate matter
+is 2.72 g/cubic cm and that all voids in the sediment are completely saturated with water.
+2.5.2.3 Process Date: Unknown
+2.5.2 Process Step
+2.5.2.1 Process Description: Grain size analysis
+Overview
+The grain size composition of each sample was determined for sand-, silt-, and clay-sized
+particles, ranging in diameter from 0.00006 to 2 mm.  Particle size, expressed as cumulative
+weight percent, was measured on a logarithmic scale and grouped into dimensionless phi
+intervals:
+phi = -log2 d
+where d equals particle diameter in mm.
+The grain size distribution between -1 and 10 phi was determined analytically, then extended to
+14
+phi by arithmetically extrapolating from the cumulative percent at 10 phi to 100% at 14 phi.  No
+single analytical technique can effectively measure this range of particle sizes, so the results of
+several procedures were combined.  Prior to analysis, all samples were treated with mild
+chemical
+agents to remove carbonate and organic material and to disaggregate and disperse the particles. 
+The sample was split by sieving into a sand (coarser than 4 phi) and a silt/clay (finer than 4 phi)
+fraction.  The distribution of the sand fraction, in 1/4 phi intervals, was determined using a rapid
+sediment analyzer (RSA), a settling tube that measures particle size based on settling velocity. 
+The silts and clays were pipetted, and the size distribution between 4 phi and 10 phi was
+analyzed
+by Coulter Counter, an electronic analyzer that measures particle size based on volume.  Those
+results were grouped into 1/3 phi intervals.  The data so generated were computer-merged to
+yield a cumulative grain size distribution for each sample.  Summary statistics describing the
+grain
+size distribution were derived from the cumulative weight percent values, including sediment
+type
+(Shepard's class) and various graphic and moment measures of mean, sorting, skewness, and
+kurtosis.
+Sample Preparation
+Sample preparation, the first step in grain size analysis, entailed rinsing away soluble salts,
+removing carbonate and organic material, and disaggregating and dispersing the fine particles. 
+Samples were treated chemically to separate aggregates into individual grains and to prevent
+particles from coagulating during subsequent stages of the analysis.  Approximately 50 g of the
+wet, homogenized sample were placed in a 400-ml beaker.  100 ml of 10% hydrochloric acid
+(HCl) were added to digest carbonate material, primarily shells.  After soaking overnight in HCl,
+the sample was rinsed with deionized water and decanted.  Rinsing and decanting were repeated
+until the supernatant was colorless.
+Following carbonate removal, the sample was treated with hydrogen peroxide to digest
+organic material and disaggregate sediment particles.  The previously determined water content
+of
+the sample dictated the concentration of hydrogen peroxide used.  Water content is an indirect
+indicator of average grain size.  Coarse (i.e., sandy) sediments invariably contain less water than
+finer (i.e., muddier) ones.  Typically, coarse sediments also contain less organic matter.  A
+weaker
+solution - 60 ml of 6% hydrogen peroxide - was added to samples containing less than 25%
+water; samples consisting of more than 25% water were treated with 100 ml of 15% hydrogen
+peroxide.  The sample was placed in a cold water bath to control the vigor of the exothermic
+reaction and left overnight.  The next day, the sample was heated to 90-100 degreees C to
+dissociate any remaining peroxide.  Again, the sample was rinsed with deionized water until the
+supernatant was colorless.
+If, in the lab technician's estimation, the silt plus clay portion of the sample exceeded 5%, the
+sample was treated with a 0.26% solution of sodium metaphosphate to disperse individual grains. 
+After soaking 24 hours in 250 ml of the dispersant, the sample was agitated ultrasonically for two
+minutes using a Bronwill Biosonik IV probe equipped with a high power tip set at 50% intensity. 
+This step was omitted if the silt plus clay fraction of the sample was judged to be less than 5%.
+Sieving
+The sand-sized sediment was separated from the finer fraction by wet sieving with a 4 phi (0.062
+mm) mesh screen.  Samples consisting of more than 95% sand were washed with deionized
+water. 
+Both the portion retained on the sieve (sand) and the pan fraction (silt plus clay) were dried, then
+weighed.  The sand fraction was sieved again to remove any particles coarser than -1 phi (2.00
+mm), then routed to the RSA.  The silt plus clay component was not analyzed further.
+If the sample contained less than 95% sand (i.e., the silt plus clay fraction constituted more than
+5% of the sample), the finer particles were washed through the sieve using the dispersant, sodium
+metaphosphate.  The silt plus clay suspension, which passed through the sieve, was poured into a
+1000-ml graduated cylinder.  Adding more dispersant raised the volume of the liquid in the
+cylinder to one liter.  This fraction of the sample was pipetted, then analyzed with the Coulter
+Counter.  The sand fraction was washed with deionized water to remove the dispersant, dried,
+and weighed.  If it represented more than 5% of the sample, by weight, it was sieved again to
+remove gravel-sized grains and analyzed with the RSA.
+Pipetting
+The 1000-ml silt/clay suspension was stirred to distribute particles uniformly throughout the
+cylinder, and three 20-ml withdrawals were made.  The first two aliquots were withdrawn 20
+seconds after the sample was stirred, at a depth of 20 cm, before any particular size fraction had
+completely settled past the sampling point.  These "4 phi" withdrawals contained particles 62æ in
+diameter and smaller and represented the entire silt plus clay spectrum.  One of the 4 phi
+withdrawals was deposited in a 15-dram vial and dispatched to the Coulter Counter for a detailed
+analysis of the silt plus clay fraction.  The other was deposited in an evaporating dish, dried, and
+used to calculate the total amount of silt and clay in the cylinder.  The third or "10 phi" aliquot
+was taken about 24 hours after the second, at a depth of 7-10 cm.  Exact time and depth
+depended on the temperature of the suspension, as required by Stoke's law.  By this time, all
+particles larger than 10 phi had settled below the depth of withdrawal; this aliquot contained only
+particles smaller than 10 phi in size.  It also was dried in an evaporating dish and later used to
+extrapolate that part of the grain size distribution between 10 phi and 14 phi.
+Coulter Counter Analysis
+In lieu of pipetting, an electronic analyzer - the Coulter Counter TA II - provided a detailed
+breakdown of particle sizes between 4 phi and 10 phi, in 1/3 phi increments.  Briefly, the Coulter
+Counter operates as follows.  Particles suspended in a weak electrolyte within an electrical field
+are volumetrically sized and counted by measuring particle-induced voltage pulses.  The
+magnitude of a pulse is proportional to a particle's volume, and the number of pulses is a measure
+of particle concentration.  
+Two aperture tubes, each capable of measuring a particle size range from 2-40% of the aperture
+diameter, were required to measure the 4 phi to 10 phi range.  The 30æ and 140æ apertures were
+chosen because of overlap in their size ranges.  The Coulter Counter was calibrated according to
+the manufacture's specifications, except that the 16 channel edges were set to correspond to 1/3
+phi units rather than to the spherical diameters suggested in the instruction manual (Coulter
+Electronics, Inc., 1975).  This facilitated data manipulation and eliminated overlaps or gaps
+between pipette and Coulter Counter results.
+Prior to analysis, the sample - a "4 phi" pipette withdrawal - was resuspended by placing the
+sample vial in a sonic bath for 20 minutes.  The sample was first analyzed using the 140æ
+aperture.  Several drops of the sample were introduced into a beaker containing the commercially
+available electrolyte Isoton II, bringing the concentration index up to the level (4-5%)
+recommended for minimum coincidence counting.  Stirring speed was adjusted to 500-600 rps
+using a hand-held tachometer.  Particles were counted, following the procedure outlined in the
+instruction manual, until a standard total particle volume had accumulated.  The sample and
+electrolyte were then sieved through a 20æ mesh, and the analysis was repeated using the 30æ
+tube.  Sample analysis was completed within two hours of the sonic treatment to minimize
+measuring the effects of flocculation of the particles suspended in the electrolyte.
+Rapid Sediment Analysis
+The sand component of the sample was analyzed with a rapid sediment analyzer (RSA).  The
+RSA
+is a settling tube operating on the principle of settling velocity, insofar as larger particles fall
+faster
+than smaller ones.  Stoke's law, however, is invalid for particle sizes coarser than 4 phi due to the
+turbulence that develops in a particle's wake as it descends through a column of water.  Instead,
+velocities for sand-sized spheres have been determined from direct observations of falling
+particles, and empirical equations have been developed to predict fall velocities for different
+particle sizes and water temperatures.
+The RSA developed by MGS is based on a microbalance system designed by R.J. Gibbs (1974)
+and modified by the Coastal Engineering Research Center (CERC) of the U.S. Army Corps of
+Engineers.  The Survey has further refined the CERC system: large scale oscillations due to
+coarse sediment striking the balance pan have been reduced; undesirable vibration noise has been
+decreased; accurate timing of sample introduction has been achieved; and the devise has been
+interfaced with a programmable calculator, permitting fast, accurate data reduction and
+calculation of statistical parameters.
+The RSA was calibrated with glass beads of known size, density, and sphericity.  The accuracy
+of
+the instrument was tested by inter-calibration with one of similar design.  Both yielded similar
+values for the particle size distribution of sediments.  Design, operation, and calibration of the
+RSA are described more fully by Halka and others (1980).
+The apparatus consists of (1) a vertical plexiglass tube - 175 cm long and 15 cm in diameter, (2)
+a
+sediment injection system directly above the tube, and (3) a circular plexiglass weighing pan
+suspended 150 cm below the water surface on a fine wire attached to an electrobalance.  The
+injector and the electrobalance are interfaced with the calculator.
+The first step in operating the RSA was checking and recording the temperature of the water
+column.  A maximum difference between top and bottom temperatures of 1 degree C was
+permitted.  A larger differential produces convection currents, which interfere with particle
+settling.  Actual temperatures in the RSA ranged from 19-23 degrees C and remained constant
+over the average working period.  The recorded temperature was entered into the data reduction
+program to compensate for viscosity and density changes in the water column due to temperature
+variations.
+The RSA sampling and statistical analysis programs were loaded into the calculator, then
+activated.  The electrobalance and strip chart recorder were zeroed.  A microsplitter was used to
+obtain a 0.4-0.6 g aliquot of the sand fraction.  The grains were sprinkled evenly over the face of
+the sample introduction plate, which had been previously wetted with a solution of Kodak
+Photoflow (1 ppt).  This solution causes the sample to adhere to the plate when it is inverted and
+placed in the injector.  It also breaks the surface tension of the water when the sample makes
+contact.  After insertion into the injection assembly, the introduction plate was gently lowered to
+the water surface, simultaneously releasing the sand grains and activating the calculator.
+The calculator immediately began recording the weight of the sediment accumulating on the
+weighing pan, taking a reading every 0.2675 seconds.  Because the time interval between
+successive readings was known, the cumulative weight of the sediment through time could be
+determined.  The standardized fall time for each 1/4 phi class in the sand-sized range was
+calculated, and the cumulative weight at that time was computed.  These values were stored on a
+computer tape indexed by sample location coordinates.  The tape served as input for additional
+statistical manipulations and as a permanent record of each sample's grain size distribution.
+The amount of time required to complete an analysis varied, depending on the grain size
+distribution of the sand; finer samples took longer to settle than coarser ones.  Maximum run
+time
+per sample was 8.5 minutes for settling and 4 minutes for data processing.
+Merging the Data
+Data generated by sieving, by pipetting, by the Coulter Counter, and by the RSA were
+computer-merged to yield a cumulative grain size distribution for each sample.  The cumulative
+weight percentages for each of the 1/4 phi intervals comprising the sand component were
+converted to fractions of the total sample as follows:
+(1/4 phi interval weight / final RSA weight) * (sand weight / total sample weight) * 100
+Gravel, that fraction coarser than -1 phi, was excluded from the grain size distribution unless it
+constituted more than 5% of the total sample weight.
+The differential volume percentages generated by the two-tube Coulter Counter analysis were
+combined to yield cumulative values normalized to 100%, according to the volume percent
+method outline by Coulter Electronics.  By multiplying the Coulter Counter results by:
+(4 phi weight - 10 phi weight) / total weight,
+each phi interval was adjusted so that it represented a fraction of the entire sample, not just that
+portion of the sample between 4 phi and 10 phi.
+The distribution of the material finer than 10 phi was estimated by arithmetically extrapolating
+from the cumulative percent at 10 phi, to 100% at 14 phi.  The extrapolation was based on two
+assumptions - that all sediment was coarser than 14 phi and that the median of the fraction
+between 10 phi and 14 phi occurred at 12 phi.
+Statistics summarizing the grain size distributions - graphic and moment measures, Shepard's
+class, and percent sand/silt/clay - were derived from the cumulative distributions obtained by
+computer merging of the data.  The equations used to calculate the summary statistics are
+described in Section 5.1.2 Attribute Information.
+2.5.2.3 Process Date: Unknown
+2.5.2 Process Step
+2.5.2.1 Process Description: Carbon analysis
+Total and organic carbon content was determined for about 25% of all mid-bay samples.  Sample
+coverage for carbon analysis varied.  Initially, every mid-bay and certain nearshore samples were
+analyzed, providing coverage on a 1-km grid.  Sampling density was reduced when it became
+apparent that carbon analysis could not keep pace with other phases of the project.  Results from
+the early analyses showed that in 85% of the sandy samples, carbon was below detection.  Based
+on those findings, sandy samples - usually nearshore samples characterized by low water content
+-
+were excluded from analysis.  Later in the project, every fourth mid-bay sample was analyzed,
+provided that its water content exceeded 25% by weight.  If water content fell below that limit,
+the sample was usually replaced by a neighboring one.
+Samples selected for carbon analysis were oven-dried and mechanically powdered in a ball mill
+to
+ensure their homogeneity.  Two splits were taken from the powdered sample.  One was analyzed
+directly for total carbon content.  The other was treated with 10% hydrochloric acid (HCl) to
+remove inorganic carbon (i.e., calcium carbonate from shell fragments), redried, reground by
+hand, and analyzed for organic carbon content.
+Carbon was measured using a LECO gasometric analyzer (Model 572-100) in conjunction with a
+LECO induction furnace (Model 521-100).  Technicians followed operating procedures
+recommended by LECO.  Approximately 0.1 g of dried sample plus one charge each of iron and
+copper accelerator were used per analysis.  Barium carbonate standards were run after every
+10-12 sediment analyses to check machine calibration.  Each carbon determination was based on
+at least two runs.   Results of duplicate analyses were averaged.  Carbon values are judged to be
+accurate to within ñ0.10 weight percent, except in a few cases, usually with low carbon values, in
+which split problems persisted despite multiple analyses.
+2.5.2.3 Process Date: Unknown
+2.5.2 Process Step
+2.5.2.1 Process Description: Sulfur analysis
+Percent sulfur, by weight, was determined for each of the samples selected for carbon analysis. 
+Duplicate 0.1 g samples were analyzed on a LECO automatic sulfur titrator (Model 532-000)
+operated in conjunction with a LECO induction furnace (Model 521-100).  Only sulfur species
+converted to sulfur dioxide during combustion were measured by this process.
+Again, technicians followed operating procedures recommended by LECO, with the following
+modifications.  Portland cement (NBS standard reference material #636), containing 0.92%
+sulfur, was used in machine calibration.  One scoop (0.3 ml) each of tin chips and low-sulfur iron
+powder were added to a sample to accelerate combustion.  Samples were burned for 10 minutes. 
+Sodium azide (5.0 g/l) was added to the 1% HCl solution to block interference by nitrogen.
+If the percent difference between the two runs exceeded 5%, a third split was processed, and the
+results of the three runs were averaged.  Otherwise, the duplicate runs were averaged.  Percent
+difference was calculated as follows:
+percent difference = [((S1 - S2) / 2) / S] * 100
+where S1 and S2 are the percent sulfur values obtained from the first two runs, and S is their
+average.
+2.5.2.3 Process Date: Unknown
+3 Spatial Data Organization Information
+3.2 Direct Spatial Reference Method: Point
+3.3 Point and Vector Object Information
+3.3.1 SDTS Terms Description
+3.3.1.1 SDTS Point and Vector Object Type: Point
+3.3.1.2 Point and Vector Object Count: 4255
+4 Spatial Reference Information
+4.1 Horizontal Coordinate System Definition
+4.1.1 Geographic
+4.1.1.1 Latitude Resolution: 0.000278 (mid-bay samples); 0.000833 (nearshore samples)
+4.1.1.2 Longitude Resolution: 0.000071 (mid-bay samples); 0.000214 (nearshore samples)
+4.1.1.3 Geographic Coordinate Units: Decimal degrees
+4.1.4 Geodetic Model
+4.1.4.1 Horizontal Datum Name: North American Datum of 1927
+4.1.4.2 Ellipsoid Name: Clarke 1866
+4.1.4.3 Semi-major Axis: 6,378,206.4 m
+4.1.4.4 Denominator of Flattening Ratio: 294.98
+4.2 Vertical Coordinate System Definition
+4.2.2 Depth System Definition
+4.2.2.1 Depth Datum Name: No correction
+4.2.2.2 Depth Resolution: 0.30-0.61 m (tidal range, Chesapeake Bay, Maryland)
+4.2.2.3 Depth Distance Units: meters
+4.2.2.4 Depth Encoding Method: Attribute values
+5 Entity and Attribute Information
+5.1 Detailed Description 
+5.1.1 Entity Type
+5.1.1.1 Entity Type Label: Sediment
+5.1.1.2 Entity Type Definition: Solid material, both mineral and organic, that...has been moved
+from its site of origin by air, water, or ice, and has come to rest on the earth's surface either above
+or below sea level.
+5.1.1.3 Entity Type Definition Source: American Geological Institute, 1962, Dictionary of
+Geological Terms: Garden City, New York, Doubleday & Co., Inc., 545 p.
+5.1.2 Attribute
+5.1.2.1 Attribute Label: ID
+5.1.2.2 Attribute Definition: Unique sample ID; integer value assigned consecutively, starting
+with
+1
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 1
+5.1.2.4.2.2 Range Domain Maximum: 4255
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+5.1.2.1 Attribute Label: Raydist Red
+5.1.2.2 Attribute Definition:  Raydist Red lane - one of the coordinates used to locate sample in
+field using Teledyne-Hastings Raydist radionavigation system
+5.1.2.1 Attribute Label: Raydist Green
+5.1.2.2 Attribute Definition:  Raydist Green lane - one of the coordinates used to locate sample in
+field using Teledyne-Hastings Raydist radionavigation system
+5.1.2.1 Attribute Label: Sample Number
+5.1.2.2 Attribute Definition: Non-unique sample number; integer value assigned in field; the first
+sample collected on a sampling day was labeled #1; the number of each successive sample
+collected that day increased incrementally by 1
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 1
+5.1.2.4.2.2 Range Domain Maximum: 65
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+5.1.2.1 Attribute Label: Sample Description
+5.1.2.2 Attribute Definition: Sampling protocol - either "mid-bay" or "nearshore"
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: Mid-bay sample
+5.1.2.4.1.2 Enumerated Domain Value Definition: A sample collected according to the
+"mid-bay"
+protocol - see Section 2.5.2.1 Process Description: Sample collection
+5.1.2.4.1.1 Enumerated Domain Value: Nearshore sample
+5.1.2.4.1.2 Enumerated Domain Value Definition: A sample collected according to the
+"nearshore" protocol - see Section 2.5.2.1 Process Description: Sample collection
+5.1.2.1 Attribute Label: Latitude
+5.1.2.2 Attribute Definition: Latitude of sampling location (North American Datum of 1927)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 37.875
+5.1.2.4.2.2 Range Domain Maximum: 39.75
+5.1.2.5 Attribute Units of Measurement: Decimal degrees
+5.1.2.1 Attribute Label: Longitude
+5.1.2.2 Attribute Definition: Longitude of sampling location (North American Datum of 1927)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: -76.667
+5.1.2.4.2.2 Range Domain Maximum: -75.833
+5.1.2.5 Attribute Units of Measurement: Decimal degrees
+5.1.2.1 Attribute Label: Collection Date
+5.1.2.2 Attribute Definition: Date of sample collection
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 6/23/76
+5.1.2.4.2.2 Range Domain Maximum: 8/29/84
+5.1.2.5 Attribute Units of Measurement: Month/Day/Year, where Year = 19xx
+5.1.2.1 Attribute Label: Water Depth
+5.1.2.2 Attribute Definition: Water depth
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 41
+5.1.2.5 Attribute Units of Measurement: Meters
+5.1.2.1 Attribute Label: Water Content
+5.1.2.2 Attribute Definition: Water content
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Bulk Density
+5.1.2.2 Attribute Definition: Bulk density = wet weight of sediment (g) / {[dry weight of
+sediment
+(g) / 2.72] + weight of water (g)}
+5.1.2.3 Attribute Definition Source:  Bennett, R.H., and Lambert, D.N., 1971, Rapid reliable
+technique for determining unit weight and porosity of deep-sea sediments:  Marine Geology, v.
+11, p. 201-207.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 3
+5.1.2.5 Attribute Units of Measurement: Grams/cubic centimeter
+5.1.2.1 Attribute Label: Total Carbon
+5.1.2.2 Attribute Definition: Total carbon content
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Organic Carbon
+5.1.2.2 Attribute Definition: Organic carbon content
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Sulfur
+5.1.2.2 Attribute Definition: Sulfur content
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Gravel
+5.1.2.2 Attribute Definition:  Gravel content of sediment:  percent of grain size distribution
+coarser than -1.0 phi (2 mm)
+5.1.2.3 Attribute Definition Source: Wentworth, C.K., 1922, A scale of grade and class terms for
+clastic sediments:  Journal of Geology, v. 30, p. 377-392.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi -1
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+-0.75 phi (1.68 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi -075
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+-0.5 phi (1.41 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi -050
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+-0.25 phi (1.19 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi -025
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+0.0 phi (1.00 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 0
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+0.25 phi (0.84 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 025
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+0.5 phi (0.71 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 050
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+0.75 phi (0.59 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 075
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+1.0 phi (0.50 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 100
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+1.25 phi (0.42 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 125
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+1.5 phi (0.35 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 150
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+1.75 phi (0.30 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 175
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+2.0 phi (0.25 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 200
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+2.25 phi (0.21 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 225
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+2.5 phi (0.177 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 250
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+2.75 phi (0.149 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 275
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+3.0 phi (0.125 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 300
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+3.25 phi (0.105 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 325
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+3.5 phi (0.088 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 350
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+3.75 phi (0.074 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 375
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+4.0 phi (0.0625 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 400
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+4.33 phi (0.0497 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 433
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+4.67 phi (0.0393 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 467
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+5.0 phi (0.0312 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 500
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+5.33 phi (0.0249 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 533
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+5.67 phi (0.0196 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 567
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+6.0 phi (0.0156 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 600
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+6.33 phi (0.0124 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 633
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+6.67 phi (0.0098 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 667
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+7.0 phi (0.0078 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 700
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+7.33 phi (0.0062 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 733
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+7.67 phi (0.0049 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+     
+5.1.2.1 Attribute Label: Phi 767
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+8.0 phi (0.0039 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 800
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+8.33 phi (0.0031 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 833
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+8.67 phi (0.0025 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 867
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+9.0 phi (0.0020 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 900
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+9.33 phi (0.0016 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 933
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+9.67 phi (0.0012 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 967
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+10.0 phi (0.00098 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 10
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+11.0 phi (0.00049 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 11
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+12.0 phi (0.00024 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 12
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+13.0 phi (0.00012 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 13
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution coarser than 
+14.0 phi (0.00006 mm)
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Phi 14
+5.1.2.2 Attribute Definition: Cumulative percent of grain size distribution
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Sand
+5.1.2.2 Attribute Definition: Sand content of sediment, calculated as weight percent of sand-sized
+particles (i.e., particle diameters between 0.0625 and 2 mm)
+5.1.2.3 Attribute Definition Source: Wentworth, C.K., 1922, A scale of grade and class terms
+for clastic sediments:  Journal of Geology, v. 30, p. 377-392.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Silt
+5.1.2.2 Attribute Definition: Silt content of sediment, calculated as weight percent of silt-sized
+particles (i.e., particle diameters between and 0.0039 and 0.0625 mm)
+5.1.2.3 Attribute Definition Source: Wentworth, C.K., 1922, A scale of grade and class terms
+for clastic sediments:  Journal of Geology, v. 30, p. 377-392.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Clay
+5.1.2.2 Attribute Definition: Clay content of sediment, calculated as weight percent of clay-sized
+particles (i.e., particle diameters less than 0.0039 mm)
+5.1.2.3 Attribute Definition Source: Wentworth, C.K., 1922, A scale of grade and class terms
+for clastic sediments:  Journal of Geology, v. 30, p. 377-392.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: -999
+5.1.2.4.1.2 Enumerated Domain Value Definition: Missing value
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0
+5.1.2.4.2.2 Range Domain Maximum: 100
+5.1.2.5 Attribute Units of Measurement: Percent
+5.1.2.1 Attribute Label: Shepard's Class
+5.1.2.2 Attribute Definition: Classification of sediment based on relative proportions of sand, silt,
+and clay
+5.1.2.3 Attribute Definition Source: Shepard, F.P., 1954, Nomenclature based on sand-silt-clay
+ratios: Journal of Sedimentary Petrology, v. 24, p. 151-158.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.1 Enumerated Domain
+5.1.2.4.1.1 Enumerated Domain Value: 0
+5.1.2.4.1.2 Enumerated Domain Value Definition: Sandy clay: clay < 75%; silt < 20%; sand/silt
+>
+1; and clay/sand > 1
+5.1.2.4.1.1 Enumerated Domain Value: 1
+5.1.2.4.1.2 Enumerated Domain Value Definition: Sand: 75% or more, by weight, of sand-sized
+particles
+5.1.2.4.1.1 Enumerated Domain Value: 2
+5.1.2.4.1.2 Enumerated Domain Value Definition: Silt: 75% or more, by weight, of silt-sized
+particles
+5.1.2.4.1.1 Enumerated Domain Value: 3
+5.1.2.4.1.2 Enumerated Domain Value Definition: Clay: 75% or more, by weight, of clay-sized
+particles
+5.1.2.4.1.1 Enumerated Domain Value: 4
+5.1.2.4.1.2 Enumerated Domain Value Definition: Sand/silt/clay: at least 20% each of sand, silt,
+and clay-sized particles
+5.1.2.4.1.1 Enumerated Domain Value: 5
+5.1.2.4.1.2 Enumerated Domain Value Definition: Clayey sand: sand < 75%; silt < 20%;
+clay/sand
+< 1; and silt/clay < 1
+5.1.2.4.1.1 Enumerated Domain Value: 6
+5.1.2.4.1.2 Enumerated Domain Value Definition: Clayey silt: silt < 75%; sand < 20%; clay/sand
+> 1; and silt/clay > 1
+5.1.2.4.1.1 Enumerated Domain Value: 7
+5.1.2.4.1.2 Enumerated Domain Value Definition: Silty clay: clay < 75%; sand < 20%; silt/clay <
+1; and sand/silt < 1
+5.1.2.4.1.1 Enumerated Domain Value: 8
+5.1.2.4.1.2 Enumerated Domain Value Definition: Silty sand: sand < 75%; clay < 20%; sand/silt
+>
+1; and silt/clay > 1
+5.1.2.4.1.1 Enumerated Domain Value: 9
+5.1.2.4.1.2 Enumerated Domain Value Definition: Sandy silt: silt < 75%; clay < 20%; sand/silt <
+1; and clay/sand < 1
+5.1.2.1 Attribute Label: Median
+5.1.2.2 Attribute Definition: Median grain size (Md):  the diameter corresponding to the 50%
+mark on the cumulative curve; half of the particles by weight are coarser than the median and
+half
+are finer; commonly used measure; easy to determine; but, it's use is not recommended
+5.1.2.3 Attribute Definition Source: Folk, R.L., 1974, Petrology of Sedimentary Rocks: Austin,
+TX, Hemphill Publishing Co., 182 p.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: -1.0
+5.1.2.4.2.2 Range Domain Maximum: 14.0
+5.1.2.5 Attribute Units of Measurement: Phi
+5.1.2.1 Attribute Label: Graphic Mean
+5.1.2.2 Attribute Definition: Graphic mean (Folk):
+Graphic mean = (phi 16 + phi 50 + phi 84) / 3
+best graphic measure for determining overall size; corresponds very closely to mean as computed
+by the method of moments; superior to median because it is based on three points and gives a
+better overall picture 
+5.1.2.3 Attribute Definition Source: Folk, R.L., 1974, Petrology of Sedimentary Rocks: Austin,
+TX, Hemphill Publishing Co., 182 p.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: -1.0
+5.1.2.4.2.2 Range Domain Maximum: 14.0
+5.1.2.5 Attribute Units of Measurement: Phi
+5.1.2.1 Attribute Label: Graphic Sorting
+5.1.2.2 Attribute Definition: Inclusive graphic standard deviation (Folk):
+Inclusive graphic standard deviation = [(phi 84 - phi 16) / 4] + [(phi 95 - phi 5) / 6.6]
+best overall measure of sorting;
+Inclusive graphic standard deviation:
+       < 0.35 phi - very well sorted
+0.35 - 0.50 phi - well sorted
+0.50 - 0.71 phi - moderately well sorted
+0.71 - 1.00 phi - moderately sorted
+1.00 - 2.00 phi - poorly sorted
+2.00 - 4.00 phi - very poorly sorted
+       > 4.00 phi - extremely poorly sorted
+5.1.2.3 Attribute Definition Source: Folk, R.L., 1974, Petrology of Sedimentary Rocks: Austin,
+TX, Hemphill Publishing Co., 182 p.
+5.1.2.5 Attribute Units of Measurement: Phi
+5.1.2.1 Attribute Label: Graphic Skewness
+5.1.2.2 Attribute Definition: Inclusive graphic skewness (Folk):
+Inclusive graphic skewness = [(phi 16 + phi 84 - 2 phi 50) / 2(phi 84 - phi 6)] + [(phi 5 + phi 95 -
+2 phi 50) / 2(phi 95 - phi 5)]
+measures the degree of asymmetry of a distribution, as well as the sign (i.e., whether a curve has
+an asymmetrical tail on the left or right; for symmetrical curves, skewness = 0.0; for curves with
+excess fine material (a tail to the right), skewness is positive (+); for curves with excess coarse
+material (a tail to the left), skewness is negative (-); the more the skewness value departs from
+0.0, the greater the degree of asymmetry
+5.1.2.3 Attribute Definition Source: Folk, R.L., 1974, Petrology of Sedimentary Rocks: Austin,
+TX, Hemphill Publishing Co., 182 p.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: -1.0
+5.1.2.4.2.2 Range Domain Maximum: +1.0
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+5.1.2.1 Attribute Label: Graphic Kurtosis
+5.1.2.2 Attribute Definition: Graphic kurtosis (Folk):
+Graphic kurtosis = (phi 95 - phi 5) / [2.44 * (phi 75 - phi 25)]
+measures the "degree of peakedness" of the distribution; for normal probability curves, defined
+by
+the Gaussian formula, graphic kurtosis = 1.0; for excessively peaked or leptokurtic curves,
+graphic kurtosis > 1.0; for flat-peaked or platykurtic curves, graphic kurtosis < 1.0
+5.1.2.3 Attribute Definition Source: Folk, R.L., 1974, Petrology of Sedimentary Rocks: Austin,
+TX, Hemphill Publishing Co., 182 p.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: 0.41
+5.1.2.4.2.2 Range Domain Maximum: "virtually infinity"
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+5.1.2.1 Attribute Label: Moment Mean
+5.1.2.2 Attribute Definition: First moment measure (m1): 
+
+m1 = Sum (x / n)
+arithmetic mean grain size
+5.1.2.3 Attribute Definition Source: Blatt, H., Middleton, G., and Murray, R., 1980, Origin of
+Sedimentary Rocks: Englewood Cliffs, NJ, Prentice-Hall, Inc., 782 p.
+5.1.2.4 Attribute Domain Values
+5.1.2.4.2 Range Domain
+5.1.2.4.2.1 Range Domain Minimum: -1.0
+5.1.2.4.2.2 Range Domain Maximum: 14.0
+5.1.2.5 Attribute Units of Measurement: Phi
+5.1.2.1 Attribute Label: Moment Sorting
+5.1.2.2 Attribute Definition: Second moment measure (m2): 
+m2 = [Sum (x-m1)**2] / (n - 1) 
+variance (sorting)
+5.1.2.3 Attribute Definition Source: Blatt, H., Middleton, G., and Murray, R., 1980, Origin of
+Sedimentary Rocks: Englewood Cliffs, NJ, Prentice-Hall, Inc., 782 p.
+5.1.2.5 Attribute Units of Measurement: Phi
+5.1.2.1 Attribute Label: Moment Skewness
+5.1.2.2 Attribute Definition: Moment measure of skewness (x3):
+x3 = m3 / (m2)**3/2
+where,
+m3 =   [Sum (x-m1)**3] / (n - 1)
+m2 =   [Sum (x-m1)**2] / (n - 1)
+measures the asymmetry of a distribution
+5.1.2.3 Attribute Definition Source: Blatt, H., Middleton, G., and Murray, R., 1980, Origin of
+Sedimentary Rocks: Englewood Cliffs, NJ, Prentice-Hall, Inc., 782 p.
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+5.1.2.1 Attribute Label: Moment Kurtosis
+5.1.2.2 Attribute Definition: Moment measure of kurtosis (x4):
+x4 = m4 / (m2)**2
+where,
+m4 =   [Sum (x-m1)**4] / (n - 1)
+m2 =   [Sum (x-m1)**2] / (n - 1)
+measures the "degree of peakedness" of the distribution
+5.1.2.3 Attribute Definition Source: Blatt, H., Middleton, G., and Murray, R., 1980, Origin of
+Sedimentary Rocks: Englewood Cliffs, NJ, Prentice-Hall, Inc., 782 p.
+5.1.2.5 Attribute Units of Measurement: Dimensionless
+     
+5.2 Overview Description
+5.2.1 Entity and Attribute Overview: The data set contains information about selected physical
+properties of 4,255 samples collected from the Chesapeake Bay in Maryland.  Aside from water,
+bulk density, carbon, and sulfur content, most of the parameters have to do with grain size
+composition, in particular the cumulative phi intervals comprising the size range between
+0.00006-2.00 mm (14 phi to -1 phi).
+5.2.2 Entity and Attribute Detail Citation: Kerhin, R.T., Halka, J.P., Wells, D.V., Hennessee,
+E.L., Blakeslee, P.J., Zoltan, N., and Cuthbertson, R.H., 1988, The Surficial Sediments of
+Chesapeake Bay, Maryland: Physical Characteristics and Sediment Budget:  Baltimore, MD,
+Maryland Geological Survey Report of Investigations No. 48, 82 p.
+5.2.2 Entity and Attribute Detail Citation: Hennessee, E.L, Blakeslee, P.J., and Hill, J.M., 1986,
+The distributions of organic carbon and sulfur in surficial sediments of the Maryland portion of
+Chesapeake Bay: Jour. Sed. Pet., v. 56, no. 5, p. 674-683.
+                              
+6 Distribution Information
+6.1 Distributor
+10 Contact Information
+10.1 Contact Person Primary
+10.1.1 Contact Person: Jeffrey Halka
+10.1.2 Contact Organization: Maryland Geological Survey
+10.3 Contact Position: Chief, Coastal & Estuarine Geology Program
+10.4 Contact Address
+10.4.1 Address Type: mailing and physical address
+10.4.2 Address: 2300 St. Paul Street
+10.4.3 City: Baltimore
+10.4.4 State or Province: Maryland
+10.4.5 Postal Code: 21218
+10.4.6 Country: USA
+10.5 Contact Voice Telephone: (410)554-5543
+10.7 Contact Facsimilie Telephone: (410)554-5502
+10.8 Contact Electronic Mail Address: jhalka@mgs.dnr.md.gov
+10.9 Hours of Service: 9am-5pm
+6.3 Distribution Liability: None
+6.4 Standard Order Process
+6.4.2 Digital Form
+6.4.2.1 Digital Transfer Information
+6.4.2.1.1 Format Name: ASCII
+6.4.2.1.5 Format Information Content: comma-delimited ASCII file; each record contains 71
+fields, which are in the same order as the attributes listed in Section 5.1.2 Attribute; all fields are
+numeric, except "Sample Description," which is text
+6.4.2.1.6 File Decompression Technique: No compression applied
+6.4.2.1.7 Transfer Size: 1.682 megabytes
+6.4.2.2 Digital Transfer Option
+6.4.2.2.1 Online Option
+6.4.2.2.1.1 Computer Contact Information
+6.4.2.2.1.1.1 Network Address
+6.4.2.2.1.1.1.1 Network Resource Name: http://www.mgs.md.gov
+6.4.2.2.1.2 Access Instructions: Access the data file from the Maryland Geological Survey -
+Coastal & Estuarine Geology Program home page on the Internet.  This metadata file is also
+available from the MGS home page in two formats: (1) WordPerfect 6/7/8 -
+CBESSMetadata.wpd and (2) ASCII - CBESSMetadata.txt.
+6.4.2.2.1.3 Online Computer and Operating System: 80586/60 running Windows NT, version 3.5
+6.4.2.2.2 Offline Option
+6.4.2.2.2.1 Offline Media: CD-ROM
+6.4.2.2.2.3 Recording Format: ISO 9660
+6.4.3 Fees: No fees apply if the data set is downloaded from the Internet.  A CD-ROM containing
+the data set and the metadata files costs $25.
+6.7 Available Time Period
+9 Time Period Information
+9.3 Range of Dates/Times
+9.3.1 Beginning Date: 19980901
+9.3.3 Ending Date: Unknown
+                    
+7 Metadata Reference Information
+7.1 Metadata Date: 19980901
+7.4 Metadata Contact
+10 Contact Information
+10.1 Contact Person Primary 
+10.1.1 Contact Person: Lamere Hennessee
+10.1.2 Contact Organization: Maryland Geological Survey
+10.4 Contact Address
+10.4.1 Address Type: mailing and physical address
+10.4.2 Address: 2300 St. Paul Street
+10.4.3 City: Baltimore
+10.4.4 State or Province: Maryland
+10.4.5 Postal Code: 21218
+10.4.6 Country: USA
+10.5 Contact Voice Telephone: (410)554-5519
+10.7 Contact Facsimile Telephone: (410)554-5502
+10.8 Contact Electronic Mail Address: lhennessee@mgs.dnr.md.gov
+10.9 Hours of Service: 9am-5pm
+7.5 Metadata Standard Name: Federal Geographic Data Committee (FGDC) Content Standards
+for Digital Geospatial Metadata
+7.6 Metadata Standard Version: 19940608
+7.8 Metadata Access Constraints: None
+REFERENCES
+Coulter Electronics, Inc., 1975, Coulter Counter Model TAII Operator's Manual: Hialeah, FL,     
+Coulter Electronics, Inc.
+Gibbs, R.J., 1974, A settling tube system for sand-size analysis: Jour. Sedimentary Petrology, v.   
+
+44, p. 583-588.
+Halka, J.P. Conkwright, R.D., Kerhin, R.T., and Wells, D.V., 1980, The design and calibration of 
+
+a rapid sediment analyzer and techniques for interfacing to a dedicated computer system:            
+Baltimore, MD, Maryland Geological Survey Information Circular No. 32, 32 p.
+Shepard, F.P., 1954, Nomenclature based on sand-silt-clay ratios: Jour. Sedimentary Petrology,
+v. 
+24, p. 151-158.
+N:\DOCS\DONEDOC\CBESSMetadata.txt
+9 October 1998

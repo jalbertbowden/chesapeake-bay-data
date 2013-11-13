@@ -1,0 +1,464 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: U.S. Geological Survey - Chesapeake Bay Program Office
+      Publication_Date: 20091104
+      Title:  2001 National Land Cover Dataset Chesapeake Bay Area, Modified
+      Edition: 1.0
+      Geospatial_Data_Presentation_Form: remote-sensing image
+      Series_Information:
+        Series_Name: None
+        Issue_Identification: None
+      Publication_Information:
+        Publication_Place: Annapolis, MD
+        Publisher: U.S. Geological Survey, Chesapeake Bay Office
+      Other_Citation_Details:
+        References:
+      Online_Linkage: http://chesapeake.usgs.gov/data.html
+  Description:
+    Abstract: This dataset is based on the NLCD 2001 land cover but with some modifications. It has been modified in three ways: First, the cultivated and pasture/hay categories were altered to reflect a more realistic, higher ratio of cultivated features. Second, the urban categories were recreated based on the C-CAP urban classes as training. Third, the land cover was modified in a few places to reduce seam line appearances.  Known problems in urban areas were corrected using heads up digitizing and a problem of over called emergent wetlands in dry shoreline areas was globally corrected.
+
+    Purpose: The goal of this project is to provide land cover of the Chesapeake Bay area for use in modeling run-off into the Chesapeake Bay.
+    Supplemental_Information:
+      Corner Coordinates (center of pixel, projection meters)
+      Upper Left Corner:  1304040 meters(X),  2515680 meters(Y)
+      Lower Right Corner: 1805640 meters(X),  1653720 meters(Y)
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19990703
+        Ending_Date: 20020608
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -81.146431
+      East_Bounding_Coordinate: -73.294724
+      North_Bounding_Coordinate: 44.606016
+      South_Bounding_Coordinate: 36.180760
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Land Cover
+      Theme_Keyword: Chesapeake Bay
+      Theme_Keyword: U.S. Geological Survey
+      Theme_Keyword: USGS
+      Theme_Keyword: NLCD
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Category
+      Theme_Keyword: imagery
+      Theme_Keyword: Base Maps
+      Theme_Keyword: Earth Cover
+    Place:
+      Place_Keyword_Thesaurus: Location
+      Place_Keyword: United States
+      Place_Keyword: Mid-Atlantic States
+      Place_Keyword: East Coast US
+    Place:
+      Place_Keyword_Thesaurus: Area
+      Place_Keyword: Chesapeake Bay
+    Place:
+      Place_Keyword_Thesaurus: Zone
+      Place_Keyword: Zone 60
+      Place_Keyword: Zone 59
+  Access_Constraints: None
+  Use_Constraints: None
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological SurveyChesapeake Bay Office
+      Contact_Position: Customer Services Representative
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: USGS - Chesapeake Bay Office
+        Address: 410 Severn Avenue, Suite 109
+        City: Annapolis 
+        State_or_Province: MD
+        Postal_Code: 21403
+        Country: USA
+      Contact_Voice_Telephone: 410-267-5771
+      Contact_TDD/TTY_Telephone: N/A
+      Contact_Facsimile_Telephone: 410-267-5777
+      Contact_Electronic_Mail_Address: custserv@usgs.gov
+      Hours_of_Service: 0800 - 1600 CT, M - F (-6h CST/-5h CDT GMT)
+      Contact_Instructions: Call Peter Claggett
+  Data_Set_Credit: U.S. Geological Survey (Chesapeake Bay Office and EROS Data Center) and NOAA Coastal Services Center
+  Security_Information:
+    Security_Classification_System: None
+    Security_Classification: Unclassified
+    Security_Handling_Description: N/A
+  Native_Data_Set_Environment: ERDAS IMAGINE on Windows platform (.img format)
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Not yet assessed
+    Quantitative_Attribute_Accuracy_Assessment:
+      Attribute_Accuracy_Value: N/A
+      Attribute_Accuracy_Explanation: N/A
+  Logical_Consistency_Report: No issues have been found
+  Completeness_Report: DRAFT, requires revisions
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        Landsat scenes were georeferenced by Eros Data Center.
+        Spatial accuracy assessed by MDA Federal
+        is found to be to 2 pixels accuracy or less.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        There was no terrain correction in the geo-referencing
+        procedure.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MDA Federal
+          Publication_Date: 20091104
+          Title: Chesapeake Land Cover Classification
+          Geospatial_Data_Presentation_Form: remote-sensing image
+          Publication_Information:
+            Publication_Place: Annapolis MD
+            Publisher: USGS Chesapeake Bay Program Office
+          Online_Linkage: http://chesapeake.usgs.gov/index.html
+      Type_of_Source_Media: DVD/CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19990703
+            Ending_Date: 20020608
+        Source_Currentness_Reference: Date of the Landsat scenes
+      Source_Citation_Abbreviation: USGS CBPO
+      Source_Contribution: USGS
+    
+    Process_Step:
+      Process_Description: 
+        This layer was created in four separate stages. First the NLCD layer was created by USGS for the entire country. This data was used as the base for this land cover layer. The second stage was the creation of the C-CAP land cover data by NOAA. C-CAP was created nationally but only for the coastal areas. The C-CAP only covers about a third of the study area. But the USGS Chesapeake Bay Office preferred the results of the C-CAP to the results of the NLCD for their purposes. To build this layer it was decided to use C-CAP data recoded to NLCD categories where available, and to modify the urban classes and pasture/hay and cultivated breakdown based on how C-CAP would classify them in the non-C-CAP areas of the study area. So the third stage was to automatically classify those classes outside the C-CAP area but using rules developed in the areas in common. The fourth stage was to hand edit clear mistakes and even fix a few errors existing previously in the NLCD land cover. The techniques used to create the original 2001 NLCD land cover dataset are published and accessible on the USGS EROS Data Center website. The classification process was based on CART. It used field collected ground points as the dependent variable and as independent variables: 3 seasons of Landsat imagery mosaics (leaf-off, leaf-on, and spring) from MRLC, DEMs and slope derivative, and possibly some other ancillary data. The NOAA C-CAP data was created the same way but by different contractors. The process for C-CAP production is also published but can be found on the NOAA Coastal Services Center C-CAP website. To modify the urban classes (High, Medium, and Low Intensity, Developed Open Space) a CART classification was performed. The 2001 C-CAP classification was used as the training or dependent variable and the independent variables were the 2001 imagery (leaf-off and leaf-on) and the DEM and derived slope. The independent variables covered the entire study area but the C-CAP data only covered about a third of the area. Only 100,000 points were sampled from the C-CAP data to use as points, and these points contained values from all classes. The rules were developed in the areas where C-CAP and independent variables intersect. But the rules were applied over the entire study area to classify the area not in common with the C-CAP data. Then the original C-CAP data was overlaid over the results. This created fairly seamless land cover over the entire area. This layer had to be hand edited for the final stage of classification. This involved creating a large spreadsheet of erroneous points in the land cover layer and then correcting those points using hand editing tools. Also some models were applied to help refine the product. Also errors were reported by the client in the same way and so those corrections were applied as well. 
+      Process_Date: 20080521
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: USGS Chesapeake Bay Office
+          Contact_Position: Customer Services Representative
+          Contact_Address:
+            Address_Type: mailing
+            Address: USGS Chesapeake Bay Program Office
+            Address: 410 Severn Ave., Suite 109
+            City: Annapolis
+            State_or_Province: MD
+            Postal_Code: 21403
+            Country: USA
+          Contact_Voice_Telephone: 410-267-5771
+          Contact_TDD/TTY_Telephone: N/A
+          Contact_Facsimile_Telephone: 410-267-5777
+          Contact_Electronic_Mail_Address: custserv@usgs.gov
+          Hours_of_Service: 0800 - 1600 CT, M - F (-6h CST/-5h CDT GMT)
+          Contact_Instructions: email or call customer representative
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Pixel
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Albers Conical Equal Area
+        Albers_Conical_Equal_Area:
+          Standard_Parallel: 29.500000
+          Standard_Parallel: 45.500000
+          Longitude_of_Central_Meridian: -96.000000
+          Latitude_of_Projection_Origin: 23.000000
+          False_Easting: 0.000000
+          False_Northing: 0.000000
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: row and column
+        Coordinate_Representation:
+          Abscissa_Resolution: 30.000000
+          Ordinate_Resolution: 30.000000
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Layer_1
+      Entity_Type_Definition: NLCD Land Cover Layer
+      Entity_Type_Definition_Source: National Land Cover Database 2001
+    Attribute:
+      Attribute_Label: ObjectID
+      Attribute_Definition: Internal feature number
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Count
+      Attribute_Definition: A nominal integer value that designates the number of pixels that have each value in the file; histogram column in ERDAS Imagine raster attributes table
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Integer
+    Attribute:
+      Attribute_Label: Value
+      Attribute_Definition: Land Cover Class Code Value.  Class definitions marked with an asterisk (*) are Coastal NLCD Classes only.
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: No data value, Alaska zones only
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11
+          Enumerated_Domain_Value_Definition: Open Water - All areas of open water, generally with less than 25% cover or vegetation or soil
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 12
+          Enumerated_Domain_Value_Definition: Perennial Ice/Snow - All areas characterized by a perennial cover of ice and/or snow, generally greater than 25% of total cover.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 21
+          Enumerated_Domain_Value_Definition: Developed, Open Space - Includes areas with a mixture of some constructed materials, but mostly vegetation in the form of lawn grasses.  Impervious surfaces account for less than 20 percent of total cover.  These areas most commonly include large-lot single-family housing units, parks, golf courses, and vegetation planted in developed settings for recreation, erosion control, or aesthetic purposes
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22
+          Enumerated_Domain_Value_Definition: Developed, Low Intensity -Includes areas with a mixture of constructed materials and vegetation.  Impervious surfaces account for 20-49 percent of total cover.  These areas most commonly include single-family housing units.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 23
+          Enumerated_Domain_Value_Definition: Developed, Medium Intensity - Includes areas with a mixture of constructed materials and vegetation. Impervious surfaces account for 50-79 percent of the total cover.  These areas most commonly include single-family housing units.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24
+          Enumerated_Domain_Value_Definition: Developed, High Intensity - Includes highly developed areas where people reside or work in high numbers. Examples include apartment complexes, row houses and commercial/industrial.  Impervious surfaces account for 80 to100 percent of the total cover.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 31
+          Enumerated_Domain_Value_Definition: Barren Land (Rock/Sand/Clay) - Barren areas of bedrock, desert pavement, scarps, talus, slides, volcanic material, glacial debris, sand dunes, strip mines, gravel pits and other accumulations of earthen material. Generally, vegetation accounts for less than 15% of total cover.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 32
+          Enumerated_Domain_Value_Definition: Unconsolidated Shore* - Unconsolidated material such as silt, sand, or gravel that is subject to inundation and redistribution due to the action of water. Characterized by substrates lacking vegetation except for pioneering plants that become established during brief periods when growing conditions are favorable. Erosion and deposition by waves and currents produce a number of landforms representing this class.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 41
+          Enumerated_Domain_Value_Definition: Deciduous Forest  - Areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75 percent of the tree species shed foliage simultaneously in response to seasonal change.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 42
+          Enumerated_Domain_Value_Definition: Evergreen Forest - Areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. More than 75 percent of the tree species maintain their leaves all year. Canopy is never without green foliage.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 43
+          Enumerated_Domain_Value_Definition: Mixed Forest - Areas dominated by trees generally greater than 5 meters tall, and greater than 20% of total vegetation cover. Neither deciduous nor evergreen species are greater than 75 percent of total tree cover.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 51
+          Enumerated_Domain_Value_Definition: Dwarf Scrub - Alaska only areas dominated by shrubs less than 20 centimeters tall with shrub canopy typically greater than 20% of total vegetation. This type is often co-associated with grasses, sedges, herbs, and non-vascular vegetation.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 52
+          Enumerated_Domain_Value_Definition: Shrub/Scrub - Areas dominated by shrubs; less than 5 meters tall with shrub canopy typically greater than 20% of total vegetation. This class includes true shrubs, young trees in an early successional stage or trees stunted from environmental conditions.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 71
+          Enumerated_Domain_Value_Definition: Grassland/Herbaceous - Areas dominated by grammanoid or herbaceous vegetation, generally greater than 80% of total vegetation.  These areas are not subject to intensive management such as tilling, but can be utilized for grazing.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 72
+          Enumerated_Domain_Value_Definition: Sedge/Herbaceous - Alaska only areas dominated by sedges and forbs, generally greater than 80% of total vegetation. This type can occur with significant other grasses or other grass like plants, and includes sedge tundra, and sedge tussock tundra.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 73
+          Enumerated_Domain_Value_Definition: Lichens - Alaska only areas dominated by fruticose or foliose lichens generally greater than 80% of total vegetation.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 74
+          Enumerated_Domain_Value_Definition: Moss- Alaska only areas dominated by mosses, generally greater than 80% of total vegetation.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 81
+          Enumerated_Domain_Value_Definition: Pasture/Hay  - Areas of grasses, legumes, or grass-legume mixtures planted for livestock grazing or the production of seed or hay crops, typically on a perennial cycle. Pasture/hay vegetation accounts for greater than 20 percent of total vegetation.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 82
+          Enumerated_Domain_Value_Definition: Cultivated Crops - Areas used for the production of annual crops, such as corn, soybeans, vegetables, tobacco, and cotton, and also perennial woody crops such as orchards and vineyards. Crop vegetation accounts for greater than 20 percent of total vegetation. This class also includes all land being actively tilled.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 90
+          Enumerated_Domain_Value_Definition: Woody Wetlands - Areas where forest or shrub land vegetation accounts for greater than 20 percent of vegetative cover and the soil or substrate is periodically saturated with or covered with water.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 91
+          Enumerated_Domain_Value_Definition: Palustrine Forested Wetland* -Includes all tidal and non-tidal wetlands dominated by woody vegetation greater than or equal to 5 meters in height and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 percent. Total vegetation coverage is greater than 20 percent.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 92
+          Enumerated_Domain_Value_Definition: Palustrine Scrub/Shrub Wetland* - Includes all tidal and non-tidal wetlands dominated by woody vegetation less than 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 percent. Total vegetation coverage is greater than 20 percent. The species present could be true shrubs, young trees and shrubs or trees that are small or stunted due to environmental conditions.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 93
+          Enumerated_Domain_Value_Definition: Estuarine Forested Wetland* - Includes all tidal wetlands dominated by woody vegetation greater than or equal to 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is equal to or greater than 0.5 percent. Total vegetation coverage is greater than 20 percent.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 94
+          Enumerated_Domain_Value_Definition: Estuarine Scrub/Shrub Wetland* - Includes all tidal wetlands dominated by woody vegetation less than 5 meters in height, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is equal to or greater than 0.5 percent. Total vegetation coverage is greater than 20 percent.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 95
+          Enumerated_Domain_Value_Definition: Emergent Herbaceous Wetlands - Areas where perennial herbaceous vegetation accounts for greater than 80 percent of vegetative cover and the soil or substrate is periodically saturated with or covered with water.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 96
+          Enumerated_Domain_Value_Definition: Palustrine Emergent Wetland (Persistent)* - Includes all tidal and non-tidal wetlands dominated by persistent emergent vascular plants, emergent mosses or lichens, and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is below 0.5 percent. Plants generally remain standing until the next growing season.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 97
+          Enumerated_Domain_Value_Definition: Estuarine Emergent Wetland* - Includes all tidal wetlands dominated by erect, rooted, herbaceous hydrophytes (excluding mosses and lichens) and all such wetlands that occur in tidal areas in which salinity due to ocean-derived salts is equal to or greater than 0.5 percent and that are present for most of the growing season in most years. Perennial plants usually dominate these wetlands.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 98
+          Enumerated_Domain_Value_Definition: Palustrine Aquatic Bed* - The Palustrine Aquatic Bed class includes tidal and nontidal wetlands and deepwater habitats in which salinity due to ocean-derived salts is below 0.5 percent and which are dominated by plants that grow and form a continuous cover principally on or at the surface of the water. These include algal mats, detached floating mats, and rooted vascular plant assemblages.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 99
+          Enumerated_Domain_Value_Definition: Estuarine Aquatic Bed* - Includes tidal wetlands and deepwater habitats in which salinity due to ocean-derived salts is equal to or greater than 0.5 percent and which are dominated by plants that grow and form a continuous cover principally on or at the surface of the water. These include algal mats, kelp beds, and rooted vascular plant assemblages.
+          Enumerated_Domain_Value_Definition_Source: NLCD 2001 land cover class descriptions
+    Attribute:
+      Attribute_Label: Red
+      Attribute_Definition: Red color code for RGB slice by value for canopy image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: CSS Color Value Percentage
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Green
+      Attribute_Definition: Green color code for RGB slice by value for canopy image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: CSS Color Value Percentage
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Blue
+      Attribute_Definition: Blue color code for RGB slice by value for canopy image display purposes.  The value is arbitrarily assigned by the display software package, unless defined by user.  Standard user defined ramp for NLCD project is start color light gray, end color red.
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: CSS Color Value Percentage
+          Attribute_Measurement_Resolution: 0.1
+    Attribute:
+      Attribute_Label: Opacity
+      Attribute_Definition: A measure of how opaque, or solid, a color is displayed in a layer.
+      Attribute_Definition_Source: NLCD 2001
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 100
+          Attribute_Units_of_Measure: Percentage
+          Attribute_Measurement_Resolution: 0.1
+
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Attributes defined by USGS and ESRI.
+      Class     Red	        Green	        Blue
+      0        0.000000000     0.000000000     0.000000000
+      1        0.000000000     1.000000000     0.000000000
+      11       0.325490196     0.462745098     0.662745098
+      12       0.854901961     0.913725490     1.000000000
+      21       0.913725490     0.819607843     0.815686275
+      22       0.890196078     0.615686275     0.545098039
+      23       0.976470588     0.000000000     0.000000000
+      24       0.705882353     0.000000000     0.000000000
+      31       0.741176471     0.725490196     0.670588235
+      32       1.000000000     1.000000000     1.000000000
+      41       0.443137255     0.701960784     0.419607843
+      42       0.137254902     0.423529412     0.231372549
+      43       0.752941176     0.827450980     0.607843137
+      51       0.694117647     0.588235294     0.235294118
+      52       0.835294118     0.764705882     0.533333333
+      71       0.925490196     0.925490196     0.796078431
+      72       0.823529412     0.823529412     0.505882353
+      73       0.635294118     0.796078431     0.321568627
+      74       0.513725490     0.725490196     0.619607843
+      81       0.901960784     0.882352941     0.282352941
+      82       0.709803922     0.486274510     0.200000000
+      90       0.760784314     0.878431373     0.949019608
+      95       0.486274510     0.674509804     0.772549020
+    Entity_and_Attribute_Detail_Citation: NLCD
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey, Chesapeake Bay Office
+      Contact_Position: Customer Service Representative
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Chesapeake Bay Program Office
+        Address: 410 Severn Ave., Suite 109
+        City: Annapolis
+        State_or_Province: MD
+        Postal_Code: 21403
+        Country: USA
+      Contact_Voice_Telephone: 410-267-5771
+      Contact_TDD/TTY_Telephone: N/A
+      Contact_Facsimile_Telephone: 410-267-5777
+      Contact_Electronic_Mail_Address: custserv@usgs.gov
+      Hours_of_Service: 0800 - 1600 CT, M - F (-6h CST/-5h CDT GMT)
+      Contact_Instructions: Call Peter Claggett at the above number
+  Resource_Description: Land cover
+  Distribution_Liability: Although these data have been processed successfully, no warranty expressed or implied is made by the USGS regarding the use of the data on any other system, nor does the act of distribution constitute any such warranty.  Data may have been compiled from various outside sources.  Spatial information may not meet National Map Accuracy Standards.  This information may be updated without notification. The USGS shall not be liable for any activity involving these data, installation, fitness of the data for a particular purpose, its use, or analyses results.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ERDAS IMAGINE format (.img)
+        Format_Version_Number: 9.1
+        Format_Specification: img
+        Transfer_Size: 150 mb
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: Not being distributed yet
+          Access_Instructions: Not being distibuted yet
+          Online_Computer_and_Operating_System: Not available for dissemination
+    Fees: None
+    Ordering_Instructions: Contact Customer Services
+    Turnaround: Variable
+  Custom_Order_Process: Contact Customer Services Representative
+  Technical_Prerequisites: ERDAS IMAGINE or ESRI ArcMap Suite and/or Arc/Info software, and supporting operating systems.
+Metadata_Reference_Information:
+  Metadata_Date: 20091104
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: U.S. Geological Survey Chesapeake Bay Office
+      Contact_Position: Customer Services Representative
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Chesapeake Bay Program Office
+        Address: 410 Severn Ave., Suite 109
+        City: Annapolis
+        State_or_Province: MD
+        Postal_Code: 57198-0001
+        Country: USA
+      Contact_Voice_Telephone: 410-267-5771
+      Contact_TDD/TTY_Telephone: N/A
+      Contact_Facsimile_Telephone: 410-267-5777
+      Contact_Electronic_Mail_Address: custserv@usgs.gov
+      Hours_of_Service: 0800 - 1600 CT, M - F (-6h CST/-5h CDT GMT)
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: None
+    Metadata_Security_Handling_Description: None

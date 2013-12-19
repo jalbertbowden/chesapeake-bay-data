@@ -1,0 +1,1101 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362273.429700, 4085502.654400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362280.224900, 4085509.041000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363176.212300, 4086237.987000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363256.636400, 4086295.221300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363321.632200, 4086411.682800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364018.906000, 4085786.833300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364043.670500, 4085757.950000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364100.185100, 4085676.462700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364098.994300, 4085680.384100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364085.973000, 4085689.177500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364134.182500, 4085591.768500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364230.025500, 4085262.501200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364167.509400, 4085177.740300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364133.908200, 4085071.988200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364098.892300, 4084960.961000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363833.490700, 4084794.682200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363896.000200, 4084812.223700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363709.890000, 4084599.315900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363624.820200, 4084524.820200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363605.933200, 4084136.530900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363499.448700, 4084005.497400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363452.149300, 4083884.640000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363434.381700, 4083848.125100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363363.444900, 4083773.709100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363402.508600, 4083813.331800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363268.919400, 4083726.008200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363071.801700, 4083729.898900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363156.651900, 4083730.536100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362973.136000, 4083887.230100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362671.171800, 4083874.237100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362654.902500, 4083781.790000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362034.122800, 4083172.398700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362224.732500, 4083165.005500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361747.372800, 4083137.292300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361623.644500, 4082822.326400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361420.599700, 4082716.476800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361030.794500, 4082859.821300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361068.570800, 4082680.236300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361068.563900, 4082610.540400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362578.313000, 4083354.636100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362577.145100, 4083350.165200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362577.735900, 4083352.826800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363993.449500, 4084599.693200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364541.674100, 4085232.493900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364594.278800, 4085076.305500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364539.819600, 4085006.394600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364730.875600, 4085325.303800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364898.710000, 4085431.161300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365067.937400, 4085474.912900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365208.411600, 4085481.919900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365316.408200, 4085608.400700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365300.782300, 4085718.482900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365300.073400, 4085734.657600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365295.352000, 4085824.647500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365297.142400, 4085830.320200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365598.662100, 4085618.483400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365679.537800, 4085881.823300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365725.583000, 4085968.569800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365853.678600, 4086009.420800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365926.775300, 4085861.807400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365959.316100, 4085769.161300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366253.621800, 4086007.517800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366274.279900, 4086043.686100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366322.690000, 4086136.860600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366338.653800, 4086167.584400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366352.884400, 4086265.050900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366447.750600, 4086280.671200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366484.418000, 4086278.578600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366492.720600, 4086275.632300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366815.778200, 4086417.210800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366867.058100, 4086689.615900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366930.104200, 4086695.010500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366977.047600, 4086699.163500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367018.451800, 4086700.233400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367043.348800, 4086704.353800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367063.319900, 4086713.276200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367117.864200, 4086752.973600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367105.902300, 4086746.442700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367119.782900, 4086834.461100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367044.413900, 4087023.460000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367076.681300, 4086999.329500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367095.129600, 4086975.415300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367106.452500, 4086947.217100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367114.319600, 4086914.311300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366961.632600, 4087108.453000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367190.264900, 4087219.522900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367067.268600, 4087196.539500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367255.704600, 4087219.781900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367250.700500, 4087219.493800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367413.511700, 4087174.728500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367448.665800, 4087146.402000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367470.571900, 4087130.423600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367603.547100, 4087030.130600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367647.279900, 4086978.327200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367754.435200, 4086877.136700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367815.128300, 4086820.716600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367843.527500, 4086793.626100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367921.341900, 4086698.792500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367905.920800, 4086185.935100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367806.521300, 4086161.726500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367557.171900, 4086046.245600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367440.894300, 4085881.326400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367440.466500, 4085893.910600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367198.888200, 4085849.786300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367208.995500, 4085795.620800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367094.563900, 4085802.081700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367002.159100, 4085876.012900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367265.288100, 4085829.749900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367374.951400, 4085750.698000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367377.697200, 4085746.819500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367973.396400, 4085203.044900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367968.298200, 4085153.140300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367948.069000, 4085123.079800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367932.667500, 4085075.834400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367916.913400, 4085035.707600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367914.616400, 4084949.449400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367891.136400, 4084900.500000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367883.841000, 4084845.947200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367857.726700, 4084785.570300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367861.752600, 4084669.294200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367248.940600, 4084148.348000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367142.403600, 4084059.342000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367215.554000, 4084120.388000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366918.433600, 4083869.484700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366773.499500, 4083875.412600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366827.113300, 4083868.040300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366862.310100, 4083877.418400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366243.660300, 4083798.640200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366192.924700, 4083831.488200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366128.371600, 4083863.679900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366092.390600, 4083882.310800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365581.633400, 4083753.972700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365388.497700, 4083690.981100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365333.500200, 4083528.341800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365341.846300, 4083547.924000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365345.260800, 4083599.362800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365332.326000, 4083558.667600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365330.709500, 4083456.590200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365332.806900, 4083439.785100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365330.226600, 4083336.546000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365225.240700, 4083298.912200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365520.917700, 4082899.812200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364362.697800, 4081714.309700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364541.679400, 4081721.996600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364633.410100, 4081744.686700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364458.544400, 4081718.130100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364230.682000, 4081687.435100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364234.456400, 4081689.221100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 364171.523300, 4081579.906900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363429.841800, 4079306.264500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362505.216400, 4078728.363700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362295.949000, 4078712.944800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362153.850400, 4078680.974200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362100.682200, 4078642.894400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362042.916400, 4078551.709500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362012.828200, 4078525.461700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361958.143500, 4078509.202300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361941.632200, 4078455.999400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361938.958900, 4078406.350100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361940.444500, 4078339.487900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361938.757900, 4078264.249700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361741.953100, 4078051.724600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361746.529500, 4078050.080100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361523.919900, 4078318.472700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361548.781000, 4078267.636300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361535.420100, 4078212.987400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361390.839800, 4078443.850500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361411.043800, 4078398.608300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361456.414900, 4078360.469000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361296.603400, 4078628.874600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361331.124000, 4078571.411400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361240.403000, 4078656.642200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360148.896600, 4080151.620000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360556.156100, 4076679.442600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360879.615600, 4074455.638700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360700.041200, 4073970.803700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360631.693800, 4073852.050000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360545.386800, 4073690.965700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360585.186100, 4073778.861800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360523.542500, 4073604.833000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359618.598100, 4074320.228100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359638.475800, 4074307.410300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359693.094000, 4074274.737200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359733.162200, 4074235.948800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359756.369500, 4074221.980900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359552.610100, 4074379.385000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359508.998400, 4074416.917800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359490.240200, 4074444.180400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359278.597900, 4074582.437500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359209.555600, 4074574.164300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359006.077700, 4074127.658100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358982.584100, 4074071.316600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358975.094300, 4074045.696100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359325.908600, 4072888.022600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359410.501400, 4072854.860700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360051.034500, 4072701.123600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361927.040000, 4070894.635400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361806.141800, 4070810.135800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361519.406100, 4070683.934200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361601.113200, 4070722.921000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361596.829100, 4070721.007900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360769.227000, 4070808.747200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360775.042800, 4070807.847100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360838.517100, 4070807.013700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360567.131700, 4069408.452200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360536.220500, 4069360.236300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360488.293300, 4069432.643500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360533.388400, 4069215.935800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360549.751500, 4069212.962400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360769.808200, 4069176.474000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361790.736700, 4071799.552400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360272.940200, 4069323.435400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359885.042700, 4069427.618500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359882.505700, 4069428.469600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359318.056000, 4069112.175000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359307.903100, 4069072.497400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359326.406400, 4069042.382900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359338.417400, 4069021.820000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359371.926300, 4068965.485700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359386.960900, 4068941.036200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359406.070300, 4068904.418700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359419.850000, 4068875.857900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359430.747100, 4068859.740700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359446.269900, 4068818.459900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359451.011900, 4068802.832800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359460.863900, 4068741.481800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359455.757500, 4068777.573700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359465.263100, 4068720.158900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359456.057500, 4068642.024800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359462.333800, 4068614.249500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359455.909800, 4068634.678600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359456.429500, 4068628.721000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359462.366400, 4068539.003500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359463.900200, 4068510.192400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359464.202400, 4068500.400300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359455.748200, 4068465.228700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359429.174300, 4068436.304200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359369.712000, 4068388.922300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359275.900800, 4068386.851600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358903.985900, 4068422.332000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359298.822600, 4068092.012300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359336.739600, 4068085.961100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359518.840200, 4068041.152400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359480.635500, 4068059.912000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359446.223900, 4068067.878500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359562.996900, 4068010.084100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359568.703900, 4068007.030100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359647.174000, 4068126.563100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359644.263700, 4068086.676400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359796.244800, 4068281.673200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2009 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358705.737600, 4067150.899800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358465.370100, 4067330.200600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2009 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358557.763100, 4067315.021800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358564.825600, 4067365.636300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358402.395700, 4067540.766400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358432.434800, 4067475.205300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358274.863500, 4067755.360500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358285.598600, 4067729.248000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2009 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 358566.680500, 4067269.848900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359073.442600, 4069309.051600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359196.376600, 4069465.844700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362185.331900, 4077296.439800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362411.007000, 4077430.090000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362438.052300, 4077458.497200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 361828.977400, 4077409.154500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362488.761100, 4077583.352000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362633.138700, 4077520.733700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362706.779400, 4077423.484100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 362716.155300, 4077406.322000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363212.005400, 4077574.090300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363211.066100, 4077748.242800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363267.508200, 4077847.628500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363304.453200, 4077866.446900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363351.530700, 4077925.750700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363339.779200, 4078095.793800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363342.893900, 4078031.434800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363346.153300, 4077976.102400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363319.911700, 4078168.345100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363363.517000, 4078292.209900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363394.831100, 4078351.594300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363411.027300, 4078336.409000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363417.098100, 4078336.311700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363454.620700, 4078348.793000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363413.831700, 4078335.811200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363596.790700, 4078366.600300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363710.069000, 4078362.945400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363839.650500, 4078435.599600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363909.466600, 4078459.102100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363964.048900, 4078488.922900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365082.428700, 4078898.319900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365318.776100, 4078648.397600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365195.536200, 4078748.111400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365252.592900, 4078702.926200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365387.203800, 4078926.031000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365528.990400, 4078971.142800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365564.897500, 4078966.761900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365617.613100, 4078943.849200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365647.157500, 4078945.189700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365715.480700, 4078950.334900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365382.576100, 4078924.677400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365773.670200, 4078945.070600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365904.721200, 4078847.989800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365890.400800, 4078870.898200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365920.254800, 4078902.144100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365955.355100, 4078938.727400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365921.918300, 4078905.329700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365929.663200, 4078915.645900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365993.489400, 4079048.802200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366083.012000, 4079122.850700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366080.260500, 4079166.768100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366081.349500, 4079175.969600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366081.605700, 4079178.405900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366084.874600, 4079187.663500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366091.204800, 4079239.170600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366092.454100, 4079221.617300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366087.692400, 4079274.473700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366059.383900, 4079420.393400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366086.268700, 4079340.406200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365519.910300, 4080351.728000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365699.304300, 4080854.298800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365684.800400, 4080879.388000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365669.834400, 4080906.318600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365671.239300, 4081182.561900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365722.691600, 4081183.384500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365759.810700, 4081186.870700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365762.693800, 4081187.013400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365802.609800, 4081185.322000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 365898.502700, 4081213.848500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366058.169800, 4081204.567900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366150.467000, 4081229.224100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366273.447000, 4081240.912000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366420.765300, 4081311.063900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366513.300900, 4081377.446000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366614.228500, 4081434.707600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366653.448900, 4081451.255700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366733.939700, 4081489.496600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366908.297700, 4081525.724700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366932.993600, 4081537.325200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367047.600800, 4081615.899400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367098.733100, 4081932.749200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367119.564500, 4081893.194500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367126.846400, 4081854.941200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367127.194700, 4081849.214800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367060.506300, 4082024.099700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367006.606200, 4082094.509300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367012.174800, 4082090.362600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366962.795500, 4082127.486800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366951.747800, 4082141.499200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366744.540600, 4082522.842000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367159.366100, 4082712.831800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367269.181200, 4082725.070600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367311.484300, 4082720.782800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367340.152800, 4082704.708100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367397.853400, 4082681.483400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367446.935100, 4082666.207200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367461.618700, 4082659.001800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367531.583700, 4082607.908800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367751.345800, 4082172.228700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367737.912800, 4081993.707000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367740.972900, 4081838.044600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367659.272500, 4081824.878100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367737.549300, 4081711.221800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367751.868600, 4081677.871300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367780.388800, 4081633.067100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367838.585300, 4081499.651300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367859.876700, 4081442.393900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367862.929000, 4081400.795300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367827.094500, 4081340.289600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367819.964500, 4081327.714000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367709.590400, 4081226.529500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367860.673600, 4081188.094400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367627.768800, 4080046.492000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367634.452300, 4079920.665200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367673.796500, 4079839.284400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367608.646500, 4079693.495200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367548.925500, 4079621.999600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367121.906600, 4079611.171100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366809.115800, 4079594.263400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366810.093400, 4079552.350400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366777.405200, 4079454.527400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366688.770100, 4079418.550600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366517.587800, 4079414.510000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366555.259400, 4079382.560900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366670.627900, 4079392.913300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366711.568700, 4079383.579300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366719.344000, 4079383.602000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366623.384400, 4079407.444200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366753.047100, 4079375.744400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366836.807600, 4079314.412800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366767.461400, 4079372.179600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366852.476600, 4079266.065900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366810.111600, 4079210.229600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366668.356000, 4079178.721000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366726.622000, 4079159.700000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366774.975300, 4079147.064000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366672.791300, 4079194.297600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366804.409400, 4079100.969100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366805.368000, 4079043.150600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366798.988200, 4079067.009200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366815.749800, 4078948.415600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366798.543700, 4078917.890200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366838.385700, 4078842.561900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366796.470500, 4078785.335100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366809.703600, 4078796.248400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366827.263100, 4078726.164800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366827.508100, 4078687.950600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366701.589300, 4078341.619000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366690.024900, 4078301.255100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366679.508500, 4078287.556000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366652.996900, 4078232.516200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366651.273100, 4078202.984700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366601.565600, 4078143.599700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366510.507200, 4078069.472700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366551.114700, 4077888.943100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366594.635100, 4077824.747200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366604.764100, 4077817.077900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366640.697200, 4077789.616600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366736.974500, 4077751.430000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366625.259000, 4077798.940900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366788.290500, 4077746.959500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366842.790500, 4077766.543600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367072.378400, 4077684.100400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 366891.518300, 4078378.849400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367669.778600, 4079367.380600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367670.698800, 4079360.137900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367671.492400, 4079353.057700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367673.420100, 4079344.193100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367669.597800, 4079372.363000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367670.242400, 4079364.000100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367672.189400, 4079348.067300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368183.622900, 4080569.958700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368259.164800, 4080740.160200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368249.220100, 4080926.132500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368228.413400, 4080995.938700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368125.102000, 4081272.645100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370190.420000, 4082049.943600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370057.956400, 4081943.412600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370140.117000, 4081793.596900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370134.449500, 4081766.133100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370151.927500, 4081700.256900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370255.856400, 4081662.032500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370112.693800, 4081545.796300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370100.227000, 4081470.172000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370152.991000, 4081327.697300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370154.051000, 4081324.298600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370633.849700, 4081250.251300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370654.630300, 4081240.853000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370678.985100, 4081228.667800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370819.996700, 4081177.769800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370946.476700, 4081091.176200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370945.544600, 4081070.574500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370406.570000, 4082302.554400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370467.991300, 4082263.399400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370176.992200, 4082512.811500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370194.138000, 4082630.631800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370271.541600, 4082625.768100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370373.754300, 4082853.468200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370361.537300, 4082828.334700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370362.913400, 4082809.439000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370366.123200, 4082777.395200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370346.336000, 4082740.868200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370376.667400, 4082955.559700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370402.531800, 4082991.741000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370387.109200, 4083017.860300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370383.137600, 4083039.022100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370399.956200, 4083089.690200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370411.386100, 4083142.691200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370487.155200, 4083294.872800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370447.081800, 4083245.684200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370419.678100, 4083185.807200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370518.198900, 4083344.761800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370688.627200, 4083435.576800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370686.649100, 4083350.076500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370733.299700, 4083326.577900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370763.951000, 4083306.136200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370907.548400, 4083183.387200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370894.917700, 4083126.848500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370893.535000, 4083119.147900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370911.174700, 4083147.087700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370905.060800, 4083102.899300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370893.238000, 4083082.907900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370929.413600, 4083054.936600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370957.769500, 4083039.380800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370965.725400, 4083004.749100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370917.936600, 4082892.013400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370485.367000, 4083974.936800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370484.042400, 4083960.430500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370539.715900, 4084085.481200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370548.383500, 4084103.248700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370590.370300, 4084128.429100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370584.550400, 4084163.999900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370607.096200, 4084193.855300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370660.876600, 4084280.136400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370686.566300, 4084304.445400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 370711.120100, 4084357.046600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 371477.362100, 4085402.257800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 371546.389100, 4085434.952700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373715.571400, 4083911.188500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373783.372400, 4084190.093800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373784.770200, 4084181.873500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373793.068100, 4084147.059800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373783.925900, 4084186.427300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373743.903200, 4084372.651300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373763.990400, 4084450.063000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373761.839900, 4084415.973000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 373842.243800, 4084643.663800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374085.278400, 4084627.392100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374116.643600, 4084636.804600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374155.133000, 4084650.062600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374175.945700, 4084628.653500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374210.433500, 4084605.425900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374242.395600, 4084596.692100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374264.567600, 4084579.393600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374294.039400, 4084558.305700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374356.983800, 4084542.828900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374385.617700, 4084533.336800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374464.383100, 4084505.056300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374539.191700, 4084416.095600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374530.724000, 4084387.292200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374530.714900, 4084346.310400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374533.756600, 4084320.304200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374542.914500, 4084294.949400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374600.821800, 4084232.344100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374622.521300, 4084214.291600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374635.713700, 4084204.755500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374657.853100, 4084191.077500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374689.873700, 4084170.763600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374726.430100, 4084134.806100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374764.083800, 4084102.541500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374794.426000, 4084079.471100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374815.921200, 4084062.465200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374834.550000, 4083914.842800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374591.767500, 4083691.371800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374582.043500, 4083612.295500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374633.771800, 4083574.079900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374578.529600, 4083661.195200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374702.574300, 4083175.189000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374707.462900, 4083150.055600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/10\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374796.689500, 4083076.273400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374607.220200, 4082335.739400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 374659.370700, 4082394.602700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368577.452700, 4078462.676300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 368608.106100, 4078469.145200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367294.055700, 4085824.108900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 359312.140700, 4068368.473100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/9\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 363193.336000, 4077532.467000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "No", "Field_Date": "7\/8\/2013", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 360777.365800, 4069365.426900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "REMOTE": "Yes", "Field_Date": "", "ImageryRef": "VBMP 2011 imagery \/ Bing high resolution oblique imagery" }, "geometry": { "type": "Point", "coordinates": [ 367198.888200, 4085849.786300 ] } }
+
+]
+}

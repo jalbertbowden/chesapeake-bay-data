@@ -1,0 +1,1461 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376182.018762, 4079092.284185 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376044.015980, 4079023.741866 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375836.981642, 4079094.175491 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376133.081377, 4078989.818370 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376135.910958, 4078840.715914 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376078.683756, 4078752.886343 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376059.440167, 4078729.920429 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376041.153358, 4078726.780286 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376019.718750, 4078681.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376146.722494, 4078618.155230 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376125.796337, 4078588.920317 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376182.696007, 4078470.530286 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375859.721474, 4078467.121256 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375978.595678, 4078448.522686 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376040.330479, 4078449.170429 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376101.275522, 4078434.196915 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376206.657214, 4078439.753800 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376089.180864, 4078426.776486 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376060.727257, 4078417.590858 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375979.445043, 4078409.772686 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376048.310628, 4078410.170429 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376241.996010, 4078330.755066 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376350.565638, 4078260.174229 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376345.952699, 4078244.308151 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376354.858590, 4078164.820705 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376345.981662, 4078087.755066 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 376256.768600, 4078047.423591 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376178.667650, 4077971.085623 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376376.776139, 4077962.914208 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376248.247911, 4077931.307138 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376449.125000, 4077914.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376222.094960, 4077676.990323 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376298.062500, 4077660.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376049.831654, 4077563.581455 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374400.883159, 4077509.639636 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 376082.039212, 4077403.483678 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390488.057160, 4077453.705542 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 390513.187500, 4077444.180138 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 390361.939165, 4077440.218195 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374418.711432, 4077433.565318 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390372.708757, 4077437.595415 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390644.217454, 4077323.992481 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390042.857814, 4077424.251480 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374427.159765, 4077414.182646 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390092.605569, 4077421.886103 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374431.080250, 4077405.680182 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 376089.477217, 4077391.010687 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390418.775404, 4077379.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390656.443203, 4077380.936923 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 390017.117598, 4077373.139064 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374475.312500, 4077363.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "outfall", "remote": "", "pntstruc": "outfall" }, "geometry": { "type": "Point", "coordinates": [ 376095.545061, 4077366.069758 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374734.339473, 4077345.719294 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374754.334726, 4077343.619190 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 389855.320481, 4077357.014804 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389988.929358, 4077346.501480 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389508.442102, 4077319.359455 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390630.516526, 4077308.648382 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374490.683620, 4077346.626208 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389878.399588, 4077314.121299 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389604.313980, 4077309.251480 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389643.697123, 4077302.255922 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374560.528601, 4077275.899164 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375107.945431, 4077265.419892 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374657.684801, 4077233.168466 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375638.921913, 4077184.771374 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374809.718750, 4077171.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389039.014682, 4077173.377571 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389049.290191, 4077171.025537 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374855.968750, 4077132.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374923.540546, 4077109.576591 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 375003.662727, 4077129.484227 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374887.787727, 4077113.925682 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375030.281250, 4077109.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375079.294205, 4077083.200455 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375133.474386, 4077025.380636 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375169.153432, 4076982.569818 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389259.582283, 4076967.358587 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389236.440651, 4076942.503370 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389212.633097, 4076908.141413 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389339.491903, 4076909.825762 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389197.789347, 4076889.611957 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375204.915348, 4076868.779273 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389242.351774, 4076861.039857 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389398.587885, 4076857.191089 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375226.832674, 4076835.356606 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375244.172864, 4076789.885879 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375259.955697, 4076747.970727 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390057.164392, 4076721.627221 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375276.402492, 4076701.573576 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390097.155510, 4076702.998520 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389725.886320, 4076684.416945 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389462.149510, 4076590.825762 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390021.824692, 4076512.616204 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375262.446001, 4076407.615699 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390030.519987, 4076540.166832 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390015.040510, 4076470.017592 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389871.218542, 4076475.771598 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 390011.538115, 4076464.206558 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390006.980942, 4076358.633796 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390022.656250, 4076325.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 390063.779784, 4076277.747605 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 375180.759361, 4076171.352586 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390156.507330, 4076157.124463 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390003.431640, 4076119.861330 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375060.749474, 4076121.646626 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389702.858134, 4076094.124583 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389927.357655, 4075983.847190 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389793.219993, 4075990.541571 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 375041.001977, 4075939.735232 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389594.124166, 4075916.187708 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374984.193169, 4075830.235232 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374917.689740, 4075796.250263 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374893.774204, 4075740.733428 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389404.894186, 4075586.961052 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389398.594095, 4075584.971105 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374909.305116, 4075575.632384 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389404.796569, 4075431.987740 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389413.599726, 4075423.838077 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389397.912148, 4075437.647976 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374842.316156, 4075483.843676 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374804.347258, 4075449.035351 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389131.780937, 4075425.789141 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374798.363142, 4075415.859190 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389469.505667, 4075304.641538 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389455.425685, 4075338.260950 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389445.089700, 4075347.090372 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374774.411686, 4075380.340539 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389159.961485, 4075324.191289 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374755.349276, 4075166.598335 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374718.229364, 4075024.436758 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374760.499703, 4074994.874703 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374787.191954, 4074973.984486 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374857.832615, 4074708.081804 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374821.223955, 4074637.458148 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 385528.607554, 4074483.080891 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374927.974051, 4074425.620409 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "public ramp", "remote": "", "pntstruc": "public ramp" }, "geometry": { "type": "Point", "coordinates": [ 385329.320729, 4074465.185566 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374180.812500, 4074306.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374255.075846, 4074258.588861 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374309.084385, 4074234.941976 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374429.048577, 4074218.303713 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385008.112560, 4074043.905036 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384956.041262, 4073945.844964 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384945.844964, 4073914.227398 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374594.088971, 4073778.213971 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384972.666306, 4073349.856524 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384380.088278, 4073258.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 383823.524409, 4072711.603327 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 384435.062500, 4072598.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 384414.125000, 4072585.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 384090.031250, 4072391.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383981.416306, 4072358.226087 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383918.375000, 4072280.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 383875.906250, 4072170.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383867.531250, 4072045.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382151.117410, 4071932.043023 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382155.463195, 4071920.755258 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382231.068415, 4071905.981534 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382220.701896, 4071871.342075 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382262.556882, 4071865.626251 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381546.740097, 4071773.098672 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381588.320172, 4071759.044723 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381673.046580, 4071744.144711 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381484.233458, 4071708.934835 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381422.069594, 4071711.580876 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382030.405519, 4071670.399622 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382012.381715, 4071545.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 383595.721469, 4071440.821738 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384519.968750, 4070554.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384472.178948, 4070388.659813 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384427.240735, 4070221.468037 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384076.503908, 4070140.123437 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384272.543574, 4069809.837588 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384230.349912, 4069528.412412 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381631.587937, 4068737.773257 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381505.675887, 4068671.794551 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 383775.996012, 4068669.756002 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381456.433910, 4068537.956069 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381461.337595, 4068599.693528 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381597.285914, 4068561.903236 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381592.508915, 4068560.395692 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381450.734930, 4068528.806472 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381284.442881, 4068381.056963 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380997.768441, 4068082.322061 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383536.419746, 4066951.514170 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383686.491600, 4066854.810988 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383587.872718, 4066836.496730 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 383582.927867, 4066836.611783 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383619.122370, 4066830.682963 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383437.153402, 4066750.392086 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 383205.144266, 4066248.690133 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 385281.144637, 4066125.716531 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383278.798617, 4066163.627534 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383190.005332, 4066113.751953 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383236.885030, 4066147.039115 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383208.684227, 4066133.160790 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385832.941556, 4065993.165315 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "public ramp", "remote": "", "pntstruc": "public ramp" }, "geometry": { "type": "Point", "coordinates": [ 385654.497068, 4065995.090610 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385860.749480, 4065978.492495 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385651.070716, 4065995.646856 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386674.725076, 4065995.907099 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386598.259394, 4065978.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385935.981212, 4065939.170081 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383181.727670, 4065891.375891 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "public ramp", "remote": "", "pntstruc": "public ramp" }, "geometry": { "type": "Point", "coordinates": [ 383182.028097, 4065887.274017 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385955.946235, 4065923.942596 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386001.402853, 4065886.092190 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386386.905730, 4065830.587424 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385558.817109, 4065786.840603 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385669.302439, 4065779.391356 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385697.567483, 4065770.645029 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385368.681575, 4065728.326978 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385347.904424, 4065684.090654 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385345.460866, 4065681.549360 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385338.622372, 4065660.326978 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385276.219419, 4065641.542766 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386018.793840, 4065626.373314 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385260.843750, 4065637.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385301.176319, 4065628.888809 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385188.864488, 4065546.905916 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385336.812500, 4065488.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385377.024035, 4065483.758553 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385530.470422, 4065468.431575 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385554.609232, 4065461.760512 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385574.764813, 4065450.275659 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385554.958898, 4065422.909181 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 387063.312500, 4065430.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385607.034881, 4065393.610474 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385606.923691, 4065386.220422 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385564.442374, 4065323.758553 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388566.599596, 4065286.296154 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388932.826329, 4065221.615959 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388779.465539, 4065222.247077 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388133.625000, 4065193.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388204.812500, 4065155.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388347.156250, 4065117.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388384.843750, 4065088.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388435.062500, 4065059.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388468.562500, 4065021.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "point of interest", "remote": "", "pntstruc": "point of interest" }, "geometry": { "type": "Point", "coordinates": [ 388489.500000, 4065017.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 387142.835158, 4064989.980779 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 387127.060782, 4064985.296716 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 387274.391865, 4064891.387348 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376165.837247, 4079087.410969 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376148.699873, 4078956.702041 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376150.318370, 4078901.797959 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376121.545791, 4078874.154082 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376145.937500, 4078712.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376118.482929, 4078564.530286 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376107.293557, 4078509.606057 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375948.231001, 4078502.382656 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375931.312500, 4078487.359857 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375886.283122, 4078396.924229 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375853.185628, 4078380.568172 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375829.500000, 4078375.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375956.498184, 4078406.791685 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376233.490529, 4078408.034086 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 376344.424229, 4078197.537886 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376376.468750, 4077704.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 376416.696781, 4077747.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376437.074247, 4077753.131815 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376266.892439, 4077670.992849 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376117.194252, 4077615.939919 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376137.513811, 4077632.650202 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 376195.283470, 4077665.300909 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 376122.247688, 4077616.272385 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376128.843750, 4077320.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376095.415222, 4077306.689919 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376048.011391, 4077275.480141 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375994.151412, 4077276.329939 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375943.246371, 4077238.969960 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375908.590121, 4077236.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375433.048858, 4076931.300180 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375315.002644, 4077201.110036 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375181.031250, 4077226.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374855.923061, 4077323.940144 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375073.744713, 4077336.410216 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374832.911886, 4077148.155409 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374580.375000, 4077237.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376208.597379, 4077671.240323 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376179.125000, 4077656.820263 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376160.857561, 4077647.120162 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374586.667343, 4077547.955917 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 374586.186798, 4077552.945769 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374624.320379, 4077240.472822 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375136.405113, 4076935.040546 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375117.922272, 4076909.831091 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375301.281250, 4076631.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375297.093750, 4076582.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375266.841970, 4076448.106606 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375220.878758, 4076313.463212 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375178.750000, 4076185.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374830.218676, 4075452.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374765.613216, 4075338.676161 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374765.234190, 4075095.578162 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374848.451361, 4074770.185454 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374784.114564, 4074822.113645 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374720.331475, 4074804.153181 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374738.843750, 4074789.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374719.383746, 4074786.588636 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374773.492277, 4074802.443637 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374915.800578, 4074362.016919 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374933.185319, 4074496.646586 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374894.862064, 4074314.456904 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374787.187500, 4074076.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 374694.754339, 4073956.856766 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374620.624388, 4073427.749755 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374533.913921, 4073606.773579 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384809.250000, 4072963.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382303.494085, 4071757.815786 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 382251.115142, 4071750.692101 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382211.965464, 4071744.381572 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382169.797384, 4071726.615799 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382138.988170, 4071731.186843 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382120.281250, 4071730.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 382107.706199, 4071698.976213 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382106.725980, 4071688.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382102.565129, 4071724.818415 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381976.650017, 4071735.663747 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381897.964997, 4071591.468882 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381871.437500, 4071767.416902 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381695.479700, 4071780.114050 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381758.326229, 4071780.635950 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381624.187500, 4071714.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381820.556298, 4071644.365168 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381653.220389, 4071627.064139 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381706.356974, 4071647.390682 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381566.755451, 4071663.314083 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381566.320105, 4071665.819093 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381549.758392, 4071774.460358 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381530.852485, 4071777.182860 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381502.068370, 4071785.024290 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381746.586843, 4071679.391387 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381449.289642, 4071782.868927 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381996.122444, 4071405.160625 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383077.000000, 4071065.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383423.608830, 4070868.650134 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 383307.937500, 4069245.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382429.875000, 4068805.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381828.529070, 4068713.065407 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381845.781250, 4068704.630814 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381681.922237, 4068748.052326 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381628.807415, 4068736.193315 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381512.420368, 4068305.590324 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381442.958058, 4068487.751650 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381409.274810, 4068437.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381367.050393, 4068409.570886 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381360.194765, 4068408.321003 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381378.029540, 4068418.777073 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381308.572336, 4068387.044118 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381044.239242, 4068094.706967 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381009.845800, 4068083.350581 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380548.407710, 4067924.211172 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 380570.118743, 4067929.993083 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380565.905590, 4067926.256917 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383502.406250, 4071134.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383862.906250, 4071799.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385323.134443, 4074463.931205 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385335.274461, 4074465.681205 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385016.968750, 4075573.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385043.843750, 4075611.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385137.500000, 4075773.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389216.812500, 4077068.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 389189.710726, 4076811.302754 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389471.889837, 4076808.430979 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389512.016413, 4076666.967174 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389749.534211, 4076845.630182 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389849.687500, 4076786.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389947.010524, 4076708.505922 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389680.709867, 4076879.133142 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389684.521627, 4076881.881662 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389701.906411, 4076888.738157 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389474.592174, 4076573.217174 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389614.151068, 4076948.251480 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 389855.795906, 4076310.872081 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389702.979445, 4076100.562292 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389617.301805, 4075965.020764 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389710.455591, 4075852.733882 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389527.281042, 4075779.937708 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389497.843750, 4075781.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389421.454741, 4075777.936041 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389411.688751, 4075773.031146 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389387.110991, 4075760.079115 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389360.421510, 4075727.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389070.932184, 4075743.024329 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389494.533223, 4075660.314473 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389530.685527, 4075664.177300 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389648.915463, 4075666.548355 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389653.266118, 4075666.548355 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389419.258732, 4075600.774873 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389413.748334, 4075591.293715 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389276.109323, 4075643.889739 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389271.516511, 4075647.765990 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389249.486408, 4075639.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389252.313021, 4075637.374583 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389126.956132, 4075616.452031 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389112.244335, 4075594.262654 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389110.643945, 4075592.597852 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389100.429297, 4075562.154061 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389090.790391, 4075508.395232 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389072.697267, 4075495.906563 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389384.625000, 4075468.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389159.186875, 4075254.182460 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389340.765056, 4075283.479992 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390095.119136, 4076225.383796 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390064.035648, 4076273.627932 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389892.353819, 4076289.125417 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390038.187500, 4076434.761728 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 390061.429633, 4076451.153783 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389998.619136, 4076388.505864 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390043.601152, 4076756.946704 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389535.078946, 4077068.523687 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389531.466529, 4076973.368338 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389572.367437, 4076967.488157 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389497.751480, 4077085.618338 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 389455.819162, 4077094.217430 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389478.986515, 4077293.387584 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389734.822863, 4077348.241117 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389772.246299, 4077383.494078 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389929.156250, 4077321.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390120.284026, 4077424.690831 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390156.902919, 4077496.318052 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390341.718750, 4077439.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390545.400404, 4077450.724596 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390608.187500, 4077471.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390628.024393, 4077410.288107 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390729.781250, 4077286.250000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383518.880695, 4066802.772782 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383480.357989, 4066774.957434 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383403.838129, 4066746.403477 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382937.562673, 4065637.911507 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383027.514624, 4065722.769359 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382849.050543, 4065614.815850 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382820.976010, 4065419.134575 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 385325.708507, 4066093.260243 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385401.281250, 4065780.500000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385363.043435, 4065699.895403 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385523.187500, 4065791.210151 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385261.506594, 4065498.224341 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385290.593750, 4065494.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385443.035837, 4065478.042766 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385561.859137, 4065307.215071 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385603.531250, 4065360.085531 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385569.899609, 4065355.023700 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385568.199924, 4065399.965787 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386452.892419, 4065873.773225 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "public ramp", "remote": "", "pntstruc": "public ramp" }, "geometry": { "type": "Point", "coordinates": [ 388659.031250, 4065146.000000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388713.306365, 4065319.321846 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388749.890193, 4065322.896616 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386627.934952, 4065990.273225 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386554.324633, 4065957.533469 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386502.355363, 4065903.886613 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 386022.314060, 4065862.525253 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385986.415835, 4065900.068965 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385898.359852, 4065964.800506 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385973.877219, 4065909.750000 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385788.858950, 4066008.193306 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384520.325802, 4070827.076270 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384228.996923, 4069510.462882 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384579.879219, 4068515.759859 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388667.462865, 4065152.171657 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388653.817469, 4065147.805130 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 388949.649645, 4065381.414302 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389076.824731, 4064839.965007 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 387278.516111, 4064768.582176 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385335.654465, 4065465.013610 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385376.082830, 4065458.997485 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385425.896351, 4065454.665874 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385358.515743, 4065485.468438 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385390.040241, 4065482.340052 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385417.714420, 4065480.174247 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385471.137616, 4065474.158121 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385462.233750, 4065450.093618 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385498.571150, 4065445.280718 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385488.223414, 4065472.473606 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 385428.543446, 4065479.211667 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385391.484112, 4065457.553614 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385598.198192, 4065428.194921 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385606.380123, 4065403.649128 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385598.679482, 4065328.086588 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385595.551097, 4065308.594341 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385591.700776, 4065285.011128 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385556.566602, 4065264.796946 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385562.823373, 4065249.395664 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dilapidated dock", "remote": "yes", "pntstruc": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 384537.503417, 4066036.026797 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383112.591094, 4065972.727609 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383124.422629, 4065955.738738 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383167.198179, 4065922.367741 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383175.389242, 4065906.895734 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383184.490423, 4065870.187637 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383161.737471, 4065814.973807 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383156.580135, 4065792.524227 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383169.928534, 4065771.894884 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383181.153324, 4065750.962168 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383162.950962, 4065720.321525 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382355.458363, 4065067.977100 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383017.451187, 4066057.532382 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383040.836737, 4066084.659619 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383061.416021, 4066103.368059 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383089.946391, 4066131.898429 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383115.202785, 4066171.186153 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383122.686161, 4066204.861344 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383141.862312, 4066213.747853 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383126.895560, 4066207.667610 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383241.726214, 4066269.264768 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383287.386975, 4066305.677780 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383295.093432, 4066362.705566 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383320.139419, 4066385.439615 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383345.956052, 4066449.403213 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 383878.772534, 4067090.982765 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 383884.248631, 4067092.667718 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381295.074053, 4068101.731942 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380595.206890, 4067931.206910 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380650.000648, 4068011.211218 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380657.296165, 4068031.273889 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380652.837794, 4068056.402891 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 380625.024010, 4068087.184597 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380598.121418, 4068081.937200 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380627.100832, 4068087.408837 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380619.197355, 4068087.206184 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380708.770089, 4068117.806824 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380729.238066, 4068143.543786 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380741.802567, 4068164.619723 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381460.733712, 4068566.961467 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381472.742793, 4068633.731958 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381481.869694, 4068646.221402 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381521.259480, 4068683.689735 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381537.591831, 4068694.738090 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381549.600912, 4068699.541722 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384131.483905, 4070264.330798 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384181.698651, 4070402.409159 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382045.977027, 4071401.651810 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381947.052937, 4071516.149975 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381924.617323, 4071563.660688 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381865.742164, 4071664.132160 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 381332.231397, 4071713.729674 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381180.169086, 4071726.763587 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381227.960098, 4071820.173292 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381284.440385, 4071788.674671 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381359.675024, 4071788.095386 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381715.970239, 4071793.844969 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382155.003953, 4071731.448288 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382184.127576, 4071733.327231 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382142.373278, 4071980.825828 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382104.794411, 4072041.787102 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382124.001387, 4072014.229266 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 382137.362763, 4071996.692461 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 382103.124239, 4072063.916880 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390435.023037, 4077365.413843 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390451.226272, 4077361.363034 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390285.857727, 4077336.775253 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390260.777067, 4077324.657631 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390277.121767, 4077304.931270 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390230.342110, 4077327.193878 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389662.598643, 4077296.571050 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389539.355853, 4077056.848793 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389981.226347, 4076748.741815 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390186.345513, 4076711.890115 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390218.770811, 4076700.692890 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390257.961098, 4076722.154238 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390253.995415, 4076700.692890 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390258.894200, 4076694.161175 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390324.211347, 4076639.108152 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390193.810330, 4076602.717171 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390197.542738, 4076566.326189 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390205.940657, 4076552.562933 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390011.000079, 4076627.833168 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390252.673520, 4076097.831182 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390286.576229, 4076066.727779 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390317.368598, 4076040.911955 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389739.527524, 4075903.805718 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389557.587968, 4075657.026001 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389430.524471, 4075626.471709 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389355.664497, 4075227.305041 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389361.904394, 4075200.905479 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389335.024840, 4075152.906276 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389360.464418, 4075191.305639 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389277.425796, 4075105.387065 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389192.467207, 4075047.788022 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389138.014778, 4074836.431531 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389160.877899, 4075256.715953 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389143.086257, 4075381.796590 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389137.425280, 4075395.814247 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389044.153943, 4075483.694177 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389096.989729, 4075543.808363 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389105.615980, 4075577.504655 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389574.039370, 4075881.579996 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389735.062719, 4076137.971340 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389769.088486, 4076140.367520 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389832.826895, 4076129.824325 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389855.830230, 4076196.917387 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389828.513769, 4076371.838584 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389471.729712, 4076577.014353 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389530.972227, 4076713.815908 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 389073.800611, 4077195.971797 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376038.732596, 4078742.898872 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376122.767131, 4078582.235144 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376303.071114, 4078317.252683 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376182.273960, 4077924.845461 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376106.626043, 4077608.574460 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375137.800430, 4077250.354569 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374926.612285, 4077314.990941 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374405.203581, 4077459.298919 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374426.212191, 4077416.119598 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374993.914753, 4077134.916334 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 375103.103842, 4077062.123608 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374747.767909, 4075217.066371 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374812.960116, 4074808.668818 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374840.371951, 4074577.497773 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374901.928350, 4074578.835956 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374279.745381, 4074244.935255 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374669.087628, 4073907.580602 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374523.426534, 4073650.209496 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374529.204241, 4073613.097887 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374531.955587, 4073597.340175 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374545.462197, 4073408.997998 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390617.340818, 4077420.927606 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389430.217697, 4075623.971893 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 389421.923050, 4075603.004869 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 389378.892067, 4075508.788503 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 385135.053203, 4065343.432149 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374358.375302, 4077582.856602 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374256.473457, 4077732.503956 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 376149.895747, 4078788.432140 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381313.891178, 4068904.790424 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381324.673652, 4068882.657978 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381276.396003, 4068880.746603 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381270.897181, 4068876.405427 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381247.165420, 4068853.252490 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381285.946590, 4068794.501912 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381231.826600, 4068833.861905 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381254.400713, 4068756.299566 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381208.384251, 4068810.130145 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381188.993666, 4068786.687796 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381174.233669, 4068768.165446 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381151.370143, 4068739.803099 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381138.346616, 4068724.174866 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 381114.325444, 4068694.944283 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381098.697212, 4068665.424288 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381091.172507, 4068652.111350 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 381023.739578, 4068547.633721 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380898.134895, 4068396.560807 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380887.716073, 4068380.932575 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380855.012550, 4068341.572582 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380842.567846, 4068324.497291 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380428.834153, 4067859.570931 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380405.632761, 4067857.883557 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380355.011542, 4067845.228252 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 380255.456478, 4068091.584852 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380200.225780, 4067814.057933 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 380028.360568, 4067693.529083 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 379584.974774, 4067518.067846 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 379664.996672, 4067643.060727 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 379576.377380, 4067666.868895 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 379540.665128, 4067672.820937 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 379342.263729, 4067762.762905 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 378992.415928, 4067906.273250 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390610.442922, 4077288.221983 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390575.374445, 4077285.104785 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390557.177111, 4077289.922273 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 390563.769190, 4077262.988922 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390574.316516, 4077247.167933 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390537.589220, 4077206.862080 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 390517.812983, 4077176.350172 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "private ramp", "remote": "yes", "pntstruc": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 380348.632822, 4067896.969094 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374434.227219, 4077813.724880 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374485.159215, 4077973.184868 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374400.431221, 4077801.824881 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374420.423220, 4077847.996877 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374464.215217, 4077971.756868 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374459.455217, 4078013.168865 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374155.767239, 4077929.868871 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374077.227244, 4078026.496865 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374038.195247, 4078090.280860 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373996.307250, 4078088.376860 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373920.147256, 4078089.328860 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373934.903255, 4078131.692857 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373955.371253, 4078179.768853 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374010.587249, 4078197.380852 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374102.455243, 4078284.012846 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373893.491258, 4078323.520843 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373873.023259, 4078326.376843 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373875.403259, 4078435.380835 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373874.451259, 4078037.920864 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373757.831267, 4078016.024865 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373565.527281, 4077912.732873 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 372798.452278, 4073544.035727 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 372812.788988, 4073496.246694 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 372847.674982, 4073445.112429 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373002.989339, 4073341.888118 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373044.565797, 4073343.321789 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373199.880154, 4073165.546587 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373343.666864, 4072977.758999 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373454.595700, 4072839.625382 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373544.916972, 4072880.723951 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373593.183895, 4072893.626990 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373643.362379, 4072892.193319 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373695.368715, 4072900.610970 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373735.634419, 4072884.716613 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373752.588400, 4072874.120375 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373809.278272, 4072793.324061 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 373884.511561, 4072673.851479 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374213.376211, 4072439.320568 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374292.206573, 4072556.132234 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374368.564846, 4072630.731099 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374405.115861, 4072808.120806 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374520.407047, 4072896.487703 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374401.846188, 4073013.239220 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "boat house", "remote": "yes", "pntstruc": "boat house" }, "geometry": { "type": "Point", "coordinates": [ 374378.188510, 4073041.628433 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374352.810275, 4073104.858952 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374347.218460, 4073127.656350 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374350.659577, 4073185.295055 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374548.953926, 4073282.076461 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374560.137555, 4073296.271068 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374019.417159, 4074413.570338 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 374001.559710, 4074485.000132 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373962.598004, 4074734.192710 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373843.277780, 4074584.839503 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373798.228307, 4074590.521419 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373758.454899, 4074627.453869 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373725.580960, 4074659.516106 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373714.622980, 4074684.678875 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373711.376171, 4074694.419301 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373635.076163, 4074773.966118 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373574.604349, 4074773.966118 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "yes", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 373472.562669, 4074747.226886 ] } }
+,
+{ "type": "Feature", "properties": { "STRUCTURE": "dock", "remote": "", "pntstruc": "dock" }, "geometry": { "type": "Point", "coordinates": [ 384337.382824, 4072384.167207 ] } }
+
+]
+}

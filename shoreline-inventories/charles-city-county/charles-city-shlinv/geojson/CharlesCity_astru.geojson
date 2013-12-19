@@ -1,0 +1,473 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322135.606800, 4142722.902800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322152.007100, 4142698.511900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322218.835600, 4142658.500100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322265.142500, 4142638.522800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322317.871500, 4142632.550900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322366.878600, 4142625.850500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 322399.806500, 4142628.381800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 321706.039600, 4142768.886000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 321803.252800, 4142792.102400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 321842.570000, 4142808.639900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 320817.169300, 4143277.431700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 324427.686800, 4142665.402200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327673.581500, 4139047.265400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328209.679000, 4139040.491800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328320.727900, 4139150.697100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328343.681400, 4139261.598600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328503.307000, 4139391.185300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328622.271000, 4139450.870200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328699.894400, 4139470.484400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328595.594800, 4139441.691200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330275.545500, 4135666.842400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330268.300200, 4135992.910700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330276.824000, 4135991.443700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330284.796900, 4136013.228500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330304.152100, 4136063.109400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330333.249300, 4136134.876800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330365.371300, 4136199.554300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330386.605700, 4136236.125800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330463.482800, 4136374.045300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330465.026100, 4136378.914000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330474.846300, 4136404.980700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330476.013500, 4136408.549200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330476.367200, 4136410.566600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330515.133300, 4136499.988600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330513.343000, 4136493.946500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330503.586900, 4136472.679900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330514.162400, 4136496.969100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330545.379600, 4136581.947000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330581.494800, 4136674.302000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Public ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330632.917400, 4136843.091500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330626.654000, 4136996.962300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330639.116200, 4137132.819300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 300836.634600, 4140127.527400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301083.458500, 4139507.892700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301140.441800, 4139410.419700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301332.292500, 4138954.671400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301333.970100, 4138592.959300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301405.555000, 4138211.088900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 301418.340900, 4138077.974800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 300878.380000, 4136969.889300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 300418.371500, 4136450.241700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 300456.486100, 4136481.170000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 299787.657600, 4134509.884900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 299871.824200, 4134306.276800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 299766.137700, 4133903.969600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302516.354800, 4133436.139800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302542.452800, 4133417.445600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302572.664000, 4133392.356500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302630.435100, 4133346.642200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302683.828400, 4133311.693000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302727.770800, 4133268.778700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302569.002600, 4133395.458300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302626.079200, 4133349.944200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302776.885300, 4133230.663600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302929.008900, 4133210.492500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 302975.119100, 4133218.499000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303077.019100, 4133228.878900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303178.572600, 4133241.234000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303454.111000, 4133365.285200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303481.526900, 4133368.815300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303491.178300, 4133368.171300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303545.477400, 4133375.887200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303591.976900, 4133377.271700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303629.417500, 4133365.781400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303702.036800, 4133330.651200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 303871.026100, 4133290.806300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 304357.909500, 4133231.618600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 304699.401000, 4133255.882000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 304974.420500, 4133347.990000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305190.724400, 4133174.845500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305194.370500, 4133171.503600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305354.579800, 4133013.750200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305297.472300, 4133070.789100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305508.881100, 4132907.644800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 305803.907500, 4132744.542600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 306003.634900, 4132651.043800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 309652.733800, 4131447.141500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 310373.064900, 4132613.528100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 310386.658500, 4132498.926700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314141.798000, 4132110.563500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314183.218900, 4132156.555900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314260.152400, 4132187.890700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314415.185500, 4132264.506600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314473.300400, 4132280.703000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314527.368900, 4132285.615900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314621.246500, 4132306.622900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314659.230600, 4132307.649100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 314801.572200, 4132301.537000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316491.892700, 4133616.192800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316643.419500, 4133943.476500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316638.880200, 4133940.479900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316486.678200, 4133879.367200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 315838.398200, 4132356.716900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 316131.544000, 4131827.819900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 316188.363400, 4131321.787900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 316192.924600, 4131226.203600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 315944.217600, 4129694.880900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 315800.193300, 4129328.362800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 320782.714100, 4130923.075500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 320669.770100, 4130824.404200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 320610.463800, 4130772.156600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 321015.593700, 4131145.085600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 321199.464900, 4131294.122000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 321700.332900, 4131250.946800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 321891.417400, 4131120.394000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 321942.254900, 4131063.131900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322039.397200, 4131041.403600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322089.152900, 4131001.521200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322112.577100, 4130872.263000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322151.879200, 4130845.482700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Public ramp", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322164.253600, 4130831.418300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322160.415800, 4130835.814500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 322224.929800, 4130802.919600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 323049.282000, 4130518.602000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 323945.039700, 4129027.335000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 324022.926200, 4128230.760800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 324052.180800, 4127769.962400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 324041.681700, 4127441.659000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 324549.504000, 4126888.913200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 326187.160900, 4124414.127100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327236.642300, 4123447.088100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327232.058000, 4123448.849600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327112.237400, 4123616.302300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 326678.623500, 4123970.908900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 326050.619500, 4124648.907900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327367.188200, 4123429.697100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327445.537800, 4123399.240700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327490.955500, 4123386.061500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327553.087400, 4123349.792000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327619.490100, 4123308.733200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327646.818100, 4123291.955300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327705.641500, 4123240.278300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327723.159400, 4123216.595800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 328135.455000, 4123078.405200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 329869.380300, 4122647.759800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 329870.611500, 4122650.227500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 329868.411500, 4122645.874900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 329867.029800, 4122657.012400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330621.776500, 4123577.823400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331711.035700, 4123834.299200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331211.587700, 4124550.585700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330995.403300, 4124728.315700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Public ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330988.542500, 4124734.580900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 332838.169300, 4124695.366400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 332980.618500, 4124862.471300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333007.654600, 4124894.719700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333094.606700, 4125050.127500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333136.276100, 4125090.357300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333237.837300, 4125121.907900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333341.578900, 4125159.355700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333371.111600, 4125351.444600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333373.272300, 4125427.985800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333376.621100, 4125465.827700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333353.219900, 4125500.771100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333341.294000, 4125517.796000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333335.489800, 4125574.232400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333340.446100, 4125554.999200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/11\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333314.315400, 4125606.117700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 332602.332800, 4127217.065100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 329929.386900, 4130672.284700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 329959.680100, 4130663.616900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 330083.697400, 4130552.176500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 329836.579700, 4130693.925700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 329884.299900, 4130319.305700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 329321.242100, 4131093.255600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333589.470400, 4132750.168100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 333607.458500, 4132806.919400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 332263.366400, 4135157.322400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 332282.139800, 4135151.281300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 332787.736100, 4136084.142100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 332681.759600, 4136128.342800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 332237.413100, 4136430.526300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331932.973500, 4136328.740600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331974.340500, 4136342.801000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331997.252100, 4136351.745900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 332061.567100, 4136376.579700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331748.340800, 4136149.309800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331694.605400, 4136049.282900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331677.613300, 4135982.219300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331662.188900, 4135910.160100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331644.232900, 4135847.034900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331663.315400, 4135914.317600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331623.300000, 4135781.095700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331622.089300, 4135772.759700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331611.111200, 4135735.097700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331603.479100, 4135697.890900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331480.267100, 4135545.183400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331371.703200, 4135401.333500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331344.511500, 4135395.129700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dilapidated dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331312.915200, 4135375.750700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331285.603500, 4135373.883900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331174.586900, 4135332.411400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331205.551400, 4135347.462000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331235.478600, 4135362.795000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331147.290800, 4135313.106500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331018.361600, 4135177.502700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330813.890500, 4135143.492600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330851.338100, 4135149.005400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330978.900600, 4135165.237000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331012.465700, 4135174.747900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330538.559700, 4135297.726900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330558.880800, 4135291.828500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330609.146800, 4135250.575500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330694.118500, 4135213.322700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330482.512800, 4135352.160800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Boathouse", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330513.198900, 4135322.538500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330432.862900, 4135392.879700 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 321703.316100, 4142766.821200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 330267.266300, 4135990.601100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316480.220800, 4133623.003200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 299989.925800, 4135783.949800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 299229.381700, 4133498.370000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 309326.713600, 4133392.655900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 309329.561700, 4133389.336600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 309404.611800, 4133389.660800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/20\/2013" }, "geometry": { "type": "Point", "coordinates": [ 309570.911000, 4133359.839200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 315641.461100, 4132991.202100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 315639.433800, 4132987.319000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "Yes", "Field_Date": "" }, "geometry": { "type": "Point", "coordinates": [ 316497.612600, 4133881.533800 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 318437.395500, 4129882.544300 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 318997.038800, 4130504.125100 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Private ramp", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331682.929900, 4129847.344900 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/12\/2013" }, "geometry": { "type": "Point", "coordinates": [ 331678.538600, 4129850.846200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUCT": "Dock", "REMOTE": "No", "Field_Date": "6\/13\/2013" }, "geometry": { "type": "Point", "coordinates": [ 327905.233000, 4122969.916600 ] } }
+
+]
+}

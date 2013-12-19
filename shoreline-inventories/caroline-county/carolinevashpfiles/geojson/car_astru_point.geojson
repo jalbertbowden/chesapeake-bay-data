@@ -1,0 +1,39 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313430.218750, 4224804.500000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 308224.625000, 4227287.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 308092.843750, 4227488.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 306968.531250, 4228811.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "PIPE" }, "geometry": { "type": "Point", "coordinates": [ 304670.250000, 4229692.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 303851.687500, 4228718.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 303810.187500, 4228741.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "PIPE" }, "geometry": { "type": "Point", "coordinates": [ 303023.406250, 4232995.500000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 303528.156250, 4235350.500000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 300832.062500, 4234987.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 300828.593750, 4234972.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 300904.687500, 4234429.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 299069.156250, 4233516.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 299058.125000, 4233487.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 294110.781250, 4235912.500000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314324.968750, 4222983.000000 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313805.562500, 4223171.500000 ] } }
+
+]
+}

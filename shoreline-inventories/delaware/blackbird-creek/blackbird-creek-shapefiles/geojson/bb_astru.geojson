@@ -1,0 +1,35 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "FEAT_NAME": "Ramp", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "Public", "PNTSTRUC": "public ramp" }, "geometry": { "type": "Point", "coordinates": [ 448265.327388, 4364794.443615 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 448409.546965, 4362299.579010 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Ramp Private", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "Private", "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 448407.625090, 4362295.352851 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 447906.210405, 4360674.509334 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 446761.031370, 4360540.551968 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Ramp Private", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "Private", "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 446677.475017, 4360748.149050 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dilapid2", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 446399.012413, 4360641.142903 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dilapid2", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 446224.056488, 4360003.202050 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 445474.620438, 4359796.434974 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 445042.857714, 4359580.015835 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 444956.888964, 4359591.656460 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 444759.467089, 4359480.984585 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 444729.482714, 4359402.265835 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Dock", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 444430.857714, 4359431.312710 ] } }
+,
+{ "type": "Feature", "properties": { "FEAT_NAME": "Ramp Private", "GPS_DATE": "", "REMARK": "", "OWNERSHIP": "Private", "PNTSTRUC": "private ramp" }, "geometry": { "type": "Point", "coordinates": [ 445160.405932, 4359877.686703 ] } }
+
+]
+}

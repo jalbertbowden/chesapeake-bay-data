@@ -1,0 +1,1135 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 493246.483214, 4270667.925790 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 493069.784047, 4270344.897626 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492518.491008, 4269618.839572 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491970.120167, 4269256.030511 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492043.603596, 4269262.823097 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492087.446651, 4269262.205589 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492133.759736, 4269265.910636 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492190.570454, 4269269.615683 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492295.546782, 4269245.532878 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491979.322365, 4269031.155117 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491989.750215, 4269028.065384 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492042.661901, 4268980.174515 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492050.000018, 4268978.629648 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492060.896161, 4269010.589476 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492097.118453, 4268969.746665 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492103.297920, 4268967.815581 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492124.153620, 4268994.850749 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492086.304386, 4269004.506166 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492058.144319, 4268976.142005 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492220.661360, 4268935.417935 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492244.699186, 4268934.436799 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492263.831333, 4268930.512256 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492282.963481, 4268926.587713 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492292.774838, 4268923.153738 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492302.586196, 4268919.719762 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492310.925850, 4268918.248059 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492326.624022, 4268914.323516 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492332.020269, 4268913.342380 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492344.775033, 4268909.908405 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492362.435477, 4268933.946231 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492372.737403, 4268902.059319 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492203.491484, 4268947.682132 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492425.228166, 4268909.417837 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492251.076569, 4268961.908600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492090.216676, 4268972.452497 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491909.794898, 4268906.880879 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492268.386982, 4268505.847336 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492308.944461, 4268454.860791 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492312.163309, 4268379.668512 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492307.528168, 4268359.582904 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492336.369042, 4268353.917732 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492351.819510, 4268350.827638 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492376.025244, 4268369.368200 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492388.900634, 4268366.793122 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492396.625868, 4268366.278106 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492398.685931, 4268341.042342 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492421.346617, 4268361.642966 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492427.526805, 4268360.612935 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492436.797085, 4268359.067888 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492447.612413, 4268357.522841 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492463.062881, 4268328.166952 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492476.453287, 4268325.076858 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492495.508865, 4268352.372685 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492501.174036, 4268351.857669 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492506.839208, 4268317.866639 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492517.654536, 4268350.312623 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492520.229614, 4268315.806577 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492539.800207, 4268347.222529 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492551.130550, 4268308.081343 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492564.520956, 4268345.162467 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492575.336284, 4268344.132435 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492571.216159, 4268300.871124 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492599.027002, 4268293.145890 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492654.648687, 4268334.347139 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492366.754963, 4268347.737545 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492410.016274, 4268363.188013 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492253.451529, 4268390.998856 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492267.356951, 4268388.423778 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492274.052154, 4268387.393746 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492694.304889, 4268147.396474 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492667.524077, 4268156.151739 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492647.953484, 4268162.331926 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492635.593110, 4268166.967067 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492620.142641, 4268172.632238 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492575.336284, 4268187.052675 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492528.469863, 4268186.022644 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492505.809177, 4268193.232863 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492489.328677, 4268216.408565 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492461.517835, 4268226.193861 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492449.672476, 4268229.283955 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492431.131914, 4268235.464142 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492414.651414, 4268241.129314 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492402.291040, 4268245.249439 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492388.900634, 4268249.884579 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492373.450166, 4268254.519720 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492309.073215, 4268276.150375 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492276.627232, 4268286.965703 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492269.417013, 4268289.025765 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492256.026607, 4268293.145890 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492242.121186, 4268298.296046 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492314.475815, 4267898.016790 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492335.262875, 4267889.040560 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492374.002395, 4267874.395131 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492391.954856, 4267866.363768 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492405.182985, 4267862.111869 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492415.576515, 4267857.387537 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492425.025178, 4267854.080505 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492439.198173, 4267848.411307 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492449.591703, 4267863.529168 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492337.919344, 4267823.423981 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492358.912931, 4267814.584575 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492369.409725, 4267809.888641 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492319.964301, 4267805.745170 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492292.617391, 4267816.241964 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492303.666648, 4267812.098492 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492308.086350, 4267810.164873 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492374.658122, 4267784.199119 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492383.497528, 4267780.608111 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492394.546784, 4267776.464639 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492405.319810, 4267772.321168 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492443.439746, 4267778.122028 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492417.272430, 4267789.452555 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492405.811346, 4267794.199338 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492394.129918, 4267799.340999 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492379.354056, 4267805.745170 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492350.599190, 4267793.648707 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492304.890260, 4267746.146668 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492317.129633, 4267740.901222 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492320.408036, 4267720.793682 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492329.369005, 4267735.874337 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492329.806125, 4267716.641038 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492338.767095, 4267731.503133 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492350.569347, 4267726.913368 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492351.880708, 4267707.461508 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492361.278797, 4267722.542164 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492371.988248, 4267717.733839 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492382.042019, 4267713.362634 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492386.631783, 4267692.817973 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492396.904114, 4267707.242948 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492396.029873, 4267688.883889 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492407.832125, 4267702.653183 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492418.541576, 4267698.063419 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492403.679481, 4267685.824046 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492294.180809, 4267750.517872 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492279.537274, 4267738.278500 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492286.531201, 4267753.577715 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492265.549420, 4267743.523945 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492253.310048, 4267749.206511 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492261.178216, 4267764.505726 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492242.600597, 4267753.359155 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492233.421067, 4267776.963659 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492255.058529, 4267680.068627 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492267.297902, 4267675.988836 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492278.371620, 4267671.326218 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492300.227642, 4267662.583809 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492314.798324, 4267656.172709 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492325.580628, 4267651.801505 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492319.460942, 4267631.111137 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492334.323037, 4267648.013128 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492331.700314, 4267625.865692 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492343.065446, 4267644.516164 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492343.065446, 4267621.494487 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492346.853823, 4267619.746006 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492359.384609, 4267637.813651 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492367.252777, 4267634.608101 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492383.280526, 4267604.883911 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492393.480004, 4267600.221292 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492403.388067, 4267619.454592 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492399.891103, 4267621.203074 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492389.108799, 4267625.574278 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492287.696856, 4267644.224751 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492380.074977, 4267629.071242 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492370.988539, 4267609.671644 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492238.030532, 4267653.553564 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492243.544120, 4267639.769593 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492248.209464, 4267629.590661 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492253.086869, 4267618.775545 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492263.477863, 4267596.085008 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492267.507024, 4267586.966381 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492272.172368, 4267576.363326 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492277.049773, 4267565.760271 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492280.230690, 4267558.762255 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492277.898018, 4267515.713853 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492282.775423, 4267505.959043 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492276.201529, 4267518.682708 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492290.833744, 4267490.054460 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492292.954355, 4267485.813239 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492334.044048, 4267439.839939 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492325.835337, 4267457.810359 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492369.882177, 4267361.438125 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492417.649916, 4267256.904199 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492404.634521, 4267284.602467 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492432.604112, 4267181.046760 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492157.467955, 4267673.192373 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492080.627096, 4267607.956052 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492011.836232, 4267553.592451 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491989.672610, 4267547.737909 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491963.745354, 4267542.301549 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491964.581717, 4267510.519751 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491955.381723, 4267489.610674 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491945.763548, 4267474.974320 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491919.418110, 4267446.119793 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491876.763592, 4267428.137987 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491816.545450, 4267434.828891 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491786.018197, 4267428.137987 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491762.600030, 4267405.974365 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491727.890962, 4267339.901681 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491719.945513, 4267314.392606 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491705.727340, 4267286.374443 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491740.854590, 4267384.647106 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491736.672774, 4267215.283580 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491759.533366, 4267186.847235 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491781.278806, 4267152.835135 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491772.357600, 4267126.071517 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491739.460651, 4267072.544279 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491675.339481, 4267032.956426 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491645.230410, 4266978.314037 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491551.079227, 4266858.127412 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491549.131874, 4266860.723883 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491583.967853, 4266849.905256 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491543.073443, 4266868.080549 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491424.934036, 4266838.509635 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491410.220703, 4266759.173037 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491376.755083, 4266729.746371 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491364.061227, 4266715.610032 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491372.427632, 4266725.130423 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491321.556044, 4266698.684891 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491304.246240, 4266675.220491 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491300.784280, 4266647.909468 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491299.630293, 4266636.754261 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491295.783670, 4266590.594786 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491301.168942, 4266541.742674 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491320.402057, 4266547.897271 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491508.886582, 4267219.517639 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491519.272464, 4267216.825003 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491516.579828, 4267216.825003 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491512.733205, 4267217.209665 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491307.323539, 4267137.969232 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491161.536529, 4266910.249153 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491204.234043, 4266937.944839 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491198.848771, 4266931.790242 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491063.447643, 4266953.715993 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491044.214528, 4267006.414727 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491024.981414, 4267002.568104 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490982.668561, 4266979.103704 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490959.973486, 4266954.869980 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490946.510305, 4266943.714773 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490925.353879, 4266933.328891 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490882.271702, 4266928.328281 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490844.190135, 4266906.017868 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490787.260115, 4266864.089678 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490773.796934, 4266844.087238 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490735.715367, 4266857.550419 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 490782.259505, 4266863.320353 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491598.087387, 4267308.433712 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491658.650602, 4267483.451138 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491670.455297, 4267513.732746 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491676.614268, 4267570.189980 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491669.428802, 4267566.597247 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491843.419732, 4267618.435253 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491851.631694, 4267643.071137 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491889.098767, 4267689.776667 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491910.141918, 4267699.528371 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491942.476516, 4267710.306570 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491973.784618, 4267709.280075 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492015.870920, 4267725.190750 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491917.327384, 4267702.094609 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492005.092721, 4267708.766827 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492022.029891, 4267870.953064 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492033.321338, 4267884.810748 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492002.526483, 4267915.605603 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491981.483332, 4267937.162002 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492004.066226, 4267964.364124 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491988.668798, 4267949.479944 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492010.738444, 4267854.015893 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492103.123009, 4268112.179428 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 492053.337994, 4268037.758528 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 491474.687883, 4268953.660723 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489356.721086, 4271396.489768 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489216.644859, 4271440.698223 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489028.876223, 4271467.124162 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 27, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489031.529302, 4271468.892882 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 488855.632811, 4271467.420829 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487710.001264, 4271121.704753 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487642.050173, 4271082.364648 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487491.842499, 4271000.108065 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487444.157523, 4270971.497079 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487421.507159, 4270959.575835 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487590.788824, 4271052.561538 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486197.539586, 4270201.999807 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486187.776938, 4270191.016828 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486182.285448, 4270184.915173 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486153.607669, 4270149.525573 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486179.234620, 4270173.932193 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485727.101971, 4269962.814924 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485434.425911, 4269704.918298 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485405.137966, 4269699.223420 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485305.884375, 4269700.850528 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484394.962898, 4269151.025698 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483769.894376, 4268817.330857 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482995.058211, 4268750.124022 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483011.867164, 4268708.101640 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482991.456293, 4268645.668388 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482973.079341, 4268621.302318 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482977.236779, 4268590.418492 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483324.085906, 4268495.589307 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483022.902608, 4268908.165552 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482879.306013, 4268855.372686 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482780.055426, 4268908.165552 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482758.938280, 4268899.718693 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482707.201271, 4268749.786955 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482462.242375, 4268500.604629 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482437.957657, 4268428.806332 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482386.220648, 4268398.186470 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482358.768358, 4268393.963041 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482336.595355, 4268401.354042 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482312.310637, 4268411.912615 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482258.461914, 4268315.829600 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482282.746632, 4268342.226033 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482114.865319, 4268277.818736 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482097.971602, 4268220.802442 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482068.407597, 4268200.741153 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482016.670589, 4268195.461866 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481974.436297, 4268190.182580 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481850.900991, 4268097.267136 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481085.900850, 4267998.142621 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481131.854282, 4267966.372348 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 480991.724682, 4268047.500011 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482245.811129, 4268658.040114 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482634.111901, 4269072.068790 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482609.336883, 4269027.759622 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482673.656643, 4269198.802539 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482854.704855, 4269205.472736 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483094.355516, 4269297.426170 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483049.252277, 4269315.848620 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483004.149038, 4269267.569097 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 26, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483009.866350, 4269272.015895 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482766.725456, 4270653.056693 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482760.168742, 4270658.520622 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482258.047179, 4270750.834035 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 480915.394715, 4270533.176565 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481069.882670, 4270561.648747 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481130.517875, 4270574.303051 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481136.845026, 4270577.466627 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481074.628034, 4270562.703273 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481064.610044, 4270559.539697 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 480934.376171, 4270539.503716 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 480518.483113, 4270500.017603 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 479570.224125, 4270969.225146 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477946.916752, 4270542.187993 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477538.683208, 4270355.961076 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477534.372400, 4270355.961076 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477615.415595, 4270376.652955 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477592.999392, 4270368.462420 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477569.289947, 4270360.271884 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477490.402155, 4270359.840803 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477465.399467, 4270360.702965 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477373.148170, 4270381.394845 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477307.767578, 4270525.232148 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477147.405510, 4270584.433915 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477265.809044, 4270545.349253 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477150.854156, 4270580.985268 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477102.497121, 4270662.116293 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477071.319590, 4270659.085145 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477029.749550, 4270632.237827 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 477008.098487, 4270614.050934 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476997.272956, 4270604.524467 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476988.179510, 4270595.864042 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476971.291681, 4270582.873404 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476945.743427, 4270561.222341 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476936.216959, 4270551.695874 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 476924.958407, 4270540.870342 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475853.654251, 4270883.320360 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475814.494147, 4270933.160492 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475786.726074, 4270992.256649 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475790.998085, 4271040.672777 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475789.574081, 4271101.904939 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475834.430200, 4271180.225146 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475184.609814, 4271550.466126 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475101.068260, 4271642.551703 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475068.790841, 4271665.335763 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475041.260101, 4271695.714510 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475146.636380, 4271849.506917 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475101.068260, 4271878.936328 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 474977.654600, 4271971.971241 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 474898.859725, 4271964.376554 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 474877.974336, 4271946.339173 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 474801.078132, 4271862.797619 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 474972.907920, 4271968.173898 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475902.307713, 4271576.098193 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 475839.651547, 4271590.338231 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 479908.821426, 4271406.799968 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 480551.838238, 4271261.235138 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481007.783936, 4271478.514970 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481051.781300, 4271489.847625 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481098.445172, 4271507.179920 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481112.444333, 4271508.513173 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481142.442536, 4271508.513173 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481171.774112, 4271505.846666 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481307.765966, 4271477.848343 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481207.771956, 4271503.846786 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481385.761294, 4271444.517007 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481541.751950, 4271469.182196 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481559.750872, 4271486.514491 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481545.751710, 4271473.181956 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481636.412946, 4271573.175966 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481753.072625, 4271671.170096 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481860.399529, 4271764.497839 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481868.399050, 4271773.830613 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Public ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481864.399289, 4271768.497599 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482146.382398, 4271986.484542 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481946.394378, 4271875.824504 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 481871.065557, 4271797.162549 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482013.723678, 4271919.155241 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482176.380601, 4271993.817436 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482195.712776, 4271999.150450 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482225.710979, 4272001.150330 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482257.042436, 4272000.483703 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482272.374851, 4271999.150450 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482299.706547, 4271998.483823 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482310.372575, 4271997.150569 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482325.038363, 4271994.484062 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482336.371017, 4271993.817436 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482375.035368, 4271979.818274 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482423.032493, 4271961.819352 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482461.030217, 4271942.487177 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482474.362751, 4271933.154403 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482486.362033, 4271924.488255 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482497.028060, 4271914.488854 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482536.359038, 4271863.825222 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482544.358558, 4271811.828337 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482561.690853, 4271763.164586 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482589.689176, 4271737.832770 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482610.354605, 4271728.499995 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482635.686421, 4271724.500235 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482651.685463, 4271717.833968 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482667.684504, 4271705.834686 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482685.683426, 4271687.835765 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482696.349454, 4271679.836244 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482738.346938, 4271645.171654 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482753.012726, 4271635.172253 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482769.678395, 4271621.173091 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482782.344303, 4271610.507063 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482805.676238, 4271582.508741 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482819.008773, 4271565.176445 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482946.334479, 4271533.178362 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482966.999908, 4271558.510178 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482978.999189, 4271575.842473 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 482988.331963, 4271588.508381 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483000.997871, 4271602.507543 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483016.330286, 4271617.839958 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483036.329088, 4271637.172133 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483070.993679, 4271670.503470 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483082.326333, 4271683.169377 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483098.325375, 4271695.835285 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483136.989725, 4271715.167461 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483162.321541, 4271727.833369 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483180.320463, 4271733.833009 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483193.652998, 4271737.832770 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483227.650961, 4271747.165544 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483249.649643, 4271751.831931 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483264.315431, 4271751.831931 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483288.313994, 4271750.498678 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483311.645930, 4271744.499037 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483329.644851, 4271738.499396 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483348.310400, 4271737.166143 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483377.641976, 4271725.833488 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483388.308004, 4271721.833728 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483400.307285, 4271714.500834 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483417.639580, 4271705.168060 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483432.971995, 4271695.168659 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483446.971157, 4271685.169258 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483499.634669, 4271647.838161 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483520.966724, 4271633.172372 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483540.298899, 4271619.173211 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483552.298181, 4271609.840437 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483564.297462, 4271593.841395 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483525.633111, 4271631.172492 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483770.285123, 4271627.839359 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483951.607595, 4271601.174289 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483986.272185, 4271618.506584 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483998.271466, 4271623.172971 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484017.603641, 4271627.839359 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484034.269310, 4271643.838400 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484065.600766, 4271667.170336 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484105.598370, 4271703.834806 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 483992.271825, 4271620.506464 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484174.927551, 4271756.498318 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484128.263679, 4271723.166982 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484145.595974, 4271736.499516 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484164.928150, 4271749.165424 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484184.926952, 4271763.831212 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484195.592979, 4271771.164106 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484210.925394, 4271779.163627 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484337.584474, 4271811.161710 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484345.583995, 4271813.828217 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484361.583036, 4271821.161111 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484386.248225, 4271830.493886 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Boathouse", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484404.913774, 4271835.160273 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484419.579562, 4271842.493167 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484437.578484, 4271849.159434 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484448.911138, 4271852.492568 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484463.576927, 4271858.492209 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484489.575369, 4271869.158236 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484514.907185, 4271874.491250 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484540.239001, 4271875.157877 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484565.570817, 4271870.491490 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484581.569859, 4271865.825103 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484646.232652, 4271862.491969 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484672.897721, 4271871.824743 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484740.893648, 4271882.490771 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484755.559436, 4271882.490771 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484772.225105, 4271883.824025 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484790.224026, 4271890.490292 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485007.766551, 4272033.815040 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484948.214562, 4271987.595586 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484926.882507, 4271962.708188 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484890.440245, 4271941.376133 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484861.997505, 4271919.155241 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 484824.666408, 4271901.378529 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485060.207854, 4272083.589836 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485102.871965, 4272108.477234 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485114.426828, 4272140.475317 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485125.092856, 4272158.252030 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485131.314705, 4272166.251551 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485151.757925, 4272193.805456 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485216.642927, 4272268.467650 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dilapidated dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485347.301767, 4272332.463817 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 485352.634781, 4272336.907995 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486467.827238, 4273139.230305 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Outfall", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486366.705917, 4274102.793844 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486223.582531, 4274040.531128 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 486861.573217, 4273586.094163 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487450.432569, 4273736.162831 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487433.219074, 4273727.018161 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487402.557535, 4273702.273762 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487388.033649, 4273689.363640 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487373.509762, 4273673.763910 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487359.523797, 4273659.240024 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 487348.765363, 4273648.481589 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489154.032253, 4274250.116520 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "June 28, 2006" }, "geometry": { "type": "Point", "coordinates": [ 489183.666162, 4274213.413971 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493700.363701, 4273927.842927 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483882.306745, 4268699.758472 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483916.416452, 4268620.279543 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483928.338291, 4268633.526032 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483884.956042, 4268555.371752 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483889.592313, 4268584.845188 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483890.916962, 4268591.799594 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 483892.241611, 4268598.091676 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493791.910654, 4270784.275788 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493727.194955, 4270777.684375 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493719.405103, 4270792.664860 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493744.572319, 4270789.668763 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493812.284115, 4270848.991487 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493808.089579, 4270877.754020 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493653.490965, 4270979.621324 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493635.514382, 4270974.228349 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493594.767460, 4270931.084550 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493563.608050, 4270895.730603 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493534.845517, 4270858.578998 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493470.729037, 4270957.450205 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493487.507182, 4270882.547776 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493786.517679, 4270910.111870 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493761.350463, 4270922.695478 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493732.587930, 4270940.072841 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493718.206664, 4270948.461913 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493727.555142, 4270693.150230 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493672.607047, 4270690.291658 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493697.169587, 4270515.001237 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 493711.850645, 4270579.372030 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 494556.676288, 4270420.408489 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 494563.422816, 4270384.748269 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Dock", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 494563.422816, 4270356.316472 ] } }
+,
+{ "type": "Feature", "properties": { "PNTSTRUC": "Private ramp", "remote": "yes", "Field_day": "" }, "geometry": { "type": "Point", "coordinates": [ 494555.712498, 4270472.453134 ] } }
+
+]
+}

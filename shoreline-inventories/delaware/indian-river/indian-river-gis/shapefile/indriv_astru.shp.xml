@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Comprehensive Coastal Inventory, Virginia Institute of Marine Science</origin>
+				<pubdate>2007</pubdate>
+				<title>Indian River  Shoreline Inventory Access Structures</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink>http://ccrm.vims.edu/gis_data_maps/shoreline_inventories/index.html</onlink>
+				<ftname Sync="TRUE">indriv_astru</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>Shoreline Situation Reports (SSR) report conditions and status of shore lands.  The reports are intended to assist planners, managers, and regulators in decisions pertaining to management of coastal areas and natural resources therein.  Data collected describes conditions in the immediate riparian zone, the bank, and along the shore.</abstract>
+			<purpose>To inventory the Indian River, Delaware tidal shoreline conditions.</purpose>
+			<supplinf>Indriv_astru (Indian River access structures) is a point shapefile with locations of docks, ramps (both public and private), and boathouses.  The attributes of this dataset is explained in the Entity and Attribute Information section below.</supplinf>
+			<langdata>English</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>20060626</begdate>
+					<enddate>20060628</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>Ground condition at time of survey.</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-75.289452</westbc>
+				<eastbc Sync="TRUE">-75.062388</eastbc>
+				<northbc Sync="TRUE">38.616750</northbc>
+				<southbc Sync="TRUE">38.546941</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">474801.078132</leftbc><rightbc Sync="TRUE">494563.422816</rightbc><bottombc Sync="TRUE">4266541.742674</bottombc><topbc Sync="TRUE">4274250.116520</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>Shoreline condition</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Indian River</placekey>
+				<placekey>Delaware</placekey>
+			</place>
+			<stratum>
+				<stratkt>none</stratkt>
+				<stratkey>Delaware</stratkey>
+			</stratum>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>This data should not be used for jurisdictional permit determinations beyond providing general shoreline condition or status information.  This data has not been surveyed to property boundaries.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Marcia Berman</cntper>
+					<cntorg>Virginia Institute of Marine Science</cntorg>
+				</cntperp>
+				<cntpos>Director Comprehensive Coastal Inventory</cntpos>
+				<cntvoice>(804) 684-7188</cntvoice>
+				<cntfax>(804) 684-7179</cntfax>
+				<cntemail>marcia@vims.edu</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Collection of data would not have been possible without the cooperation of VIMS Vessel Center.  The following CCRM staff participated in the data collection and/or processing :  Marcia Berman, Dave O'Brien, Sharon Killeen, Tamia Rudnicky, and Karinna Nunez.</datacred>
+		<native Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3500</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The attributes were compared to original GPS data logs for accuracy.  Errors were corrected where noted.</attraccr>
+		</attracc>
+		<logic>Chain-node topology present.  Linear coverage was built for line.</logic>
+		<complete>Indian River Shoreline was surveyed from Indian River Inlet around to Long Neck and Burton's Island and back to the Inlet.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Land use was recorded with a GPS unit as the boat moved along the shoreline.  Data was transferred from the GPS boat track to an existing shoreline coverage by projecting data to the shoreline at a 90 degree angle from the boat track.  Rectified digital orthophoto quads were used as a backround coverage to aid in data positioning.  Land use features were placed along the shore so changes in land use were coincident with changes illustrated in the imagery.  Positional accuracy for data that has been corrected with imagery is 2 meters (equivalent to image resolution).  Accuracy was determined by comparing digitally processed data locations to onsite GPS ground surveys collected at random.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<typesrc>color infra-red digital imagery</typesrc>
+				<srccitea>DOQ</srccitea>
+				<srccontr>Serves as a background coverage in the map portfolios.  Used to accurately position land use and cover data.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Data was collected by a two-person field crew (one data collector and one boat operator/data collector) using two hand-held GeoExplorer GPS units,  while navigating along the shoreline.  A data dictionary designed for the inventory was installed on each GPS unit.  The data collector records natural features including land use, bank height, bank cover, presence of marsh, beach, and Phragmites Australis, tree fringe, and shoreline stability.  The boat operator collects data on the hardened structures: riprap, bulkheads, docks, boat ramps, etc.  Point features (docks, boathouses, ramps) were surveyed with a 10 second observation recorded at 1 reading/second.  Linear features were surveyed kinematically at a rate of one observation ervery 3 seconds.  Data collection began 6/26/2006 and ended 6/28/2006.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Data from the GPS units were postprocessed on a PC with Trimble Pathfinder Office software.  Postprocessing included differential correction using data collected at various CORS  (continuously operating reference stations) sites.  Corrected data is converted into shapefiles for further processing.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>ArcMap 9.1 software on a PC was used to attribute the base shoreline.  Boat-track points and arcs, DOQ imagery, and the base shoreline were displayed in ArcMap.  Shoreline arcs were split using the edit tool and the spatial adjustment attribute transfer tool was used to move the attributes from the boat track to the shoreline.  Arcs were split on and points were moved to locations on the shoreline that were perpendicular to the original locations on the boat-track.  Geodatabase features were visually checked for attribute accuracy between coded shoreline and boat-track.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Twelve 1:12,000 scale plates were created for Indian River.  Each plate shows 3 maps:  riparian land use, bank and buffer conditions, and shoreline features.  DOQQ imagery is displayed in the background to provide users with additional information.  Maps are created using ArcMap software.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Data received a final check in hard copy format.  Changes were made as necessary to data.</procdesc>
+				<procdate>2006</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\sharon\LOCALS~1\Temp\xml1889.tmp</srcused><date Sync="TRUE">20070328</date><time Sync="TRUE">12574700</time></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="indriv_astru">
+				<sdtstype Sync="TRUE">Entity point</sdtstype>
+				<ptvctcnt Sync="TRUE">565</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="indriv_astru"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Point</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">565</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">18</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-75.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_UTM_Zone_18N</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="indriv_astru">
+			<enttyp>
+				<enttypl Sync="TRUE">indriv_astru</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">565</enttypc></enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr><attrlabl Sync="TRUE">PNTSTRUC</attrlabl><attalias Sync="TRUE">PNTSTRUC</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth><attrdef>dock, dilapidated dock, public ramp, private ramp,, boathouse</attrdef></attr><attr><attrlabl Sync="TRUE">remote</attrlabl><attalias Sync="TRUE">remote</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth><attrdef>remotely coded in lab</attrdef></attr><attr><attrlabl Sync="TRUE">Field_day</attrlabl><attalias Sync="TRUE">Field_day</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">30</attwidth></attr></detailed>
+		<overview>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<transize>0.405</transize>
+					<dssize Sync="TRUE">0.015</dssize></digtinfo>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20130501</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Sharon Killeen</cntper>
+					<cntorg>Virginia Institute of Marine Science</cntorg>
+				</cntperp>
+				<cntpos>GIS Programmer/Analyst</cntpos>
+				<cntaddr>
+					<addrtype>1208 Greate Road</addrtype>
+					<city>Gloucester Point</city>
+					<state>Virginia</state>
+					<postal>23062</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(804)684-7534</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20130417</CreaDate><CreaTime>10004900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20130501</SyncDate><SyncTime>14250100</SyncTime><ModDate>20130501</ModDate><ModTime>14250100</ModTime><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\139.70.26.251\ccrm\cci\portfolios\IndianRiver\indianrvr_portfolio\IndianRiver_Final_Shapefiles\indriv_astru</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation></itemProps><copyHistory><copy source="N:\cci\portfolios\IndianRiver\indianrvr_portfolio\indriv_astru" dest="\\139.70.26.251\ccrm\cci\portfolios\IndianRiver\indianrvr_portfolio\IndianRiver_Final_Shapefiles\indriv_astru" date="20130417" time="10004900"></copy></copyHistory><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="105537">CalculateField indriv_astru PNTSTRUC "Dilapidated dock" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="105558">CalculateField indriv_astru PNTSTRUC "Private ramp" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="105620">CalculateField indriv_astru PNTSTRUC "Public ramp" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110028">CalculateField indriv_astru Field_day "June 26, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110041">CalculateField indriv_astru Field_day "June 27, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110059">CalculateField indriv_astru Field_day "June 28, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110450">CalculateField indriv_astru Field_day "June 28, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110526">CalculateField indriv_astru Field_day "June 26, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110617">CalculateField indriv_astru Field_day "June 27, 2006" VB #</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130417" Time="110643">CalculateField indriv_astru Field_day "" VB #</Process><Process ToolSource="C:\Program Files\ArcGIS\Desktop10.0\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20130425" Time="110053">CalculateField indriv_astru PNTSTRUC "Dock" VB #</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20130501" Time="141325">DeleteField indriv_astru AREA;PERIMETER;INDRIVASTR;INDRIVAS_1;TYPE indriv_astru</Process></lineage></DataProperties></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.3500</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">indriv_astru</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">474801.078132</westBL><eastBL Sync="TRUE">494563.422816</eastBL><northBL Sync="TRUE">4274250.11652</northBL><southBL Sync="TRUE">4266541.742674</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-75.289452</westBL><eastBL Sync="TRUE">-75.062388</eastBL><northBL Sync="TRUE">38.61675</northBL><southBL Sync="TRUE">38.546941</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://\\139.70.26.251\ccrm\cci\portfolios\IndianRiver\indianrvr_portfolio\IndianRiver_Final_Shapefiles\indriv_astru.shp</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.015</transSize></distorTran><distorFormat><formatName Sync="TRUE">Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_UTM_Zone_18N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="indriv_astru"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">565</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20130501</mdDateSt></metadata>

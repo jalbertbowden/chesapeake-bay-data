@@ -1,0 +1,695 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 316908.750000, 4163616.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 325148.812500, 4161643.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321500.187500, 4160941.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321291.031250, 4160735.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321322.218750, 4160652.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321650.093750, 4159988.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 333379.437500, 4158809.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 333085.468750, 4157655.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 328331.625000, 4157471.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 328032.843750, 4156425.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335785.125000, 4155676.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341432.125000, 4154814.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341381.750000, 4154794.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341336.937500, 4154769.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 341312.187500, 4154766.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339600.343750, 4157499.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339071.718750, 4157859.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339048.625000, 4157859.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 339011.250000, 4157853.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 338826.968750, 4157844.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338803.468750, 4157837.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 336028.468750, 4160831.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 333677.312500, 4160450.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 333613.968750, 4159922.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 331794.156250, 4159681.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "pt", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331093.312500, 4159847.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "bo", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 339841.750000, 4157247.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "bg", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 339144.125000, 4157849.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 338186.500000, 4157162.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 337882.968750, 4156515.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 337376.656250, 4156018.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327405.875000, 4159472.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327404.750000, 4159475.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 327318.937500, 4159938.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326610.250000, 4161583.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326608.468750, 4161586.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326393.468750, 4161786.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 325098.437500, 4161842.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324778.468750, 4161748.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324239.718750, 4161368.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324238.968750, 4161368.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324238.312500, 4161367.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324041.593750, 4160623.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324040.375000, 4160623.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324067.656250, 4160606.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324132.562500, 4160565.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319608.312500, 4162656.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319608.156250, 4162656.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 318683.625000, 4163480.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 317858.562500, 4163754.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313457.531250, 4167621.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313643.281250, 4168879.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313715.843750, 4168998.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313718.187500, 4169004.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 312121.500000, 4170442.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "bo", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 310597.218750, 4171100.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 315683.375000, 4163777.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 317218.218750, 4163493.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 317174.750000, 4163675.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 317905.812500, 4163743.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 323789.218750, 4160940.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "sh", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 324040.968750, 4160623.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 323920.843750, 4159649.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 323894.937500, 4159636.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 323669.250000, 4159427.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322886.468750, 4159349.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322493.031250, 4159544.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322431.250000, 4159608.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322223.843750, 4159689.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322118.468750, 4159723.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321424.406250, 4160861.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 320017.843750, 4162286.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 319578.093750, 4162739.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "pp", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 318684.125000, 4163480.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341462.062500, 4154829.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341098.656250, 4154882.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 336118.218750, 4158646.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335618.468750, 4161024.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 331049.437500, 4159862.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 330083.625000, 4159795.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 329892.843750, 4159710.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 329466.375000, 4159532.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 329371.968750, 4159494.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327333.781250, 4156430.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326402.656250, 4161783.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 306211.687500, 4195912.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 33, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 307578.875000, 4196096.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 307078.156250, 4195912.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 306121.343750, 4195600.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 33, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 305999.437500, 4195591.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 97, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 313727.406250, 4186478.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 318570.093750, 4179875.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 318902.437500, 4179342.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 322953.468750, 4176060.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 326034.187500, 4174932.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335132.593750, 4167984.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335952.187500, 4166208.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 101, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341524.812500, 4159380.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "bg", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 314732.593750, 4184248.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 313266.593750, 4186728.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "theck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 313285.125000, 4186711.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 312880.625000, 4188547.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 316885.562500, 4179854.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316685.906250, 4181759.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316700.812500, 4181791.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316722.500000, 4181834.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316744.250000, 4181863.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316768.218750, 4181885.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316783.250000, 4181891.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 314815.687500, 4184117.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314809.031250, 4184122.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 313243.468750, 4189955.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 309544.093750, 4193302.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342296.312500, 4156811.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342862.187500, 4157282.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342727.625000, 4157690.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342686.718750, 4157861.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342619.562500, 4158140.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342638.093750, 4158057.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342518.968750, 4158402.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342425.312500, 4158833.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342386.031250, 4159009.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 342095.531250, 4159490.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341898.687500, 4159496.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341700.781250, 4159477.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341536.687500, 4159472.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341471.718750, 4159472.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341329.281250, 4159489.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341203.406250, 4159580.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340893.937500, 4160194.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340954.968750, 4160429.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340965.812500, 4160453.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341045.281250, 4160589.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341089.531250, 4160669.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341177.000000, 4160793.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341214.906250, 4160838.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341246.593750, 4160876.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341403.750000, 4161084.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341483.500000, 4161202.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341509.750000, 4161444.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 341342.281250, 4161746.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340861.156250, 4161815.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340619.250000, 4161755.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340429.062500, 4161726.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340283.781250, 4161683.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 340152.875000, 4161649.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 339733.750000, 4161655.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 339566.156250, 4161673.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 339356.187500, 4161727.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 338923.218750, 4163034.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 339011.218750, 4163110.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 339332.343750, 4163170.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 337973.718750, 4163846.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 337818.031250, 4164150.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 337781.875000, 4164542.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335318.562500, 4164807.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "pl", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 334846.500000, 4165405.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335649.812500, 4166131.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335828.250000, 4166195.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335996.250000, 4166243.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 336222.062500, 4166550.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 336172.218750, 4167077.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 335813.218750, 4167369.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 334602.125000, 4168694.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 334286.406250, 4169119.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 333849.687500, 4169413.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 333480.656250, 4169380.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "sh", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331145.937500, 4169759.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "fh", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331246.656250, 4169962.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331447.156250, 4170431.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331496.156250, 4171505.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 331025.031250, 4172196.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 328886.062500, 4172955.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 326339.625000, 4173258.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "bg", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 321464.968750, 4176868.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "sw", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 320921.812500, 4176745.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "od", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 316311.968750, 4180009.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341886.406250, 4156357.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341898.718750, 4156367.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341928.000000, 4156400.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341006.125000, 4159803.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340925.687500, 4159990.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 340967.531250, 4159896.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339801.031250, 4161644.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339620.906250, 4161668.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339588.062500, 4161671.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339535.000000, 4161677.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339488.218750, 4161692.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339436.250000, 4161706.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339073.656250, 4161886.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335186.843750, 4164886.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334907.812500, 4165710.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335176.031250, 4165897.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 331122.625000, 4169586.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327133.656250, 4172997.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326828.093750, 4173043.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326717.875000, 4173068.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326654.937500, 4173086.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326105.781250, 4173844.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 325198.312500, 4174868.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324706.156250, 4174938.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324677.156250, 4174951.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324650.906250, 4174957.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324515.781250, 4175003.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 324264.937500, 4175152.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 324205.593750, 4175163.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 324139.937500, 4175153.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324223.562500, 4175160.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324174.468750, 4175160.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323851.218750, 4175183.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323845.750000, 4175187.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323833.437500, 4175194.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323790.218750, 4175206.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323432.218750, 4175423.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323334.281250, 4175506.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323338.781250, 4175502.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 322820.843750, 4176014.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319553.343750, 4177950.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 316388.281250, 4179897.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 315762.656250, 4183595.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 315654.062500, 4183605.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 315583.781250, 4183620.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 315112.156250, 4183841.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314484.093750, 4185164.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314515.281250, 4185601.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341560.437500, 4154846.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341633.562500, 4154862.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341655.406250, 4154869.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341513.437500, 4154832.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341692.437500, 4155089.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341743.218750, 4154937.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341595.562500, 4155553.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341603.156250, 4155531.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 341620.250000, 4155491.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341640.187500, 4155449.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 341615.500000, 4155437.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341320.218750, 4155961.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341341.093750, 4155925.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 341894.656250, 4156358.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340904.000000, 4160073.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340899.281250, 4160120.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339835.093750, 4161633.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339715.218750, 4161656.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339672.093750, 4161648.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339506.031250, 4161688.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339747.562500, 4161652.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339309.750000, 4161770.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338922.250000, 4162016.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 338775.187500, 4162896.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335153.062500, 4164914.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 334925.781250, 4165180.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334882.968750, 4165263.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334856.656250, 4165333.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334856.156250, 4165503.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334865.500000, 4165592.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334946.156250, 4165758.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334990.156250, 4165792.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335020.187500, 4165815.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335067.500000, 4165846.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 335114.000000, 4165870.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335160.937500, 4165889.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335219.625000, 4165913.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335279.218750, 4165940.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335333.250000, 4165969.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335342.437500, 4165976.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 332604.500000, 4169047.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 331374.500000, 4169276.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 331348.937500, 4170230.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 329724.000000, 4173083.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327297.437500, 4172955.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326908.218750, 4173035.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 327010.531250, 4173024.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326884.500000, 4173037.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 326263.968750, 4173400.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 326100.125000, 4173987.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 325001.625000, 4174948.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324785.281250, 4174939.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324573.718750, 4174978.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "pl", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 324429.531250, 4175058.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324421.375000, 4175064.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324105.187500, 4175140.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 324000.812500, 4175085.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323697.968750, 4175251.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323638.687500, 4175280.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323588.718750, 4175306.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323591.000000, 4175302.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323531.593750, 4175341.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323472.937500, 4175391.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 323280.781250, 4175570.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323210.437500, 4175631.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 323256.968750, 4175595.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 322950.812500, 4175816.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 322779.968750, 4175940.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 321540.062500, 4176900.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 321311.437500, 4176900.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 320809.437500, 4176732.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 321035.437500, 4176805.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 321122.937500, 4176836.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319917.125000, 4177594.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319300.593750, 4178172.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 319288.250000, 4178199.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 319017.468750, 4178779.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 316157.687500, 4180237.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 315875.406250, 4180830.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 316701.687500, 4183270.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "in", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 316690.906250, 4183177.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 316133.781250, 4183609.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314710.125000, 4184300.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 0, "PTINT": "ck", "PNTSTRUC": "" }, "geometry": { "type": "Point", "coordinates": [ 314721.312500, 4184357.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314912.875000, 4185934.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341534.218750, 4154840.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341600.468750, 4154853.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341655.250000, 4155136.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339544.000000, 4157533.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341968.312500, 4156467.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338767.343750, 4162190.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 335074.593750, 4164996.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 334967.156250, 4165775.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338392.406250, 4157588.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338702.875000, 4157810.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338728.687500, 4162755.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 336361.781250, 4164469.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 341446.750000, 4154819.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 328791.250000, 4159178.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340356.156250, 4156106.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340327.656250, 4156207.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340306.250000, 4156297.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340262.156250, 4156377.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340242.000000, 4156432.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 340153.218750, 4156706.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339723.343750, 4157340.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339677.312500, 4157384.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339643.281250, 4157419.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339456.281250, 4157637.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 339335.562500, 4157749.500000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 339315.562500, 4157760.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 339294.875000, 4157769.750000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339240.906250, 4157785.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 339143.000000, 4157827.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338920.375000, 4157846.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 338519.687500, 4157705.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 1, "DOCK": 0, "RAMP": 0, "PTINT": "", "PNTSTRUC": "boathouse" }, "geometry": { "type": "Point", "coordinates": [ 338480.281250, 4157657.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 0, "RAMP": 1, "PTINT": "rp", "PNTSTRUC": "ramp" }, "geometry": { "type": "Point", "coordinates": [ 317496.281250, 4163917.250000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 317847.250000, 4163718.000000 ] } }
+,
+{ "type": "Feature", "properties": { "FIPS": 0, "BTHS": 0, "DOCK": 1, "RAMP": 0, "PTINT": "", "PNTSTRUC": "dock" }, "geometry": { "type": "Point", "coordinates": [ 314515.812500, 4165971.000000 ] } }
+
+]
+}

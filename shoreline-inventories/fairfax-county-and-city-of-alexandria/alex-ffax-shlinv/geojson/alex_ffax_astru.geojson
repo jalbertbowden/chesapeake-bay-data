@@ -1,0 +1,551 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 322409.749516, 4289854.952141 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322470.972720, 4289695.159301 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322533.620664, 4289442.639765 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322538.506253, 4289285.371834 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322531.038528, 4288931.262779 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322524.720740, 4288884.187395 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319756.265528, 4286997.883133 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319807.790892, 4287000.659284 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319838.086771, 4287019.007452 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319857.242472, 4287038.108908 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319873.396477, 4287052.616546 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319884.460801, 4287098.317378 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319856.747441, 4287243.545077 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319822.917015, 4287258.861007 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319785.677118, 4287284.907131 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319775.350516, 4287301.250127 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319672.236257, 4287466.943459 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319708.635577, 4287427.995264 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319717.000649, 4287415.208373 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319722.076248, 4287404.153527 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319732.189974, 4287380.387087 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319746.001018, 4287358.194445 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319760.522563, 4287337.974775 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319460.540989, 4287729.011809 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319474.468093, 4287709.126114 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319481.350526, 4287695.605244 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319504.411710, 4287676.944328 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319531.119884, 4287586.603046 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319608.020365, 4287553.834091 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319335.432765, 4287875.997552 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319340.517854, 4287867.767958 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319365.169479, 4287834.751698 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319151.245721, 4287827.199458 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319090.033389, 4287963.116302 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 318874.011855, 4287891.382235 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318897.203724, 4287887.063341 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318946.656713, 4287892.945857 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318974.428738, 4287891.836859 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318999.773143, 4287889.351250 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319042.307880, 4287884.088351 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319109.341446, 4287839.129760 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 319088.535627, 4287950.896455 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319045.098671, 4288195.685165 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319092.695775, 4288076.726318 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319090.488873, 4288042.888589 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319101.518769, 4288022.114162 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319016.448407, 4288475.080948 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319026.105598, 4288457.202314 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319039.867431, 4288238.783724 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318985.173753, 4288617.062991 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318985.981311, 4288589.363395 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318988.225804, 4288561.631017 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318989.935541, 4288552.524086 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319005.417826, 4288516.854207 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319017.833213, 4288873.082762 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319009.987020, 4288844.149151 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318993.009508, 4288792.992379 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318971.513461, 4288753.869448 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Outfall", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 318975.083243, 4288763.333301 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318964.907100, 4288737.315853 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319033.009155, 4288992.525519 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "yes", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319060.129836, 4289258.752245 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317799.674177, 4285707.427248 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317743.461529, 4285641.468213 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 317741.004263, 4285631.631628 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317682.278128, 4285601.330831 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317629.038882, 4285557.598490 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317452.547281, 4285432.691295 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317218.373793, 4285374.323041 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317201.222841, 4285378.302498 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 317064.878875, 4285354.646445 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317074.097733, 4285352.336482 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317030.657378, 4285309.928399 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316951.525060, 4285270.566313 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316821.724249, 4285300.695641 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316743.882469, 4285328.763167 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 316671.639153, 4285346.007051 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316426.756614, 4285388.374596 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316377.995759, 4285406.192947 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316322.379578, 4285417.491863 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 316267.957443, 4285432.102511 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 316257.981982, 4285435.671495 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316243.667088, 4285444.905403 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316183.763262, 4285464.094899 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316139.342682, 4285476.249676 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316104.011750, 4285494.872580 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316061.953727, 4285512.537995 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316028.497293, 4285515.536547 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315994.180910, 4285529.684640 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315927.628098, 4285551.255458 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 315838.476314, 4285599.215191 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 315755.238128, 4285678.706985 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315901.351079, 4285766.426190 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315931.315061, 4285764.805747 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316113.620714, 4285719.024173 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315169.416545, 4286202.489790 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315196.312271, 4286207.698666 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315379.459891, 4286167.619052 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315397.452339, 4286149.702732 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315408.233492, 4286109.454450 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315437.702368, 4286081.272466 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315468.316495, 4286066.396874 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315502.861299, 4286040.597326 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315531.668094, 4286019.930626 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315564.521441, 4285993.337094 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315599.478909, 4285949.195280 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315611.953265, 4285909.740495 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315616.141911, 4285873.810658 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315614.322251, 4285831.353133 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315611.974786, 4285802.240920 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315290.572552, 4286231.343878 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315335.151233, 4286205.311308 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315649.295484, 4285715.543410 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315062.065330, 4286191.649309 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315037.248180, 4286203.891804 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312662.705296, 4283579.951135 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313078.497649, 4283221.731724 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313432.724817, 4282986.980789 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313810.794031, 4282757.438373 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 311018.154479, 4283339.651483 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 311478.812047, 4283023.099148 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Public", "REMOTE": "", "PNTSTRUC": "Public Ramp" }, "geometry": { "type": "Point", "coordinates": [ 311489.056770, 4283016.381248 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 311495.494163, 4283013.638770 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Public", "REMOTE": "", "PNTSTRUC": "Public Ramp" }, "geometry": { "type": "Point", "coordinates": [ 311504.500399, 4283009.540428 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 311517.314003, 4283001.466685 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 311650.405806, 4282800.163907 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312918.664519, 4281094.206014 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312927.339619, 4281075.866693 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312957.295643, 4281022.051818 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 313255.563168, 4280876.012834 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313259.920532, 4280872.858823 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313513.974304, 4280630.745963 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313528.758393, 4280595.422253 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313605.675013, 4280491.280591 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313986.198167, 4280185.724409 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314004.008142, 4280168.467078 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314099.228254, 4280067.785588 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314106.129852, 4279771.525670 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314084.633354, 4279888.039809 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314084.123497, 4279810.315561 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314087.813013, 4279801.160343 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314123.951317, 4279732.946548 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314211.889319, 4279654.456897 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314254.134617, 4279624.969595 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314281.048282, 4279607.499955 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314300.220745, 4279592.801781 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314325.864476, 4279576.657432 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314336.928078, 4279566.935285 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314381.891191, 4279446.573820 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314356.184846, 4279151.104176 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314394.527578, 4279058.560712 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314461.923650, 4278899.167382 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314480.969948, 4278848.364145 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314496.123598, 4278793.244519 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dilapid2", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dilapidated Dock" }, "geometry": { "type": "Point", "coordinates": [ 314454.631553, 4278974.379191 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314521.529978, 4278635.274358 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 314530.465723, 4278611.774282 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314554.096464, 4278567.787835 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314592.174229, 4278492.618502 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314421.495885, 4278438.036994 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314311.784123, 4278450.031098 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314195.740082, 4278461.544544 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314088.836087, 4278458.367385 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314054.175661, 4278462.951835 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313984.766940, 4278468.345984 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313944.156563, 4278461.737788 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313897.506889, 4278467.231881 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313826.139682, 4278466.711286 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313741.968988, 4278492.893064 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313714.948982, 4278499.818908 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313870.281324, 4278465.348401 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313672.119694, 4278506.484259 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313628.776186, 4278518.198168 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313577.763228, 4278526.314153 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313553.887672, 4278532.537568 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313527.470318, 4278538.190882 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313283.850997, 4278527.516858 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313407.856770, 4278505.101787 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313392.664479, 4278504.197793 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313060.606346, 4278469.157113 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 313187.788743, 4278492.872318 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312555.080782, 4278557.814975 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312630.555311, 4278541.563717 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312788.865307, 4278499.447495 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312824.201221, 4278496.730318 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312866.590068, 4278498.254804 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dilapid2", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dilapidated Dock" }, "geometry": { "type": "Point", "coordinates": [ 312710.848231, 4278515.127385 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 312435.415416, 4278602.699384 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 309473.901128, 4276963.513928 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 308698.615696, 4280975.137509 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 308626.159681, 4281038.556268 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 308538.353596, 4281107.483715 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 308200.539676, 4281153.292489 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 307760.061317, 4281007.980269 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 305274.270438, 4282146.736508 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 305248.319001, 4282189.956209 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 305208.880259, 4282225.929153 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 305183.640854, 4282259.513341 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 305382.191572, 4282054.753274 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 304262.384306, 4283033.984861 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Ramp", "remark": "", "Ownership": "Public", "REMOTE": "", "PNTSTRUC": "Public Ramp" }, "geometry": { "type": "Point", "coordinates": [ 304040.969957, 4283739.976396 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/07", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 304045.769028, 4283731.054969 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "yes", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306655.184642, 4282008.977132 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dilapid2", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dilapidated Dock" }, "geometry": { "type": "Point", "coordinates": [ 322465.300803, 4289914.579716 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322533.514451, 4289486.087329 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319962.155094, 4287263.130237 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319940.993917, 4287240.975568 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319894.206672, 4287227.630905 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319883.936144, 4287230.263774 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318875.698583, 4287895.424725 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 319089.106020, 4287955.248911 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318851.752982, 4289399.205497 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 318416.475285, 4286131.727276 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317743.525603, 4285636.255052 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 317158.643251, 4285374.362558 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 316610.716741, 4285350.755477 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 315013.743130, 4286220.873229 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 314174.068401, 4282753.439959 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 314099.267558, 4282743.757615 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 313776.031215, 4282790.715813 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/06\/08", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 313398.938101, 4278504.341797 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 307833.379035, 4281025.240820 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306778.136460, 4281137.843921 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306634.382472, 4281139.617365 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Ramp", "remark": "", "Ownership": "Private", "REMOTE": "", "PNTSTRUC": "Private Ramp" }, "geometry": { "type": "Point", "coordinates": [ 306818.931430, 4282355.338189 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "yes", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306537.440742, 4281768.880896 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "yes", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306510.831902, 4281632.212412 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "1899\/12\/30", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 306302.013416, 4281439.012297 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322326.297329, 4290455.491226 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322373.480677, 4290421.476093 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322301.978067, 4290488.379509 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322244.596056, 4290591.932640 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322227.325483, 4290608.028853 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322211.492415, 4290660.749770 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322201.696676, 4290679.143118 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Boat_Hou", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Boat House" }, "geometry": { "type": "Point", "coordinates": [ 322187.490970, 4290707.800313 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322135.195401, 4290803.537047 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322132.297567, 4290826.088366 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322115.550396, 4290851.721728 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322093.108775, 4290885.491282 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322076.417845, 4290927.448910 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322057.850706, 4290954.662971 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322053.159447, 4290966.165026 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322050.772729, 4291025.359730 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322061.167983, 4291047.612985 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322071.361724, 4293950.601332 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Ramp", "remark": "", "Ownership": "Public", "REMOTE": "", "PNTSTRUC": "Public Ramp" }, "geometry": { "type": "Point", "coordinates": [ 322006.731496, 4294124.974464 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322048.144004, 4295543.115377 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322890.443337, 4296522.526851 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322286.227760, 4295712.487168 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322865.582052, 4295683.457209 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Outfall", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 323026.140324, 4298344.872321 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Outfall", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 322988.611882, 4298592.225321 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Outfall", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 322989.247232, 4298587.078997 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322943.988998, 4300161.160445 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322932.756530, 4300176.071066 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322921.049132, 4300185.407632 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322909.007054, 4300195.449763 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322846.671983, 4300244.660904 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322896.591333, 4300204.453129 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322840.818381, 4300249.329215 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322836.342560, 4300252.919623 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322963.135207, 4297234.295775 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322965.575109, 4297259.847061 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322888.572853, 4296595.324085 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dilapid2", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dilapidated Dock" }, "geometry": { "type": "Point", "coordinates": [ 322901.386565, 4296792.448730 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322916.120770, 4296803.293992 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322919.713450, 4296817.646938 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322933.938702, 4296868.543587 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322948.558292, 4296937.123058 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322953.590529, 4296983.576045 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Ramp", "remark": "", "Ownership": "Public", "REMOTE": "", "PNTSTRUC": "Public Ramp" }, "geometry": { "type": "Point", "coordinates": [ 322949.023604, 4296987.541614 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_Date": "2010\/08\/11", "Feat_Name": "Dock", "remark": "", "Ownership": "", "REMOTE": "", "PNTSTRUC": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 322945.001734, 4297127.220672 ] } }
+
+]
+}

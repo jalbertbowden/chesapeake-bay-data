@@ -1,0 +1,919 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3987287.842000, "EASTING": 356575.175000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 356869.294281, 3987232.852803 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3987840.902000, "EASTING": 356158.310000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 356411.890210, 3988035.843532 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3988012.489000, "EASTING": 356063.043000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 356303.095744, 3988185.435922 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3988188.927000, "EASTING": 355956.407000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 356177.982108, 3988343.187898 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3988303.906000, "EASTING": 355827.511000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 356074.627365, 3988476.461119 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3988581.196000, "EASTING": 355645.869000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355862.478157, 3988740.287699 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3990074.298000, "EASTING": 355412.736000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355635.738913, 3990099.999598 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3990199.668000, "EASTING": 355366.854000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355510.124347, 3990348.638738 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3990037.907000, "EASTING": 355408.106000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355643.508886, 3990061.149732 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3990001.037000, "EASTING": 355406.216000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355638.328904, 3990021.004871 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3989953.648000, "EASTING": 355392.503000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355617.608975, 3989967.910055 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3989871.415000, "EASTING": 355337.886000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355615.018984, 3989901.865284 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3989684.219000, "EASTING": 355314.192000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355550.269208, 3989742.580835 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3989582.559000, "EASTING": 355313.537000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355583.939092, 3989657.111131 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991365.911000, "EASTING": 355423.916000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 355431.715795, 3991391.628699 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991363.107000, "EASTING": 354842.191000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354876.335523, 3991364.762473 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991416.114000, "EASTING": 354833.859000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 354813.989130, 3991476.920005 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991414.711000, "EASTING": 354795.071000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354800.794126, 3991463.065251 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991586.021000, "EASTING": 354736.883000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354747.024486, 3991614.148044 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991617.050000, "EASTING": 354655.777000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354659.607586, 3991651.094055 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991641.603000, "EASTING": 354589.830000, "pntstruc": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 354595.281943, 3991668.247560 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991642.486000, "EASTING": 354575.592000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 354579.777813, 3991665.608559 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991644.970000, "EASTING": 354548.245000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354556.356682, 3991672.206061 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991648.951000, "EASTING": 354493.773000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354488.402412, 3991697.606443 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991857.388000, "EASTING": 354405.407000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354420.604189, 3991861.272578 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991954.330000, "EASTING": 354403.492000, "pntstruc": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 354411.080188, 3991980.058039 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991658.899000, "EASTING": 354350.700000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 354318.221175, 3991684.549441 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991604.961000, "EASTING": 354285.619000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354269.013834, 3991639.045879 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991684.280000, "EASTING": 354377.220000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 354352.877957, 3991718.677112 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991439.008000, "EASTING": 353599.027000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 353601.904405, 3991417.047426 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991657.225000, "EASTING": 353440.771000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353429.425103, 3991631.309503 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991693.585000, "EASTING": 353293.059000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353256.277278, 3991645.682778 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991603.439000, "EASTING": 353216.742000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353211.151879, 3991603.565740 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991562.368000, "EASTING": 353215.355000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 353212.083216, 3991558.168665 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991562.826000, "EASTING": 353215.069000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353211.869885, 3991562.445311 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991565.090000, "EASTING": 353213.563000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 353211.761682, 3991566.873686 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991694.637000, "EASTING": 353037.960000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353051.604912, 3991665.128708 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991684.459000, "EASTING": 353007.962000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 353025.875756, 3991652.697768 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991652.121000, "EASTING": 352947.419000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 352957.939219, 3991618.584954 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991622.323000, "EASTING": 352873.029000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 352868.609902, 3991594.879439 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991619.376000, "EASTING": 352839.780000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 352843.458929, 3991593.723073 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991618.087000, "EASTING": 352816.882000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 352805.877015, 3991594.301256 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991970.014000, "EASTING": 352517.443000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 352512.309806, 3991954.166816 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991683.899000, "EASTING": 353853.137000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 353894.805139, 3991707.946521 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991027.068000, "EASTING": 348436.300000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 348396.897697, 3991192.692838 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991389.515000, "EASTING": 348345.225000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348344.292172, 3991394.443892 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991377.431000, "EASTING": 348316.238000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348311.981005, 3991378.288309 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991379.902000, "EASTING": 348318.152000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 348323.609425, 3991374.048188 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3991392.638000, "EASTING": 348348.137000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 348355.052812, 3991393.112847 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3996435.590000, "EASTING": 347903.898000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348079.470250, 3996469.914835 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3997454.866000, "EASTING": 348207.701000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348224.556049, 3997434.994862 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3997469.230000, "EASTING": 348227.856000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 348310.237600, 3997402.946037 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 3997355.629000, "EASTING": 347627.845000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347546.298269, 3997478.162667 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4003995.760000, "EASTING": 345092.787000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 345310.354173, 4004000.480198 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005061.121000, "EASTING": 345315.733000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345398.992385, 4005060.109728 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005012.070000, "EASTING": 345315.349000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 345407.856206, 4005019.819632 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005000.094000, "EASTING": 345313.523000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 345408.662008, 4005003.703594 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005684.845000, "EASTING": 345336.494000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345432.030263, 4005681.383012 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005727.810000, "EASTING": 345336.264000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345435.253471, 4005712.003485 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005755.636000, "EASTING": 345346.579000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345442.505688, 4005736.983345 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4005866.353000, "EASTING": 345350.802000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345471.514558, 4005858.659436 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006465.517000, "EASTING": 345412.801000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345528.726494, 4006464.622483 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006448.153000, "EASTING": 345412.114000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345522.280079, 4006438.031019 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006425.421000, "EASTING": 345410.287000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345523.085881, 4006416.274367 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006400.536000, "EASTING": 345414.928000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345524.697485, 4006394.517715 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006330.283000, "EASTING": 345407.957000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345515.027862, 4006334.888373 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006320.365000, "EASTING": 345411.809000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345510.998852, 4006320.383938 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006285.955000, "EASTING": 345397.419000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345508.581446, 4006284.122852 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007150.430000, "EASTING": 345474.656000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345524.697485, 4007147.942515 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006959.329000, "EASTING": 345437.895000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345505.358239, 4006958.579063 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006899.057000, "EASTING": 345434.338000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345523.891683, 4006914.259957 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006850.893000, "EASTING": 345427.033000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345532.755504, 4006857.853822 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006831.989000, "EASTING": 345429.984000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345541.619325, 4006828.039151 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006768.419000, "EASTING": 345433.096000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345541.619325, 4006769.215610 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006723.599000, "EASTING": 345433.069000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345534.367108, 4006713.615277 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006705.796000, "EASTING": 345428.316000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345531.949702, 4006703.945654 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006802.901000, "EASTING": 345433.168000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345540.813523, 4006801.447687 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007587.606000, "EASTING": 345454.067000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345508.581446, 4007571.794327 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007517.715000, "EASTING": 345451.044000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345504.552437, 4007517.805598 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007503.298000, "EASTING": 345452.482000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345500.523427, 4007502.495362 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007482.526000, "EASTING": 345461.924000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345510.998852, 4007489.602531 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007459.794000, "EASTING": 345464.169000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345517.445267, 4007481.544512 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007436.238000, "EASTING": 345476.080000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345545.648335, 4007438.837010 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007416.947000, "EASTING": 345475.608000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345548.065741, 4007429.167386 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007340.179000, "EASTING": 345495.609000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345558.541166, 4007336.500165 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007180.399000, "EASTING": 345475.120000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345537.590316, 4007177.757186 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007470.629000, "EASTING": 345457.848000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345514.222060, 4007486.379323 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008023.479000, "EASTING": 345663.125000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345748.710420, 4008016.596989 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007833.451000, "EASTING": 345610.611000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345655.237397, 4007794.195658 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007769.874000, "EASTING": 345568.762000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345628.645933, 4007728.925702 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007759.694000, "EASTING": 345558.298000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345621.393716, 4007716.838674 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007813.241000, "EASTING": 345583.467000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345650.402585, 4007785.331837 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4007922.346000, "EASTING": 345638.867000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345707.614522, 4007904.590522 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008308.690000, "EASTING": 345508.744000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345772.078676, 4008252.696953 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008996.112000, "EASTING": 345759.784000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345844.846461, 4008968.169208 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009048.161000, "EASTING": 345779.066000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345860.200255, 4009018.779861 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009067.451000, "EASTING": 345781.128000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345865.318186, 4009035.270972 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009110.538000, "EASTING": 345791.019000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345876.122707, 4009075.077103 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009137.343000, "EASTING": 345795.571000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345877.828684, 4009083.038329 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009189.185000, "EASTING": 345825.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345903.986999, 4009137.060936 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009193.457000, "EASTING": 345838.318000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345910.242248, 4009146.728139 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008892.784000, "EASTING": 345731.918000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345822.100100, 4008876.615107 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008899.561000, "EASTING": 345732.579000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345822.668759, 4008886.850969 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008918.406000, "EASTING": 345741.051000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345821.531441, 4008901.067444 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4008946.024000, "EASTING": 345740.121000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345834.041940, 4008939.167598 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009220.442000, "EASTING": 345850.082000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345925.596041, 4009170.611818 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009233.719000, "EASTING": 345858.245000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345936.400563, 4009189.946224 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009243.256000, "EASTING": 345876.021000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345943.224471, 4009200.750746 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009250.447000, "EASTING": 345890.355000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345951.754356, 4009214.398562 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009264.589000, "EASTING": 345905.662000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345962.558877, 4009233.732968 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009295.965000, "EASTING": 345919.666000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345976.775353, 4009259.322624 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009363.328000, "EASTING": 345955.819000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346008.620258, 4009333.816955 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009383.792000, "EASTING": 345962.702000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346014.875507, 4009353.151362 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009402.693000, "EASTING": 345970.013000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346025.111369, 4009368.505155 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009422.409000, "EASTING": 345978.849000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346034.778572, 4009383.290290 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009451.752000, "EASTING": 346001.977000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346055.250297, 4009407.742627 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009470.833000, "EASTING": 346018.031000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346071.741408, 4009435.606919 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009504.162000, "EASTING": 346035.447000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346088.801179, 4009464.039870 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009516.366000, "EASTING": 346041.321000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346098.468382, 4009481.099640 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009848.189000, "EASTING": 346166.716000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346252.006316, 4009817.745778 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009874.701000, "EASTING": 346169.461000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346260.536202, 4009854.708614 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009641.775000, "EASTING": 346091.619000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346148.510376, 4009570.947765 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009644.844000, "EASTING": 346099.227000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 346170.119418, 4009613.028532 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009671.729000, "EASTING": 346105.930000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346179.217962, 4009632.362939 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346203.670300, 4009690.366158 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009759.019000, "EASTING": 346142.807000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346217.318116, 4009724.485699 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009796.612000, "EASTING": 346153.174000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346234.946546, 4009768.841102 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009810.761000, "EASTING": 346162.703000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346238.927159, 4009781.351601 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4009825.642000, "EASTING": 346164.262000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346246.319726, 4009799.548689 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010014.880000, "EASTING": 346195.008000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346274.160964, 4009966.492376 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010171.356000, "EASTING": 346353.383000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346402.647164, 4010119.507758 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010264.689000, "EASTING": 346442.411000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346471.951841, 4010219.571253 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010268.188000, "EASTING": 346453.596000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346482.853700, 4010235.534690 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346542.402903, 4010253.707516 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010354.500000, "EASTING": 346531.404000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346572.794040, 4010318.466691 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010380.146000, "EASTING": 346545.333000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346594.208406, 4010335.208832 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010407.919000, "EASTING": 346559.548000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346610.561195, 4010350.393565 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010454.022000, "EASTING": 346578.771000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346648.717703, 4010396.337115 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010474.283000, "EASTING": 346593.858000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346664.681140, 4010417.362129 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010491.674000, "EASTING": 346613.789000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346690.767732, 4010454.739933 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010471.368000, "EASTING": 346591.331000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 346661.955675, 4010413.468608 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010635.611000, "EASTING": 346698.758000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346737.100634, 4010610.091428 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010672.342000, "EASTING": 346709.566000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346749.170549, 4010646.301175 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010711.057000, "EASTING": 346722.156000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346767.470099, 4010682.510922 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010729.913000, "EASTING": 346732.258000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346777.203902, 4010698.474359 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010789.630000, "EASTING": 346769.142000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346806.794663, 4010758.434585 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010811.108000, "EASTING": 346785.184000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346819.643283, 4010780.238304 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010843.129000, "EASTING": 346801.993000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346837.942833, 4010796.591093 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010843.129000, "EASTING": 346801.993000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346862.082664, 4010808.271657 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010864.803000, "EASTING": 346818.522000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346888.947960, 4010826.960558 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010900.027000, "EASTING": 346844.265000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346895.956298, 4010837.083714 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010909.291000, "EASTING": 346856.357000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346906.858158, 4010855.772615 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010922.337000, "EASTING": 346865.666000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346915.813256, 4010870.567996 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010939.910000, "EASTING": 346888.236000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346935.670214, 4010890.814306 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010952.404000, "EASTING": 346901.033000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346951.244299, 4010912.228672 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010969.552000, "EASTING": 346915.680000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346970.322553, 4010939.872673 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010983.180000, "EASTING": 346923.887000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346975.773483, 4010956.614814 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011034.291000, "EASTING": 346964.935000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346997.577201, 4010992.045857 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011034.291000, "EASTING": 346964.935000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347028.336019, 4011000.222251 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011076.296000, "EASTING": 347010.395000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347048.971681, 4011011.902815 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011085.905000, "EASTING": 347022.234000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347071.164752, 4011025.919491 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011112.163000, "EASTING": 347054.768000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347111.268020, 4011060.571830 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011135.241000, "EASTING": 347080.011000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347129.178218, 4011079.650084 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011154.308000, "EASTING": 347102.663000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347151.760640, 4011104.957971 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011173.137000, "EASTING": 347118.416000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347169.670838, 4011125.593634 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011186.892000, "EASTING": 347132.422000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347181.740754, 4011155.184395 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011233.651000, "EASTING": 347176.008000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347208.606050, 4011186.332564 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011254.132000, "EASTING": 347198.660000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347233.524585, 4011201.517297 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011266.748000, "EASTING": 347217.462000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347248.319966, 4011210.472396 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011294.602000, "EASTING": 347261.053000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347290.759347, 4011230.718706 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011304.427000, "EASTING": 347281.914000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347303.218615, 4011235.780283 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011322.666000, "EASTING": 347315.017000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347356.949207, 4011256.026593 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011340.734000, "EASTING": 347337.259000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347374.080700, 4011263.034932 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011345.304000, "EASTING": 347345.244000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347395.105715, 4011271.211326 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011351.174000, "EASTING": 347358.856000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347409.122391, 4011278.219664 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011364.735000, "EASTING": 347371.349000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347421.581659, 4011287.174763 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011370.627000, "EASTING": 347373.765000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347434.430279, 4011296.129862 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011390.957000, "EASTING": 347381.165000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347451.561772, 4011308.589130 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011409.930000, "EASTING": 347393.830000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347461.684927, 4011331.171552 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011418.140000, "EASTING": 347405.600000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347469.471969, 4011346.745637 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011435.501000, "EASTING": 347417.640000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347477.259012, 4011362.319722 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011450.305000, "EASTING": 347424.452000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347494.001153, 4011376.725750 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011461.967000, "EASTING": 347545.149000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347556.686844, 4011390.742427 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011487.619000, "EASTING": 347700.382000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347728.391129, 4011413.324850 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011489.481000, "EASTING": 347687.454000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347701.525832, 4011402.422990 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011842.878000, "EASTING": 347770.424000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347865.832427, 4011808.906602 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4011962.176000, "EASTING": 347812.932000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347898.018868, 4011930.903600 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012117.542000, "EASTING": 347817.088000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347917.746042, 4012113.639527 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012159.197000, "EASTING": 347828.140000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 347919.303451, 4012155.689556 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012266.764000, "EASTING": 347825.112000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347909.959000, 4012256.921107 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012491.275000, "EASTING": 347883.754000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347964.468297, 4012450.558894 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012588.809000, "EASTING": 347918.491000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347989.386832, 4012568.921939 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012605.547000, "EASTING": 347924.165000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347988.348560, 4012585.534296 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012653.607000, "EASTING": 347934.264000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 347997.173875, 4012607.857150 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012733.738000, "EASTING": 347982.543000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348057.912805, 4012674.306579 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012792.560000, "EASTING": 348029.629000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348096.328881, 4012722.067105 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012829.133000, "EASTING": 348087.805000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348154.991267, 4012760.483181 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012893.396000, "EASTING": 348139.371000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348211.577108, 4012840.430149 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012911.502000, "EASTING": 348153.505000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348222.478967, 4012858.599915 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012932.210000, "EASTING": 348163.358000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348237.533916, 4012888.190676 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4012949.306000, "EASTING": 348173.119000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348233.380827, 4012915.704892 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013000.306000, "EASTING": 348242.541000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348275.430856, 4012970.214189 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013315.165000, "EASTING": 348342.536000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 348390.159947, 4013276.504523 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013043.120000, "EASTING": 348279.608000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348334.093242, 4013028.876575 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013074.132000, "EASTING": 348285.231000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348333.574105, 4013068.850059 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013140.492000, "EASTING": 348279.320000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348327.863608, 4013130.627262 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013201.974000, "EASTING": 348293.062000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348328.901880, 4013178.906925 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013233.828000, "EASTING": 348306.935000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348340.322875, 4013214.208184 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013050.619000, "EASTING": 348286.823000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 348335.650650, 4013048.603749 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013404.632000, "EASTING": 348409.841000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348448.822333, 4013372.025576 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013428.717000, "EASTING": 348426.084000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 348466.992098, 4013394.348431 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013461.296000, "EASTING": 348459.324000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348492.429770, 4013422.381783 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013523.343000, "EASTING": 348515.252000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348552.649564, 4013486.235531 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013622.203000, "EASTING": 348610.303000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348658.034205, 4013559.433729 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013672.976000, "EASTING": 348670.506000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348715.658318, 4013609.789937 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4013739.423000, "EASTING": 348723.171000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 348777.435521, 4013687.660360 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014305.555000, "EASTING": 349106.974000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 349188.601193, 4014235.217880 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 349294.004060, 4014368.781818 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014518.835000, "EASTING": 349168.258000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 349340.670978, 4014417.057940 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014490.546000, "EASTING": 349151.148000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 349303.659285, 4014377.632440 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014685.121000, "EASTING": 349423.297000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349477.453325, 4014619.013052 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014716.717000, "EASTING": 349453.586000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349520.097233, 4014669.702980 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4014820.958000, "EASTING": 349450.751000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349578.833182, 4014792.002490 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4015074.030000, "EASTING": 349559.381000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 349675.745859, 4015053.252674 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4015228.320000, "EASTING": 349608.235000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 349719.247648, 4015158.326224 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4015335.109000, "EASTING": 349683.839000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349771.243321, 4015263.335149 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4015389.682000, "EASTING": 349737.371000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349812.805246, 4015333.722281 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4015422.882000, "EASTING": 349747.157000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349848.333988, 4015394.054108 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025186.149000, "EASTING": 340976.200000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 341059.161327, 4025256.986241 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025182.151000, "EASTING": 340980.294000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 341068.879942, 4025244.612765 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027220.876000, "EASTING": 334883.206000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 334925.238340, 4027331.693107 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030064.921000, "EASTING": 327026.894000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 327070.984186, 4030155.352510 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030064.921000, "EASTING": 327026.894000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 327078.289316, 4030149.400615 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030155.629000, "EASTING": 326940.863000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 326948.138210, 4030165.903065 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030128.531000, "EASTING": 326932.678000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326943.524465, 4030161.298303 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030128.531000, "EASTING": 326932.678000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326935.093313, 4030155.306573 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030067.870000, "EASTING": 327022.135000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 327066.666414, 4030157.514176 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030067.870000, "EASTING": 327022.135000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 327073.730742, 4030151.774410 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/13", "NORTHING": 4031429.056000, "EASTING": 325500.222000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 325460.139054, 4031389.933454 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/13", "NORTHING": 4031309.547000, "EASTING": 325567.063000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 325525.659975, 4031291.902153 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/13", "NORTHING": 4031204.076000, "EASTING": 325599.540000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 325556.169716, 4031189.869573 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030119.292000, "EASTING": 326602.382000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326570.493591, 4030106.523660 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030077.197000, "EASTING": 326649.389000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326633.513714, 4030043.003378 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030065.387000, "EASTING": 326659.955000, "pntstruc": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 326651.019303, 4030045.504176 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030057.666000, "EASTING": 326703.148000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 326688.531281, 4030028.498746 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030049.903000, "EASTING": 326713.240000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 326695.533517, 4030025.497788 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030044.941000, "EASTING": 326717.742000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326705.536711, 4030020.496191 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030035.266000, "EASTING": 326758.615000, "pntstruc": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 326748.050285, 4030006.991879 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030022.431000, "EASTING": 326788.852000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326775.559069, 4029996.488525 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4030205.342000, "EASTING": 326561.564000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326528.980336, 4030178.046497 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029964.197000, "EASTING": 326881.305000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326865.587815, 4029941.971118 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029942.612000, "EASTING": 326923.520000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 326906.100751, 4029913.462015 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029928.910000, "EASTING": 326936.140000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326920.105223, 4029903.958981 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029907.974000, "EASTING": 326976.193000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 326958.117360, 4029877.450516 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029857.016000, "EASTING": 327100.434000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 327078.655848, 4029796.924804 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029804.846000, "EASTING": 327189.839000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 327165.683636, 4029750.910112 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029626.462000, "EASTING": 327535.368000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 327512.794469, 4029575.354057 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029604.744000, "EASTING": 327567.376000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 327543.804371, 4029560.349266 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029501.346000, "EASTING": 327775.140000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 327746.869209, 4029459.817166 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029489.778000, "EASTING": 327782.794000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 327760.873681, 4029451.314451 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029482.160000, "EASTING": 327793.276000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 327771.377035, 4029445.812694 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029463.744000, "EASTING": 327822.719000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 327800.886457, 4029427.806945 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029453.653000, "EASTING": 327831.895000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 327814.390769, 4029419.304230 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4029473.307000, "EASTING": 327812.571000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 327791.883583, 4029433.308701 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028863.474000, "EASTING": 328807.476000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328788.701868, 4028808.609234 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028890.169000, "EASTING": 328724.864000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328694.171684, 4028831.616580 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028890.169000, "EASTING": 328724.864000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328612.645653, 4028872.129516 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028890.169000, "EASTING": 328724.864000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328569.131759, 4028893.636383 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028944.586000, "EASTING": 328566.157000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328546.624572, 4028906.640536 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028990.054000, "EASTING": 328525.024000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 328490.606686, 4028943.152194 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028945.954000, "EASTING": 328565.738000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 328537.709871, 4028911.551659 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028867.654000, "EASTING": 328805.232000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 328780.699313, 4028811.610192 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028253.624000, "EASTING": 330726.038000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 330652.296916, 4028196.413759 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027917.646000, "EASTING": 330726.323000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 330576.672555, 4027885.504553 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027761.251000, "EASTING": 330713.500000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 330696.768972, 4027745.468626 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027761.251000, "EASTING": 330713.500000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 330682.204584, 4027791.892615 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027797.822000, "EASTING": 330702.666000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 330677.333639, 4027751.495386 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4027797.822000, "EASTING": 330702.666000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 330673.811614, 4027811.845880 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025889.709000, "EASTING": 336160.580000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336146.334281, 4025850.870364 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025864.504000, "EASTING": 336194.307000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336184.634224, 4025834.912054 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025852.593000, "EASTING": 336218.751000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336211.908426, 4025824.176464 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025845.499000, "EASTING": 336230.977000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336222.063714, 4025819.243896 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025836.827000, "EASTING": 336267.345000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336257.171996, 4025802.415133 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025830.032000, "EASTING": 336285.718000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336274.000759, 4025793.710600 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025822.271000, "EASTING": 336298.577000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336289.088615, 4025785.586370 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025807.137000, "EASTING": 336352.460000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336342.476415, 4025760.923528 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025790.150000, "EASTING": 336368.804000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336361.626386, 4025756.571261 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025788.978000, "EASTING": 336388.270000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336372.361977, 4025753.089448 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025784.443000, "EASTING": 336397.935000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 336384.838473, 4025747.866729 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025772.918000, "EASTING": 336440.339000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336430.392194, 4025720.592527 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025766.594000, "EASTING": 336505.772000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336482.619389, 4025724.944793 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025767.997000, "EASTING": 336506.699000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 336494.515583, 4025723.784189 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025758.357000, "EASTING": 336520.704000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336515.986764, 4025720.592527 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025755.164000, "EASTING": 336547.550000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336550.224592, 4025713.919052 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025751.092000, "EASTING": 336571.734000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 336570.245017, 4025710.727390 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025746.012000, "EASTING": 336587.945000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336585.913175, 4025708.116030 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025741.436000, "EASTING": 336673.140000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 336678.471372, 4025700.281951 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025499.256000, "EASTING": 338147.382000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 338106.111428, 4025386.209521 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025317.059000, "EASTING": 338379.053000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 338347.001307, 4025256.221834 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025216.430000, "EASTING": 338994.365000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 339000.524131, 4025047.405234 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025240.664000, "EASTING": 338958.109000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 338961.347872, 4025031.322504 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4025255.385000, "EASTING": 338957.698000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 338955.754786, 4025027.837338 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021326.219000, "EASTING": 343732.052000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 343681.424841, 4021273.755426 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021297.027000, "EASTING": 343855.744000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 343786.038911, 4021206.417634 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021295.124000, "EASTING": 343865.757000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 343805.278280, 4021196.196719 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021205.413000, "EASTING": 343969.740000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 343923.720647, 4021138.478612 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021164.315000, "EASTING": 344009.215000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343967.610458, 4021112.625709 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021128.420000, "EASTING": 344041.804000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344010.297808, 4021086.171577 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021089.401000, "EASTING": 344099.872000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344064.408534, 4021052.502681 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021074.573000, "EASTING": 344109.847000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344087.255285, 4021040.478075 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021038.488000, "EASTING": 344160.251000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344128.740175, 4020994.784573 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021024.109000, "EASTING": 344171.657000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344135.353708, 4020985.766119 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021017.228000, "EASTING": 344178.262000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344148.580774, 4020976.747664 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021032.503000, "EASTING": 344230.129000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344170.826295, 4020959.913216 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021022.526000, "EASTING": 344244.928000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344193.673046, 4020943.078768 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4021009.902000, "EASTING": 344260.032000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344202.691500, 4020935.864005 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020968.926000, "EASTING": 344329.253000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344275.440365, 4020888.968043 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020910.871000, "EASTING": 344421.535000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344379.453204, 4020835.458547 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020898.511000, "EASTING": 344434.853000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344391.477810, 4020830.047474 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020883.664000, "EASTING": 344449.092000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344406.508567, 4020824.636402 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020883.664000, "EASTING": 344449.092000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344419.735634, 4020818.624099 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020853.274000, "EASTING": 344496.079000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344459.416833, 4020796.979809 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020824.964000, "EASTING": 344531.181000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 344494.889420, 4020778.341670 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020800.244000, "EASTING": 344562.749000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 344533.368158, 4020756.096149 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020743.947000, "EASTING": 344626.715000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 344584.472732, 4020713.408799 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020726.902000, "EASTING": 344636.056000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 344603.110871, 4020687.555896 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020606.731000, "EASTING": 344789.514000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344722.154468, 4020552.279082 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020564.156000, "EASTING": 344818.638000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344763.038128, 4020515.002804 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020732.994000, "EASTING": 344631.910000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 344598.902259, 4020693.568199 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020415.995000, "EASTING": 344968.794000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344914.548160, 4020375.517378 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020382.331000, "EASTING": 344987.278000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344933.186299, 4020349.664475 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020328.648000, "EASTING": 345007.637000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344957.235510, 4020303.369743 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020289.497000, "EASTING": 345025.920000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344980.683491, 4020259.479932 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020275.495000, "EASTING": 345033.638000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344990.303176, 4020242.044254 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020264.067000, "EASTING": 345035.791000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344996.315479, 4020231.823339 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020182.354000, "EASTING": 345096.845000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 345043.812672, 4020151.258480 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020187.392000, "EASTING": 345093.629000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345044.413902, 4020159.074474 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4020128.377000, "EASTING": 345135.340000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345071.469265, 4020079.712076 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345199.531316, 4019747.231728 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4019166.203000, "EASTING": 345827.336000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345682.920467, 4019009.522166 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4019161.399000, "EASTING": 345833.468000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345687.730309, 4019003.509863 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4006319.345000, "EASTING": 345407.294000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345508.508079, 4006309.719509 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/12", "NORTHING": 4010079.423000, "EASTING": 346221.614000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 346276.585376, 4010039.092028 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028821.194000, "EASTING": 328859.547000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 328827.416982, 4028762.747928 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2005\/10\/11", "NORTHING": 4028803.668000, "EASTING": 328890.323000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 328864.407111, 4028731.922821 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "" }, "geometry": { "type": "Point", "coordinates": [ 346450.248558, 4010226.057408 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349898.070316, 4014982.405783 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990173.143000, "EASTING": 346304.324000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346134.934547, 3990055.687690 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 349891.785770, 4014977.274117 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Public ramp" }, "geometry": { "type": "Point", "coordinates": [ 349902.896543, 4014973.438671 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990205.239000, "EASTING": 346257.206000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346107.627183, 3990086.317132 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990219.250000, "EASTING": 346237.179000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 346101.632914, 3990091.669166 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990236.275000, "EASTING": 346204.939000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 346090.999739, 3990099.805865 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990266.859000, "EASTING": 346144.639000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346029.747774, 3990152.967378 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990269.396000, "EASTING": 346129.530000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 346027.217562, 3990156.329803 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990333.278000, "EASTING": 345999.523000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345919.799890, 3990243.842810 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990302.451000, "EASTING": 346060.506000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 345978.731083, 3990203.336544 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990380.168000, "EASTING": 345924.577000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345855.821245, 3990276.792296 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990393.741000, "EASTING": 345891.029000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345832.274314, 3990291.807900 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990447.636000, "EASTING": 345774.181000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 345750.077838, 3990322.408838 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3990568.614000, "EASTING": 345606.199000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345494.319036, 3990393.471615 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991043.008000, "EASTING": 345375.949000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 345064.726778, 3990917.165918 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991288.307000, "EASTING": 345310.807000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344993.136568, 3991085.297128 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991638.918000, "EASTING": 345197.438000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 344856.969590, 3991322.449377 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991864.426000, "EASTING": 344766.302000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344607.475798, 3991850.533448 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991898.025000, "EASTING": 344735.343000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344596.215891, 3991871.623906 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3991946.870000, "EASTING": 344714.480000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 344582.264149, 3991896.317175 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3997561.819000, "EASTING": 344056.771000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343720.917143, 3997552.705565 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3997628.335000, "EASTING": 344033.525000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343702.893312, 3997605.367964 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999356.608000, "EASTING": 343327.811000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343123.717997, 3999163.545914 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999245.540000, "EASTING": 343383.349000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343125.044587, 3999093.574286 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999190.191000, "EASTING": 343407.990000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343125.474699, 3999052.858450 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999135.539000, "EASTING": 343429.161000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343152.331941, 3999020.459055 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999096.803000, "EASTING": 343439.554000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343164.858073, 3998994.904164 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3998953.252000, "EASTING": 343486.693000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343176.875436, 3998956.847418 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3998929.514000, "EASTING": 343496.595000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 343181.992225, 3998944.043956 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3998881.630000, "EASTING": 343508.451000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 343230.686963, 3998757.514671 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999889.850000, "EASTING": 342794.069000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342571.577132, 3999829.057405 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 3999998.522000, "EASTING": 342769.358000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342592.550285, 3999940.855355 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4000172.856000, "EASTING": 342805.491000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342463.038111, 4000111.355973 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4000211.266000, "EASTING": 342781.017000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342461.610712, 4000123.091191 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4000596.469000, "EASTING": 342686.859000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342437.219258, 4000564.719491 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4000851.130000, "EASTING": 342652.430000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342426.840828, 4000762.841639 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4007107.643000, "EASTING": 342831.224000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342727.797804, 4007178.623059 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4006928.835000, "EASTING": 342752.103000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 342581.787567, 4006977.305011 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4006666.885000, "EASTING": 342593.948000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342443.890417, 4006733.620598 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4007639.697000, "EASTING": 342822.866000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342649.030731, 4007587.369040 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4007926.137000, "EASTING": 342693.848000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342503.131048, 4007909.480603 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/02", "NORTHING": 4008199.830000, "EASTING": 342634.850000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342514.584573, 4008144.737472 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3987289.460000, "EASTING": 346790.938000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346427.342706, 3987281.417085 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3987216.773000, "EASTING": 346784.553000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346444.379804, 3987233.236377 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3987144.055000, "EASTING": 346772.605000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 346413.279022, 3987169.072112 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3987085.999000, "EASTING": 346753.905000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 346417.355822, 3986983.360257 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986877.461000, "EASTING": 356818.763000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357037.073347, 3987014.992076 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986852.273000, "EASTING": 356843.674000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357060.926606, 3986980.698086 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986812.861000, "EASTING": 356869.222000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357003.018619, 3987057.189174 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986763.371000, "EASTING": 356913.378000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357137.568306, 3986878.619570 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986713.507000, "EASTING": 356957.750000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357087.571253, 3986922.623249 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986418.630000, "EASTING": 357293.766000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357396.025963, 3986529.454442 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986293.750000, "EASTING": 357430.829000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357532.609020, 3986394.527718 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986268.692000, "EASTING": 357471.161000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357558.492590, 3986365.571118 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986230.133000, "EASTING": 357520.301000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357588.220096, 3986327.156634 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986517.880000, "EASTING": 357226.918000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357358.439201, 3986582.563656 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986536.658000, "EASTING": 357203.584000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357331.985759, 3986618.308365 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986544.902000, "EASTING": 357192.481000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357319.061135, 3986633.208797 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986552.278000, "EASTING": 357182.901000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357304.722391, 3986654.931593 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986561.547000, "EASTING": 357171.370000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357298.414388, 3986666.180815 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986600.642000, "EASTING": 357111.796000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357254.746647, 3986715.308983 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986662.812000, "EASTING": 357032.818000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357192.669296, 3986810.848179 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986662.812000, "EASTING": 357032.818000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357199.787223, 3986798.720441 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986634.347000, "EASTING": 357065.706000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357220.744047, 3986766.625475 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986627.672000, "EASTING": 357074.550000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 357226.511061, 3986759.900776 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986619.854000, "EASTING": 357086.054000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357230.963060, 3986754.327732 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986607.657000, "EASTING": 357102.669000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357240.113904, 3986741.282737 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986596.122000, "EASTING": 357116.978000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357264.500120, 3986705.611041 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986583.983000, "EASTING": 357131.189000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357250.406361, 3986727.548867 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986088.736000, "EASTING": 357718.107000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357754.904345, 3986267.112859 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3986083.317000, "EASTING": 357732.978000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 357775.598433, 3986256.124983 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3985953.984000, "EASTING": 357895.675000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 357978.652739, 3986196.295408 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3985853.452000, "EASTING": 358056.596000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 358189.077904, 3986151.387673 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3985833.263000, "EASTING": 358167.805000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 358250.946042, 3986154.794238 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "2006\/05\/03", "NORTHING": 3985798.701000, "EASTING": 358292.427000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 358325.786060, 3986165.284490 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 345908.050206, 3990251.341833 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 345797.169101, 3990312.506386 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 342589.845789, 3999930.894247 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 356904.090577, 3987161.145785 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 356922.673920, 3987085.957892 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 343233.254598, 3998690.205745 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 342208.815328, 4001251.628256 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 342224.856576, 4001332.187432 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342208.386764, 4001497.602520 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342226.576495, 4001602.437812 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342234.300941, 4001649.690451 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342237.183258, 4001663.495184 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 342150.352218, 4002504.919456 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 342149.499060, 4002643.624334 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342128.742898, 4002719.221235 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342113.463383, 4002769.677881 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342234.988316, 4003492.747289 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342218.726139, 4003439.241520 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342212.481619, 4003418.911966 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342204.118006, 4003399.752049 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342186.044997, 4003354.986852 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342164.154824, 4003296.293399 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342147.427604, 4003257.973537 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342232.815250, 4003696.306632 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Boathouse" }, "geometry": { "type": "Point", "coordinates": [ 342219.804400, 4003606.252809 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342258.891644, 4003541.615593 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342260.363173, 4003530.507561 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342464.106360, 4004187.571620 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342441.497235, 4004150.675853 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342362.336087, 4004380.797345 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dock" }, "geometry": { "type": "Point", "coordinates": [ 342664.315655, 4007080.057791 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Private ramp" }, "geometry": { "type": "Point", "coordinates": [ 342738.188910, 4007186.333631 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 342852.042669, 4007257.864495 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Outfall" }, "geometry": { "type": "Point", "coordinates": [ 342809.900573, 4007320.846471 ] } }
+,
+{ "type": "Feature", "properties": { "GPS_DATE": "1899\/12\/30", "NORTHING": 0.000000, "EASTING": 0.000000, "pntstruc": "Dilapidated dock" }, "geometry": { "type": "Point", "coordinates": [ 342723.252903, 4007470.088301 ] } }
+
+]
+}

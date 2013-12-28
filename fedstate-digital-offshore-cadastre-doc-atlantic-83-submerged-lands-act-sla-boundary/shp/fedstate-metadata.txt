@@ -1,0 +1,316 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Minerals Management Service, Mapping and Boundary Branch
+      Publication_Date: 19980810
+      Title: FEDSTATE: Digital Offshore Cadastre (DOC) - Atlantic83 - Submerged Lands Act (SLA) Boundary
+      Geospatial_Data_Presentation_Form: vector digital data
+      Series_Information:
+        Series_Name: Digital Offshore Cadastre
+        Issue_Identification: current
+      Publication_Information:
+        Publication_Place: Lakewood, Colorado
+        Publisher: Minerals Management Service, Mapping and Boundary Branch
+      Online_Linkage: ftp://ommgis.mrm.mms.gov/mapping/atlantic83
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Minerals Management Service, Mapping and Boundary Branch
+          Publication_Date: 199806
+          Title: Technical Information Management System (TIMS), Mapping System, Block and Boundary Component
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Lakewood, Colorado
+            Publisher: Minerals Management Service, Mapping and Boundary Branch
+  Description:
+    Abstract: Areas of the Outer Continental Shelf (OCS) within Federal jurisdiction, and associated data the Minerals Management Service (MMS) uses to develop an offshore cadastre (OCS blocks).  An official baseline is established and used to generate the Submerged Lands Act (SLA) Boundary and Limit of '8(g) Zone'.  Other boundaries and lines (Exclusive Economic Zone (EEZ), international maritime, marine sanctuaries and national park) may also be included where these are appropriate and known.
+    Purpose: Official Protraction Diagrams (OPD's) and associated boundaries and areas are generated in accordance with 30 Code of Federal Regulations (CFR) 256.8 to support Federal land ownership and mineral resource management.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 199808
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -82.982005
+      East_Bounding_Coordinate: -66.912333
+      North_Bounding_Coordinate: 44.767668
+      South_Bounding_Coordinate: 24.395269
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: General
+      Theme_Keyword: Minerals Management Service
+      Theme_Keyword: Mapping and Boundary Branch
+      Theme_Keyword: state/federal boundary
+      Theme_Keyword: Offshore
+      Theme_Keyword: Cadastre
+      Theme_Keyword: Submerged Lands Act Boundary, SLA
+      Theme_Keyword: Outer Continental Shelf, OCS
+      Theme_Keyword: Minerals Management Service, MMS
+      Theme_Keyword: Oil and gas
+      Theme_Keyword: Sand and gravel
+      Theme_Keyword: Three Mile Line
+      Theme_Keyword: Geographic Information Systems
+      Theme_Keyword: GIS
+    Place:
+      Place_Keyword_Thesaurus: General
+      Place_Keyword: USA
+      Place_Keyword: eastcoast
+      Place_Keyword: Atlantic Ocean
+      Place_Keyword: Exclusive Economic Zone, EEZ
+      Place_Keyword: Maine, ME
+      Place_Keyword: New Hampshire, NH
+      Place_Keyword: Massachusetts, MA
+      Place_Keyword: Rhode Island, RI
+      Place_Keyword: Connecticut, CT
+      Place_Keyword: New York, NY
+      Place_Keyword: New Jersey, NJ
+      Place_Keyword: Delaware, DE
+      Place_Keyword: Maryland, MD
+      Place_Keyword: Virginia, VA
+      Place_Keyword: North Carolina, NC
+      Place_Keyword: South Carolina, SC
+      Place_Keyword: Georgia, GA
+      Place_Keyword: Florida, FL
+  Access_Constraints: None.
+  Use_Constraints:
+    The Block and Boundary data is in the public domain.
+
+    The data was developed within the U.S. Government; no proprietary rights may be attached to them nor may they be sold to the U.S. Government as part of any procurement of ADP products or services.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Minerals Management Service, Mapping & Boundary Branch
+        Contact_Person: Richard Naito
+      Contact_Position: Cartographer
+      Contact_Address:
+        Address_Type: mailing address
+        Address: P.O. Box 25165, Mail Stop 4011
+        Address: Denver Federal Center
+        City: Lakewood
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: (303) 275-7187
+      Contact_Facsimile_Telephone: (303) 275-7106
+      Contact_Electronic_Mail_Address: richard.naito@mms.gov
+      Hours_of_Service: 6:30am-2:30pm MT
+  Browse_Graphic:
+    Browse_Graphic_File_Name: http://coastalmap.marine.usgs.gov/GISdata/regional/eastcoast/basemaps/boundaries/fedstate/fedstate.gif
+    Browse_Graphic_File_Description: Image showing the MMS defined federal/state boundary for a portion US Atlantic Eastcoast.
+    Browse_Graphic_File_Type: GIF
+  Data_Set_Credit: U.S. Department of Interior, Minerals Management Service for creation of the data layer.
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.1.0.722
+  Cross_Reference:
+    Citation_Information:
+      Originator: Minerals Management Service, Mapping and Boundary Branch
+      Publication_Date: 1996-1997
+      Title: Supplemental Official OCS Block Diagrams (SOBD's)
+      Edition: current version, same vintage as OPD's
+      Geospatial_Data_Presentation_Form: Diagram
+      Publication_Information:
+        Publication_Place: Lakewood, Colorado
+        Publisher: Minerals Management Service, Mapping and Boundary Branch
+      Other_Citation_Details: SOBD's contain additional coordinate and area calculations for individual blocks.
+      Online_Linkage: None.  SOBD's are available only in paper form from the MMS Gulf of Mexico regional office.
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Minerals Management Service, Mapping and Boundary Branch
+          Publication_Date: 199806
+          Title: Technical Information Management System (TIMS), Mapping System, Block and Boundary Component
+  Cross_Reference:
+    Citation_Information:
+      Originator: Minerals Management Service, Gulf of Mexico Region, Leasing Division
+      Publication_Date: Unpublished material
+      Title: Leases
+      Publication_Information:
+        Publication_Place: New Orleans, Louisiana
+        Publisher: Minerals Management Service, Gulf of Mexico Region, Leasing Division
+      Other_Citation_Details: This Oracle database contains current information on the status of Federal leases.
+      Larger_Work_Citation:
+        Citation_Information:
+          Originator: Minerals Management Service
+          Publication_Date: 1998
+          Title: Technical Information Management System (TIMS), Lease Administration Component
+Data_Quality_Information:
+  Logical_Consistency_Report: Coordinates for OCS blocks, baseline, and projected boundaries are calculated quantities and have been defined to be correct to 3 decimal places of a meter.  The submerged lands act line coverage was build using Arc'Info double precision.
+  Completeness_Report: The NAD83 Atlantic Ocean Submerged Lands Act (SLA) Boundary line is shown for the entire Atlantic OCS.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Coordinates for points forming the Submerged Lands Act (SLA) Boundary line are calculated values to 3 decimal places of a meter.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Minerals Management Service, Mapping and Boundary Branch
+          Publication_Date: 199806
+          Title: TIMS, Mapping Syetem, Block and Boundary Component
+          Geospatial_Data_Presentation_Form: Map
+          Publication_Information:
+            Publication_Place: Lakewood, Colorado
+            Publisher: Minerals Management Service, Mapping and Boundary Branch
+      Type_of_Source_Media: Computer program
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 199806
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: MMS, TIMS
+      Source_Contribution: Source coordinates were taken from TIMS.
+    Process_Step:
+      Process_Description: The source data for the Submerged Lands Act (SLA) boundary line are baseline points in the TIMS Block and Boundary database.  In-house computer programs are used to generate points to form this line at the appropriate distance from the baseline points.
+      Source_Used_Citation_Abbreviation: MMS, TIMS
+      Process_Date: 199806
+      Source_Produced_Citation_Abbreviation: fedstate.dbf
+      Source_Produced_Citation_Abbreviation: fedstate.shp
+      Source_Produced_Citation_Abbreviation: fedstate.shx
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Minerals Management Service, Mapping and Boundary Branch
+            Contact_Person: Leland Thormahlen
+          Contact_Position: Branch chief
+          Contact_Address:
+            Address_Type: mailing address
+            Address: P.O. Box 25165, Mail Stop 4011
+            Address: Denver Federal Center
+            City: Lakewood
+            State_or_Province: Colorado
+            Postal_Code: 80225
+            Country: USA
+          Contact_Voice_Telephone: (303) 275-7121
+          Contact_Facsimile_Telephone: (303) 275-7106
+          Contact_Electronic_Mail_Address: leland.thormahlen@mms.gov
+          Hours_of_Service: 6:00am-3:00pm MT
+Spatial_Data_Organization_Information:
+  Indirect_Spatial_Reference: U.S. Atlantic Outer Continental Shelf (OCS)
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 1057
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.000000
+      Longitude_Resolution: 0.000000
+      Geographic_Coordinate_Units: Decimal degrees
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: fedstate.dbf
+      Entity_Type_Definition: Shapefile Attribute Table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: FID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Shape
+      Attribute_Definition: Feature geometry.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Coordinates defining the features.
+    Attribute:
+      Attribute_Label: FNODE_
+    Attribute:
+      Attribute_Label: TNODE_
+    Attribute:
+      Attribute_Label: LPOLY_
+    Attribute:
+      Attribute_Label: RPOLY_
+    Attribute:
+      Attribute_Label: LENGTH
+    Attribute:
+      Attribute_Label: FEDSTATE_
+    Attribute:
+      Attribute_Label: FEDSTATE_I
+    Attribute:
+      Attribute_Label: MMS_REGION
+    Attribute:
+      Attribute_Label: BDRY_TYPE_
+    Attribute:
+      Attribute_Label: BDRY_PT_PR
+    Attribute:
+      Attribute_Label: BDRY_APRV_
+    Attribute:
+      Attribute_Label: BLOCK_NUMB
+    Attribute:
+      Attribute_Label: BDRY_NM_CD
+    Attribute:
+      Attribute_Label: BDRY_NM_TX
+    Attribute:
+      Attribute_Label: BDRY_COV_S
+  Overview_Description:
+    Entity_and_Attribute_Overview: OCS Submerged Lands Act Boundary
+    Entity_and_Attribute_Detail_Citation: The coverages contain only the default attributes created by the Arc/Info generate, clean and build processes.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Minerals Management Service, Mapping and Boundary Branch
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: P.O. Box 25165, Mail Stop 4011
+        Address: Denver Federal Center
+        City: Lakewood
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: (303) 275-7121
+      Contact_Facsimile_Telephone: (303) 275-7106
+      Hours_of_Service: 6:00am-3:00pm MT
+  Resource_Description: Digital Offshore Cadastre
+  Distribution_Liability: As is.  No responsibility is assumed for the correctness of this data.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ARCE
+        Format_Version_Number: 7.0.4
+        Transfer_Size: 6.7 Mbytes
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: ftp://ommgis.mrm.mms.gov/mapping/atlantic83
+          Access_Instructions: Files are available via anonymous ftp from ommgis.mrm.mms.gov.  Go to the mapping/atlantic83 subdirectory and download the at83fs.tar.Z file in binary mode. The downloaded file will need to be uncompressed and then unarchived.  In a UNIX environment use 'uncompress at83fs.tar.Z' and then 'tar xvf at83fs.tar'.  In a DOS environment use 'gzip -d filename' and then 'tar -xvf filename'.  The resulting two files will be a metadata file, mdat83fs.txt, (this file) and the Arc/Info export data file, fedstate.e00.  The gzip.exe and tar.exe utility programs may be obtained from http://ftp.uni-mannheim.de/systems/msdos/tools/.
+          Online_Computer_and_Operating_System: Dell Pentium server running Windows NT 4.0
+    Fees: None
+Metadata_Reference_Information:
+  Metadata_Date: 20060605
+  Metadata_Review_Date: 20010716
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Minerals Management Service, Mapping and Boundary Branch
+        Contact_Person: Mark Fleury
+      Contact_Position: Cartographer
+      Contact_Address:
+        Address_Type: Mailing address
+        Address: P.O. Box 25165, Mail Stop 4011
+        Address: Denver Federal Center
+        City: Lakewood
+        State_or_Province: Colorado
+        Postal_Code: 80225
+        Country: USA
+      Contact_Voice_Telephone: (303) 275-7110
+      Contact_Facsimile_Telephone: (303) 275-7106
+      Contact_Electronic_Mail_Address: mark.fleury@mms.gov
+      Hours_of_Service: 6:30am - 3:00pm MT
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

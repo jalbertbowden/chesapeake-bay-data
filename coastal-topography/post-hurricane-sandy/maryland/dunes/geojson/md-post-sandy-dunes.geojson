@@ -1,0 +1,109 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "DHIGH": 2.980593, "DLOW": 1.794050, "DHIrms": 0.707922, "DLOrms": 0.681561, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 478730.106565, 4208841.653107 ], [ 478952.751354, 4209214.578807 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.976114, "DLOW": 1.831825, "DHIrms": 0.814373, "DLOrms": 0.682670, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 478952.751354, 4209214.578807 ], [ 479427.769929, 4210023.038132 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.481235, "DLOW": 2.127393, "DHIrms": 1.221954, "DLOrms": 0.778495, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 479427.769929, 4210023.038132 ], [ 479945.068929, 4210878.115050 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.182179, "DLOW": 2.535358, "DHIrms": 1.463487, "DLOrms": 0.748005, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 479945.068929, 4210878.115050 ], [ 480458.818542, 4211735.259322 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.991378, "DLOW": 2.546114, "DHIrms": 1.071350, "DLOrms": 0.715416, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 480458.818542, 4211735.259322 ], [ 480956.500701, 4212602.515418 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.687277, "DLOW": 2.399037, "DHIrms": 0.914487, "DLOrms": 0.685977, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 480956.500701, 4212602.515418 ], [ 481434.261040, 4213478.207294 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.906421, "DLOW": 2.404282, "DHIrms": 0.852679, "DLOrms": 0.665086, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 481434.261040, 4213478.207294 ], [ 481913.934586, 4214359.145622 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.209046, "DLOW": 2.602689, "DHIrms": 0.716808, "DLOrms": 0.686483, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 481913.934586, 4214359.145622 ], [ 482381.992066, 4215238.151903 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.999163, "DLOW": 2.527667, "DHIrms": 0.758895, "DLOrms": 0.832316, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 482381.992066, 4215238.151903 ], [ 482831.659863, 4216133.779359 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.257192, "DLOW": 1.964276, "DHIrms": 0.741252, "DLOrms": 0.833858, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 482831.659863, 4216133.779359 ], [ 483246.522568, 4217039.289740 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.624444, "DLOW": 1.540443, "DHIrms": 0.567957, "DLOrms": 0.637788, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 483246.522568, 4217039.289740 ], [ 483626.575595, 4217964.819922 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.335075, "DLOW": 1.464084, "DHIrms": 0.417555, "DLOrms": 0.484460, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 483626.575595, 4217964.819922 ], [ 483975.749838, 4218902.510143 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.438002, "DLOW": 1.720974, "DHIrms": 0.513700, "DLOrms": 0.460759, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 483975.749838, 4218902.510143 ], [ 484297.751349, 4219843.951844 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.553135, "DLOW": 1.723540, "DHIrms": 0.415745, "DLOrms": 0.461842, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 484297.751349, 4219843.951844 ], [ 484556.450990, 4220810.519526 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.635283, "DLOW": 1.701463, "DHIrms": 0.486461, "DLOrms": 0.617675, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 484556.450990, 4220810.519526 ], [ 484824.242799, 4221773.091780 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.013351, "DLOW": 1.967824, "DHIrms": 0.674846, "DLOrms": 0.575204, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 484824.242799, 4221773.091780 ], [ 485095.958659, 4222734.874578 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.297862, "DLOW": 2.111770, "DHIrms": 0.583132, "DLOrms": 0.447172, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 485095.958659, 4222734.874578 ], [ 485370.914301, 4223695.637970 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.057587, "DLOW": 1.872748, "DHIrms": 0.509418, "DLOrms": 0.519863, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 485370.914301, 4223695.637970 ], [ 485645.707371, 4224656.332362 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.731145, "DLOW": 1.635689, "DHIrms": 0.514570, "DLOrms": 0.534217, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 485645.707371, 4224656.332362 ], [ 485913.392433, 4225618.942291 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.969383, "DLOW": 1.743061, "DHIrms": 0.759696, "DLOrms": 0.773949, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 485913.392433, 4225618.942291 ], [ 486197.991493, 4226577.840833 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.773049, "DLOW": 1.549259, "DHIrms": 0.964719, "DLOrms": 0.775674, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 486197.991493, 4226577.840833 ], [ 486511.113294, 4227524.940063 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.159417, "DLOW": 1.595027, "DHIrms": 0.665796, "DLOrms": 0.679274, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 486511.113294, 4227524.940063 ], [ 486820.030469, 4228476.466966 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.119600, "DLOW": 2.276020, "DHIrms": 0.329442, "DLOrms": 0.585721, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 486820.030469, 4228476.466966 ], [ 487127.688604, 4229427.443004 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.952155, "DLOW": 2.501071, "DHIrms": 0.348050, "DLOrms": 0.427958, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 487127.688604, 4229427.443004 ], [ 487461.684244, 4230369.226127 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.928962, "DLOW": 2.413649, "DHIrms": 0.563787, "DLOrms": 0.558533, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 487461.684244, 4230369.226127 ], [ 487812.258720, 4231304.672146 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.068138, "DLOW": 2.513103, "DHIrms": 0.835331, "DLOrms": 0.473860, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 487812.258720, 4231304.672146 ], [ 488175.534308, 4232235.436363 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.226575, "DLOW": 2.376265, "DHIrms": 1.381104, "DLOrms": 0.735619, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 488175.534308, 4232235.436363 ], [ 488533.914405, 4233168.447078 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.172083, "DLOW": 1.558470, "DHIrms": 0.514814, "DLOrms": 0.464845, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 488533.914405, 4233168.447078 ], [ 488856.920515, 4234100.089764 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.041985, "DLOW": 1.306067, "DHIrms": 0.230580, "DLOrms": 0.198543, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 488856.920515, 4234100.089764 ], [ 489179.229765, 4235071.675494 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.207274, "DLOW": 1.370059, "DHIrms": 0.181960, "DLOrms": 0.211421, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 489179.229765, 4235071.675494 ], [ 489524.806377, 4235996.161885 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.296716, "DLOW": 1.461159, "DHIrms": 0.223226, "DLOrms": 0.245988, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 489524.806377, 4235996.161885 ], [ 489832.082752, 4236945.191880 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.262193, "DLOW": 1.430465, "DHIrms": 0.290215, "DLOrms": 0.264593, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 489832.082752, 4236945.191880 ], [ 490126.988157, 4237898.444957 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.373676, "DLOW": 1.493042, "DHIrms": 0.393958, "DLOrms": 0.370559, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 490126.988157, 4237898.444957 ], [ 490411.558570, 4238852.291336 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.658255, "DLOW": 1.693356, "DHIrms": 0.505585, "DLOrms": 0.466018, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 490411.558570, 4238852.291336 ], [ 490766.454128, 4239788.347055 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.883983, "DLOW": 1.829947, "DHIrms": 0.568843, "DLOrms": 0.537790, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 490766.454128, 4239788.347055 ], [ 491269.575645, 4240619.611710 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.190484, "DLOW": 2.064751, "DHIrms": 0.948670, "DLOrms": 0.732394, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 491269.575645, 4240619.611710 ], [ 491663.703091, 4241335.343361 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.324162, "DLOW": 2.165947, "DHIrms": 1.032078, "DLOrms": 0.731642, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 491663.703091, 4241335.343361 ], [ 492673.054888, 4242284.515208 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.258296, "DLOW": 1.980692, "DHIrms": 0.564990, "DLOrms": 0.518735, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 492673.054888, 4242284.515208 ], [ 492888.970411, 4242927.278652 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.316759, "DLOW": 1.984894, "DHIrms": 0.185387, "DLOrms": 0.545803, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 492888.970411, 4242927.278652 ], [ 493175.992672, 4243796.142533 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.411654, "DLOW": 2.153666, "DHIrms": 0.271943, "DLOrms": 0.597120, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 493175.992672, 4243796.142533 ], [ 493484.965015, 4244661.774154 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.965595, "DLOW": 2.679937, "DHIrms": 0.732616, "DLOrms": 0.647702, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 493484.965015, 4244661.774154 ], [ 493772.603562, 4245574.144759 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.755210, "DLOW": 3.220034, "DHIrms": 0.724090, "DLOrms": 0.479402, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 493772.603562, 4245574.144759 ], [ 493992.342514, 4246468.632643 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.203963, "DLOW": 3.412863, "DHIrms": 0.498062, "DLOrms": 0.344238, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 493992.342514, 4246468.632643 ], [ 494196.490830, 4247475.186930 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.358620, "DLOW": 3.495146, "DHIrms": 0.578421, "DLOrms": 0.439732, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 494196.490830, 4247475.186930 ], [ 494453.286929, 4248383.837936 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.256158, "DLOW": 3.406246, "DHIrms": 0.670711, "DLOrms": 0.568923, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 494453.286929, 4248383.837936 ], [ 494639.572701, 4249220.987769 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.914834, "DLOW": 3.051022, "DHIrms": 0.575315, "DLOrms": 0.684860, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 494639.572701, 4249220.987769 ], [ 494827.886017, 4250032.403228 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.695023, "DLOW": 2.802667, "DHIrms": 0.415693, "DLOrms": 0.676451, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 494827.886017, 4250032.403228 ], [ 495039.122427, 4250915.408798 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.572690, "DLOW": 2.807378, "DHIrms": 0.437821, "DLOrms": 0.695078, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 495039.122427, 4250915.408798 ], [ 495195.290303, 4251752.517395 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.523474, "DLOW": 2.920716, "DHIrms": 0.348775, "DLOrms": 0.621559, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 495195.290303, 4251752.517395 ], [ 495350.245422, 4252716.873579 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.952257, "DLOW": 3.437247, "DHIrms": 0.467329, "DLOrms": 0.439503, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 495350.245422, 4252716.873579 ], [ 495483.304639, 4253683.300174 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.135688, "DLOW": 3.534851, "DHIrms": 0.518316, "DLOrms": 0.443910, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 495483.304639, 4253683.300174 ], [ 495621.713629, 4254628.155437 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.870712, "DLOW": 3.249057, "DHIrms": 0.619766, "DLOrms": 0.891996, "State": "Maryland" }, "geometry": { "type": "LineString", "coordinates": [ [ 495621.713629, 4254628.155437 ], [ 495697.675243, 4255534.096109 ] ] } }
+
+]
+}

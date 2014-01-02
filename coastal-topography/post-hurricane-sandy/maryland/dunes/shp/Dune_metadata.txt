@@ -1,0 +1,441 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 2013
+        Title: Coastal Topography--Northeast Atlantic Coast, Post-Hurricane Sandy, 2012: Lidar-extracted dune features
+        Edition: first
+        Geospatial_Data_Presentation_Form: vector digital data
+        Series_Information:
+          Series_Name: U.S. Geological Survey Data Series
+          Issue_Identification: 765
+        Publication_Information:
+          Publication_Place: St. Petersburg, FL
+          Publisher: U.S. Geological Survey
+        Online_Linkage: http://pubs.usgs.gov/ds/765
+    Description:
+      Abstract: Dune crest and toe positions along a portion of the New York, Delaware, Maryland, Virginia, and North Carolina coastlines, post-Hurricane Sandy (Sandy was an October 2012 hurricane that made landfall as an extratropical cyclone on the 29th), were produced by the U.S. Geological Survey (USGS) from remotely sensed, geographically referenced elevation measurements collected by Photo Science, Inc. (Delaware, Maryland, Virginia, and North Carolina) and Woolpert, Inc. (Fire Island, New York)using using airborne lidar sensors.
+      Purpose: The purpose of this project was to derive mean-high-water shoreline, dune crest (DHIGH) and dune toe (DLOW) elevation for a portion of the Eastern United States coastline following Hurricane Sandy, for use as a management tool and to make these data available to natural-resource managers and research scientists.
+      Supplemental_Information: Processed data products are used by the USGS Coastal and Marine Geology Program's National Assessments of Coastal Change Hazards project to quantify the vulnerability of shorelines to coastal change hazards such as severe storms, sea-level rise, and shoreline erosion and retreat.
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Multiple_Dates/Times:
+          Single_Date/Time:
+            Calendar_Date: 20121105
+          Single_Date/Time:
+            Calendar_Date: 20121108
+          Single_Date/Time:
+            Calendar_Date: 20121109
+          Single_Date/Time:
+            Calendar_Date: 20121110
+          Single_Date/Time:
+            Calendar_Date: 20121111
+          Single_Date/Time:
+            Calendar_Date: 20121112
+          Single_Date/Time:
+            Calendar_Date: 20121116
+          Single_Date/Time:
+            Calendar_Date: 20121126
+          Single_Date/Time:
+            Calendar_Date: 20121128
+          Single_Date/Time:
+            Calendar_Date: 20121129
+      Currentness_Reference: ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -76.657104
+        East_Bounding_Coordinate: -72.752907
+        North_Bounding_Coordinate: 40.764116
+        South_Bounding_Coordinate: 34.589169
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: elevation
+      Theme:
+        Theme_Keyword_Thesaurus: General
+        Theme_Keyword: Cessna 206
+        Theme_Keyword: Cessna 310
+        Theme_Keyword: Dhigh
+        Theme_Keyword: Dlow
+        Theme_Keyword: Digital Elevation Model
+        Theme_Keyword: DEM
+        Theme_Keyword: dune crest
+        Theme_Keyword: dune toe
+        Theme_Keyword: extratropical cyclone
+        Theme_Keyword: laser altimetry
+        Theme_Keyword: lidar
+        Theme_Keyword: remote sensing
+        Theme_Keyword: shoreline
+        Theme_Keyword: topography
+      Theme:
+        Theme_Keyword_Thesaurus: Global Change Master Science Directory
+        Theme_Keyword: LAND SURFACE > TOPOGRAPHY > TERRAIN ELEVATION
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > BARRIER ISLANDS
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > BEACHES
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > SHORELINE DISPLACEMENT
+        Theme_Keyword: DOI/USGS/CMG > COASTAL AND MARINE GEOLOGY, U.S. GEOLOGICAL SURVEY, U.S. DEPARTMENT OF INTERIOR
+      Theme:
+        Theme_Keyword_Thesaurus: GCMD Instrument
+        Theme_Keyword: LIDAR > LIGHT DETECTION AND RANGING
+      Place:
+        Place_Keyword_Thesaurus: Geographic Names Information System
+        Place_Keyword: Delaware
+        Place_Keyword: Maryland
+        Place_Keyword: Fire Island
+        Place_Keyword: Long Island
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: Virginia
+        Place_Keyword: DelMarVa Peninsula
+        Place_Keyword: United States
+      Stratum:
+        Stratum_Keyword_Thesaurus: General
+        Stratum_Keyword: Bare Earth
+      Temporal:
+        Temporal_Keyword_Thesaurus: General
+        Temporal_Keyword: 2012
+        Temporal_Keyword: Post-Hurricane Sandy
+    Access_Constraints: None
+    Use_Constraints: The U.S. Geological Survey and National Park Service request to be acknowledged as originators of these data in future products or derivative research.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Hilary Stockdon
+          Contact_Organization: U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+        Contact_Position: Research Oceanographer
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3074)
+        Contact_Facsimile_Telephone: 727 803-2031
+        Contact_Electronic_Mail_Address: hstockdon@usgs.gov
+        Hours_of_Service: M-F, 9:00-5:00 ET
+    Data_Set_Credit: Acknowledgment of the U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, as a data source would be appreciated in products developed from these data, and such acknowledgment as is standard for citation and legal practices. Sharing of new data layers developed directly from these data would also be appreciated by the U.S. Geological Survey staff. Users should be aware that comparisons with other datasets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in photointerpretation, mapping conventions, and digital processes over time. These data are not legal documents and are not to be used as such.
+    Security_Information:
+      Security_Classification_System: Unclassified
+      Security_Classification: Unclassified
+      Security_Handling_Description: None
+    Native_Data_Set_Environment: Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.1.0.3035
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: Elevation estimates for the dune crest and toe elevation (DHIGH and DLOW, respectively) is an average of measurements over a 1-km segment of shoreline. The estimates are influenced by both the positional error of the lidar data (vertical accuracy of 0.147 meters at the 95% confidence level) and the probabilistic selection procedure used to identify the dune crest and toe. Root mean square error (RMSE) estimates for the post-Sandy dune crest/toe elevation were approximately between 0.02 to 5 meters. RMSE estimates for each shoreline segment are included within the table attributes (see attributes DHIrms and DLOrms).
+    Logical_Consistency_Report: Line segments were derived from a 20-year shoreline dataset. Line segments were deleted only where no dune crest or toe data were extracted, typically over large inlets or river mouths. Data was reviewed in ArcGIS by a data manager.
+    Completeness_Report: These data span from Long Island, New York to Cape Hatteras, North Carolina. The State of New Jersey data were collected using the EAARL-B sensor and those data will be published separately.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: The dune crest is defined as the highest elevation of the seaward-most sand dune. The dune toe is defined as the location of maximum slope change between the dune crest and mean-high-water shoreline. The position and elevation of dune crest and toe were determined at approximately 10-meter intervals, however these data were then interpolated to a baseline data set that was located near the shoreline and divided into 1-km segments, therefore each feature is representative of multiple measurements within a given 1-km segment. Feature position is not coincident with the geographic location of the dune crest or toe, and the positional error of the baseline data set is unknown. Recommended maximum scale for these data is 1:36,000.
+    Lineage:
+      Process_Step:
+        Process_Description: Using an Optech Gemini lidar sensor, 11 flight lines of high-density data, at a nominal pulse spacing (NPS) of 1 meter, were collected by Woolpert along the southern shore of Long Island, New York (approximately 15  square miles). Data Acquisition Height = 3,500 feet Above Ground Level (AGL) - Aircraft Speed = 125 Knots. Multiple returns were recorded for each laser pulse along with an intensity value for each return. A total of one mission was flown on November 5th. Two airborne global positioning system (GPS) base stations were used in support of the lidar data acquisition. Eight ground control points were surveyed through static methods. The GEOID used to reduce satellite-derived elevations to orthometric heights was GEOID96. Data for the task order is referenced to the UTM Zone 18N, North American Datum of 1983 (NAD83), and North American Vertical Datum of 1988 (NAVD88), in meters. Airborne GPS data was differentially processed and integrated with the post-processed inertial measurement unit (IMU) data to derive a smoothed best estimate of trajectory (SBET). The SBET was used to reduce the lidar slant range measurements to a raw reflective surface for each flight line. The coverage was classified to extract a bare earth digital elevation model (DEM) and separate last returns. In addition to the LAS deliverables, one layer of coverage was delivered in the ERDAS Imagine (IMG) Format: bare earth.
+        Process_Date: 20121105
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Woolpert, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Dayton
+              State_or_Province: OH
+              Postal_Code: 45430
+              Country: USA
+            Contact_Voice_Telephone: 937 461-5660
+            Contact_Facsimile_Telephone: 937 461-0743
+            Hours_of_Service: M-F, 8:00-5:00 ET
+      Process_Step:
+        Process_Description: The lidar calibration and system performance is verified on a periodic basis using Woolpert's calibration range. The calibration range consists of a large building and runway. The edges of the building and control points along the runway have been located using conventional survey methods. Inertial measurement unit (IMU) misalignment angles and horizontal accuracy are calculated by comparing the position of the building edges between opposing flight lines. The scanner scale factor and vertical accuracy is calculated through comparison of lidar data against control points along the runway. Field calibration is performed on all flight lines to refine the IMU misalignment angles. IMU misalignment angles are calculated from the relative displacement of features within the overlap region of adjacent (and opposing) flight lines. The raw lidar data are reduced using the refined misalignment angles.
+        Process_Date: 2012
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Woolpert, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Dayton
+              State_or_Province: OH
+              Postal_Code: 45430
+              Country: USA
+            Contact_Voice_Telephone: 937 461-5660
+            Contact_Facsimile_Telephone: 937 461-0743
+            Hours_of_Service: M-F, 8:00-5:00 ET
+      Process_Step:
+        Process_Description: Once the data acquisition and GPS processing phases are complete, the lidar data were processed immediately by Woolpert to verify the coverage had no voids. The GPS and IMU data was post-processed using differential and Kalman filter algorithms to derive a best estimate of trajectory. The quality of the solution was verified to be consistent with the accuracy requirements of the project.
+        Process_Date: 20121107
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Woolpert, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Dayton
+              State_or_Province: OH
+              Postal_Code: 45430
+              Country: USA
+            Contact_Voice_Telephone: 937 461-5660
+            Contact_Facsimile_Telephone: 937 461-0743
+            Hours_of_Service: M-F, 8:00-5:00 ET
+      Process_Step:
+        Process_Description: The individual flight lines were inspected by Woolpert to ensure the systematic and residual errors have been identified and removed. Then, the flight lines were compared to adjacent flight lines for any mismatches to obtain a homogenous coverage throughout the project area. The point cloud underwent a classification process to determine bare-earth points and non-ground points utilizing "first and only" as well as "last of many" lidar returns. This process determined Default (Class 1), Ground (Class 2), Noise (Class 7), Water (Class 9), Ignored Ground (Class 10), Overlap Default (Class 17), and Overlap Ground (class 18) classifications. The bare-earth (Class 2 - Ground) lidar points underwent a manual QA/QC step to verify that artifacts have been removed from the bare-earth surface. The surveyed ground control points are used to perform the accuracy checks and statistical analysis of the lidar dataset.
+        Process_Date: 20121107
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Woolpert, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Dayton
+              State_or_Province: OH
+              Postal_Code: 45430
+              Country: USA
+            Contact_Voice_Telephone: 937 461-5660
+            Contact_Facsimile_Telephone: 937 461-0743
+            Hours_of_Service: M-F, 8:00-5:00 ET
+      Process_Step:
+        Process_Description:
+          Photo Science, Inc. located a total of 29 calibration control points used in the post processing of the lidar data.  The points were located on relatively flat terrain on surfaces that generally consisted of grass, gravel, or bare earth. Applanix software (PosPAC MMS) was used in the post processing of the airborne GPS and inertial data, which are critical to the positioning and orientation of the sensor during all flights. POSPac MMS provides the smoothed best estimate of trajectory (SBET) that is necessary for the post processor to develop the point cloud from the lidar missions. The point cloud is the mathematical three-dimensional collection of all returns from all laser pulses as determined from the aerial mission. The GEOID used to reduce satellite derived elevations to orthometric heights was GEOID96. Data for the task order is referenced to the UTM Zone 18N, NAD83, and NAVD88, in meters. At this point the data are ready for analysis, classification, and filtering to generate a bare-earth surface model in which the above ground features are removed from the data set. The point cloud was manipulated by the Optech or Leica software; GeoCue, TerraScan, and TerraModeler software were used for the automated data classification, manual cleanup, and bare-earth generation from the data. Project specific macros were used to classify the ground and to remove the side overlap between parallel flight lines.
+          All data were manually reviewed and any remaining artifacts removed using functionality provided by TerraScan and TerraModeler.
+          All ground (ASPRS Class 2) lidar data inside of the Lake Pond and Double Line Drain hydro flattening breaklines were then classified to water (ASPRS Class 9) using TerraScan macro functionality.  All Lake Pond and Double Line Drain Island features were checked to ensure that the ground (ASPRS Class 2) were reclassified to the correct classification after the automated classification was completed.
+          All overlap data were processed through automated functionality provided by TerraScan to classify the overlapping flight line data to approved classes by USGS. The overlap data were classified to Class 17 (USGS Overlap Default) and Class 18 (USGS Overlap Ground). These classes were created through automated processes only and were not verified for classification accuracy.
+          Data were then run through additional macros to ensure deliverable classification levels matching the ASPRS LAS Version 1.2 Classification structure.  GeoCue functionality was then used to ensure correct LAS Versioning.  In-house software was used as a final QA/QC check to provide LAS Analysis of the delivered tiles. QA/QC checks were performed on a per tile level to verify final classification metrics and full LAS header information.
+        Process_Date: 2012
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Photo Science, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Lexington
+              State_or_Province: KY
+              Postal_Code: 40503
+              Country: USA
+            Contact_Voice_Telephone: 859 277-8700
+            Hours_of_Service: M-F, 9:00-5:00 ET
+      Process_Step:
+        Process_Description: All Photo Science elevation points classified as ground (Class 2), water (Class 9), and unclassified (Class 1) were extracted from the LAS files and converted to ASCII xyz point files using LASTools las2las.exe. The ASCII point files were then written to NetCDF (Network Common Data Form) using MATLAB 8.0.0.783.
+        Process_Date: 20130220 through 20130227
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Kristin Sopkin
+              Contact_Organization: Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+            Contact_Position: Data Modeler/Analyst
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 600 4th Street South
+              City: St. Petersburg
+              State_or_Province: FL
+              Postal_Code: 33701
+              Country: USA
+            Contact_Voice_Telephone: 727 803-8747 (x3141)
+            Contact_Electronic_Mail_Address: ksopkin@usgs.gov
+            Hours_of_Service: M-F, 8:00-4:00 ET
+      Process_Step:
+        Process_Description: All Woolpert, Inc. LAZ files were extracted to .las and converted to ASCII xyz point files using LASTools las2las.exe. The ASCII point files were then written to netcdf format using MATLAB 8.0.0.783.
+        Process_Date: 20130222 through 20130227
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Kristin Sopkin
+              Contact_Organization: Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+            Contact_Position: Data Modeler/Analyst
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 600 4th Street South
+              City: St. Petersburg
+              State_or_Province: FL
+              Postal_Code: 33701
+              Country: USA
+            Contact_Voice_Telephone: 727 803-8747 (x3141)
+            Contact_Electronic_Mail_Address: ksopkin@usgs.gov
+            Hours_of_Service: M-F, 8:00-4:00 ET
+      Process_Step:
+        Process_Description: Elevation data from lidar surveys were interpolated in MATLAB (version 2012a) to a gridded domain that was rotated parallel to the shoreline and had a resolution of 10 meters in the longshore direction and 2.5 meters in the cross-shore direction. The interpolation method applies spatial filtering with a Hanning window that is twice as wide as the grid resolution. The shoreline position was determined as the intersection of the 20-year mean high water contour line with the cross-shore profiles of the gridded elevations at 10-meter intervals along the coast using MATLAB 8.0.0.783. Reference for 20-year mean high water line: Weber, K.M., List, J.H., and Morgan, K.L.M., 2005, An operational mean high water datum for determination of shoreline position from topographic lidar data: U.S. Geological Survey Open-File Report 2005-1027, available at http://pubs.usgs.gov/of/2005/1027/. Dune crest and toe were interpolated in Matlab (version 2012a) and smoothed to a 1-kilometer alongshore spacing using a hanning window filter. Sections with greater than 75 percent of data missing are flagged with the invalid number of 999. The 1-kilometer smoothed dune crest, toe and RMSE for each were written to line shapefiles using Matlab's shapewrite.m script.
+        Process_Date: 20130227 through 20130409
+        Process_Contact:
+          Contact_Information:
+            Contact_Person_Primary:
+              Contact_Person: Kristin Sopkin
+              Contact_Organization: Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+            Contact_Position: Data Modeler/Analyst
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 600 4th Street South
+              City: St. Petersburg
+              State_or_Province: FL
+              Postal_Code: 33701
+              Country: USA
+            Contact_Voice_Telephone: 727 803-8747 (x3141)
+            Contact_Electronic_Mail_Address: ksopkin@usgs.gov
+            Hours_of_Service: M-F, 8:00-4:00 ET
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: String
+        Point_and_Vector_Object_Count: 629
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Planar:
+        Grid_Coordinate_System:
+          Grid_Coordinate_System_Name: Universal Transverse Mercator
+          Universal_Transverse_Mercator:
+            UTM_Zone_Number: 18
+            Transverse_Mercator:
+              Scale_Factor_at_Central_Meridian: 0.999600
+              Longitude_of_Central_Meridian: -75.000000
+              Latitude_of_Projection_Origin: 0
+              False_Easting: 500000.000000
+              False_Northing: 0
+        Planar_Coordinate_Information:
+          Planar_Coordinate_Encoding_Method: row and column
+          Coordinate_Representation:
+            Abscissa_Resolution: 1.00000
+            Ordinate_Resolution: 1.00000
+          Planar_Distance_Units: meters
+      Geodetic_Model:
+        Horizontal_Datum_Name: North American Datum of 1983
+        Ellipsoid_Name: Geodetic Reference System 80
+        Semi-major_Axis: 6378137.000000
+        Denominator_of_Flattening_Ratio: 298.25722210100002
+    Vertical_Coordinate_System_Definition:
+      Altitude_System_Definition:
+        Altitude_Datum_Name: North American Vertical Datum of 1988 (GEOID96)
+        Altitude_Resolution: 0.15
+        Altitude_Distance_Units: meters
+        Altitude_Encoding_Method: Explicit elevation coordinate included with horizontal coordinates and referenced to GEOID96
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Post_Sandy_dunes.shp
+        Entity_Type_Definition: Post-Hurricane Sandy lidar extracted dune features (dune crest and toe)
+        Entity_Type_Definition_Source: USGS
+      Attribute:
+        Attribute_Label: FID
+        Attribute_Definition: Internal feature number
+        Attribute_Definition_Source: ESRI
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: U.S. State Name
+        Attribute_Definition_Source: Geographic Names Information System (GNIS)
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: A text string containing the U.S. state name.
+      Attribute:
+        Attribute_Label: DHIGH
+        Attribute_Definition: Dune crest elevation
+        Attribute_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 8.65
+            Attribute_Units_of_Measure: meters, NAVD88
+      Attribute:
+        Attribute_Label: DLOW
+        Attribute_Definition: Dune toe elevation
+        Attribute_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 999
+            Enumerated_Domain_Value_Definition: No data available or NULL value
+            Enumerated_Domain_Value_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 4.47
+            Attribute_Units_of_Measure: meters, NAVD88
+      Attribute:
+        Attribute_Label: DHIrms
+        Attribute_Definition: Dune crest elevation root mean square error estimate
+        Attribute_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 4.70
+            Attribute_Units_of_Measure: meters, NAVD88
+      Attribute:
+        Attribute_Label: DLOrms
+        Attribute_Definition: Dune toe elevation root mean square error estimate
+        Attribute_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Enumerated_Domain:
+            Enumerated_Domain_Value: 999
+            Enumerated_Domain_Value_Definition: No data available or NULL value
+            Enumerated_Domain_Value_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 0
+            Range_Domain_Maximum: 1.50
+            Attribute_Units_of_Measure: meters, NAVD88
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+          Contact_Person: Hilary Stockdon
+        Contact_Position: Research Oceanographer
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3074)
+        Hours_of_Service: M-F, 9:00-5:00 ET
+    Resource_Description: DS 765
+    Distribution_Liability: Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data described and/or contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SHP; ZIP
+          Format_Version_Number: 1
+          Format_Specification: The dune feature data (Post_Sandy_dunes.shp) is a ArcGIS shapefile polyline dataset compressed into a zip file with metadata.
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://pubs.usgs.gov/ds/765/data/dune/Post_Sandy_dunes.zip
+      Fees: None, if obtained online; otherwise, prices vary.
+      Ordering_Instructions: Publications are available from USGS Information Services, Box 25286, Federal Center, Denver, CO 80225-0046 (telephone: 1-888-ASK-USGS, e-mail: infoservices@usgs.gov).
+  Metadata_Reference_Information:
+    Metadata_Date: 20130415
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Xan Fredericks
+          Contact_Organization: Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+        Contact_Position: Lidar Validation and Processing Analyst
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3086)
+        Contact_Electronic_Mail_Address: afredericks@usgs.gov
+        Hours_of_Service: M-F, 8:00-4:00 ET
+    Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Time_Convention: local time
+    Metadata_Extensions:
+      Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+      Profile_Name: ESRI Metadata Profile

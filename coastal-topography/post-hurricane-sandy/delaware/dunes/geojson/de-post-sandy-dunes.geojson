@@ -1,0 +1,83 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "DHIGH": 5.331644, "DLOW": 3.609085, "DHIrms": 0.238661, "DLOrms": 0.362533, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495723.717768, 4256023.352265 ], [ 495746.650026, 4256457.525396 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.318105, "DLOW": 3.653337, "DHIrms": 0.217173, "DLOrms": 0.328055, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495746.650026, 4256457.525396 ], [ 495757.509408, 4257299.512402 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.196200, "DLOW": 3.549876, "DHIrms": 0.337785, "DLOrms": 0.307225, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495757.509408, 4257299.512402 ], [ 495695.948055, 4258491.030737 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.753327, "DLOW": 3.228628, "DHIrms": 0.738912, "DLOrms": 0.561917, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495695.948055, 4258491.030737 ], [ 495626.417363, 4259389.787180 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.629121, "DLOW": 3.183724, "DHIrms": 0.721188, "DLOrms": 0.608328, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495626.417363, 4259389.787180 ], [ 495574.294103, 4260387.796788 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.967168, "DLOW": 3.425636, "DHIrms": 0.628434, "DLOrms": 0.395098, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495574.294103, 4260387.796788 ], [ 495535.190143, 4261157.909091 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.977002, "DLOW": 3.477728, "DHIrms": 0.702727, "DLOrms": 0.386453, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495535.190143, 4261157.909091 ], [ 495502.511379, 4262981.616578 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.871409, "DLOW": 3.584269, "DHIrms": 0.554535, "DLOrms": 0.609278, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495502.511379, 4262981.616578 ], [ 495501.274639, 4263170.456078 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.874811, "DLOW": 3.588005, "DHIrms": 0.552580, "DLOrms": 0.608373, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495501.274639, 4263170.456078 ], [ 495117.547390, 4267741.908005 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.201088, "DLOW": 3.902081, "DHIrms": 0.363415, "DLOrms": 0.321113, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495117.547390, 4267741.908005 ], [ 495088.074873, 4268319.366730 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.167222, "DLOW": 3.788294, "DHIrms": 0.429538, "DLOrms": 0.397959, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495088.074873, 4268319.366730 ], [ 495024.068612, 4269320.003321 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.023028, "DLOW": 3.520114, "DHIrms": 0.517922, "DLOrms": 0.426769, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 495024.068612, 4269320.003321 ], [ 494968.430301, 4270269.065475 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.927987, "DLOW": 3.304602, "DHIrms": 0.361325, "DLOrms": 0.216128, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494968.430301, 4270269.065475 ], [ 494907.528772, 4271247.943991 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.983709, "DLOW": 3.413759, "DHIrms": 0.337342, "DLOrms": 0.264258, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494907.528772, 4271247.943991 ], [ 494851.228672, 4272109.398589 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.088233, "DLOW": 3.658579, "DHIrms": 0.395232, "DLOrms": 0.305240, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494851.228672, 4272109.398589 ], [ 494585.835408, 4273334.772140 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.188750, "DLOW": 3.702274, "DHIrms": 0.601410, "DLOrms": 0.440089, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494585.835408, 4273334.772140 ], [ 494427.001861, 4274136.606261 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.240677, "DLOW": 2.613326, "DHIrms": 1.485660, "DLOrms": 0.870484, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494427.001861, 4274136.606261 ], [ 494385.668460, 4274922.663354 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.946245, "DLOW": 2.449988, "DHIrms": 0.870300, "DLOrms": 0.563060, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494385.668460, 4274922.663354 ], [ 494338.213141, 4275600.955405 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.187594, "DLOW": 2.762032, "DHIrms": 0.503745, "DLOrms": 0.426565, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494338.213141, 4275600.955405 ], [ 494335.586819, 4276833.875005 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.944066, "DLOW": 3.176049, "DHIrms": 1.002964, "DLOrms": 0.681446, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494335.586819, 4276833.875005 ], [ 494311.778388, 4277591.666416 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.168611, "DLOW": 3.205898, "DHIrms": 1.273157, "DLOrms": 0.974767, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494311.778388, 4277591.666416 ], [ 494272.207215, 4278429.275787 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.928571, "DLOW": 3.012179, "DHIrms": 1.161010, "DLOrms": 0.930391, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494272.207215, 4278429.275787 ], [ 494207.156200, 4279394.891679 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.707853, "DLOW": 2.826463, "DHIrms": 0.831767, "DLOrms": 0.555838, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494207.156200, 4279394.891679 ], [ 494113.556177, 4280331.310719 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.101526, "DLOW": 2.932271, "DHIrms": 0.777475, "DLOrms": 0.424512, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 494113.556177, 4280331.310719 ], [ 493997.398605, 4281295.743364 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.388009, "DLOW": 3.231123, "DHIrms": 0.576385, "DLOrms": 0.596925, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493997.398605, 4281295.743364 ], [ 493859.965095, 4282249.486192 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.072002, "DLOW": 3.392659, "DHIrms": 0.592533, "DLOrms": 0.490776, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493859.965095, 4282249.486192 ], [ 493726.413391, 4283233.517171 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.807527, "DLOW": 3.395699, "DHIrms": 0.413779, "DLOrms": 0.304019, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493726.413391, 4283233.517171 ], [ 493594.815737, 4284242.564908 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.100470, "DLOW": 3.469768, "DHIrms": 0.764111, "DLOrms": 0.434622, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493594.815737, 4284242.564908 ], [ 493485.453911, 4285179.608056 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.123305, "DLOW": 3.477505, "DHIrms": 0.901236, "DLOrms": 0.551450, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493485.453911, 4285179.608056 ], [ 493348.268707, 4286167.245420 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.844646, "DLOW": 3.418702, "DHIrms": 0.635567, "DLOrms": 0.438511, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493348.268707, 4286167.245420 ], [ 493220.619429, 4287023.796758 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.900635, "DLOW": 3.399354, "DHIrms": 0.542413, "DLOrms": 0.493646, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493220.619429, 4287023.796758 ], [ 493100.218196, 4287903.746970 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.838080, "DLOW": 3.308145, "DHIrms": 0.493465, "DLOrms": 0.475005, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 493100.218196, 4287903.746970 ], [ 492988.845509, 4288862.139633 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.361193, "DLOW": 2.983689, "DHIrms": 0.598800, "DLOrms": 0.524627, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492988.845509, 4288862.139633 ], [ 492930.446896, 4289804.244181 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.335104, "DLOW": 2.926143, "DHIrms": 0.862890, "DLOrms": 0.678936, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492930.446896, 4289804.244181 ], [ 492868.753828, 4290842.723876 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.139901, "DLOW": 3.108289, "DHIrms": 1.961118, "DLOrms": 0.678745, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492868.753828, 4290842.723876 ], [ 492709.508432, 4291810.280009 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.717567, "DLOW": 3.148117, "DHIrms": 4.460848, "DLOrms": 0.754466, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492709.508432, 4291810.280009 ], [ 492541.827913, 4292776.967570 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.891479, "DLOW": 3.386727, "DHIrms": 4.703804, "DLOrms": 0.643538, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492541.827913, 4292776.967570 ], [ 492372.192675, 4293762.483613 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.680954, "DLOW": 3.370681, "DHIrms": 1.865028, "DLOrms": 0.614669, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492372.192675, 4293762.483613 ], [ 492111.775153, 4294673.651109 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.387021, "DLOW": 2.791803, "DHIrms": 1.363945, "DLOrms": 0.655358, "State": "Delaware" }, "geometry": { "type": "LineString", "coordinates": [ [ 492111.775153, 4294673.651109 ], [ 491811.690505, 4295175.430741 ] ] } }
+
+]
+}

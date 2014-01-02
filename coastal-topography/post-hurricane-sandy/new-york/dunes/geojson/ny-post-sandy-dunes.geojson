@@ -1,0 +1,111 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "DHIGH": 2.867865, "DLOW": 2.551611, "DHIrms": 1.636322, "DLOrms": 0.720178, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 642425.534413, 4498415.159370 ], [ 642697.882419, 4498310.278950 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.619636, "DLOW": 2.800991, "DHIrms": 1.796357, "DLOrms": 0.760246, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 642697.882419, 4498310.278950 ], [ 643274.099342, 4498086.130363 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.771889, "DLOW": 3.149740, "DHIrms": 1.252684, "DLOrms": 0.585946, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 643274.099342, 4498086.130363 ], [ 644150.008525, 4498031.027472 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.360245, "DLOW": 3.436899, "DHIrms": 0.445175, "DLOrms": 0.266981, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 644150.008525, 4498031.027472 ], [ 645019.093523, 4498072.946173 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.586613, "DLOW": 3.570642, "DHIrms": 0.548460, "DLOrms": 0.334745, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 645019.093523, 4498072.946173 ], [ 645947.113046, 4498152.543964 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.801465, "DLOW": 3.387523, "DHIrms": 0.870707, "DLOrms": 0.793168, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 645947.113046, 4498152.543964 ], [ 646832.196718, 4498261.602687 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.615005, "DLOW": 3.089287, "DHIrms": 1.064737, "DLOrms": 0.870474, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 646832.196718, 4498261.602687 ], [ 647901.919312, 4498427.086789 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.584727, "DLOW": 3.309480, "DHIrms": 1.002554, "DLOrms": 0.614155, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 647901.919312, 4498427.086789 ], [ 648795.151243, 4498626.507916 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.986330, "DLOW": 3.131525, "DHIrms": 1.374227, "DLOrms": 0.880845, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 648795.151243, 4498626.507916 ], [ 649762.392844, 4498876.569786 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.639135, "DLOW": 2.393865, "DHIrms": 1.457988, "DLOrms": 0.921574, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 649762.392844, 4498876.569786 ], [ 650721.044534, 4499155.355725 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.127019, "DLOW": 2.000780, "DHIrms": 0.977814, "DLOrms": 0.785697, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 650721.044534, 4499155.355725 ], [ 651679.526480, 4499434.669728 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.684815, "DLOW": 2.234936, "DHIrms": 1.077257, "DLOrms": 0.884344, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 651679.526480, 4499434.669728 ], [ 652623.836790, 4499758.364493 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.152949, "DLOW": 2.601923, "DHIrms": 1.472600, "DLOrms": 1.015557, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 652623.836790, 4499758.364493 ], [ 653570.687617, 4500074.466647 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.768160, "DLOW": 2.579344, "DHIrms": 1.280246, "DLOrms": 0.888408, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 653570.687617, 4500074.466647 ], [ 654518.752834, 4500387.901736 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.576882, "DLOW": 2.503884, "DHIrms": 1.036074, "DLOrms": 0.585550, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 654518.752834, 4500387.901736 ], [ 655471.831669, 4500685.260897 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.220131, "DLOW": 2.358099, "DHIrms": 1.824470, "DLOrms": 1.000274, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 655471.831669, 4500685.260897 ], [ 656437.417398, 4500941.678177 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.667075, "DLOW": 1.962248, "DHIrms": 1.538658, "DLOrms": 1.041255, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 656437.417398, 4500941.678177 ], [ 657390.332330, 4501239.520781 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.073995, "DLOW": 2.916891, "DHIrms": 1.448015, "DLOrms": 1.002942, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 657390.332330, 4501239.520781 ], [ 658342.042390, 4501543.613291 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.018552, "DLOW": 3.388673, "DHIrms": 0.536497, "DLOrms": 0.314477, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 658342.042390, 4501543.613291 ], [ 659293.133989, 4501850.253634 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.447681, "DLOW": 3.486969, "DHIrms": 0.864620, "DLOrms": 0.312874, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 659293.133989, 4501850.253634 ], [ 660247.912615, 4502144.148014 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.991861, "DLOW": 3.525412, "DHIrms": 1.438577, "DLOrms": 0.504979, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 660247.912615, 4502144.148014 ], [ 661202.888853, 4502437.652171 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.947503, "DLOW": 3.527342, "DHIrms": 1.453120, "DLOrms": 0.373991, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 661202.888853, 4502437.652171 ], [ 662153.504066, 4502743.712833 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.087225, "DLOW": 3.093234, "DHIrms": 1.826456, "DLOrms": 0.933635, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 662153.504066, 4502743.712833 ], [ 663095.547970, 4503074.057939 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.874636, "DLOW": 2.380337, "DHIrms": 2.060910, "DLOrms": 1.177280, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 663095.547970, 4503074.057939 ], [ 664034.864399, 4503414.021789 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.015701, "DLOW": 3.674725, "DHIrms": 1.940555, "DLOrms": 0.947968, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 664034.864399, 4503414.021789 ], [ 664967.433651, 4503779.732264 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.356201, "DLOW": 3.888106, "DHIrms": 1.170392, "DLOrms": 0.536019, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 664967.433651, 4503779.732264 ], [ 665879.162682, 4504184.581160 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.993414, "DLOW": 3.714971, "DHIrms": 1.115791, "DLOrms": 0.512411, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 665879.162682, 4504184.581160 ], [ 666781.608271, 4504566.248895 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.385100, "DLOW": 3.360337, "DHIrms": 0.824828, "DLOrms": 0.317184, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 666781.608271, 4504566.248895 ], [ 667692.415603, 4504968.816038 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.694028, "DLOW": 3.279440, "DHIrms": 1.614280, "DLOrms": 0.228887, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 667692.415603, 4504968.816038 ], [ 668507.233867, 4505395.305176 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.499659, "DLOW": 3.272397, "DHIrms": 1.594105, "DLOrms": 0.395669, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 668507.233867, 4505395.305176 ], [ 669411.724556, 4505851.109596 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.553951, "DLOW": 3.465420, "DHIrms": 1.532130, "DLOrms": 0.551155, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 669411.724556, 4505851.109596 ], [ 670263.620587, 4506296.322509 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.680765, "DLOW": 3.774569, "DHIrms": 1.368787, "DLOrms": 0.487172, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 670263.620587, 4506296.322509 ], [ 671092.050925, 4506725.112718 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.088535, "DLOW": 3.837574, "DHIrms": 1.532369, "DLOrms": 0.517086, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 671092.050925, 4506725.112718 ], [ 671961.139926, 4507187.821944 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.166252, "DLOW": 3.813215, "DHIrms": 1.531563, "DLOrms": 0.428954, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 671961.139926, 4507187.821944 ], [ 672825.685393, 4507636.100848 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.854397, "DLOW": 3.836081, "DHIrms": 1.901570, "DLOrms": 0.358306, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 672825.685393, 4507636.100848 ], [ 673709.892788, 4508102.407513 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.374819, "DLOW": 3.786951, "DHIrms": 1.202877, "DLOrms": 0.285433, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 673709.892788, 4508102.407513 ], [ 674601.134549, 4508551.646840 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.843644, "DLOW": 3.513829, "DHIrms": 1.506683, "DLOrms": 0.622942, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 674601.134549, 4508551.646840 ], [ 675495.129649, 4508994.608016 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.187118, "DLOW": 3.318774, "DHIrms": 1.316685, "DLOrms": 0.640637, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 675495.129649, 4508994.608016 ], [ 676398.363307, 4509416.543779 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.382510, "DLOW": 2.860717, "DHIrms": 1.171421, "DLOrms": 0.878062, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 676398.363307, 4509416.543779 ], [ 677273.403792, 4509837.409863 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.127433, "DLOW": 1.935563, "DHIrms": 1.191701, "DLOrms": 0.851971, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 677273.403792, 4509837.409863 ], [ 678172.736607, 4510260.262401 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.812210, "DLOW": 1.747040, "DHIrms": 1.071255, "DLOrms": 0.775089, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 678172.736607, 4510260.262401 ], [ 679078.568145, 4510634.640225 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.876871, "DLOW": 2.493476, "DHIrms": 1.552965, "DLOrms": 0.999233, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 679078.568145, 4510634.640225 ], [ 679944.535187, 4511026.123948 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.854874, "DLOW": 3.045161, "DHIrms": 1.211192, "DLOrms": 0.859153, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 679944.535187, 4511026.123948 ], [ 680858.879856, 4511433.171527 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.485296, "DLOW": 3.344971, "DHIrms": 0.665208, "DLOrms": 0.632785, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 680858.879856, 4511433.171527 ], [ 681733.657043, 4511818.643912 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.113825, "DLOW": 2.532632, "DHIrms": 1.674099, "DLOrms": 0.907791, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 681733.657043, 4511818.643912 ], [ 682645.534981, 4512206.932856 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.288442, "DLOW": 2.115877, "DHIrms": 1.460622, "DLOrms": 0.929954, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 682645.534981, 4512206.932856 ], [ 683536.045834, 4512617.609461 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.340778, "DLOW": 2.181491, "DHIrms": 1.360260, "DLOrms": 0.999779, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 683536.045834, 4512617.609461 ], [ 684435.031023, 4513033.404184 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.337797, "DLOW": 2.215466, "DHIrms": 1.319361, "DLOrms": 0.968226, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 684435.031023, 4513033.404184 ], [ 685308.614385, 4513408.786925 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.473104, "DLOW": 2.371730, "DHIrms": 1.625157, "DLOrms": 1.150494, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 685308.614385, 4513408.786925 ], [ 686205.017006, 4513787.827583 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.848157, "DLOW": 3.521276, "DHIrms": 1.890100, "DLOrms": 1.501472, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 686205.017006, 4513787.827583 ], [ 687127.838618, 4514099.319822 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.525533, "DLOW": 4.003735, "DHIrms": 1.044447, "DLOrms": 0.916466, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 687127.838618, 4514099.319822 ], [ 688089.477634, 4514348.943789 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.345981, "DLOW": 3.815830, "DHIrms": 0.909306, "DLOrms": 0.964752, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 688089.477634, 4514348.943789 ], [ 688923.926700, 4514731.264971 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.963807, "DLOW": 3.647498, "DHIrms": 1.635906, "DLOrms": 1.331902, "State": "New York" }, "geometry": { "type": "LineString", "coordinates": [ [ 688923.926700, 4514731.264971 ], [ 689663.459463, 4515000.416412 ] ] } }
+
+]
+}

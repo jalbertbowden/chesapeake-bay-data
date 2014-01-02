@@ -1,0 +1,373 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "DHIGH": 5.544306, "DLOW": 2.937418, "DHIrms": 0.653128, "DLOrms": 0.259529, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 422303.369021, 4045711.951351 ], [ 422234.251810, 4046148.423854 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.369817, "DLOW": 2.939615, "DHIrms": 0.623389, "DLOrms": 0.238452, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 422234.251810, 4046148.423854 ], [ 422078.353425, 4047071.920724 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.197538, "DLOW": 2.993631, "DHIrms": 0.649560, "DLOrms": 0.284799, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 422078.353425, 4047071.920724 ], [ 421922.213712, 4048053.108947 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.219381, "DLOW": 3.004245, "DHIrms": 0.788928, "DLOrms": 0.319290, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421922.213712, 4048053.108947 ], [ 421754.276862, 4049052.820194 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.506350, "DLOW": 2.864679, "DHIrms": 1.054493, "DLOrms": 0.430228, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421754.276862, 4049052.820194 ], [ 421566.566388, 4050020.771626 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.768328, "DLOW": 2.813387, "DHIrms": 0.855723, "DLOrms": 0.338083, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421566.566388, 4050020.771626 ], [ 421355.183074, 4050967.381290 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.876894, "DLOW": 2.921405, "DHIrms": 0.668492, "DLOrms": 0.292721, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421355.183074, 4050967.381290 ], [ 421072.626812, 4052027.140396 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.003798, "DLOW": 3.023348, "DHIrms": 0.540979, "DLOrms": 0.273459, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421072.626812, 4052027.140396 ], [ 420820.920850, 4052922.267300 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.097084, "DLOW": 3.036282, "DHIrms": 0.588027, "DLOrms": 0.399345, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 420820.920850, 4052922.267300 ], [ 420503.328013, 4053860.978118 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.022381, "DLOW": 2.919038, "DHIrms": 0.565957, "DLOrms": 0.451259, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 420503.328013, 4053860.978118 ], [ 420165.753413, 4054813.209125 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.991688, "DLOW": 2.754104, "DHIrms": 0.488471, "DLOrms": 0.386265, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 420165.753413, 4054813.209125 ], [ 419820.001909, 4055744.830707 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.107576, "DLOW": 2.754727, "DHIrms": 0.589812, "DLOrms": 0.382804, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 419820.001909, 4055744.830707 ], [ 419456.904871, 4056675.342217 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.138182, "DLOW": 2.709747, "DHIrms": 0.937766, "DLOrms": 0.501137, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 419456.904871, 4056675.342217 ], [ 419089.290982, 4057578.210455 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.861181, "DLOW": 2.395318, "DHIrms": 0.993853, "DLOrms": 0.432019, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 419089.290982, 4057578.210455 ], [ 418686.326729, 4058526.191370 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.702658, "DLOW": 2.225981, "DHIrms": 0.771151, "DLOrms": 0.236681, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 418686.326729, 4058526.191370 ], [ 418292.800380, 4059429.190921 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.712891, "DLOW": 2.221589, "DHIrms": 0.695602, "DLOrms": 0.235560, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 418292.800380, 4059429.190921 ], [ 417908.146930, 4060359.230571 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.462178, "DLOW": 2.252480, "DHIrms": 0.833166, "DLOrms": 0.243430, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 417908.146930, 4060359.230571 ], [ 417585.623135, 4061221.051038 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.430232, "DLOW": 2.140094, "DHIrms": 1.001384, "DLOrms": 0.239357, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 417585.623135, 4061221.051038 ], [ 417244.290299, 4062256.114637 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.198709, "DLOW": 2.128304, "DHIrms": 0.607539, "DLOrms": 0.198895, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 417244.290299, 4062256.114637 ], [ 416966.467245, 4063192.812801 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.453678, "DLOW": 2.193611, "DHIrms": 0.510715, "DLOrms": 0.136089, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416966.467245, 4063192.812801 ], [ 416709.825439, 4064123.353118 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.554044, "DLOW": 2.251930, "DHIrms": 0.544559, "DLOrms": 0.180685, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416709.825439, 4064123.353118 ], [ 416382.193133, 4065202.694947 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.263493, "DLOW": 2.237139, "DHIrms": 0.612338, "DLOrms": 0.222857, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416382.193133, 4065202.694947 ], [ 416114.969983, 4066060.198531 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.307017, "DLOW": 2.241511, "DHIrms": 0.690145, "DLOrms": 0.237027, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416114.969983, 4066060.198531 ], [ 415835.158672, 4067017.252249 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.803604, "DLOW": 2.385542, "DHIrms": 0.630226, "DLOrms": 0.212016, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 415835.158672, 4067017.252249 ], [ 415556.907870, 4067976.004105 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.233090, "DLOW": 2.581726, "DHIrms": 0.577785, "DLOrms": 0.377064, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 415556.907870, 4067976.004105 ], [ 415275.046069, 4068894.220015 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.706098, "DLOW": 2.783903, "DHIrms": 0.557994, "DLOrms": 0.548937, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 415275.046069, 4068894.220015 ], [ 414963.556687, 4069940.271880 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.320655, "DLOW": 2.855419, "DHIrms": 0.503208, "DLOrms": 0.318082, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414963.556687, 4069940.271880 ], [ 414717.179004, 4070850.465347 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.498543, "DLOW": 2.763003, "DHIrms": 0.386367, "DLOrms": 0.261304, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414717.179004, 4070850.465347 ], [ 414492.437420, 4071816.322601 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.247161, "DLOW": 2.620053, "DHIrms": 0.461116, "DLOrms": 0.206976, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414492.437420, 4071816.322601 ], [ 414285.359745, 4072731.577512 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.081032, "DLOW": 2.514285, "DHIrms": 0.483240, "DLOrms": 0.192210, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414285.359745, 4072731.577512 ], [ 414050.176632, 4073814.235142 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.047302, "DLOW": 2.409499, "DHIrms": 0.679006, "DLOrms": 0.277447, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414050.176632, 4073814.235142 ], [ 413869.879683, 4074745.524860 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.606679, "DLOW": 2.368363, "DHIrms": 0.820279, "DLOrms": 0.335007, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 413869.879683, 4074745.524860 ], [ 413710.895534, 4075694.936622 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.515343, "DLOW": 2.180723, "DHIrms": 1.117655, "DLOrms": 0.391563, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 413710.895534, 4075694.936622 ], [ 413593.165020, 4076766.773452 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.465966, "DLOW": 1.913104, "DHIrms": 0.571121, "DLOrms": 0.242543, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 413593.165020, 4076766.773452 ], [ 413417.448303, 4077690.844412 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.206915, "DLOW": 1.883413, "DHIrms": 0.403951, "DLOrms": 0.228005, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 413417.448303, 4077690.844412 ], [ 413203.405169, 4078659.263474 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.270493, "DLOW": 1.898338, "DHIrms": 0.444860, "DLOrms": 0.183547, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 413203.405169, 4078659.263474 ], [ 412989.237225, 4079629.941206 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.549444, "DLOW": 1.881058, "DHIrms": 0.517673, "DLOrms": 0.146850, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412989.237225, 4079629.941206 ], [ 412770.190324, 4080606.580703 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.821366, "DLOW": 1.932271, "DHIrms": 0.360495, "DLOrms": 0.158050, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412770.190324, 4080606.580703 ], [ 412583.819767, 4081478.532712 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.762272, "DLOW": 2.045079, "DHIrms": 1.284331, "DLOrms": 0.133601, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412583.819767, 4081478.532712 ], [ 412332.815643, 4082660.893567 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.948911, "DLOW": 2.122611, "DHIrms": 0.972291, "DLOrms": 0.249144, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412332.815643, 4082660.893567 ], [ 412163.589848, 4083542.565701 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.408948, "DLOW": 2.420974, "DHIrms": 0.491629, "DLOrms": 0.548548, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412163.589848, 4083542.565701 ], [ 412002.105782, 4084528.955407 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.282269, "DLOW": 2.675110, "DHIrms": 0.589971, "DLOrms": 0.429837, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 412002.105782, 4084528.955407 ], [ 411813.624400, 4085483.669920 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.164104, "DLOW": 2.490829, "DHIrms": 0.699643, "DLOrms": 0.492746, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 411813.624400, 4085483.669920 ], [ 411456.499226, 4086356.947489 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.466165, "DLOW": 2.358374, "DHIrms": 0.897952, "DLOrms": 0.450148, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 411456.499226, 4086356.947489 ], [ 410700.379980, 4087120.934804 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.670457, "DLOW": 2.419309, "DHIrms": 1.374196, "DLOrms": 0.438700, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 410700.379980, 4087120.934804 ], [ 410063.620758, 4087503.015743 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.561552, "DLOW": 2.423657, "DHIrms": 1.654780, "DLOrms": 0.425046, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 410063.620758, 4087503.015743 ], [ 409781.274010, 4087614.428966 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.469433, "DLOW": 1.647356, "DHIrms": 0.472436, "DLOrms": 0.226268, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414267.297714, 4104692.358270 ], [ 414589.788784, 4104596.735696 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.823263, "DLOW": 1.647726, "DHIrms": 0.507759, "DLOrms": 0.244151, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 414589.788784, 4104596.735696 ], [ 415349.797806, 4104635.143179 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.849729, "DLOW": 1.572074, "DHIrms": 0.581243, "DLOrms": 0.281151, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 415349.797806, 4104635.143179 ], [ 416079.896575, 4105038.265854 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.656223, "DLOW": 1.477188, "DHIrms": 0.643103, "DLOrms": 0.290128, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416079.896575, 4105038.265854 ], [ 416374.251559, 4105634.514333 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.419133, "DLOW": 1.388401, "DHIrms": 0.611237, "DLOrms": 0.266270, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416374.251559, 4105634.514333 ], [ 416386.739065, 4106323.887877 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.572235, "DLOW": 1.469964, "DHIrms": 0.252611, "DLOrms": 0.119326, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416386.739065, 4106323.887877 ], [ 416220.452777, 4106670.268947 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.570659, "DLOW": 1.466895, "DHIrms": 0.283133, "DLOrms": 0.172036, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 416220.452777, 4106670.268947 ], [ 418203.049271, 4107597.001585 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.453110, "DLOW": 1.363673, "DHIrms": 0.236987, "DLOrms": 0.245799, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 418203.049271, 4107597.001585 ], [ 418627.810546, 4107655.469886 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.393223, "DLOW": 1.293930, "DHIrms": 0.181483, "DLOrms": 0.192391, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 418627.810546, 4107655.469886 ], [ 419495.491715, 4107973.617662 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.173980, "DLOW": 1.296629, "DHIrms": 0.373716, "DLOrms": 0.156008, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 419495.491715, 4107973.617662 ], [ 420361.513546, 4108468.640424 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.687433, "DLOW": 1.239261, "DHIrms": 0.419824, "DLOrms": 0.149835, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 420361.513546, 4108468.640424 ], [ 421049.423068, 4109163.067747 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.489204, "DLOW": 1.093243, "DHIrms": 0.207700, "DLOrms": 0.073092, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421049.423068, 4109163.067747 ], [ 421668.229635, 4109947.562799 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.610975, "DLOW": 1.062194, "DHIrms": 0.220936, "DLOrms": 0.077382, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 421668.229635, 4109947.562799 ], [ 422283.967249, 4110711.420485 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.680846, "DLOW": 1.058655, "DHIrms": 0.221229, "DLOrms": 0.086004, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 422283.967249, 4110711.420485 ], [ 422944.317482, 4111485.333018 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.664710, "DLOW": 1.035724, "DHIrms": 0.218173, "DLOrms": 0.069308, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 422944.317482, 4111485.333018 ], [ 423578.676848, 4112230.719528 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.571488, "DLOW": 999.000000, "DHIrms": 0.265874, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 423578.676848, 4112230.719528 ], [ 424231.859812, 4112973.833720 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.456768, "DLOW": 999.000000, "DHIrms": 0.184781, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 424231.859812, 4112973.833720 ], [ 424922.450141, 4113611.812237 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.390057, "DLOW": 0.892459, "DHIrms": 0.222679, "DLOrms": 0.043747, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 424922.450141, 4113611.812237 ], [ 425761.966360, 4114287.634609 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.397306, "DLOW": 0.898420, "DHIrms": 0.217582, "DLOrms": 0.049845, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 425761.966360, 4114287.634609 ], [ 426199.084825, 4114764.534418 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.474638, "DLOW": 0.916034, "DHIrms": 0.142275, "DLOrms": 0.055966, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 426199.084825, 4114764.534418 ], [ 426660.413731, 4115784.334550 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.523935, "DLOW": 0.928910, "DHIrms": 0.121669, "DLOrms": 0.057996, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 426660.413731, 4115784.334550 ], [ 427233.700306, 4116420.006103 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.982062, "DLOW": 1.124949, "DHIrms": 0.274448, "DLOrms": 0.128971, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 427233.700306, 4116420.006103 ], [ 427610.174098, 4116822.680948 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.041548, "DLOW": 1.144742, "DHIrms": 0.284746, "DLOrms": 0.156490, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 427610.174098, 4116822.680948 ], [ 427979.567632, 4116932.209634 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.086738, "DLOW": 1.174888, "DHIrms": 0.332429, "DLOrms": 0.239992, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 427979.567632, 4116932.209634 ], [ 428121.313505, 4119015.108088 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.949314, "DLOW": 1.220177, "DHIrms": 0.430312, "DLOrms": 0.323400, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 428121.313505, 4119015.108088 ], [ 428402.647198, 4119339.740444 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.774556, "DLOW": 1.218054, "DHIrms": 0.432034, "DLOrms": 0.323325, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 428402.647198, 4119339.740444 ], [ 428826.030443, 4120336.286343 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.075451, "DLOW": 1.166479, "DHIrms": 0.438262, "DLOrms": 0.223341, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 428826.030443, 4120336.286343 ], [ 428719.115074, 4121050.125171 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.262519, "DLOW": 1.149173, "DHIrms": 0.342513, "DLOrms": 0.215028, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 428719.115074, 4121050.125171 ], [ 428646.551312, 4121867.197603 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.262721, "DLOW": 1.136682, "DHIrms": 0.311183, "DLOrms": 0.190519, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 428646.551312, 4121867.197603 ], [ 429021.811506, 4122947.425216 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.836806, "DLOW": 1.125736, "DHIrms": 0.410989, "DLOrms": 0.165763, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 429021.811506, 4122947.425216 ], [ 429513.329284, 4123882.885834 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.445083, "DLOW": 1.099726, "DHIrms": 0.260388, "DLOrms": 0.111965, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 429513.329284, 4123882.885834 ], [ 429537.274026, 4124748.385786 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.317717, "DLOW": 1.066658, "DHIrms": 0.198407, "DLOrms": 0.072732, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 429537.274026, 4124748.385786 ], [ 429459.520486, 4125728.466950 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.785576, "DLOW": 1.154453, "DHIrms": 0.315394, "DLOrms": 0.177119, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 429459.520486, 4125728.466950 ], [ 429330.995852, 4126325.282628 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.845852, "DLOW": 1.195760, "DHIrms": 0.321730, "DLOrms": 0.214446, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 429330.995852, 4126325.282628 ], [ 431314.962689, 4128256.201059 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.055267, "DLOW": 1.287022, "DHIrms": 0.368506, "DLOrms": 0.310083, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 431314.962689, 4128256.201059 ], [ 431647.866584, 4128657.513654 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.398948, "DLOW": 1.364763, "DHIrms": 0.345241, "DLOrms": 0.321995, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 431647.866584, 4128657.513654 ], [ 432268.947249, 4129346.346791 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.668065, "DLOW": 1.393236, "DHIrms": 0.374356, "DLOrms": 0.243227, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 432268.947249, 4129346.346791 ], [ 432928.624794, 4130063.647135 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.664626, "DLOW": 1.401072, "DHIrms": 0.335989, "DLOrms": 0.200630, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 432928.624794, 4130063.647135 ], [ 433517.440321, 4130857.219330 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.259469, "DLOW": 1.300550, "DHIrms": 0.549666, "DLOrms": 0.197873, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 433517.440321, 4130857.219330 ], [ 434052.063375, 4131712.818146 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.075070, "DLOW": 1.236908, "DHIrms": 0.637038, "DLOrms": 0.171517, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 434052.063375, 4131712.818146 ], [ 434371.820988, 4132295.878319 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.925818, "DLOW": 1.674499, "DHIrms": 0.600631, "DLOrms": 0.363275, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 434371.820988, 4132295.878319 ], [ 436021.454240, 4135890.204119 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.099051, "DLOW": 1.777454, "DHIrms": 0.561040, "DLOrms": 0.312747, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 436021.454240, 4135890.204119 ], [ 436280.448960, 4136116.492751 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.284687, "DLOW": 1.932329, "DHIrms": 0.279960, "DLOrms": 0.204023, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 436280.448960, 4136116.492751 ], [ 436760.225543, 4136821.703976 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.194164, "DLOW": 2.000938, "DHIrms": 0.188153, "DLOrms": 0.287917, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 436760.225543, 4136821.703976 ], [ 437255.576876, 4137663.123048 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.021079, "DLOW": 1.980216, "DHIrms": 0.237265, "DLOrms": 0.352540, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 437255.576876, 4137663.123048 ], [ 437704.478236, 4138556.527110 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.992437, "DLOW": 2.022860, "DHIrms": 0.160847, "DLOrms": 0.240832, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 437704.478236, 4138556.527110 ], [ 438162.006514, 4139434.217053 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.061499, "DLOW": 2.102553, "DHIrms": 0.172908, "DLOrms": 0.133692, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 438162.006514, 4139434.217053 ], [ 438657.734011, 4140309.392337 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.948846, "DLOW": 2.003355, "DHIrms": 0.252959, "DLOrms": 0.174781, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 438657.734011, 4140309.392337 ], [ 439165.618334, 4141154.780534 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.641927, "DLOW": 1.749225, "DHIrms": 0.412823, "DLOrms": 0.289650, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 439165.618334, 4141154.780534 ], [ 439685.153370, 4142005.544666 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.526983, "DLOW": 1.537262, "DHIrms": 0.456320, "DLOrms": 0.279011, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 439685.153370, 4142005.544666 ], [ 440182.095052, 4142757.422759 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.639197, "DLOW": 1.495556, "DHIrms": 0.367668, "DLOrms": 0.218862, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 440182.095052, 4142757.422759 ], [ 440757.813992, 4143511.130015 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.816765, "DLOW": 1.646364, "DHIrms": 0.447971, "DLOrms": 0.403901, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 440757.813992, 4143511.130015 ], [ 441348.917548, 4144200.489878 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.616540, "DLOW": 1.618667, "DHIrms": 0.547559, "DLOrms": 0.452204, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441348.917548, 4144200.489878 ], [ 441749.742006, 4144994.242301 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.185565, "DLOW": 1.453796, "DHIrms": 0.711487, "DLOrms": 0.337762, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441749.742006, 4144994.242301 ], [ 441697.963995, 4145850.012443 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.968255, "DLOW": 1.354501, "DHIrms": 0.739353, "DLOrms": 0.249421, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441697.963995, 4145850.012443 ], [ 441545.817545, 4146420.314945 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.550143, "DLOW": 999.000000, "DHIrms": 0.337340, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441545.817545, 4146420.314945 ], [ 440834.901687, 4148793.014995 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.575350, "DLOW": 999.000000, "DHIrms": 0.340891, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 440834.901687, 4148793.014995 ], [ 441275.415618, 4149226.152701 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.533897, "DLOW": 999.000000, "DHIrms": 0.332949, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441275.415618, 4149226.152701 ], [ 441813.267208, 4150023.827613 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.468569, "DLOW": 999.000000, "DHIrms": 0.215794, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 441813.267208, 4150023.827613 ], [ 442312.083717, 4150877.168667 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.558058, "DLOW": 999.000000, "DHIrms": 0.240206, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 442312.083717, 4150877.168667 ], [ 442794.576935, 4151743.568167 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.676292, "DLOW": 999.000000, "DHIrms": 0.283943, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 442794.576935, 4151743.568167 ], [ 443285.534206, 4152595.996353 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.787828, "DLOW": 999.000000, "DHIrms": 0.222361, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 443285.534206, 4152595.996353 ], [ 443786.039273, 4153387.179321 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.880111, "DLOW": 999.000000, "DHIrms": 0.196312, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 443786.039273, 4153387.179321 ], [ 444296.113981, 4154219.428347 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.912225, "DLOW": 999.000000, "DHIrms": 0.215479, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 444296.113981, 4154219.428347 ], [ 444829.792238, 4155049.042366 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.953413, "DLOW": 999.000000, "DHIrms": 0.268929, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 444829.792238, 4155049.042366 ], [ 445317.350643, 4155843.947912 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.013715, "DLOW": 999.000000, "DHIrms": 0.212250, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445317.350643, 4155843.947912 ], [ 445882.522701, 4156787.660197 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.103181, "DLOW": 1.705784, "DHIrms": 0.251289, "DLOrms": 0.424883, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445882.522701, 4156787.660197 ], [ 446436.239805, 4157550.050802 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.307251, "DLOW": 1.550690, "DHIrms": 0.469279, "DLOrms": 0.331237, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 446436.239805, 4157550.050802 ], [ 446934.361886, 4158079.326323 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.391228, "DLOW": 1.529921, "DHIrms": 0.493476, "DLOrms": 0.318270, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 446934.361886, 4158079.326323 ], [ 446414.955135, 4159038.363511 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.287103, "DLOW": 1.431580, "DHIrms": 0.562215, "DLOrms": 0.328719, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 446414.955135, 4159038.363511 ], [ 445761.168111, 4159113.278948 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.208422, "DLOW": 1.386402, "DHIrms": 0.573417, "DLOrms": 0.317574, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445761.168111, 4159113.278948 ], [ 445789.636788, 4159956.421048 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.888755, "DLOW": 1.268427, "DHIrms": 0.480631, "DLOrms": 0.197201, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445789.636788, 4159956.421048 ], [ 445735.986181, 4160638.566536 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.562106, "DLOW": 1.211541, "DHIrms": 0.448189, "DLOrms": 0.143880, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445735.986181, 4160638.566536 ], [ 445715.717094, 4161622.129961 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.478576, "DLOW": 1.256922, "DHIrms": 0.309344, "DLOrms": 0.105187, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445715.717094, 4161622.129961 ], [ 445801.072248, 4162598.461336 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.636116, "DLOW": 1.216575, "DHIrms": 0.306660, "DLOrms": 0.153486, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445801.072248, 4162598.461336 ], [ 445997.433076, 4163577.703785 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.604688, "DLOW": 1.173507, "DHIrms": 0.355466, "DLOrms": 0.170059, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 445997.433076, 4163577.703785 ], [ 446419.818982, 4164449.401763 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.506089, "DLOW": 1.097388, "DHIrms": 0.228033, "DLOrms": 0.086865, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 446419.818982, 4164449.401763 ], [ 446867.402290, 4165333.465665 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.551036, "DLOW": 1.073569, "DHIrms": 0.177212, "DLOrms": 0.046211, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 446867.402290, 4165333.465665 ], [ 447181.186380, 4166250.480453 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.639987, "DLOW": 1.089082, "DHIrms": 0.153670, "DLOrms": 0.053676, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 447181.186380, 4166250.480453 ], [ 447439.004794, 4167220.695201 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.750398, "DLOW": 1.118855, "DHIrms": 0.139504, "DLOrms": 0.061666, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 447439.004794, 4167220.695201 ], [ 447672.931086, 4168159.297686 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.724152, "DLOW": 1.121739, "DHIrms": 0.221083, "DLOrms": 0.076547, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 447672.931086, 4168159.297686 ], [ 447867.146352, 4169132.933352 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.583914, "DLOW": 1.075349, "DHIrms": 0.199814, "DLOrms": 0.066582, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 447867.146352, 4169132.933352 ], [ 447949.708483, 4170115.237174 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.517753, "DLOW": 1.026760, "DHIrms": 0.175317, "DLOrms": 0.035853, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 447949.708483, 4170115.237174 ], [ 448079.135505, 4170909.318787 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.668775, "DLOW": 1.016930, "DHIrms": 0.344080, "DLOrms": 0.017138, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 448079.135505, 4170909.318787 ], [ 448851.962185, 4171972.899941 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.539454, "DLOW": 999.000000, "DHIrms": 0.532434, "DLOrms": 999.000000, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 448851.962185, 4171972.899941 ], [ 449187.701896, 4172826.601861 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.897543, "DLOW": 1.791642, "DHIrms": 0.646185, "DLOrms": 0.218434, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 449187.701896, 4172826.601861 ], [ 449397.631770, 4173601.599801 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.139738, "DLOW": 1.762190, "DHIrms": 0.887359, "DLOrms": 0.278335, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 449397.631770, 4173601.599801 ], [ 449716.574767, 4174631.852499 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.114410, "DLOW": 1.780448, "DHIrms": 0.877081, "DLOrms": 0.195837, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 449716.574767, 4174631.852499 ], [ 450017.795375, 4175539.197730 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.950519, "DLOW": 1.690810, "DHIrms": 0.660929, "DLOrms": 0.227318, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 450017.795375, 4175539.197730 ], [ 450373.743911, 4176458.391824 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.310687, "DLOW": 1.470253, "DHIrms": 0.823478, "DLOrms": 0.382346, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 450373.743911, 4176458.391824 ], [ 450868.035481, 4177310.364403 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.613133, "DLOW": 1.170940, "DHIrms": 0.415359, "DLOrms": 0.275257, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 450868.035481, 4177310.364403 ], [ 451430.878288, 4178109.850038 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.507629, "DLOW": 1.008568, "DHIrms": 0.174696, "DLOrms": 0.123646, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 451430.878288, 4178109.850038 ], [ 451916.299119, 4178981.756686 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.620933, "DLOW": 1.040001, "DHIrms": 0.135705, "DLOrms": 0.104222, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 451916.299119, 4178981.756686 ], [ 452327.067218, 4179874.549819 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.645401, "DLOW": 1.059665, "DHIrms": 0.114008, "DLOrms": 0.058157, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 452327.067218, 4179874.549819 ], [ 452680.827819, 4180611.536004 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.647006, "DLOW": 1.071471, "DHIrms": 0.138277, "DLOrms": 0.045302, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 452680.827819, 4180611.536004 ], [ 453241.028566, 4181908.958943 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.567051, "DLOW": 1.102002, "DHIrms": 0.209373, "DLOrms": 0.059341, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 453241.028566, 4181908.958943 ], [ 453555.256272, 4182455.980753 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.518262, "DLOW": 1.129221, "DHIrms": 0.282365, "DLOrms": 0.120661, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 453555.256272, 4182455.980753 ], [ 454047.419071, 4183278.513951 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.570163, "DLOW": 1.196554, "DHIrms": 0.351682, "DLOrms": 0.130702, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 454047.419071, 4183278.513951 ], [ 454558.910774, 4184048.651493 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.718465, "DLOW": 1.203013, "DHIrms": 0.306450, "DLOrms": 0.121918, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 454558.910774, 4184048.651493 ], [ 455013.506870, 4184693.077201 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.940253, "DLOW": 1.244770, "DHIrms": 0.178582, "DLOrms": 0.144704, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 455013.506870, 4184693.077201 ], [ 455506.033255, 4185387.206637 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.319527, "DLOW": 1.469214, "DHIrms": 0.548624, "DLOrms": 0.305128, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 455506.033255, 4185387.206637 ], [ 456023.671248, 4186074.560406 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.178898, "DLOW": 2.022017, "DHIrms": 0.779498, "DLOrms": 0.602021, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 456023.671248, 4186074.560406 ], [ 456769.269770, 4186975.770405 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.932004, "DLOW": 2.575340, "DHIrms": 0.237517, "DLOrms": 0.317035, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 456769.269770, 4186975.770405 ], [ 457365.930235, 4187659.299278 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.106110, "DLOW": 2.750412, "DHIrms": 0.159838, "DLOrms": 0.188031, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 457365.930235, 4187659.299278 ], [ 458004.414090, 4188396.870969 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.103312, "DLOW": 2.752279, "DHIrms": 0.202680, "DLOrms": 0.223365, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 458004.414090, 4188396.870969 ], [ 458629.687266, 4189125.045771 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.029611, "DLOW": 2.520671, "DHIrms": 0.270483, "DLOrms": 0.304920, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 458629.687266, 4189125.045771 ], [ 459313.821942, 4189868.456907 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.927891, "DLOW": 2.135519, "DHIrms": 0.361903, "DLOrms": 0.370218, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 459313.821942, 4189868.456907 ], [ 460029.890830, 4190523.403049 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.340590, "DLOW": 1.680022, "DHIrms": 0.859243, "DLOrms": 0.411477, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 460029.890830, 4190523.403049 ], [ 460839.098410, 4191024.016271 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.488888, "DLOW": 1.382744, "DHIrms": 0.659161, "DLOrms": 0.310446, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 460839.098410, 4191024.016271 ], [ 461786.940091, 4191312.699787 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.902528, "DLOW": 1.280584, "DHIrms": 0.552426, "DLOrms": 0.248161, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 461786.940091, 4191312.699787 ], [ 462573.579371, 4191565.600028 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.695195, "DLOW": 1.338033, "DHIrms": 0.526818, "DLOrms": 0.298988, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 462573.579371, 4191565.600028 ], [ 462746.710565, 4192341.929545 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.527305, "DLOW": 1.388967, "DHIrms": 0.468103, "DLOrms": 0.316084, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 462746.710565, 4192341.929545 ], [ 462707.504444, 4192557.567884 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.655972, "DLOW": 1.082524, "DHIrms": 0.263890, "DLOrms": 0.136142, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 462707.504444, 4192557.567884 ], [ 465747.561916, 4189483.408704 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.735096, "DLOW": 1.095002, "DHIrms": 0.308610, "DLOrms": 0.141020, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 465747.561916, 4189483.408704 ], [ 465941.625175, 4189377.578564 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.171670, "DLOW": 1.130034, "DHIrms": 0.559784, "DLOrms": 0.174835, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 465941.625175, 4189377.578564 ], [ 466798.152518, 4189626.265550 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.492608, "DLOW": 1.144347, "DHIrms": 0.671307, "DLOrms": 0.199796, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 466798.152518, 4189626.265550 ], [ 467398.816832, 4190134.825718 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.505965, "DLOW": 1.147257, "DHIrms": 0.775691, "DLOrms": 0.153840, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 467398.816832, 4190134.825718 ], [ 468060.068094, 4190862.274257 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.991998, "DLOW": 1.158916, "DHIrms": 0.413685, "DLOrms": 0.086630, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 468060.068094, 4190862.274257 ], [ 468694.593983, 4191637.633905 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.851608, "DLOW": 1.183036, "DHIrms": 0.155685, "DLOrms": 0.119895, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 468694.593983, 4191637.633905 ], [ 469285.996170, 4192444.291508 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.959103, "DLOW": 1.224464, "DHIrms": 0.204577, "DLOrms": 0.317843, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 469285.996170, 4192444.291508 ], [ 469777.680715, 4193285.942061 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.124147, "DLOW": 1.329999, "DHIrms": 0.307509, "DLOrms": 0.685096, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 469777.680715, 4193285.942061 ], [ 470240.680542, 4194172.430925 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.396105, "DLOW": 1.498148, "DHIrms": 0.324003, "DLOrms": 0.467750, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 470240.680542, 4194172.430925 ], [ 470689.962967, 4195045.668407 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.736396, "DLOW": 1.638463, "DHIrms": 0.301262, "DLOrms": 0.221226, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 470689.962967, 4195045.668407 ], [ 471161.190998, 4195928.349589 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.417888, "DLOW": 1.706404, "DHIrms": 0.840859, "DLOrms": 0.176268, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 471161.190998, 4195928.349589 ], [ 471622.849067, 4196811.323063 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.408576, "DLOW": 1.737570, "DHIrms": 1.037678, "DLOrms": 0.222279, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 471622.849067, 4196811.323063 ], [ 472072.921221, 4197681.330065 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.236943, "DLOW": 1.865891, "DHIrms": 0.804027, "DLOrms": 0.284893, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 472072.921221, 4197681.330065 ], [ 472514.806781, 4198587.984905 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.298514, "DLOW": 2.036665, "DHIrms": 0.822529, "DLOrms": 0.214920, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 472514.806781, 4198587.984905 ], [ 472951.697064, 4199461.499381 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.111142, "DLOW": 2.101899, "DHIrms": 0.609080, "DLOrms": 0.192091, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 472951.697064, 4199461.499381 ], [ 473404.414622, 4200349.441995 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.307137, "DLOW": 2.164941, "DHIrms": 0.592156, "DLOrms": 0.304756, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 473404.414622, 4200349.441995 ], [ 473914.631442, 4201200.234488 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.211850, "DLOW": 2.141565, "DHIrms": 0.633070, "DLOrms": 0.375265, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 473914.631442, 4201200.234488 ], [ 474469.947708, 4202040.638963 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.864743, "DLOW": 1.972024, "DHIrms": 0.528483, "DLOrms": 0.344830, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 474469.947708, 4202040.638963 ], [ 475003.091002, 4202872.928560 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.800476, "DLOW": 1.904400, "DHIrms": 0.480971, "DLOrms": 0.355828, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 475003.091002, 4202872.928560 ], [ 475534.796296, 4203720.005909 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.868319, "DLOW": 1.988289, "DHIrms": 0.640171, "DLOrms": 0.380804, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 475534.796296, 4203720.005909 ], [ 476056.378043, 4204564.196317 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.148392, "DLOW": 2.121273, "DHIrms": 0.846541, "DLOrms": 0.297533, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 476056.378043, 4204564.196317 ], [ 476575.511875, 4205416.349183 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.187601, "DLOW": 2.031611, "DHIrms": 0.969040, "DLOrms": 0.338788, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 476575.511875, 4205416.349183 ], [ 477080.421256, 4206280.243740 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.749563, "DLOW": 1.804747, "DHIrms": 0.952404, "DLOrms": 0.260807, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 477080.421256, 4206280.243740 ], [ 477612.338790, 4207125.079053 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.516735, "DLOW": 1.740384, "DHIrms": 0.781779, "DLOrms": 0.191774, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 477612.338790, 4207125.079053 ], [ 478172.392676, 4207951.699794 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.617875, "DLOW": 1.794590, "DHIrms": 0.923213, "DLOrms": 0.241839, "State": "Virginia" }, "geometry": { "type": "LineString", "coordinates": [ [ 478172.392676, 4207951.699794 ], [ 478511.890747, 4208500.264146 ] ] } }
+
+]
+}

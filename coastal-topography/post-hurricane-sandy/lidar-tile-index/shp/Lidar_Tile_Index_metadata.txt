@@ -1,0 +1,319 @@
+Metadata:
+  Identification_Information:
+    Citation:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 2013
+        Title: Coastal Topography--Northeast Atlantic Coast, Post-Hurricane Sandy, 2012: Lidar and digital elevation model (DEM) tile index
+        Edition: first
+        Geospatial_Data_Presentation_Form: vector digital data
+        Series_Information:
+          Series_Name: U.S. Geological Survey Data Series
+          Issue_Identification: 765
+        Publication_Information:
+          Publication_Place: St. Petersburg, FL
+          Publisher: U.S. Geological Survey
+        Online_Linkage: http://pubs.usgs.gov/ds/765
+    Description:
+      Abstract: This data represents the tile index for lidar data collected for the U.S. Geological Survey in November 2012 following Hurricane Sandy, which made landfall in the eastern United States on October 29th, 2012. The lidar LAS and derived-digital elevation model (DEM) data are divided into these tiles and filenames match the tile number. The index shows the extent of data collection (portions of the coastline of New York, Delaware, Maryland, Virginia, and North Carolina) and provides tile names to aid in identifying files for data download.
+      Purpose: The purpose of this project was to derive shoreline, dune crest (Dhigh), and dune toe (Dlow) of a portion of the New York, Delaware, Maryland, Virginia, and North Carolina coastlines, post-Hurricane Sandy (October 2012 hurricane), for use as a management tool and to make these data available to natural-resource managers and research scientists.
+      Supplemental_Information: The tile index follows U.S. National Grid (USSNG) reference map. More information on the USNG can be found here: http://www.fgdc.gov/usng
+    Time_Period_of_Content:
+      Time_Period_Information:
+        Multiple_Dates/Times:
+          Single_Date/Time:
+            Calendar_Date: 20121105
+          Single_Date/Time:
+            Calendar_Date: 20121108
+          Single_Date/Time:
+            Calendar_Date: 20121109
+          Single_Date/Time:
+            Calendar_Date: 20121110
+          Single_Date/Time:
+            Calendar_Date: 20121111
+          Single_Date/Time:
+            Calendar_Date: 20121112
+          Single_Date/Time:
+            Calendar_Date: 20121116
+          Single_Date/Time:
+            Calendar_Date: 20121126
+          Single_Date/Time:
+            Calendar_Date: 20121128
+          Single_Date/Time:
+            Calendar_Date: 20121129
+      Currentness_Reference: ground condition
+    Status:
+      Progress: Complete
+      Maintenance_and_Update_Frequency: None planned
+    Spatial_Domain:
+      Bounding_Coordinates:
+        West_Bounding_Coordinate: -78.82552783
+        East_Bounding_Coordinate: -72.69471375
+        North_Bounding_Coordinate: 40.81276256
+        South_Bounding_Coordinate: 34.55736585
+    Keywords:
+      Theme:
+        Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+        Theme_Keyword: elevation
+      Theme:
+        Theme_Keyword_Thesaurus: General
+        Theme_Keyword: Cessna 206
+        Theme_Keyword: Cessna 310
+        Theme_Keyword: Dhigh
+        Theme_Keyword: Dlow
+        Theme_Keyword: Digital Elevation Model
+        Theme_Keyword: DEM
+        Theme_Keyword: dune crest
+        Theme_Keyword: dune toe
+        Theme_Keyword: extratropical cyclone
+        Theme_Keyword: laser altimetry
+        Theme_Keyword: lidar
+        Theme_Keyword: remote sensing
+        Theme_Keyword: shoreline
+        Theme_Keyword: topography
+      Theme:
+        Theme_Keyword_Thesaurus: Global Change Master Science Directory
+        Theme_Keyword: LAND SURFACE > TOPOGRAPHY > TERRAIN ELEVATION
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > BARRIER ISLANDS
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > BEACHES
+        Theme_Keyword: OCEAN > COASTAL PROCESSES > SHORELINE DISPLACEMENT
+        Theme_Keyword: DOI/USGS/CMG > COASTAL AND MARINE GEOLOGY, U.S. GEOLOGICAL SURVEY, U.S. DEPARTMENT OF INTERIOR
+      Theme:
+        Theme_Keyword_Thesaurus: GCMD Instrument
+        Theme_Keyword: LIDAR > LIGHT DETECTION AND RANGING
+      Place:
+        Place_Keyword_Thesaurus: Geographic Names Information System
+        Place_Keyword: Delaware
+        Place_Keyword: Maryland
+        Place_Keyword: Fire Island
+        Place_Keyword: Long Island
+        Place_Keyword: New York
+        Place_Keyword: North Carolina
+        Place_Keyword: Virginia
+        Place_Keyword: DelMarVa Peninsula
+        Place_Keyword: United States
+      Stratum:
+        Stratum_Keyword_Thesaurus: General
+        Stratum_Keyword: Bare Earth
+      Temporal:
+        Temporal_Keyword_Thesaurus: General
+        Temporal_Keyword: 2012
+        Temporal_Keyword: Post-Hurricane Sandy
+    Access_Constraints: None
+    Use_Constraints: The U.S. Geological Survey and National Park Service request to be acknowledged as originators of these data in future products or derivative research.
+    Point_of_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Hilary Stockdon
+          Contact_Organization: U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+        Contact_Position: Research Oceanographer
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3074)
+        Contact_Facsimile_Telephone: 727 803-2031
+        Contact_Electronic_Mail_Address: hstockdon@usgs.gov
+        Hours_of_Service: M-F, 9:00-5:00 ET
+    Data_Set_Credit: Acknowledgment of the U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, as a data source would be appreciated in products developed from these data, and such acknowledgment as is standard for citation and legal practices for data source is expected. Sharing of new data layers developed directly from these data would also be appreciated by the U.S. Geological Survey staff. Users should be aware that comparisons with other datasets for the same area from other time periods may be inaccurate due to inconsistencies resulting from changes in photointerpretation, mapping conventions, and digital processes over time. These data are not legal documents and are not to be used as such.
+    Security_Information:
+      Security_Classification_System: Unclassified
+      Security_Classification: Unclassified
+      Security_Handling_Description: None
+    Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.1.3000
+    Cross_Reference:
+      Citation_Information:
+        Originator: U.S. Geological Survey
+        Publication_Date: 2013
+        Title: Coastal Topography--Northeast Atlantic Coast, Post-Hurricane Sandy, 2012: Lidar point-cloud data (LAS) AND Digital elevation model (DEM)
+        Geospatial_Data_Presentation_Form: binary point cloud and remote sensing image
+        Series_Information:
+          Series_Name: Data Series
+          Issue_Identification: 765
+        Publication_Information:
+          Publication_Place: St. Petersburg, FL
+          Publisher: U.S. Geological Survey
+        Other_Citation_Details: The Tile index data set provides reference information for identifying the spatial extent of lidar point-cloud files (LAS) and file names for data download.
+        Online_Linkage: http://pubs.usgs.gov/ds/765/data/
+  Data_Quality_Information:
+    Attribute_Accuracy:
+      Attribute_Accuracy_Report: The project area required lidar to be collected on 1 meter ground sample distance (GSD) or better and processed to meet a bare earth vertical accuracy of 12.5 centimeters RMSEz or better.
+    Logical_Consistency_Report: The data was visually inspected by a GIS manager.
+    Completeness_Report: This Tile Index covers the data extent, which spans from Long Island, New York to Cape Hatteras, North Carolina. The state of New Jersey was collected using the EAARL-B sensor and that data will be published separately.
+    Positional_Accuracy:
+      Horizontal_Positional_Accuracy:
+        Horizontal_Positional_Accuracy_Report: Positional accuracy of the tile index was not determined.
+    Lineage:
+      Process_Step:
+        Process_Description: Tile Size: 1,500m x 1,500m.The tile file name was derived from the southwest corner of each tile. The tiles are named based on the US National Grid.
+        Process_Date: 20121102
+        Process_Time: 1200
+        Process_Contact:
+          Contact_Information:
+            Contact_Organization_Primary:
+              Contact_Organization: Woolpert, Inc.
+            Contact_Position: Geospatial Services
+            Contact_Address:
+              Address_Type: mailing and physical address
+              Address: 4454 Idea Center Blvd.
+              City: Dayton
+              State_or_Province: OH
+              Postal_Code: 45430
+              Country: USA
+            Contact_Voice_Telephone: (937) 461-5660
+            Contact_Facsimile_Telephone: (937) 461-0743
+            Hours_of_Service: 8:00 a.m. to 5:00 p.m. Eastern Time
+  Spatial_Data_Organization_Information:
+    Direct_Spatial_Reference_Method: Vector
+    Point_and_Vector_Object_Information:
+      SDTS_Terms_Description:
+        SDTS_Point_and_Vector_Object_Type: G-polygon
+        Point_and_Vector_Object_Count: 587
+  Spatial_Reference_Information:
+    Horizontal_Coordinate_System_Definition:
+      Planar:
+        Map_Projection:
+          Map_Projection_Name: Transverse Mercator
+          Transverse_Mercator:
+            Scale_Factor_at_Central_Meridian: 0.9996
+            Longitude_of_Central_Meridian: -75.0
+            Latitude_of_Projection_Origin: 0.0
+            False_Easting: 500000.0
+            False_Northing: 0.0
+        Planar_Coordinate_Information:
+          Planar_Coordinate_Encoding_Method: coordinate pair
+          Coordinate_Representation:
+            Abscissa_Resolution: 0.000000002220024164500956
+            Ordinate_Resolution: 0.000000002220024164500956
+          Planar_Distance_Units: meters
+      Geodetic_Model:
+        Horizontal_Datum_Name: D North American 1983
+        Ellipsoid_Name: GRS 1980
+        Semi-major_Axis: 6378137.0
+        Denominator_of_Flattening_Ratio: 298.257222101
+  Entity_and_Attribute_Information:
+    Detailed_Description:
+      Entity_Type:
+        Entity_Type_Label: Post_Sandy_Lidar_Tile_Index.shp
+        Entity_Type_Definition: Tile index showing the spatial extent and boundaries of lidar (LAS) and DEM data files
+        Entity_Type_Definition_Source: USGS
+      Attribute:
+        Attribute_Label: FID
+        Attribute_Definition: Internal feature number.
+        Attribute_Definition_Source: ESRI
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+      Attribute:
+        Attribute_Label: Shape
+        Attribute_Definition: Feature geometry.
+        Attribute_Definition_Source: ESRI
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Coordinates defining the features.
+      Attribute:
+        Attribute_Label: Tile_Num
+        Attribute_Definition: Sequential unique whole number assigned to tiles (west-to-east, north-to-south) for identification.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Range_Domain:
+            Range_Domain_Minimum: 1
+            Range_Domain_Maximum: 587
+      Attribute:
+        Attribute_Label: Name
+        Attribute_Definition: Tile name described by US National Grid naming scheme.
+        Attribute_Definition_Source: U.S. National Grid
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: The first 2 numbers in the filename represent UTM zone.
+      Attribute:
+        Attribute_Label: Source
+        Attribute_Definition: Name of commercial agency that collected the data.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Text string defining the name of the company who collected the lidar data (either Woolpert, Inc. or Photo Science, Inc.)
+      Attribute:
+        Attribute_Label: State
+        Attribute_Definition: State in which the data are located.
+        Attribute_Definition_Source: Geographic Names Information System
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: A text string defining the state name.
+      Attribute:
+        Attribute_Label: DEM_URL
+        Attribute_Definition: Web link to DEM data location.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: DEM data are available in the U.S. Geological Survey pubs warehouse
+      Attribute:
+        Attribute_Label: LAS_URL
+        Attribute_Definition: Web link to LAS data download location.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: LAS data are available in the U.S. Geological Survey pubs warehouse
+      Attribute:
+        Attribute_Label: Dune_URL
+        Attribute_Definition: Web link to dune feature data download location.
+        Attribute_Definition_Source: U.S. Geological Survey
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: Dune and shoreline data are available in the U.S. Geological Survey pubs warehouse
+      Attribute:
+        Attribute_Label: DATE
+        Attribute_Definition: General date of data collection.
+        Attribute_Definition_Source: USGS
+        Attribute_Domain_Values:
+          Unrepresentable_Domain: A text string that describes the date or date range in MM/DD/YYYY; where MM is the month, DD is the day, and YYYY is the year.
+  Distribution_Information:
+    Distributor:
+      Contact_Information:
+        Contact_Organization_Primary:
+          Contact_Organization: U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+          Contact_Person: Hilary Stockdon
+        Contact_Position: Research Oceanographer
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3074)
+        Hours_of_Service: M-F, 9:00-5:00 ET
+    Resource_Description: DS 765
+    Distribution_Liability: Although these data have been processed successfully on a computer system at the USGS, no warranty expressed or implied is made regarding the display or utility of the data on any other system, or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. The USGS shall not be held liable for improper or incorrect use of the data described and/or contained herein. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
+    Standard_Order_Process:
+      Digital_Form:
+        Digital_Transfer_Information:
+          Format_Name: SHP; ZIP
+          Format_Version_Number: 1
+          Format_Specification: The lidar tile index (Lidar_Tile_Index.shp) is in ArcGIS shapefile format compressed into a zip file with metadata.
+        Digital_Transfer_Option:
+          Online_Option:
+            Computer_Contact_Information:
+              Network_Address:
+                Network_Resource_Name: http://pubs.usgs.gov/ds/765/extras/tile_extents/Lisar_Tile_Index.zip
+      Fees: None, if obtained online; otherwise, prices vary.
+      Ordering_Instructions: Publications are available from USGS Information Services, Box 25286, Federal Center, Denver, CO 80225-0046 (telephone: 1-888-ASK-USGS, e-mail: infoservices@usgs.gov).
+  Metadata_Reference_Information:
+    Metadata_Date: 20130423
+    Metadata_Contact:
+      Contact_Information:
+        Contact_Person_Primary:
+          Contact_Person: Xan Fredericks
+          Contact_Organization: Cherokee Nation Technology Solutions, U.S. Geological Survey, St. Petersburg Coastal and Marine Science Center, St. Petersburg, FL
+        Contact_Position: Lidar Validation and Processing Analyst
+        Contact_Address:
+          Address_Type: mailing and physical address
+          Address: 600 4th Street South
+          City: St. Petersburg
+          State_or_Province: FL
+          Postal_Code: 33701
+          Country: USA
+        Contact_Voice_Telephone: 727 803-8747 (x3086)
+        Contact_Electronic_Mail_Address: afredericks@usgs.gov
+        Hours_of_Service: M-F, 8:00-4:00 ET
+    Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+    Metadata_Standard_Version: FGDC-STD-001-1998
+    Metadata_Time_Convention: local time
+    Metadata_Extensions:
+      Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+      Profile_Name: ESRI Metadata Profile

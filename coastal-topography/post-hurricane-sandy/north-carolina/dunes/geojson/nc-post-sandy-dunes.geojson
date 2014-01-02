@@ -1,0 +1,607 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "DHIGH": 2.564359, "DLOW": 1.665621, "DHIrms": 0.603484, "DLOrms": 0.551112, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 348199.771318, 3839229.354576 ], [ 348556.225026, 3838987.739588 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.054283, "DLOW": 1.876680, "DHIrms": 0.973369, "DLOrms": 0.872541, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 348556.225026, 3838987.739588 ], [ 349396.170813, 3838612.573657 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.926838, "DLOW": 2.117326, "DHIrms": 0.751295, "DLOrms": 0.724009, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 349396.170813, 3838612.573657 ], [ 350362.556065, 3838355.737643 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.502529, "DLOW": 2.349499, "DHIrms": 0.908360, "DLOrms": 0.369166, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 350362.556065, 3838355.737643 ], [ 351323.809767, 3838086.914835 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.612155, "DLOW": 2.437741, "DHIrms": 0.900221, "DLOrms": 0.471855, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 351323.809767, 3838086.914835 ], [ 352275.049125, 3837784.992511 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.090963, "DLOW": 2.034309, "DHIrms": 0.540794, "DLOrms": 0.447728, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 352275.049125, 3837784.992511 ], [ 353221.986016, 3837465.300469 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.634104, "DLOW": 1.765441, "DHIrms": 0.552483, "DLOrms": 0.179053, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 353221.986016, 3837465.300469 ], [ 354159.485773, 3837123.341598 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.354477, "DLOW": 1.703482, "DHIrms": 0.485335, "DLOrms": 0.198499, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 354159.485773, 3837123.341598 ], [ 355076.213503, 3836735.315232 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.310958, "DLOW": 1.691875, "DHIrms": 0.523907, "DLOrms": 0.231463, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 355076.213503, 3836735.315232 ], [ 355964.909805, 3836301.157835 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.219758, "DLOW": 1.714446, "DHIrms": 0.588319, "DLOrms": 0.267988, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 355964.909805, 3836301.157835 ], [ 356822.731071, 3835814.889141 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.901725, "DLOW": 1.681555, "DHIrms": 0.553317, "DLOrms": 0.261570, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 356822.731071, 3835814.889141 ], [ 357644.218636, 3835262.400407 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.110954, "DLOW": 1.767154, "DHIrms": 0.964657, "DLOrms": 0.496750, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357644.218636, 3835262.400407 ], [ 358299.484491, 3834611.120162 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.431833, "DLOW": 1.800993, "DHIrms": 1.166755, "DLOrms": 0.647872, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 358299.484491, 3834611.120162 ], [ 358920.820979, 3833683.466877 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.152205, "DLOW": 1.572702, "DHIrms": 1.087573, "DLOrms": 0.523553, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 358920.820979, 3833683.466877 ], [ 359382.236108, 3833213.499281 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.017200, "DLOW": 1.671889, "DHIrms": 0.982822, "DLOrms": 0.558502, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 359382.236108, 3833213.499281 ], [ 359654.547063, 3833098.102328 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.357512, "DLOW": 1.829004, "DHIrms": 1.960539, "DLOrms": 0.635699, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357551.483314, 3833579.315108 ], [ 357413.552829, 3832997.211723 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.642549, "DLOW": 1.849948, "DHIrms": 1.955378, "DLOrms": 0.631754, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357413.552829, 3832997.211723 ], [ 357475.025194, 3832484.050559 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.375630, "DLOW": 2.025986, "DHIrms": 1.571944, "DLOrms": 0.682022, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357475.025194, 3832484.050559 ], [ 357578.835242, 3831553.505825 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.961284, "DLOW": 2.483437, "DHIrms": 1.101099, "DLOrms": 0.702849, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357578.835242, 3831553.505825 ], [ 357989.387495, 3830642.249787 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.811276, "DLOW": 2.469350, "DHIrms": 0.807300, "DLOrms": 0.750661, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 357989.387495, 3830642.249787 ], [ 358545.513848, 3829837.404036 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.144372, "DLOW": 2.203702, "DHIrms": 1.505917, "DLOrms": 1.086120, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 358545.513848, 3829837.404036 ], [ 358952.999780, 3829002.357680 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.373983, "DLOW": 2.153194, "DHIrms": 1.784794, "DLOrms": 1.081439, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 358952.999780, 3829002.357680 ], [ 359280.454865, 3828554.088617 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.410313, "DLOW": 2.111394, "DHIrms": 1.731758, "DLOrms": 1.064138, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 359280.454865, 3828554.088617 ], [ 359441.401781, 3829236.354487 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.787747, "DLOW": 1.962509, "DHIrms": 1.347379, "DLOrms": 0.941996, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 359441.401781, 3829236.354487 ], [ 359692.158256, 3830214.936036 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.303974, "DLOW": 1.763872, "DHIrms": 0.679308, "DLOrms": 0.449344, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 359692.158256, 3830214.936036 ], [ 360076.515926, 3831120.802343 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.345734, "DLOW": 1.918736, "DHIrms": 0.626074, "DLOrms": 0.377875, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 360076.515926, 3831120.802343 ], [ 360544.383653, 3831994.164030 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.368375, "DLOW": 2.032946, "DHIrms": 0.645581, "DLOrms": 0.366601, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 360544.383653, 3831994.164030 ], [ 361029.322298, 3832859.510427 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.625466, "DLOW": 2.088527, "DHIrms": 0.704983, "DLOrms": 0.326583, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 361029.322298, 3832859.510427 ], [ 361503.627178, 3833748.261242 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.182166, "DLOW": 2.215340, "DHIrms": 0.855811, "DLOrms": 0.437478, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 361503.627178, 3833748.261242 ], [ 361940.711454, 3834607.960585 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.636386, "DLOW": 1.920004, "DHIrms": 0.957532, "DLOrms": 0.502400, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 361940.711454, 3834607.960585 ], [ 362384.244685, 3835534.571242 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.243247, "DLOW": 1.776025, "DHIrms": 0.475000, "DLOrms": 0.325557, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 362384.244685, 3835534.571242 ], [ 362864.098934, 3836342.564211 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.365048, "DLOW": 1.909050, "DHIrms": 0.339996, "DLOrms": 0.309281, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 362864.098934, 3836342.564211 ], [ 363460.662206, 3837250.029161 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.400500, "DLOW": 1.935039, "DHIrms": 0.309934, "DLOrms": 0.280963, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 363460.662206, 3837250.029161 ], [ 363993.239304, 3837998.324012 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.191953, "DLOW": 1.878807, "DHIrms": 0.342351, "DLOrms": 0.228821, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 363993.239304, 3837998.324012 ], [ 364516.985118, 3838757.662606 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.881760, "DLOW": 1.765945, "DHIrms": 0.225192, "DLOrms": 0.172381, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 364516.985118, 3838757.662606 ], [ 365145.153977, 3839673.872642 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.750511, "DLOW": 1.707560, "DHIrms": 0.181845, "DLOrms": 0.167864, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 365145.153977, 3839673.872642 ], [ 365647.363717, 3840369.070318 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.766711, "DLOW": 1.687418, "DHIrms": 0.193680, "DLOrms": 0.174130, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 365647.363717, 3840369.070318 ], [ 366278.487622, 3841237.128281 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.840001, "DLOW": 1.710143, "DHIrms": 0.188734, "DLOrms": 0.122719, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 366278.487622, 3841237.128281 ], [ 366876.400518, 3842010.676592 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.969301, "DLOW": 1.743858, "DHIrms": 0.213109, "DLOrms": 0.143590, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 366876.400518, 3842010.676592 ], [ 367414.020075, 3842738.937884 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.176932, "DLOW": 1.760467, "DHIrms": 0.239804, "DLOrms": 0.190634, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 367414.020075, 3842738.937884 ], [ 367936.587081, 3843500.766125 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.247676, "DLOW": 1.746252, "DHIrms": 0.284662, "DLOrms": 0.247378, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 367936.587081, 3843500.766125 ], [ 368570.890814, 3844334.461142 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.969177, "DLOW": 1.686822, "DHIrms": 0.381876, "DLOrms": 0.277045, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 368570.890814, 3844334.461142 ], [ 369139.154033, 3845064.955136 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.778656, "DLOW": 1.662482, "DHIrms": 0.318739, "DLOrms": 0.255307, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 369139.154033, 3845064.955136 ], [ 369703.862451, 3845789.229821 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.715982, "DLOW": 1.707776, "DHIrms": 0.361214, "DLOrms": 0.285512, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 369703.862451, 3845789.229821 ], [ 370395.085531, 3846666.790142 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.646808, "DLOW": 1.735589, "DHIrms": 0.240815, "DLOrms": 0.169030, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 370395.085531, 3846666.790142 ], [ 370963.541052, 3847397.832075 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.638585, "DLOW": 1.728161, "DHIrms": 0.205025, "DLOrms": 0.168428, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 370963.541052, 3847397.832075 ], [ 371474.452207, 3848093.579047 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.662095, "DLOW": 1.642145, "DHIrms": 0.221569, "DLOrms": 0.218312, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 371474.452207, 3848093.579047 ], [ 372235.631784, 3849158.032902 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.662543, "DLOW": 1.562684, "DHIrms": 0.280744, "DLOrms": 0.222839, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 372235.631784, 3849158.032902 ], [ 372777.893962, 3849826.338780 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.749680, "DLOW": 1.672534, "DHIrms": 0.331755, "DLOrms": 0.268379, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 372777.893962, 3849826.338780 ], [ 373373.010530, 3850567.075030 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.808769, "DLOW": 1.730138, "DHIrms": 0.296850, "DLOrms": 0.225360, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 373373.010530, 3850567.075030 ], [ 374055.503670, 3851351.353281 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.820853, "DLOW": 1.674365, "DHIrms": 0.301553, "DLOrms": 0.222598, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 374055.503670, 3851351.353281 ], [ 374691.624962, 3852054.339035 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.753185, "DLOW": 1.597432, "DHIrms": 0.303889, "DLOrms": 0.246396, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 374691.624962, 3852054.339035 ], [ 375310.963012, 3852782.926435 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.583000, "DLOW": 1.519348, "DHIrms": 0.260622, "DLOrms": 0.225325, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 375310.963012, 3852782.926435 ], [ 375838.289569, 3853414.195384 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.368216, "DLOW": 1.512434, "DHIrms": 0.411294, "DLOrms": 0.250234, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 375838.289569, 3853414.195384 ], [ 376784.298204, 3854590.385954 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.848266, "DLOW": 1.507271, "DHIrms": 0.353268, "DLOrms": 0.306309, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 376784.298204, 3854590.385954 ], [ 377242.311417, 3855166.519943 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.640952, "DLOW": 1.342062, "DHIrms": 0.254176, "DLOrms": 0.147340, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 377242.311417, 3855166.519943 ], [ 377443.246525, 3855694.794255 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.489802, "DLOW": 1.305159, "DHIrms": 0.272932, "DLOrms": 0.097944, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 377443.246525, 3855694.794255 ], [ 378519.044616, 3856676.214247 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.403548, "DLOW": 1.610477, "DHIrms": 0.292753, "DLOrms": 0.273922, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 378519.044616, 3856676.214247 ], [ 378744.210331, 3856779.818798 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.641594, "DLOW": 1.651458, "DHIrms": 0.444349, "DLOrms": 0.433170, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 378744.210331, 3856779.818798 ], [ 379869.259750, 3857726.582555 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.123764, "DLOW": 1.798121, "DHIrms": 0.760233, "DLOrms": 0.640598, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 379869.259750, 3857726.582555 ], [ 380408.097667, 3858230.694196 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.806082, "DLOW": 1.861205, "DHIrms": 0.843015, "DLOrms": 0.638329, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 380408.097667, 3858230.694196 ], [ 381133.309417, 3858885.084449 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.905437, "DLOW": 1.958705, "DHIrms": 0.694321, "DLOrms": 0.544431, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 381133.309417, 3858885.084449 ], [ 381861.027496, 3859524.848756 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.324128, "DLOW": 2.154066, "DHIrms": 0.907609, "DLOrms": 0.474453, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 381861.027496, 3859524.848756 ], [ 382541.781100, 3860143.539550 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.039010, "DLOW": 2.098319, "DHIrms": 0.776718, "DLOrms": 0.487881, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 382541.781100, 3860143.539550 ], [ 383302.011833, 3860853.300844 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.515596, "DLOW": 1.689017, "DHIrms": 0.767330, "DLOrms": 0.385680, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 383302.011833, 3860853.300844 ], [ 384014.865433, 3861406.307677 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.677954, "DLOW": 1.616020, "DHIrms": 0.369212, "DLOrms": 0.263213, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 384014.865433, 3861406.307677 ], [ 384768.012691, 3862030.478491 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.668706, "DLOW": 1.637561, "DHIrms": 0.386722, "DLOrms": 0.202735, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 384768.012691, 3862030.478491 ], [ 385518.857117, 3862682.951384 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.856968, "DLOW": 1.707511, "DHIrms": 0.608709, "DLOrms": 0.257476, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 385518.857117, 3862682.951384 ], [ 386264.251313, 3863346.038480 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.857189, "DLOW": 1.681341, "DHIrms": 0.520252, "DLOrms": 0.265274, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 386264.251313, 3863346.038480 ], [ 386988.077490, 3864033.022737 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.923547, "DLOW": 1.776806, "DHIrms": 0.530131, "DLOrms": 0.341548, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 386988.077490, 3864033.022737 ], [ 387698.154860, 3864722.866959 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.335917, "DLOW": 2.086048, "DHIrms": 0.613991, "DLOrms": 0.510273, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 387698.154860, 3864722.866959 ], [ 388402.279490, 3865422.685819 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.646622, "DLOW": 2.275108, "DHIrms": 0.500767, "DLOrms": 0.404464, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 388402.279490, 3865422.685819 ], [ 389097.001404, 3866125.609019 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.808962, "DLOW": 2.350044, "DHIrms": 0.383530, "DLOrms": 0.319949, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 389097.001404, 3866125.609019 ], [ 389804.311825, 3866826.939037 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.911745, "DLOW": 2.391551, "DHIrms": 0.307083, "DLOrms": 0.427120, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 389804.311825, 3866826.939037 ], [ 390516.173993, 3867522.447120 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.752867, "DLOW": 2.175233, "DHIrms": 0.455667, "DLOrms": 0.573257, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 390516.173993, 3867522.447120 ], [ 391231.167431, 3868213.192903 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.562080, "DLOW": 2.043425, "DHIrms": 0.500078, "DLOrms": 0.585616, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 391231.167431, 3868213.192903 ], [ 391949.318400, 3868898.525327 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.711112, "DLOW": 2.413327, "DHIrms": 0.600177, "DLOrms": 0.531269, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 391949.318400, 3868898.525327 ], [ 392684.148702, 3869573.128625 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.771041, "DLOW": 2.583526, "DHIrms": 0.619703, "DLOrms": 0.385123, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 392684.148702, 3869573.128625 ], [ 393404.902902, 3870222.950489 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.533635, "DLOW": 2.464489, "DHIrms": 0.650774, "DLOrms": 0.410409, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 393404.902902, 3870222.950489 ], [ 394169.751831, 3870897.659285 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.553774, "DLOW": 2.536232, "DHIrms": 0.780899, "DLOrms": 0.371994, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 394169.751831, 3870897.659285 ], [ 394897.254806, 3871543.622426 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.875834, "DLOW": 2.688756, "DHIrms": 0.735599, "DLOrms": 0.383814, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 394897.254806, 3871543.622426 ], [ 395624.796380, 3872214.283208 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.951813, "DLOW": 2.682746, "DHIrms": 0.551910, "DLOrms": 0.371580, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 395624.796380, 3872214.283208 ], [ 396354.507190, 3872885.832531 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.401456, "DLOW": 2.609847, "DHIrms": 0.934668, "DLOrms": 0.335572, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 396354.507190, 3872885.832531 ], [ 397079.363446, 3873532.478554 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.709656, "DLOW": 2.474628, "DHIrms": 0.966529, "DLOrms": 0.425574, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 397079.363446, 3873532.478554 ], [ 397787.002657, 3874169.893010 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.729147, "DLOW": 2.525288, "DHIrms": 1.002733, "DLOrms": 0.431275, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 397787.002657, 3874169.893010 ], [ 398499.901111, 3874802.809195 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.432480, "DLOW": 2.647023, "DHIrms": 1.044924, "DLOrms": 0.283024, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 398499.901111, 3874802.809195 ], [ 399206.456235, 3875453.324128 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.608931, "DLOW": 2.551705, "DHIrms": 0.877079, "DLOrms": 0.329119, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 399206.456235, 3875453.324128 ], [ 399920.501404, 3876080.569592 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.830794, "DLOW": 2.384519, "DHIrms": 1.030294, "DLOrms": 0.375493, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 399920.501404, 3876080.569592 ], [ 400678.336907, 3876723.629096 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.052292, "DLOW": 2.256103, "DHIrms": 0.619621, "DLOrms": 0.427953, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 400678.336907, 3876723.629096 ], [ 401451.181478, 3877343.059802 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.684482, "DLOW": 2.132577, "DHIrms": 0.143869, "DLOrms": 0.532883, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 401451.181478, 3877343.059802 ], [ 402244.245348, 3877918.205687 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.586780, "DLOW": 1.812618, "DHIrms": 0.129254, "DLOrms": 0.331554, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 402244.245348, 3877918.205687 ], [ 403087.128835, 3878422.680150 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.896661, "DLOW": 1.631368, "DHIrms": 0.640436, "DLOrms": 0.398761, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 403087.128835, 3878422.680150 ], [ 403979.501992, 3878879.277279 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.233220, "DLOW": 1.555129, "DHIrms": 0.765827, "DLOrms": 0.394969, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 403979.501992, 3878879.277279 ], [ 404812.958969, 3879380.790168 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.102249, "DLOW": 1.516783, "DHIrms": 0.657815, "DLOrms": 0.359971, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 404812.958969, 3879380.790168 ], [ 405305.031824, 3879863.392734 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.942277, "DLOW": 1.503337, "DHIrms": 0.561206, "DLOrms": 0.350393, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 405305.031824, 3879863.392734 ], [ 405398.522992, 3880227.941649 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.011965, "DLOW": 999.000000, "DHIrms": 0.133873, "DLOrms": 999.000000, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 405398.522992, 3880227.941649 ], [ 408255.328887, 3880962.271532 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.062703, "DLOW": 1.901503, "DHIrms": 0.188113, "DLOrms": 0.193526, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 408255.328887, 3880962.271532 ], [ 408645.582649, 3881297.748777 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.390729, "DLOW": 1.968933, "DHIrms": 0.594853, "DLOrms": 0.494101, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 408645.582649, 3881297.748777 ], [ 409266.578919, 3881992.286476 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.473673, "DLOW": 2.233704, "DHIrms": 1.456907, "DLOrms": 0.543658, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 409266.578919, 3881992.286476 ], [ 409949.170020, 3882714.787364 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.669383, "DLOW": 2.383485, "DHIrms": 0.944072, "DLOrms": 0.417326, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 409949.170020, 3882714.787364 ], [ 410692.167078, 3883378.749769 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.160465, "DLOW": 2.485273, "DHIrms": 0.839290, "DLOrms": 0.426214, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 410692.167078, 3883378.749769 ], [ 411465.642196, 3884012.527783 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.708449, "DLOW": 2.557640, "DHIrms": 0.939270, "DLOrms": 0.466462, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 411465.642196, 3884012.527783 ], [ 412261.743185, 3884614.279858 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.427094, "DLOW": 2.858786, "DHIrms": 0.947571, "DLOrms": 0.585045, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 412261.743185, 3884614.279858 ], [ 413073.694960, 3885196.826796 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.949782, "DLOW": 3.236499, "DHIrms": 0.651289, "DLOrms": 0.677848, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 413073.694960, 3885196.826796 ], [ 413896.823311, 3885754.767432 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.967654, "DLOW": 3.308943, "DHIrms": 0.592064, "DLOrms": 0.669427, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 413896.823311, 3885754.767432 ], [ 414726.741110, 3886296.960990 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.017809, "DLOW": 3.305782, "DHIrms": 0.502078, "DLOrms": 0.689012, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 414726.741110, 3886296.960990 ], [ 415579.366786, 3886822.925807 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.086856, "DLOW": 3.400979, "DHIrms": 0.482224, "DLOrms": 0.598823, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 415579.366786, 3886822.925807 ], [ 416394.763459, 3887309.863153 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.832454, "DLOW": 3.428067, "DHIrms": 0.531561, "DLOrms": 0.449144, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 416394.763459, 3887309.863153 ], [ 417294.863284, 3887803.788313 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.445187, "DLOW": 3.207625, "DHIrms": 0.738148, "DLOrms": 0.554821, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 417294.863284, 3887803.788313 ], [ 418127.073715, 3888271.125586 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.131172, "DLOW": 2.940543, "DHIrms": 0.537694, "DLOrms": 0.555591, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 418127.073715, 3888271.125586 ], [ 419008.000805, 3888740.599699 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.982828, "DLOW": 2.898321, "DHIrms": 0.419165, "DLOrms": 0.464352, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 419008.000805, 3888740.599699 ], [ 419893.020485, 3889203.206965 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.651136, "DLOW": 2.700649, "DHIrms": 0.590054, "DLOrms": 0.500252, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 419893.020485, 3889203.206965 ], [ 420777.980979, 3889666.287815 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.159185, "DLOW": 2.277884, "DHIrms": 0.626880, "DLOrms": 0.435931, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 420777.980979, 3889666.287815 ], [ 421631.832426, 3890111.638916 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.937971, "DLOW": 2.076614, "DHIrms": 0.525132, "DLOrms": 0.314512, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 421631.832426, 3890111.638916 ], [ 422555.767794, 3890566.259020 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.089321, "DLOW": 2.123364, "DHIrms": 0.568605, "DLOrms": 0.376825, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 422555.767794, 3890566.259020 ], [ 423416.020866, 3890979.014388 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.387206, "DLOW": 2.313519, "DHIrms": 0.595398, "DLOrms": 0.497204, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423416.020866, 3890979.014388 ], [ 424302.499986, 3891383.907160 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.033937, "DLOW": 2.232672, "DHIrms": 0.881126, "DLOrms": 0.531666, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424302.499986, 3891383.907160 ], [ 425186.154045, 3891798.596286 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.138712, "DLOW": 1.818260, "DHIrms": 0.847640, "DLOrms": 0.402801, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425186.154045, 3891798.596286 ], [ 426048.580205, 3892179.471834 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.972458, "DLOW": 1.721981, "DHIrms": 0.594017, "DLOrms": 0.288111, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426048.580205, 3892179.471834 ], [ 426920.146609, 3892564.787305 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.007384, "DLOW": 2.148397, "DHIrms": 1.169733, "DLOrms": 0.629098, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426920.146609, 3892564.787305 ], [ 427791.343293, 3892898.831005 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.959072, "DLOW": 2.479693, "DHIrms": 1.433960, "DLOrms": 0.697543, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 427791.343293, 3892898.831005 ], [ 428679.867934, 3893197.984952 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.675418, "DLOW": 2.378656, "DHIrms": 2.285597, "DLOrms": 0.662726, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 428679.867934, 3893197.984952 ], [ 429531.420329, 3893473.750569 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.209076, "DLOW": 2.081193, "DHIrms": 1.376241, "DLOrms": 0.466876, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 429531.420329, 3893473.750569 ], [ 429987.862551, 3893877.656134 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 1.771843, "DLOW": 1.954696, "DHIrms": 0.882530, "DLOrms": 0.400235, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 429987.862551, 3893877.656134 ], [ 432786.064449, 3894698.919410 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.512529, "DLOW": 2.380213, "DHIrms": 1.386391, "DLOrms": 0.509613, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 432786.064449, 3894698.919410 ], [ 433196.068159, 3894798.496635 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.923150, "DLOW": 2.513507, "DHIrms": 1.241190, "DLOrms": 0.558747, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 433196.068159, 3894798.496635 ], [ 434042.609154, 3895118.111271 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.147095, "DLOW": 2.540804, "DHIrms": 1.013234, "DLOrms": 0.708510, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 434042.609154, 3895118.111271 ], [ 434928.899492, 3895472.745208 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.319344, "DLOW": 2.402661, "DHIrms": 0.979621, "DLOrms": 0.607011, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 434928.899492, 3895472.745208 ], [ 435821.469282, 3895876.186774 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.915284, "DLOW": 2.381733, "DHIrms": 0.714371, "DLOrms": 0.402345, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 435821.469282, 3895876.186774 ], [ 436703.919390, 3896251.724313 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.038392, "DLOW": 2.381426, "DHIrms": 0.606771, "DLOrms": 0.327754, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 436703.919390, 3896251.724313 ], [ 437620.047233, 3896635.636000 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.626923, "DLOW": 2.310189, "DHIrms": 0.465591, "DLOrms": 0.235625, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 437620.047233, 3896635.636000 ], [ 438553.179272, 3897002.741053 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.972246, "DLOW": 2.087794, "DHIrms": 0.673670, "DLOrms": 0.349503, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 438553.179272, 3897002.741053 ], [ 439439.193866, 3897363.289135 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.800405, "DLOW": 1.918993, "DHIrms": 0.690425, "DLOrms": 0.315992, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 439439.193866, 3897363.289135 ], [ 440410.721176, 3897716.077767 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.459762, "DLOW": 2.116660, "DHIrms": 1.125722, "DLOrms": 0.597483, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 440410.721176, 3897716.077767 ], [ 441330.532215, 3898001.121809 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.841638, "DLOW": 2.401121, "DHIrms": 0.857568, "DLOrms": 0.533526, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 441330.532215, 3898001.121809 ], [ 442274.351927, 3898293.846837 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.074079, "DLOW": 2.544652, "DHIrms": 0.593134, "DLOrms": 0.393050, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 442274.351927, 3898293.846837 ], [ 443217.806326, 3898565.554187 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.055402, "DLOW": 2.731342, "DHIrms": 1.137410, "DLOrms": 0.544167, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 443217.806326, 3898565.554187 ], [ 444187.601074, 3898794.851526 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.099215, "DLOW": 3.066068, "DHIrms": 0.911657, "DLOrms": 0.678194, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 444187.601074, 3898794.851526 ], [ 445199.411088, 3898988.651229 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.987133, "DLOW": 3.137177, "DHIrms": 0.730465, "DLOrms": 0.576952, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 445199.411088, 3898988.651229 ], [ 446134.739488, 3899097.767818 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.311138, "DLOW": 2.807781, "DHIrms": 0.758011, "DLOrms": 0.456407, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 446134.739488, 3899097.767818 ], [ 447128.062636, 3899159.006035 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.629969, "DLOW": 2.513626, "DHIrms": 0.608314, "DLOrms": 0.393846, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 447128.062636, 3899159.006035 ], [ 448107.524536, 3899132.740698 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.769350, "DLOW": 2.352379, "DHIrms": 0.855068, "DLOrms": 0.341455, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 448107.524536, 3899132.740698 ], [ 449083.306826, 3898994.989278 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.666497, "DLOW": 2.239379, "DHIrms": 0.725587, "DLOrms": 0.320620, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 449083.306826, 3898994.989278 ], [ 450018.742459, 3898723.275333 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.892122, "DLOW": 2.137729, "DHIrms": 0.586419, "DLOrms": 0.380475, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 450018.742459, 3898723.275333 ], [ 450931.062568, 3898201.124345 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.650183, "DLOW": 2.348255, "DHIrms": 0.989176, "DLOrms": 0.648785, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 450931.062568, 3898201.124345 ], [ 451555.762513, 3897616.515816 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.650484, "DLOW": 2.496169, "DHIrms": 1.118571, "DLOrms": 0.597137, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 451555.762513, 3897616.515816 ], [ 451912.392423, 3898002.231527 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.401358, "DLOW": 2.880666, "DHIrms": 1.716232, "DLOrms": 0.847669, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 451912.392423, 3898002.231527 ], [ 452070.412056, 3898976.454558 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.862971, "DLOW": 3.402406, "DHIrms": 1.225095, "DLOrms": 0.774231, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452070.412056, 3898976.454558 ], [ 452219.867018, 3899951.714530 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.808669, "DLOW": 3.424972, "DHIrms": 0.924092, "DLOrms": 0.628546, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452219.867018, 3899951.714530 ], [ 452456.386484, 3900914.744885 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.144037, "DLOW": 2.872597, "DHIrms": 0.910062, "DLOrms": 0.733109, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452456.386484, 3900914.744885 ], [ 452746.475836, 3901854.469638 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.044796, "DLOW": 2.426908, "DHIrms": 1.006395, "DLOrms": 0.647531, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452746.475836, 3901854.469638 ], [ 452856.570942, 3902780.340427 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.275528, "DLOW": 2.864143, "DHIrms": 1.460265, "DLOrms": 0.849861, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452856.570942, 3902780.340427 ], [ 452999.830038, 3903842.338192 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.253362, "DLOW": 3.443911, "DHIrms": 0.729587, "DLOrms": 0.635437, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452999.830038, 3903842.338192 ], [ 453174.343652, 3904841.983616 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.252870, "DLOW": 3.672550, "DHIrms": 0.781677, "DLOrms": 0.572848, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453174.343652, 3904841.983616 ], [ 453356.117635, 3905793.138852 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.432648, "DLOW": 3.805552, "DHIrms": 0.747475, "DLOrms": 0.619319, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453356.117635, 3905793.138852 ], [ 453545.244136, 3906764.295582 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.030556, "DLOW": 4.101126, "DHIrms": 1.140663, "DLOrms": 0.694583, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453545.244136, 3906764.295582 ], [ 453724.777504, 3907750.425243 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.420406, "DLOW": 4.240604, "DHIrms": 1.051938, "DLOrms": 0.577644, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453724.777504, 3907750.425243 ], [ 453899.838938, 3908735.409683 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.470739, "DLOW": 3.762858, "DHIrms": 1.075866, "DLOrms": 0.548966, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453899.838938, 3908735.409683 ], [ 454106.343861, 3909709.640553 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.410139, "DLOW": 3.371473, "DHIrms": 0.542414, "DLOrms": 0.394627, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454106.343861, 3909709.640553 ], [ 454292.308100, 3910695.720307 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.278156, "DLOW": 3.278004, "DHIrms": 0.646698, "DLOrms": 0.452288, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454292.308100, 3910695.720307 ], [ 454489.250801, 3911670.856008 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.048929, "DLOW": 3.530667, "DHIrms": 1.062558, "DLOrms": 0.728123, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454489.250801, 3911670.856008 ], [ 454727.207030, 3912639.640357 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.656807, "DLOW": 3.795808, "DHIrms": 0.852955, "DLOrms": 0.821799, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454727.207030, 3912639.640357 ], [ 454961.910619, 3913609.020976 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.052112, "DLOW": 3.499826, "DHIrms": 0.960484, "DLOrms": 0.666934, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454961.910619, 3913609.020976 ], [ 455208.777559, 3914578.277304 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.384248, "DLOW": 3.146009, "DHIrms": 0.721778, "DLOrms": 0.526964, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455208.777559, 3914578.277304 ], [ 455431.361679, 3915552.326059 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.098626, "DLOW": 3.065361, "DHIrms": 0.660779, "DLOrms": 0.510634, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455431.361679, 3915552.326059 ], [ 455651.781276, 3916525.419638 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.277070, "DLOW": 3.317292, "DHIrms": 0.641403, "DLOrms": 0.621392, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455651.781276, 3916525.419638 ], [ 455836.589667, 3917503.512050 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.043241, "DLOW": 3.794015, "DHIrms": 0.701776, "DLOrms": 0.818383, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455836.589667, 3917503.512050 ], [ 455930.463772, 3918479.415285 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.977345, "DLOW": 4.311440, "DHIrms": 0.922505, "DLOrms": 0.705134, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455930.463772, 3918479.415285 ], [ 455998.553732, 3919513.566667 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.247723, "DLOW": 4.394935, "DHIrms": 0.843907, "DLOrms": 0.522274, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455998.553732, 3919513.566667 ], [ 456048.237517, 3920491.683091 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.207772, "DLOW": 3.752443, "DHIrms": 1.241945, "DLOrms": 0.825521, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456048.237517, 3920491.683091 ], [ 456076.999269, 3921491.281036 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.171654, "DLOW": 3.141321, "DHIrms": 1.001698, "DLOrms": 0.638058, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456076.999269, 3921491.281036 ], [ 456130.929986, 3922488.610120 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.374928, "DLOW": 3.264937, "DHIrms": 0.978161, "DLOrms": 0.636054, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456130.929986, 3922488.610120 ], [ 456202.659415, 3923485.438025 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.316450, "DLOW": 3.352049, "DHIrms": 0.983425, "DLOrms": 0.679299, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456202.659415, 3923485.438025 ], [ 456284.561933, 3924481.621281 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.768128, "DLOW": 3.142087, "DHIrms": 0.724846, "DLOrms": 0.610868, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456284.561933, 3924481.621281 ], [ 456380.618195, 3925464.646785 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.240376, "DLOW": 3.317386, "DHIrms": 0.971715, "DLOrms": 0.574634, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456380.618195, 3925464.646785 ], [ 456502.514839, 3926405.847302 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.111521, "DLOW": 3.636071, "DHIrms": 0.710499, "DLOrms": 0.374379, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456502.514839, 3926405.847302 ], [ 456646.894649, 3927286.440222 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.566706, "DLOW": 3.522772, "DHIrms": 0.707195, "DLOrms": 0.598741, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456646.894649, 3927286.440222 ], [ 456807.831064, 3928265.494848 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.778530, "DLOW": 3.219310, "DHIrms": 0.768426, "DLOrms": 0.750486, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456807.831064, 3928265.494848 ], [ 456993.979122, 3929168.187026 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.550476, "DLOW": 3.152317, "DHIrms": 0.774318, "DLOrms": 0.590937, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456993.979122, 3929168.187026 ], [ 457170.398307, 3930130.215774 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.128728, "DLOW": 3.360967, "DHIrms": 0.514548, "DLOrms": 0.579282, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457170.398307, 3930130.215774 ], [ 457352.684569, 3931063.974516 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.879933, "DLOW": 3.550353, "DHIrms": 0.557847, "DLOrms": 0.505767, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457352.684569, 3931063.974516 ], [ 457552.094715, 3931956.598593 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.902262, "DLOW": 3.705356, "DHIrms": 0.592255, "DLOrms": 0.597454, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457552.094715, 3931956.598593 ], [ 457732.499263, 3932713.740435 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.030655, "DLOW": 3.687203, "DHIrms": 0.464016, "DLOrms": 0.570559, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457732.499263, 3932713.740435 ], [ 457870.283180, 3933527.838459 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.215696, "DLOW": 3.568885, "DHIrms": 0.488779, "DLOrms": 0.545306, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457870.283180, 3933527.838459 ], [ 458023.086820, 3934435.050299 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.692287, "DLOW": 3.585826, "DHIrms": 0.821043, "DLOrms": 0.676466, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458023.086820, 3934435.050299 ], [ 458172.076980, 3935403.353385 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.506912, "DLOW": 3.228518, "DHIrms": 1.153046, "DLOrms": 0.984945, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458172.076980, 3935403.353385 ], [ 458216.050611, 3936389.603910 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.854500, "DLOW": 2.494405, "DHIrms": 1.701426, "DLOrms": 0.682467, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458216.050611, 3936389.603910 ], [ 458215.344437, 3937252.819268 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.492209, "DLOW": 2.231190, "DHIrms": 0.966707, "DLOrms": 0.516488, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458215.344437, 3937252.819268 ], [ 458155.523450, 3938484.239407 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.195296, "DLOW": 2.150230, "DHIrms": 0.682830, "DLOrms": 0.512453, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458155.523450, 3938484.239407 ], [ 458038.057979, 3939373.030675 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.725930, "DLOW": 1.978134, "DHIrms": 1.159423, "DLOrms": 0.520733, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 458038.057979, 3939373.030675 ], [ 457883.923783, 3940311.654814 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.385237, "DLOW": 2.446665, "DHIrms": 1.880956, "DLOrms": 0.643200, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457883.923783, 3940311.654814 ], [ 457741.290979, 3941342.071715 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.980653, "DLOW": 2.942537, "DHIrms": 1.337506, "DLOrms": 0.593921, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457741.290979, 3941342.071715 ], [ 457620.044464, 3942305.003327 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.630599, "DLOW": 3.462331, "DHIrms": 1.289174, "DLOrms": 0.588022, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457620.044464, 3942305.003327 ], [ 457503.652834, 3943290.987020 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 8.214012, "DLOW": 3.985500, "DHIrms": 1.409568, "DLOrms": 0.627703, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457503.652834, 3943290.987020 ], [ 457366.653823, 3944279.600841 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 8.650557, "DLOW": 4.068587, "DHIrms": 0.962283, "DLOrms": 0.815544, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457366.653823, 3944279.600841 ], [ 457220.460354, 3945266.781469 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.676447, "DLOW": 3.477620, "DHIrms": 0.907952, "DLOrms": 0.771411, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457220.460354, 3945266.781469 ], [ 457076.370864, 3946216.058616 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.352442, "DLOW": 2.859172, "DHIrms": 0.973943, "DLOrms": 0.574355, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 457076.370864, 3946216.058616 ], [ 456856.322649, 3947242.695278 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.866030, "DLOW": 2.534164, "DHIrms": 1.193251, "DLOrms": 0.636195, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456856.322649, 3947242.695278 ], [ 456625.049095, 3948208.610703 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.758177, "DLOW": 2.427347, "DHIrms": 1.056271, "DLOrms": 0.603665, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456625.049095, 3948208.610703 ], [ 456379.100813, 3949146.963800 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.281381, "DLOW": 2.875499, "DHIrms": 1.537482, "DLOrms": 0.612363, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456379.100813, 3949146.963800 ], [ 456189.417234, 3950083.289474 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.409559, "DLOW": 3.302649, "DHIrms": 1.099977, "DLOrms": 0.688681, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 456189.417234, 3950083.289474 ], [ 455975.154620, 3951039.207043 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.461473, "DLOW": 3.346911, "DHIrms": 0.977737, "DLOrms": 0.642848, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455975.154620, 3951039.207043 ], [ 455691.368301, 3951983.755844 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.844427, "DLOW": 3.044992, "DHIrms": 1.105195, "DLOrms": 0.583148, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455691.368301, 3951983.755844 ], [ 455376.859992, 3952919.868338 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.168783, "DLOW": 2.715404, "DHIrms": 1.088689, "DLOrms": 0.647600, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455376.859992, 3952919.868338 ], [ 455064.817656, 3953860.176155 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.795081, "DLOW": 2.554819, "DHIrms": 0.914655, "DLOrms": 0.648037, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 455064.817656, 3953860.176155 ], [ 454754.439998, 3954801.031658 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.920384, "DLOW": 2.611479, "DHIrms": 1.240207, "DLOrms": 0.649064, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454754.439998, 3954801.031658 ], [ 454382.628068, 3955755.799148 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.330795, "DLOW": 2.819953, "DHIrms": 1.237732, "DLOrms": 0.577959, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 454382.628068, 3955755.799148 ], [ 453979.699450, 3956649.322811 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.839265, "DLOW": 3.038134, "DHIrms": 0.966348, "DLOrms": 0.466065, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453979.699450, 3956649.322811 ], [ 453512.491846, 3957532.450714 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.948048, "DLOW": 3.212030, "DHIrms": 2.089856, "DLOrms": 0.656321, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453512.491846, 3957532.450714 ], [ 453082.195160, 3958266.481031 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.506966, "DLOW": 3.287142, "DHIrms": 2.833815, "DLOrms": 0.785741, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 453082.195160, 3958266.481031 ], [ 452888.196338, 3958568.870953 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.446090, "DLOW": 2.009858, "DHIrms": 1.177007, "DLOrms": 0.529279, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 452888.196338, 3958568.870953 ], [ 451636.138054, 3960383.515252 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 2.837984, "DLOW": 2.106286, "DHIrms": 1.410338, "DLOrms": 0.534658, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 451636.138054, 3960383.515252 ], [ 451472.945973, 3960873.648062 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.015598, "DLOW": 2.424471, "DHIrms": 1.846901, "DLOrms": 0.619815, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 451472.945973, 3960873.648062 ], [ 451103.179689, 3961736.427780 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.638863, "DLOW": 2.976988, "DHIrms": 1.396022, "DLOrms": 0.830808, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 451103.179689, 3961736.427780 ], [ 450748.654160, 3962667.877136 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.353180, "DLOW": 3.121324, "DHIrms": 0.677924, "DLOrms": 0.724009, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 450748.654160, 3962667.877136 ], [ 450378.641410, 3963594.101213 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.417090, "DLOW": 3.006933, "DHIrms": 0.716164, "DLOrms": 0.441742, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 450378.641410, 3963594.101213 ], [ 450033.151369, 3964530.879256 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.284328, "DLOW": 3.131305, "DHIrms": 0.936825, "DLOrms": 0.442413, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 450033.151369, 3964530.879256 ], [ 449706.844609, 3965472.980162 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.168690, "DLOW": 3.267428, "DHIrms": 1.041337, "DLOrms": 0.435833, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 449706.844609, 3965472.980162 ], [ 449389.849240, 3966417.450350 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.398379, "DLOW": 3.182747, "DHIrms": 1.305461, "DLOrms": 0.439553, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 449389.849240, 3966417.450350 ], [ 449071.814545, 3967363.555264 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.230245, "DLOW": 2.896687, "DHIrms": 0.899368, "DLOrms": 0.481066, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 449071.814545, 3967363.555264 ], [ 448751.512568, 3968309.842306 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 3.982098, "DLOW": 2.850408, "DHIrms": 0.790649, "DLOrms": 0.583890, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 448751.512568, 3968309.842306 ], [ 448404.015449, 3969246.157463 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.421356, "DLOW": 3.168760, "DHIrms": 0.827983, "DLOrms": 0.512987, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 448404.015449, 3969246.157463 ], [ 448017.782107, 3970166.738343 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.851189, "DLOW": 3.473264, "DHIrms": 0.677755, "DLOrms": 0.407102, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 448017.782107, 3970166.738343 ], [ 447615.980609, 3971078.759251 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.090362, "DLOW": 3.622761, "DHIrms": 0.737134, "DLOrms": 0.483834, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 447615.980609, 3971078.759251 ], [ 447212.095079, 3971989.698736 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.288620, "DLOW": 3.722525, "DHIrms": 0.763238, "DLOrms": 0.453031, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 447212.095079, 3971989.698736 ], [ 446803.617515, 3972899.816890 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.182345, "DLOW": 3.674401, "DHIrms": 0.704469, "DLOrms": 0.455818, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 446803.617515, 3972899.816890 ], [ 446403.304226, 3973812.317901 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.282393, "DLOW": 3.736694, "DHIrms": 0.798749, "DLOrms": 0.552013, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 446403.304226, 3973812.317901 ], [ 446006.846350, 3974726.087852 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.732039, "DLOW": 3.955735, "DHIrms": 0.698072, "DLOrms": 0.528241, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 446006.846350, 3974726.087852 ], [ 445589.737631, 3975630.609429 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.083519, "DLOW": 4.006436, "DHIrms": 0.709160, "DLOrms": 0.450112, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 445589.737631, 3975630.609429 ], [ 445162.548777, 3976531.995480 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.209674, "DLOW": 4.058333, "DHIrms": 0.658598, "DLOrms": 0.484650, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 445162.548777, 3976531.995480 ], [ 444755.162791, 3977434.390239 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.055276, "DLOW": 4.093146, "DHIrms": 0.581026, "DLOrms": 0.414932, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 444755.162791, 3977434.390239 ], [ 444346.334439, 3978341.244630 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.700954, "DLOW": 3.924702, "DHIrms": 0.679540, "DLOrms": 0.477047, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 444346.334439, 3978341.244630 ], [ 443943.142888, 3979246.800723 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.502064, "DLOW": 3.775766, "DHIrms": 0.713632, "DLOrms": 0.423347, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 443943.142888, 3979246.800723 ], [ 443531.524068, 3980153.021567 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.597351, "DLOW": 3.760200, "DHIrms": 0.707278, "DLOrms": 0.369235, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 443531.524068, 3980153.021567 ], [ 443129.700853, 3981059.839458 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.283386, "DLOW": 4.005975, "DHIrms": 1.078498, "DLOrms": 0.508099, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 443129.700853, 3981059.839458 ], [ 442716.376607, 3981971.614502 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.136794, "DLOW": 4.288059, "DHIrms": 0.927792, "DLOrms": 0.359918, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 442716.376607, 3981971.614502 ], [ 442295.625720, 3982873.856927 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.357078, "DLOW": 4.263479, "DHIrms": 0.928339, "DLOrms": 0.469613, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 442295.625720, 3982873.856927 ], [ 441882.763568, 3983782.046447 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.288795, "DLOW": 4.143514, "DHIrms": 1.165077, "DLOrms": 0.859757, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 441882.763568, 3983782.046447 ], [ 441473.800003, 3984691.436660 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.091783, "DLOW": 4.174861, "DHIrms": 1.199200, "DLOrms": 0.882694, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 441473.800003, 3984691.436660 ], [ 441051.964841, 3985594.498603 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.864668, "DLOW": 4.265599, "DHIrms": 0.776433, "DLOrms": 0.610195, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 441051.964841, 3985594.498603 ], [ 440621.568273, 3986491.059051 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.326128, "DLOW": 3.888258, "DHIrms": 1.039173, "DLOrms": 0.951818, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 440621.568273, 3986491.059051 ], [ 440160.357505, 3987378.340459 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.667890, "DLOW": 3.390934, "DHIrms": 0.859683, "DLOrms": 1.161986, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 440160.357505, 3987378.340459 ], [ 439686.715656, 3988255.753645 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.398970, "DLOW": 3.318511, "DHIrms": 0.692226, "DLOrms": 0.995164, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 439686.715656, 3988255.753645 ], [ 439219.890700, 3989125.026528 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.166398, "DLOW": 3.028500, "DHIrms": 0.612725, "DLOrms": 0.939168, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 439219.890700, 3989125.026528 ], [ 438746.247277, 3990006.145168 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.166508, "DLOW": 2.755221, "DHIrms": 0.499274, "DLOrms": 0.967268, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 438746.247277, 3990006.145168 ], [ 438496.200593, 3990456.875658 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.219081, "DLOW": 2.706775, "DHIrms": 0.488726, "DLOrms": 0.971862, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 438496.200593, 3990456.875658 ], [ 437486.236340, 3992353.956855 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.628646, "DLOW": 2.654388, "DHIrms": 0.541502, "DLOrms": 0.606913, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 437486.236340, 3992353.956855 ], [ 437294.216348, 3992724.084818 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.372257, "DLOW": 2.691508, "DHIrms": 0.365920, "DLOrms": 0.576933, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 437294.216348, 3992724.084818 ], [ 436881.987325, 3993552.568663 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.378659, "DLOW": 2.719641, "DHIrms": 0.268907, "DLOrms": 0.581713, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 436881.987325, 3993552.568663 ], [ 436457.063646, 3994443.712534 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.006613, "DLOW": 2.998928, "DHIrms": 0.691147, "DLOrms": 0.669614, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 436457.063646, 3994443.712534 ], [ 436029.501022, 3995372.642017 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.784576, "DLOW": 3.512886, "DHIrms": 0.662705, "DLOrms": 0.637427, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 436029.501022, 3995372.642017 ], [ 435631.518342, 3996276.945887 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.245169, "DLOW": 3.919728, "DHIrms": 0.310450, "DLOrms": 0.419406, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 435631.518342, 3996276.945887 ], [ 435241.052363, 3997192.880732 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.305342, "DLOW": 4.027765, "DHIrms": 0.372079, "DLOrms": 0.308002, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 435241.052363, 3997192.880732 ], [ 434852.241262, 3998104.732671 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.375969, "DLOW": 4.256331, "DHIrms": 0.472956, "DLOrms": 0.473623, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 434852.241262, 3998104.732671 ], [ 434464.342484, 3999033.532557 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.595318, "DLOW": 4.430246, "DHIrms": 0.349084, "DLOrms": 0.659832, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 434464.342484, 3999033.532557 ], [ 434091.952636, 3999965.328340 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.627109, "DLOW": 4.270994, "DHIrms": 0.298040, "DLOrms": 0.674486, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 434091.952636, 3999965.328340 ], [ 433735.179842, 4000887.941785 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.478727, "DLOW": 4.255123, "DHIrms": 0.371133, "DLOrms": 0.494173, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 433735.179842, 4000887.941785 ], [ 433392.651419, 4001821.615450 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.586984, "DLOW": 4.474987, "DHIrms": 0.366212, "DLOrms": 0.455834, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 433392.651419, 4001821.615450 ], [ 433060.245677, 4002776.108437 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.980416, "DLOW": 4.336938, "DHIrms": 0.403868, "DLOrms": 0.563130, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 433060.245677, 4002776.108437 ], [ 432761.213092, 4003717.587705 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.026711, "DLOW": 3.883383, "DHIrms": 0.451377, "DLOrms": 0.612304, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 432761.213092, 4003717.587705 ], [ 432445.199374, 4004662.308369 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.382011, "DLOW": 3.523641, "DHIrms": 0.764529, "DLOrms": 0.474709, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 432445.199374, 4004662.308369 ], [ 432111.872322, 4005601.308161 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.636867, "DLOW": 3.362370, "DHIrms": 0.438495, "DLOrms": 0.350765, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 432111.872322, 4005601.308161 ], [ 431779.329631, 4006543.658452 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.728217, "DLOW": 3.492989, "DHIrms": 0.452543, "DLOrms": 0.378456, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 431779.329631, 4006543.658452 ], [ 431432.634293, 4007481.004210 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.982213, "DLOW": 3.652839, "DHIrms": 0.377512, "DLOrms": 0.319835, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 431432.634293, 4007481.004210 ], [ 431084.454289, 4008401.642249 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.074829, "DLOW": 3.673145, "DHIrms": 0.369591, "DLOrms": 0.265363, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 431084.454289, 4008401.642249 ], [ 430861.527826, 4009013.544389 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.249956, "DLOW": 3.443653, "DHIrms": 0.446773, "DLOrms": 0.383226, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 430861.527826, 4009013.544389 ], [ 430355.941735, 4010467.766950 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.274446, "DLOW": 3.351166, "DHIrms": 0.440772, "DLOrms": 0.369130, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 430355.941735, 4010467.766950 ], [ 430146.429144, 4011071.212283 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.372263, "DLOW": 3.381058, "DHIrms": 0.434604, "DLOrms": 0.382011, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 430146.429144, 4011071.212283 ], [ 429728.311294, 4012357.824461 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.562343, "DLOW": 3.455761, "DHIrms": 0.395420, "DLOrms": 0.435381, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 429728.311294, 4012357.824461 ], [ 429469.239167, 4013148.220734 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.275691, "DLOW": 3.249051, "DHIrms": 0.569153, "DLOrms": 0.425411, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 429469.239167, 4013148.220734 ], [ 429182.217081, 4014100.655193 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.753241, "DLOW": 3.040515, "DHIrms": 0.524074, "DLOrms": 0.307624, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 429182.217081, 4014100.655193 ], [ 428901.243463, 4015058.422808 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.526720, "DLOW": 3.001646, "DHIrms": 0.540789, "DLOrms": 0.297705, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 428901.243463, 4015058.422808 ], [ 428605.258758, 4016009.584542 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.520701, "DLOW": 2.979587, "DHIrms": 0.512384, "DLOrms": 0.299532, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 428605.258758, 4016009.584542 ], [ 428334.176717, 4016971.382745 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.371519, "DLOW": 2.908596, "DHIrms": 0.560290, "DLOrms": 0.273161, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 428334.176717, 4016971.382745 ], [ 428070.896971, 4017935.941229 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.200793, "DLOW": 2.811239, "DHIrms": 0.579151, "DLOrms": 0.235248, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 428070.896971, 4017935.941229 ], [ 427801.648676, 4018898.874571 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.991106, "DLOW": 2.745084, "DHIrms": 0.662113, "DLOrms": 0.251013, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 427801.648676, 4018898.874571 ], [ 427527.577829, 4019860.668083 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.935360, "DLOW": 2.764512, "DHIrms": 0.801343, "DLOrms": 0.330468, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 427527.577829, 4019860.668083 ], [ 427266.109421, 4020825.708079 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.370860, "DLOW": 2.884158, "DHIrms": 0.855775, "DLOrms": 0.355883, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 427266.109421, 4020825.708079 ], [ 427019.419747, 4021794.594840 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.746059, "DLOW": 2.986984, "DHIrms": 0.941432, "DLOrms": 0.423268, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 427019.419747, 4021794.594840 ], [ 426797.800326, 4022769.438006 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.484951, "DLOW": 2.940138, "DHIrms": 1.000161, "DLOrms": 0.400623, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426797.800326, 4022769.438006 ], [ 426587.633363, 4023746.831978 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.017752, "DLOW": 2.816636, "DHIrms": 0.690581, "DLOrms": 0.272268, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426587.633363, 4023746.831978 ], [ 426386.482950, 4024726.312008 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 4.954815, "DLOW": 2.787313, "DHIrms": 0.739487, "DLOrms": 0.284542, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426386.482950, 4024726.312008 ], [ 426184.240203, 4025705.395061 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.017146, "DLOW": 2.808520, "DHIrms": 0.956121, "DLOrms": 0.378196, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 426184.240203, 4025705.395061 ], [ 425985.729826, 4026685.277917 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.184556, "DLOW": 2.842201, "DHIrms": 0.920107, "DLOrms": 0.338835, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425985.729826, 4026685.277917 ], [ 425798.021364, 4027667.254071 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.613429, "DLOW": 2.961664, "DHIrms": 0.804854, "DLOrms": 0.364067, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425798.021364, 4027667.254071 ], [ 425614.387374, 4028637.431653 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.775135, "DLOW": 2.975970, "DHIrms": 0.835726, "DLOrms": 0.421043, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425614.387374, 4028637.431653 ], [ 425415.269983, 4029640.345418 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.505448, "DLOW": 2.882785, "DHIrms": 0.868321, "DLOrms": 0.510852, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425415.269983, 4029640.345418 ], [ 425217.580974, 4030609.236673 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.586940, "DLOW": 2.986832, "DHIrms": 1.040842, "DLOrms": 0.442067, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 425217.580974, 4030609.236673 ], [ 424991.202171, 4031582.789521 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.547174, "DLOW": 3.075536, "DHIrms": 1.198363, "DLOrms": 0.407699, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424991.202171, 4031582.789521 ], [ 424781.470310, 4032559.882034 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.037086, "DLOW": 2.951390, "DHIrms": 0.953868, "DLOrms": 0.464084, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424781.470310, 4032559.882034 ], [ 424573.906048, 4033537.453390 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.250431, "DLOW": 2.993183, "DHIrms": 1.066497, "DLOrms": 0.537874, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424573.906048, 4033537.453390 ], [ 424347.253913, 4034510.966041 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.728985, "DLOW": 3.178832, "DHIrms": 1.165101, "DLOrms": 0.628806, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424347.253913, 4034510.966041 ], [ 424120.562301, 4035484.639492 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.693674, "DLOW": 3.235075, "DHIrms": 0.927623, "DLOrms": 0.450593, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 424120.562301, 4035484.639492 ], [ 423903.256535, 4036460.294941 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.529494, "DLOW": 3.222898, "DHIrms": 0.842921, "DLOrms": 0.510138, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423903.256535, 4036460.294941 ], [ 423685.163413, 4037435.711677 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.383689, "DLOW": 3.186421, "DHIrms": 0.820928, "DLOrms": 0.560894, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423685.163413, 4037435.711677 ], [ 423473.955885, 4038412.182061 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.190333, "DLOW": 3.059635, "DHIrms": 0.937956, "DLOrms": 0.385433, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423473.955885, 4038412.182061 ], [ 423294.339300, 4039393.996056 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 5.930319, "DLOW": 3.340587, "DHIrms": 1.291999, "DLOrms": 0.697201, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423294.339300, 4039393.996056 ], [ 423128.772865, 4040378.091865 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.955883, "DLOW": 3.996566, "DHIrms": 0.666624, "DLOrms": 0.953583, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 423128.772865, 4040378.091865 ], [ 422958.608373, 4041361.441106 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.330899, "DLOW": 4.281026, "DHIrms": 0.454212, "DLOrms": 0.880425, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 422958.608373, 4041361.441106 ], [ 422802.726824, 4042347.320836 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 7.284579, "DLOW": 3.883998, "DHIrms": 0.560021, "DLOrms": 0.839293, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 422802.726824, 4042347.320836 ], [ 422651.139596, 4043335.050406 ] ] } }
+,
+{ "type": "Feature", "properties": { "DHIGH": 6.571053, "DLOW": 3.438001, "DHIrms": 1.128265, "DLOrms": 0.510036, "State": "North Carolina" }, "geometry": { "type": "LineString", "coordinates": [ [ 422651.139596, 4043335.050406 ], [ 422542.374158, 4044070.536090 ] ] } }
+
+]
+}

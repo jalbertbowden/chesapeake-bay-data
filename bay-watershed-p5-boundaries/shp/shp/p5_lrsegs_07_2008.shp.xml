@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://water.usgs.gov/GIS/metadata/usgswrd/fgdc-std-001-1998.xsd">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Jennifer L. Krstolic</origin>
+				<origin>Sarah K. Martucci</origin>
+				<origin>Katharine J. Hopkins</origin>
+				<origin>Jeff P. Raffensperger</origin>
+				<pubdate>2005</pubdate>
+				<title Sync="TRUE">gis.GISOWNER.P5_LRSEGS_July10_08</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<serinfo>
+					<sername>SIR</sername>
+					<issue>2005-5073</issue>
+				</serinfo>
+				<pubinfo>
+					<pubplace>Baltimore, MD</pubplace>
+					<publish>US Geological Survey</publish>
+				</pubinfo>
+				<othercit>
+Spatial data associated with the Scientific Investigations Report, 'Development of Land Segmentation, Stream-Reach Network, and Watersheds in Support of Hydrological Simulation Program-Fortran (HSPF) Modeling, Chesapeake Bay Watershed, and Adjacent Parts of Maryland, Delaware, and Virginia'
+
+By Sarah K. Martucci, Jennifer L. Krstolic, and Jeff P. Raffensperger (U.S. Geological Survey), and Katharine J. Hopkins (University of Maryland Center for Environmental Science)
+</othercit>
+				<onlink Sync="TRUE"></onlink>
+				<ftname Sync="TRUE">gis.GISOWNER.P5_LRSEGS_July10_08</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data set is an ArcGIS shapefile depicting land segments in the Chesapeake Bay Watershed and adjacent states of New York, Pennsylvania, Maryland, West Virginia, Delaware, Virginia, North Carolina, and Tennessee.  Land segmentation was based on county boundaries represented by a 1:100,000-scale digital dataset. Fifty of the 254 counties and incorporated cities in the model region were divided on the basis of physiography and topography, producing a total of 310 land segments. The data are projected to the UTM grid coordinate system - Zone 18 NAD27.   </abstract>
+			<purpose>
+The U.S. Geological Survey, Chesapeake Bay Program, Interstate Commission on the Potomac River Basin, Maryland Department of the Environment, Virginia Department of Conservation and Recreation, and the University of Maryland are collaborating on the Chesapeake Bay Regional Watershed Model, using Hydrological Simulation Program - FORTRAN to simulate streamflow and concentrations and loads of nutrients and sediment. In order to establish a framework for model simulation, digital spatial datasets were created defining the discretization of the model region (including the Chesapeake Bay Watershed, as well as the adjacent parts of Maryland, Delaware, Virginia, Tennessee, and North Carolina outside the watershed) into land segments, a stream-reach network, and associated watersheds.
+
+The purpose of the Chesapeake Bay land coverage is to represent the county political boundaries and areas of differing physiography and topography in the study area.  These land segments are based on an existing 1:100,000-scale digital dataset for all states in the study area.  Land segments and watersheds were intersected to create land-watershed segments for the model.  The land segments are to be used with the Chesapeake Bay Regional Watershed Model.  Other uses are not suggested.
+</purpose>
+			<supplinf>
+Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Geological Survey. 
+
+Although this Federal Geographic Data Committee-compliant metadata file is intended to document the data set in nonproprietary form, as well as in ARC/INFO format, this metadata file may include some ARC/INFO-specific terminology.
+
+Related websites:
+Chesapeake Bay Program Home: 
+http://www.chesapeakebay.net/index.cfm
+
+Chesapeake Bay Program Modeling efforts:
+http://www.chesapeakebay.net/model.htm
+
+Chesapeake Bay Program work related to this GIS dataset:
+http://www.chesapeakebay.net/phase5.htm
+
+SPARROW Modeling and stream-reach network development
+http://md.water.usgs.gov/publications/wrir-99-4054/
+
+Maryland Department of the Environment (MDE)
+http://www.mde.state.md.us/
+
+Interstate Commission on the Potomac River Basin (ICPRB)
+http://www.potomacriver.org/
+
+Virginia Department of Conservation and Recreation (DCR)
+http://www.dcr.state.va.us/
+
+University of Maryland
+http://www.umd.edu/
+</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc Sync="TRUE">-84.636451</westbc>
+				<eastbc Sync="TRUE">-74.145544</eastbc>
+				<northbc Sync="TRUE">44.097085</northbc>
+				<southbc Sync="TRUE">35.612716</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">-276779.000217</leftbc><rightbc Sync="TRUE">568397.187450</rightbc><bottombc Sync="TRUE">3974957.250881</bottombc><topbc Sync="TRUE">4882655.999119</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO19119 Topic Category</themekt>
+				<themekey>inlandWaters</themekey>
+				<themekey>environment</themekey>
+				<themekey>farming</themekey>
+				<themekey>biota</themekey>
+			</theme>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>County</themekey>
+				<themekey>Physiography</themekey>
+				<themekey>Elevation</themekey>
+				<themekey>Topography</themekey>
+				<themekey>HSPF model</themekey>
+				<themekey>Segmentation</themekey>
+				<themekey>Political Boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Chesapeake Bay Watershed</placekey>
+				<placekey>DE</placekey>
+				<placekey>MD</placekey>
+				<placekey>NC</placekey>
+				<placekey>NY</placekey>
+				<placekey>PA</placekey>
+				<placekey>TN</placekey>
+				<placekey>VA</placekey>
+				<placekey>WV</placekey>
+			</place>
+			<temporal>
+				<tempkey>2000-2005</tempkey>
+			</temporal>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>These data are to be used with the Chesapeake Bay Regional Watershed Model or projects related to this work.  The phase 5 and VA vs. MD issues are as such.  In order to avoid shoreline accuracy issues we extended our land and river segments out into the water.  This was intended to associate wetlands and near-shore or shallow water data with adjacent land and river segments.  It should NOT be used to assign water territory or state ownership of anything not directly associated with land.  The FIPS borders in the water are for internal model processing only.  </useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Ask USGS ? Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>Virginia</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://answers.usgs.gov/cgi-bin/gsanswers?pemail=h2oteam&amp;amp;subject=GIS+Dataset+SIR2005_5073_cbland</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>http://water.usgs.gov/GIS/browse/SIR2005-5073_Cbland.jpg</browsen>
+			<browsed>Land segments of the Chesapeake Bay Regional Watershed Model</browsed>
+			<browset>JPEG</browset>
+		</browse>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.5.1450</native>
+		<crossref>
+			<citeinfo>
+				<origin></origin>
+				<pubdate></pubdate>
+			</citeinfo>
+		</crossref>
+		<natvform Sync="TRUE">SDE Feature Class</natvform></idinfo>
+	<dataqual>
+		<logic>
+Original data was in ArcInfo coverage format. Topology was built using either the Build command (01/26/2005).  The data layer is "topologically clean" as tested with the ArcInfo Build command.  Tolerances: Fuzzy = 0.974, Dangle = 0.00.  
+
+Shapefiles have been compared to the original dataset. Data was converted to shapefile format 07/08/2005.
+</logic>
+		<complete>US Counties were re-selected to represent only those completely within, or touching the boundary of the study area.  All counties within the states of Virgina, Maryland, Delaware, and Pennsylvania were included. Only a selected set of counties from New York, West Virginia, Tennessee, and North Carolina were included.  The rest of the counties within US Counties dataset were omited.  </complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>US Geological Survey, EROS Data Center</origin>
+						<pubdate>1999</pubdate>
+						<title>National Elevation Dataset</title>
+						<edition>1</edition>
+						<geoform>raster digital data</geoform>
+						<pubinfo>
+							<pubplace>Sioux Falls, SD</pubplace>
+							<publish>U.S. Geological Survey </publish>
+						</pubinfo>
+						<onlink>http://gisdata.usgs.net/ned/</onlink>
+						<onlink>http://ned.usgs.gov/ned/ned.html</onlink>
+						<onlink>http://ned.usgs.gov</onlink>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>NED</srccitea>
+				<srccontr>National Elevation Dataset (NED) was contoured and used to define areas of great relief.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Department of Commerce Bureau of Census</origin>
+						<pubdate>1993</pubdate>
+						<pubtime>not specified</pubtime>
+						<title>1:100,000-scale counties of the United States</title>
+						<edition>Edition 1.1</edition>
+						<geoform>vector digital data</geoform>
+						<othercit>U.S. Geological Survey, accessed November 16, 2004</othercit>
+						<onlink>http://water.usgs.gov/lookup/getspatial?county100</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1993</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>US Counties</srccitea>
+				<srccontr>The Counties of the United States served as the base for the land segments.  </srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey,</origin>
+						<pubdate>1980</pubdate>
+						<title>Physiographic Provinces of Virginia: prov2m_ugs, 1:2,000,000 scale</title>
+						<geoform>vector digital data</geoform>
+						<othercit>Available through the Virginia Water USGS office</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1980</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Physiographic Provinces, VA</srccitea>
+				<srccontr>The Physiographic Province boundaries in Virginia were used as a guide for changes in topography.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>2000</pubdate>
+						<title>Hydrogeomorphic Regions in the Chesapeake Bay Watershed</title>
+						<edition>1</edition>
+						<serinfo>
+							<sername>Open-File Report</sername>
+							<issue>00-424</issue>
+						</serinfo>
+						<pubinfo>
+							<pubplace>Maryland</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+						<othercit>Brakebill, J.W., and Kelley, S.K., 2000, Version 1: U.S. Geological Survey Open-File Report 00-424, accessed November 16, 2004 at</othercit>
+						<onlink>http://water.usgs.gov/lookup/getspatial?hgmr</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>HGMR</srccitea>
+				<srccontr>Hydrogeomorphic Regions were used to differentiate between areas of great relief and differences in geology.  Counties with large differences in topography or geology were split so that county-scale rainfall data and other data could be distributed based on these differences. </srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau Geography Division</origin>
+						<pubdate>2004</pubdate>
+						<pubtime>not specified</pubtime>
+						<title>Significant changes to counties and county equivalent entities: 1970-present</title>
+						<edition>not specified</edition>
+						<geoform>vector digital data</geoform>
+						<onlink>http://www.census.gov/geo/www/tiger/ctychng.html</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc></typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2004</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>Census county and city changes</srccitea>
+				<srccontr>Used to update boundaries of incorporated cities to reflect land acquisition since the publication date of the county dataset. </srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>1:100,000-scale counties of the United States projected to UTM zone 18, NAD83, and reselected for study area. Only counties within the Chesapeake Bay or adjacent land in NY, PA, MD, DE, WV, VA, NC, and TN were included. </procdesc>
+				<procdate>2003</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Polygons divided into 2-3 parts through on-screen editing, if determined necessary.  Large differences in physography or topography were used to determine whether a polygon should be divided.  Various sources used in each state.  See source information for details.</procdesc>
+				<srcused>Physiographic Provinces, VA</srcused>
+				<srcused>HGMR</srcused>
+				<srcused>NED</srcused>
+				<procdate>2003</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Incorporated cities and counties were updated with Census 2000 boundaries.</procdesc>
+				<srcused>Census County and City Changes</srcused>
+				<procdate>2003</procdate>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\khopkins\LOCALS~1\Temp\xmlC09D.tmp</srcused><date Sync="TRUE">20051128</date><time Sync="TRUE">10443100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">H:\landcov\TOWSON2002_LC\p5_counties_Merge</srcused><date Sync="TRUE">20070518</date><time Sync="TRUE">15541300</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20070522</date><time Sync="TRUE">10191500</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=gar-dev; Service=5151; Database=GIS; User=\; Version=sde.DEFAULT</srcused><date Sync="TRUE">20070608</date><time Sync="TRUE">15145100</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=gar-dev; Service=5151; Database=gis; User=GISOwner; Version=sde.DEFAULT</srcused><date Sync="TRUE">20080610</date><time Sync="TRUE">17120900</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">Server=gar-dev; Service=5151; Database=gis; Version=sde.DEFAULT</srcused><procdate Sync="TRUE">20080821</procdate><proctime Sync="TRUE">09514700</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="gis.GISOWNER.P5_LRSEGS_July10_08">
+				<sdtstype Sync="TRUE">G-polygon</sdtstype>
+				<ptvctcnt Sync="TRUE">0</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>310</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>310</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="gis.GISOWNER.P5_LRSEGS_July10_08"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.002048</absres>
+						<ordres Sync="TRUE">0.002048</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">meters</plandu>
+				</planci>
+				<gridsys><gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn><utm><utmzone Sync="TRUE">18</utmzone><transmer><sfctrmer Sync="TRUE">0.999600</sfctrmer><longcm Sync="TRUE">-75.000000</longcm><latprjo Sync="TRUE">0.000000</latprjo><feast Sync="TRUE">500000.000000</feast><fnorth Sync="TRUE">0.000000</fnorth></transmer></utm></gridsys></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn><projcsn Sync="TRUE">NAD_1983_UTM_Zone_18N</projcsn></cordsysn></horizsys>
+		<vertdef><altsys><altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc><altres Sync="TRUE">1.000000</altres></altsys></vertdef></spref>
+	<eainfo>
+		<detailed Name="gis.GISOWNER.P5_LRSEGS_July10_08">
+			<enttyp>
+				<enttypl Sync="TRUE">gis.GISOWNER.P5_LRSEGS_July10_08</enttypl>
+				<enttypd>Polygon Attribute Table</enttypd>
+				<enttypds>ESRI</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">0</enttypc></enttyp>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl Sync="TRUE">FIPS</attrlabl><attalias Sync="TRUE">FIPS</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">MAJOR</attrlabl><attalias Sync="TRUE">MAJOR</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">MINOR</attrlabl><attalias Sync="TRUE">MINOR</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrlabl Sync="TRUE">UNIQID</attrlabl><attalias Sync="TRUE">UNIQID</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrlabl Sync="TRUE">DSID</attrlabl><attalias Sync="TRUE">DSID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">FLOW</attrlabl><attalias Sync="TRUE">FLOW</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">CATCODE2</attrlabl><attalias Sync="TRUE">CATCODE2</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">ST</attrlabl><attalias Sync="TRUE">ST</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">13</attwidth></attr><attr><attrlabl Sync="TRUE">CNTYNAME</attrlabl><attalias Sync="TRUE">CNTYNAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">FIPS2</attrlabl><attalias Sync="TRUE">FIPS2</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">23</attwidth></attr><attr><attrlabl Sync="TRUE">FIPSAB</attrlabl><attalias Sync="TRUE">FIPSAB</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">10</attwidth></attr><attr><attrlabl Sync="TRUE">TIDALWATER</attrlabl><attalias Sync="TRUE">TIDALWATER</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">6</attwidth></attr><attr><attrlabl Sync="TRUE">FIPSCATWAT</attrlabl><attalias Sync="TRUE">FIPSCATWAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrlabl Sync="TRUE">P5TTB05</attrlabl><attalias Sync="TRUE">P5TTB05</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">25</attwidth></attr><attr><attrlabl Sync="TRUE">MAJBAS</attrlabl><attalias Sync="TRUE">MAJBAS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">44</attwidth></attr><attr><attrlabl Sync="TRUE">MINBAS</attrlabl><attalias Sync="TRUE">MINBAS</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">44</attwidth></attr><attr><attrlabl Sync="TRUE">FIPSCAT</attrlabl><attalias Sync="TRUE">FIPSCAT</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">2</attwidth></attr><attr><attrlabl Sync="TRUE">P5TSB05</attrlabl><attalias Sync="TRUE">P5TSB05</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">1</attwidth></attr><attr><attrlabl Sync="TRUE">RIVER_SIMU</attrlabl><attalias Sync="TRUE">RIVER_SIMU</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">RIVERNAME</attrlabl><attalias Sync="TRUE">RIVERNAME</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">50</attwidth></attr><attr><attrlabl Sync="TRUE">MAJMIN</attrlabl><attalias Sync="TRUE">MAJMIN</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">254</attwidth></attr><attr><attrlabl Sync="TRUE">CBW</attrlabl><attalias Sync="TRUE">CBW</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr><attrlabl Sync="TRUE">WATERSHED</attrlabl><attalias Sync="TRUE">WATERSHED</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr><attr><attrlabl Sync="TRUE">SHAPE</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv><atnumdec Sync="TRUE">8</atnumdec></attr><attr><attrlabl Sync="TRUE">OBJECTID</attrlabl><attalias Sync="TRUE">OBJECTID</attalias><attrtype Sync="TRUE">Number</attrtype><attwidth Sync="TRUE">19</attwidth><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv><atnumdec Sync="TRUE">8</atnumdec></attr><attr><attrlabl Sync="TRUE">REGION</attrlabl><attalias Sync="TRUE">REGION</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">MAP_BASIN</attrlabl><attalias Sync="TRUE">MAP_BASIN</attalias><attrtype Sync="TRUE">Float</attrtype><attwidth Sync="TRUE">19</attwidth><atnumdec Sync="TRUE">11</atnumdec></attr><attr><attrlabl Sync="TRUE">Shape.area</attrlabl><attalias Sync="TRUE">Shape.area</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr><attr><attrlabl Sync="TRUE">Shape.len</attrlabl><attalias Sync="TRUE">Shape.len</attalias><attrtype Sync="TRUE">Double</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr></detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntpos>Ask USGS -- Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://water.usgs.gov/user_feedback_form.html</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>Although this data set has been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARCE</formname>
+					<formcont>Polygon coverage</formcont>
+					<filedec>zipped</filedec>
+					<transize>1276 KB</transize>
+					<dssize Sync="TRUE">31.427</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://water.usgs.gov/GIS/dsdl/sir2005-5073_land_e00.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formcont>multiple parts with the same base name, and different extensions.</formcont>
+					<filedec>zipped Shapefile named cb_land_shape.zip</filedec>
+					<transize>1760 KB</transize>
+					<dssize Sync="TRUE">31.427</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://water.usgs.gov/GIS/dsdl/sir2005-5073_land_shape.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>SDTS</formname>
+					<filedec>Zipped SDTS format named cb_land_SDTS.zip</filedec>
+					<transize>1100 KB</transize>
+					<dssize Sync="TRUE">31.427</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://water.usgs.gov/GIS/dsdl/sir2005-5073_land_sdts.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none. This dataset is provided by USGS as a public service</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20080710</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper></cntorgp>
+				<cntpos>Ask USGS -- Water Webserver Team</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>1-888-275-8747 (1-888-ASK-USGS)</cntvoice>
+				<cntemail>http://water.usgs.gov/user_feedback_form.html</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20080821</CreaDate><CreaTime>09514700</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080710</SyncDate><SyncTime>14370200</SyncTime><ModDate>20080710</ModDate><ModTime>14370200</ModTime><DataProperties><lineage><Process Name="Dissolve_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20060405" Time="170801">Dissolve "County Borders" "G:\Working\khopkins\Phase 5.mdb\p5llandsegs_Dissolve" ST;CNTYNAME;FIPS2;FIPSAB;FIPS # MULTI_PART</Process><Process Name="Dissolve_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20070504" Time="143453">Dissolve p5llandsegs_Dissolve H:\landcov\TOWSON2002_LC\p5_counties.shp FIPS # SINGLE_PART</Process><Process Name="Merge_7" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Merge" Date="20070518" Time="154710">Merge p5_counties;wv_counties H:\landcov\TOWSON2002_LC\p5_counties_Merge.shp "FIPS FIPS true false false 9 Long 0 9 ,First,#,p5_counties,FIPS,-1,-1,wv_counties,FIPS,-1,-1"</Process><Process Name="Union_2" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\Union" Date="20070522" Time="104705">Union "PeterCounties #;gis.GISOWNER.P5_LRsegs #" G:\Working\khopkins\PeterCounties_Union.shp ALL # NO_GAPS</Process><Process Name="Eliminate_3" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Eliminate" Date="20070522" Time="165117">Eliminate PeterCounties_Union G:\Working\khopkins\PeterCounties_Union_Eliminat.shp LENGTH</Process><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20070525" Time="153555">FeatureClassToFeatureClass G:\Working\khopkins\PeterCounties_Union_Eliminat.shp "Database Connections\Connection to gar-dev.sde\gis.GISOWNER.MODELING" P5_LRsegs # "MAJOR MAJOR true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,MAJOR,-1,-1;MINOR MINOR true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,MINOR,-1,-1;UNIQID UNIQID true false false 5 Long 0 5 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,UNIQID,-1,-1;DSID DSID true false false 5 Long 0 5 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,DSID,-1,-1;FLOW FLOW true false false 5 Long 0 5 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FLOW,-1,-1;CATCODE2 CATCODE2 true false false 13 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,CATCODE2,-1,-1;ST ST true false false 2 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,ST,-1,-1;CNTYNAME CNTYNAME true false false 23 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,CNTYNAME,-1,-1;FIPS2 FIPS2 true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FIPS2,-1,-1;FIPSAB FIPSAB true false false 6 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FIPSAB,-1,-1;TIDALWATER TIDALWATER true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,TIDALWATER,-1,-1;FIPSCATWAT FIPSCATWAT true false false 25 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FIPSCATWAT,-1,-1;P5TTB05 P5TTB05 true false false 44 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,P5TTB05,-1,-1;P5TSB05 P5TSB05 true false false 44 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,P5TSB05,-1,-1;MAJMIN MAJMIN true false false 2 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,MAJMIN,-1,-1;CBW CBW true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,CBW,-1,-1;REGION REGION true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,REGION,-1,-1;WATERSHED WATERSHED true false false 50 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,WATERSHED,-1,-1;MAJBAS MAJBAS true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,MAJBAS,-1,-1;MINBAS MINBAS true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,MINBAS,-1,-1;FIPSCAT FIPSCAT true false false 20 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FIPSCAT,-1,-1;RIVER_SIMU RIVER_SIMU true false false 20 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,RIVER_SIMU,-1,-1;RIVERNAME RIVERNAME true false false 100 Text 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,RIVERNAME,-1,-1;SHAPE_area SHAPE_area true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,SHAPE_area,-1,-1;SHAPE_len SHAPE_len true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,SHAPE_len,-1,-1;Area Area true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,Area,-1,-1;Acres Acres true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,Acres,-1,-1;Hectares Hectares true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,Hectares,-1,-1;FIPS FIPS true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\PeterCounties_Union_Eliminat.shp,FIPS,-1,-1" # "Database Connections\Connection to gar-dev.sde\gis.GISOWNER.MODELING\GIS.GISOWNER.P5_LRsegs"</Process><Process Name="RegisterAsVersioned_2" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\RegisterAsVersioned" Date="20070608" Time="100346">RegisterAsVersioned "Database Connections\Connection to gar-dev as GIS Owner.sde\gis.GISOWNER.MODELING\GIS.GISOWNER.P5_LRsegs" NO_EDITS_TO_BASE "Database Connections\Connection to gar-dev as GIS Owner.sde\gis.GISOWNER.MODELING\GIS.GISOWNER.P5_LRsegs"</Process><Process Name="FeatureClassToFeatureClass_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass" Date="20070724" Time="145746">FeatureClassToFeatureClass G:\Working\khopkins\p5lrseg_tempupdate.shp "Database Connections\Connection to gar-dev as GIS Owner.sde\gis.GISOWNER.MODELING" P5_LRsegs # "OBJECTID OBJECTID true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,OBJECTID,-1,-1;MAJOR MAJOR true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,MAJOR,-1,-1;MINOR MINOR true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,MINOR,-1,-1;UNIQID UNIQID true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,UNIQID,-1,-1;DSID DSID true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,DSID,-1,-1;FLOW FLOW true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FLOW,-1,-1;CATCODE2 CATCODE2 true false false 13 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,CATCODE2,-1,-1;ST ST true false false 2 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,ST,-1,-1;CNTYNAME CNTYNAME true false false 23 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,CNTYNAME,-1,-1;FIPS2 FIPS2 true false false 10 Double 0 10 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FIPS2,-1,-1;FIPSAB FIPSAB true false false 6 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FIPSAB,-1,-1;TIDALWATER TIDALWATER true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,TIDALWATER,-1,-1;FIPSCATWAT FIPSCATWAT true false false 25 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FIPSCATWAT,-1,-1;P5TTB05 P5TTB05 true false false 44 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,P5TTB05,-1,-1;P5TSB05 P5TSB05 true false false 44 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,P5TSB05,-1,-1;MAJMIN MAJMIN true false false 2 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,MAJMIN,-1,-1;CBW CBW true false false 1 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,CBW,-1,-1;REGION REGION true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,REGION,-1,-1;WATERSHED WATERSHED true false false 50 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,WATERSHED,-1,-1;MAJBAS MAJBAS true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,MAJBAS,-1,-1;MINBAS MINBAS true false false 254 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,MINBAS,-1,-1;FIPSCAT FIPSCAT true false false 20 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FIPSCAT,-1,-1;RIVER_SIMU RIVER_SIMU true false false 20 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,RIVER_SIMU,-1,-1;RIVERNAME RIVERNAME true false false 100 Text 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,RIVERNAME,-1,-1;AREA AREA true false false 19 Double 8 18 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,AREA,-1,-1;ACRES ACRES true false false 19 Double 8 18 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,ACRES,-1,-1;HECTARES HECTARES true false false 19 Double 8 18 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,HECTARES,-1,-1;FIPS FIPS true false false 19 Double 8 18 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,FIPS,-1,-1;SHAPE_area SHAPE_area true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,SHAPE_area,-1,-1;SHAPE_len SHAPE_len true false false 19 Double 0 0 ,First,#,G:\Working\khopkins\p5lrseg_tempupdate.shp,SHAPE_len,-1,-1" # "Database Connections\Connection to gar-dev as GIS Owner.sde\gis.GISOWNER.MODELING\GIS.GISOWNER.P5_LRsegs"</Process><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures" Date="20080612" Time="135623">CopyFeatures G:\Working\Web_Templates\Katie\Data\P5_LRSEGS_June10_08.shp "Database Connections\gar-dev (gisowner).sde\gis.GISOWNER.MODELING\gis.GISOWNER.P5_LRSEGS_June10_08" # 0 0 0</Process><Process Name="Dissolve_1" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Dissolve" Date="20080710" Time="143833">Dissolve "Database Connections\gar-dev (gisowner).sde\gis.GISOWNER.MODELING\gis.GISOWNER.P5_LRSEGS_June10_08" "Database Connections\gar-dev (gisowner).sde\gis.GISOWNER.MODELING\gis.GISOWNER.P5_LRSEGS_July10_08" MAJOR;MINOR;UNIQID;DSID;FLOW;CATCODE2;ST;CNTYNAME;FIPS2;FIPSAB;TIDALWATER;FIPSCATWAT;P5TTB05;P5TSB05;MAJMIN;CBW;REGION;WATERSHED;MAJBAS;MINBAS;FIPSCAT;RIVER_SIMU;RIVERNAME;FIPS;MAP_BASIN # MULTI_PART</Process></lineage></DataProperties><MetaID>{6D4C3A94-F317-4B6F-8BD9-F6879E132F80}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.5.1450</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">gis.GISOWNER.P5_LRSEGS_July10_08</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">-276779.000217</westBL><eastBL Sync="TRUE">568397.18745</eastBL><northBL Sync="TRUE">4882655.999119</northBL><southBL Sync="TRUE">3974957.250881</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-84.636451</westBL><eastBL Sync="TRUE">-74.145544</eastBL><northBL Sync="TRUE">44.097085</northBL><southBL Sync="TRUE">35.612716</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">31.427</transSize></distorTran><distorFormat><formatName Sync="TRUE">SDE Feature Class</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_UTM_Zone_18N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="001"></TopoLevCd></topLvl><geometObjs Name="gis.GISOWNER.P5_LRSEGS_July10_08"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20080710</mdDateSt></metadata>

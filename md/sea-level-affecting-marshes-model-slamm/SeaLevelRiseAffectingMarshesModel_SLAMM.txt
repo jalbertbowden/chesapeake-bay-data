@@ -1,0 +1,442 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 2011
+      Title: SLAMM - SLR Vulnerable Wetlands
+      Edition: version 1
+      Geospatial_Data_Presentation_Form: Fgdb raster digital data
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland
+        Publisher: Maryland Department of Natural Resources
+      Other_Citation_Details:
+        National Wildlife Federation (NWF) 2008.  Sea-Level Rise and Coastal Habitats in the Chesapeake Bay Region.  Technical Report Prepared by:  Patty Glick, National Wildlife Federation, Jonathan Clough, Warren Pinnacle Consulting, Inc., and Brad Nunley, National Wildlife Federation.
+
+        National Estuarine Research Reserve System (NERRS) 2008.  Habitat and Land Cover Classification Scheme for the National Estuarine Research Reserve System.  Report prepared by: Thomas E. Kutcher, Wells Bay National Estuarine Research Reserve.  Technical Contributors: Nina H. Garfield, Estuarine Reserves Division/OCRM/NOAA, Samuel P. Walker, University of South Carolina Department of Environmental Health Sciences, Kenneth B. Raposa, Narragansett Bay NERR, Charles Nieder, Hudson River NERR, Eric Van Dyke, Elkhorn Slough NERR and Tim Reed, San Francisco Bay NERR.
+
+        Maryland Department of Natural Resources, Wildlife and Heritage Program website, Bald Cypress Swamps http://dnr.maryland.gov/wildlife/plants_wildlife/rte/rtebaldcypressswamps.asp  Accessed:  January 31, 2011.
+      Online_Linkage: \\WSU0088328\G$\WMP_DVD2\Clipped_2050.gdb
+  Description:
+    Abstract: In the Chesapeake Bay relative sea level rise is impacting coastal lands at twice the global average rate.  Identifying long-term planning options to increase resiliency against coastal storm surge, flooding, and erosion is an important step in protecting Maryland's coastal zone.  Much of our natural buffering capacity against these coastal hazards, come from our coastal wetlands. In order to better understand the impacts sea level rise may have on the State's coastal marsh system, the Sea-Level Affecting Marshes Model (SLAMM) was run for all 16 coastal counties and Baltimore City.
+    Purpose: SLAMM uses elevation, accumulation of sediments, wetland accretion and erosion rates, and sea level rise to predicatively model long-term wetland and shoreline change.  In Maryland, SLAMM was run using the best available science, including sea level rise rate identified at 3.4 feet by year 2100.  The resulting changes to coastal marshes and shorelines can be visualized in their current state, 2050 and 2100 year scenarios.  These results will be used to help frame new land conservation targeting in Maryland's coastal zone. To learn more about SLAMM please refer to Warren Pinnacle Consulting, Inc. http://www.warrenpinnacle.com/prof/SLAMM/SLAMM_Model_Overview.html
+    Supplemental_Information: Three primary datasets were used in  Maryland's SLAMM study, in addition to county LIDAR, these included the National Wetland Inventory (Publications 1977-2002), National Land Cover of Percent Impervious Surface (Publicationt 2001-2003) and National Hydrology Data (1999).  National Wetland Inventory (NWI) digital data files are records of wetlands location and classification as developed by the U.S. Fish & Wildlife Service. The classification system was adopted as a national classification standard in 1996 by the Federal Geographic Data Committee. This dataset is one of a series available in 7.5 minute by 7.5 minute blocks containing ground planimetric coordinates of wetlands point, line, and polygon features and wetlands attributes. The NWI input data used for this study was originally modified by the National Wildlife Federation (NWF) and Warren Pinnacle Consulting, Inc. for SLAMM version 5 study, Sea Level Rise and Coastal Habitats in the Chesapeake Bay Region, and clipped to the individual Maryland county extents. One of the primary goals of the project is to generate a current, consistent, seamless, and accurate National Land Cover Database (NLCD) circa 2001 for the United States at medium spatial resolution.  The NLCD Impervious input data for the model was modified per the SLAMM version 5 NWF study of Maryland Chesapeake Bay region and clipped to the individual Maryland county extents. The NHD was used to determine Diked areas which had a vertical threshold (2 meters) applied to each. For more information on the previous SLAMM 5 study refer to http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20110101
+        Time_of_Day: Unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.841206
+      East_Bounding_Coordinate: -76.347986
+      North_Bounding_Coordinate: 39.238104
+      South_Bounding_Coordinate: 38.708895
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: MMRG
+      Theme_Keyword: oceans
+    Theme:
+      Theme_Keyword_Thesaurus: DNR General
+      Theme_Keyword: National Hydrology
+      Theme_Keyword: Sea Level Affecting Marshes
+      Theme_Keyword: National Wetlands Inventory
+      Theme_Keyword: hydrology
+      Theme_Keyword: LIDAR
+      Theme_Keyword: marshes
+      Theme_Keyword: Sea Level
+      Theme_Keyword: Wetlands
+    Place:
+      Place_Keyword_Thesaurus: Maryland
+      Place_Keyword: Maryland
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMâs or DVD-ROMâs and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Chris Cortina
+        Contact_Organization: Department of Natural Resources
+      Contact_Position: Natural Resources Planner
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          580 Taylor Avenue, E2
+          Tawes Building
+        City: Annpolis
+        State_or_Province: Maryland
+        Postal_Code: 21401
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8774
+      Contact_Electronic_Mail_Address: ccortina@dnr.state.md.us
+      Hours_of_Service: 8 - 4 pm
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.1850
+  Cross_Reference:
+    Citation_Information:
+      Originator: National Wildlife Federation
+      Publication_Date: 2008
+      Title: Chesapeake Bay and Global Warming
+      Other_Citation_Details: http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report:
+      LIDAR:
+      There are four (4) attributes in the Bare Earth Mass Points files, representing the horizontal coordinates (easting &
+      northing) and vertical position observed and vertical assigned (see process description).  Random inspections were made
+      to assure that each line in the file contained 4 values.
+
+      NHD:
+      Statements of attribute accuracy are based on accuracy statements made for U.S. Geological Survey Digital Line Graph (DLG) data, which is estimated to be 98.5 percent. One or more of the following methods were used to test attribute accuracy:  manual comparison of the source with hardcopy plots; symbolized display of the DLG on an interactive computer graphic system; selected attributes that could not be visually verified on plots or on screen were interactively queried and verified on screen.
+  Logical_Consistency_Report:
+    Computational Consulting Services, the LIDAR processing vendor used proprietary algorithms to remove features and
+    artifacts in the First and Last Return data that did not reflect true ground elevation.  Subsequent quality assurance
+    testing by Dewberry determined that the data met FEMA and MD DNR specifications for both vertical accuracy and other consistencies with accepted standards.  The QA report can be accessed at http://dnrweb.dnr.state.md.us/gis/data/lidar.
+  Completeness_Report:
+    Spatial Systems Associates performed various inspections of the data to ensure: that each file contained the points
+    located within that tile; that tiles were completely filled; that the point density per tile was within expected ranges,
+    and that the tiles were correctly named.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The horizontal coordinate values were designed to meet NSSDA accuracy for data at 1:2400 scale.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: The RMSE value of 14.3 cm at the 95% confidence level was determined by an independent accuracy assessment conducted by Dewberry LLC according to the contract specifications. These specifications followed FEMA Appendix A guidelines regarding assessing vertical accuracy.  For data accurate to within 18.5 cm RMSE, the guidelines recommended a minimum of 20 independent check points be located in each of 5 different land cover categories: Grass/Ground, High Grass/Crops, Brush/Low Trees, Forest, and Urban/Pavement.  A total of 125 points were used for the assessments.  These points were surveyed by a licensed land surveyor and provided a positional location and elevation with an accuracy that exceeded the predicted accuracy of the LIDAR data.  The entire accuracy reports can be found at http://dnrweb.dnr.state.md.us/gis/data/lidar.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: The Domain includes U.S. Geological Survey (USGS), U.S. Department of Agriculture (USDA), National Aeronautics and Space Administration (NASA), special project. Information for this element varies for each 7.5' quad. See the quad-specific metadata file at the URL shown in the 'online-linkage' section below.
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: National Wetlands Inventory
+          Geospatial_Data_Presentation_Form: remote-sensing image
+          Publication_Information:
+            Publication_Place: St. Petersburg, Florida
+            Publisher: U. S. Fish and Wildlife Service, National Wetlands Inventory
+          Online_Linkage: http://www.nwi.fws.gov/Maps/maps.htm
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1991
+            Beginning_Time: Unknown
+            Ending_Date: 2009
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: NWI
+      Source_Contribution: polygons
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: USGS
+          Publication_Date: 1999
+          Title: National Hydrology Data
+          Online_Linkage: http://nhd.usgs.gov/
+      Source_Scale_Denominator: 100000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NHD
+      Source_Contribution: lines
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: MRLC
+          Publication_Date: 2001
+          Title: NLCD Impervious Surface
+          Other_Citation_Details: Done in Percent Impervious
+          Online_Linkage: http://www.epa.gov/mrlc/nlcd-2001.html
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: online
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NLCD
+      Source_Contribution: unknown
+    Process_Step:
+      Process_Description: Metadata imported.
+      Process_Date: 20110310
+      Process_Time: 123531
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Pixel
+    Row_Count: 1952
+    Column_Count: 1416
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 30
+          Ordinate_Resolution: 30
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+  Vertical_Coordinate_System_Definition:
+    Altitude_System_Definition:
+      Altitude_Datum_Name: North American Vertical Datum of 1988
+      Altitude_Resolution: 30
+      Altitude_Distance_Units: meters
+      Altitude_Encoding_Method: Attribute values
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: VAT_acco_2050f
+      Entity_Type_Definition: value attribute table
+      Entity_Type_Definition_Source: ESRI
+    Attribute:
+      Attribute_Label: COUNT
+      Attribute_Definition: number of cells
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: counts number of cells
+    Attribute:
+      Attribute_Label: OBJECTID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: VALUE
+      Attribute_Definition: cell value
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Developed Land
+          Enumerated_Domain_Value_Definition_Source:
+            Within SLAMM-produced maps, each 30x30 map pixel represents the dominant category of land cover for a given cell. Tabular output is more precise, taking into account the amount of each
+            wetland category in each cell. Based on the percentage Impervious from the National Land Cover Database (http://www.mrlc.gov/index.asp), developed land was identified within the model. After testing several "percent impervious" thresholds, dry land that was at least 25% impervious was
+            categorized as "developed dry land."
+            http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 2
+          Enumerated_Domain_Value_Definition: Undeveloped Dry Land
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes) http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 3
+          Enumerated_Domain_Value_Definition: Freshwater Swamp
+          Enumerated_Domain_Value_Definition_Source:
+            Freshwater forested and scrub-shrub habitats without tidal influence.  Representative forest species include red maple (Acer rubrum), silver maple (Acer saccharinum), black gum (Nyssa sylvatica), willow oak (Quercus phellos), pin oak (Quercus spp.) and sweetgum (Liquidambar spp.).  Scrub-shrub species include buttonbush (Cephalanthus spp.), swamp rose (Rosa palustris), alders (Alnus spp.), willows (Salix spp.), and holly (Ilex spp.).  These habitats support numerous wildlife species, including white-tailed deer, raccoon, beaver, turtles, wood ducks, bald eagles and many songbird species.
+            http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 4
+          Enumerated_Domain_Value_Definition: Cypress Swamp
+          Enumerated_Domain_Value_Definition_Source: Freshwater forested wetland dominated by bald cypress (Taxodium distichum) - swamp tupelo (Nyssa biflora), Pumpkin ash (Fraxinus profunda), green ash (Fraxinus pennsylvanica) may also add to the canopy structure.  Cypress swamp soils are highly saturated, poorly drained, and contain high levels of organic matter.  These are freshwater systems that maintain standing water that may be seasonally or tidally influenced.  A variety of shrubs may also be present, winterberry (Ilex verticillata), swamp azalea (Rhododendron viscosum), sweet pepperbush (Clethra alnifolia), and northern arrow-wood (Viburnum recognitum).  Like other wetland systems, cypress swamps help buffer uplands, control erosion and filter storm water runoff.  They also provide essential habitats for rare, threatened or endangered plant and animal species in Maryland, such as catchfly cutgrass (Leersia lenticularis), red bay (Persea palustris), southern twayblade (Listera australis), and Virginia least trillium (Trillium pusillum var. virginianum).  These swamps also provide habitat for species of crayfish, many reptiles and amphibians, including the State-listed carpenter frog. http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 5
+          Enumerated_Domain_Value_Definition: Inland Freshwater Marsh
+          Enumerated_Domain_Value_Definition_Source: Freshwater marshes that occur along lakes, rivers, and isolated low-lying areas.  Comprised primarily of grasses and other grass-like plants, including broadleaf cattail (Typha latifolia), pickerelweed (Pontederia cordata), rice cutgrass (Leersia oryzoides) and sedges.  Support numerous species of fish and wildlife, including great blue heron, snowy egret, river otter and muskrat, osprey, mallard and American black duck.http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 6
+          Enumerated_Domain_Value_Definition: Tidal Freshwater Marsh
+          Enumerated_Domain_Value_Definition_Source: Riverine freshwater marshes with tidal influence.  Plant varieties include spatterdock (Nuphar spp.), arrow arum (Peltandra virginica), pickerelweed (Pontederia cordata), wild rice (Zizania spp.) and cattails (Typha spp.).  Provide habitat for numerous fish and wildlife species of animals, including hundreds of species of birds.  They also help improve water quality by removing excess nutrients. http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 7
+          Enumerated_Domain_Value_Definition: Transitional Salt Marsh
+          Enumerated_Domain_Value_Definition_Source: Estuarine intertidal scrub-shrub wetlands includes areas dominated by broad-leaved deciduous vegetation less than 6 m (20 feet) tall, provides a transition zone between salt marsh and the upland boarder.  Foliage can include true shrubs, young trees, and stunted trees and shrubs due to environmental conditions.  May or may not include: marsh elder (Iva frutescens), cordgrass (Spartina spp.), common reed (Phragmites australis) and groundsel tree (Baccharis halimifolia).  These habitats support numerous songbird species.  http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 8
+          Enumerated_Domain_Value_Definition: Regularly Flooded Marsh
+          Enumerated_Domain_Value_Definition_Source: Estuarine intertidal emergent wetlands that occur in the zone between low and high tides that have higher salinity than brackish marsh.  Comprised largely of long-form smooth cordgrass (Spartina alterniflora), which provides a major source of nutrition for the marine food web when it decomposes.  Salt marshes also provide critical habitat for juvenile fish, fiddler crabs and other species that are food for rails, terns, gulls, blue crab and diamondback terrapin.  In addition, as with brackish marshes, salt marshes absorb excess nutrients and pollution and anchor loose soils.http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 10
+          Enumerated_Domain_Value_Definition: Estuarine Beach
+          Enumerated_Domain_Value_Definition_Source: Estuarine intertidal unconsolidated shore sand or beach-bar including salt pans these areas may include plant species such as saltgrass (Distichlis spicata).  Estuarine beaches support numerous insects and other invertebrates such as sand diggers, sand fleas and crabs, which play a critical role in the bay's food web.  These are especially important for migratory shorebirds such as the threatened piping plover. http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 11
+          Enumerated_Domain_Value_Definition: Tidal FLat
+          Enumerated_Domain_Value_Definition_Source: Estuarine intertidal unconsolidated shore, generally flat areas with sandy or muddy soils and little or no vegetation.  Tidal flats support numerous invertebrate species and provide important forage areas for fish, blue crab, waterfowl, and other migrating birds. http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 12
+          Enumerated_Domain_Value_Definition: Ocean Beach
+          Enumerated_Domain_Value_Definition_Source: Marine intertidal unconsolidated shore sand.  In addition to supporting the region's thriving recreation and tourism industry, ocean beaches provide critical nesting habitat for birds such as least tern and piping plover as well as for loggerhead sea turtle.  In addition, sandy beaches are important spawning habitat for horseshoe crab.http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 13
+          Enumerated_Domain_Value_Definition: Ocean Flat
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes) http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 14
+          Enumerated_Domain_Value_Definition: Rocky Intertidal
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes) ww.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 15
+          Enumerated_Domain_Value_Definition: Inland Open Water
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 16
+          Enumerated_Domain_Value_Definition: Riverine Tidal Open Water
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 17
+          Enumerated_Domain_Value_Definition: Estuarine Open Water
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 18
+          Enumerated_Domain_Value_Definition: Tidal Creek
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 19
+          Enumerated_Domain_Value_Definition: Open Ocean
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 20
+          Enumerated_Domain_Value_Definition: Irregularly Flooded Marsh (brackish)
+          Enumerated_Domain_Value_Definition_Source: Irregularly flooded estuarine inter-tidal emergent wetlands have lower salinity than salt marsh and are often brackish.  Representative plant species include saltmeadow cordgrass (Spartina patens), salt reed grass (Distichlis spicata), black needlerush (Juncus roemerianus), and short-form smooth cordgrass (Spartina alterniflora).  These marshes make up the majority of the coastal marsh types in the region and provide food and habitat for many species of mammals, reptiles, amphibians and birds.  They also support fish species such as rockfish, white perch, herring and shad.  They absorb excess nutrients and pollution, and anchor loose soils. http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 22
+          Enumerated_Domain_Value_Definition: Freshwater Shoreline
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 23
+          Enumerated_Domain_Value_Definition: Tidal Swamp
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 24
+          Enumerated_Domain_Value_Definition: Blank
+          Enumerated_Domain_Value_Definition_Source: (based on National Wildlife Federation's SLAMM Report adapted from U.S. Fish & Wildlife Service National Wetlands Inventory Classes)http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: cell value
+  Overview_Description:
+    Entity_and_Attribute_Overview: Each attribute represents a wetland type or a physical near shore environment of the Chesapeake Bay Maryland Coastal Counties. The attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of the digital wetlands data on an interactive computer graphic system. In addition, quality control verification software (USFWS-NWI) tests the attributes against a master set of valid wetland attributes.
+    Entity_and_Attribute_Detail_Citation:
+      http://dnr.maryland.gov/ccp/habitats_slr.asp
+      http://www.nwf.org/Global-Warming/Effects-on-Wildlife-and-Habitat/Estuaries-and-Coastal-Wetlands/Chesapeake-Bay.aspx
+      ftp://ftp.nwi.fws.gov/arcdata/
+      ftp://ftp.nwi.fws.gov/dlgdata/
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Arc Grid
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: Arc Grid
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 6990
+          Compatibility_Information: ISO 6990 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20110406
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

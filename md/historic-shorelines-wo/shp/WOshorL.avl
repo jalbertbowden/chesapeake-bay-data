@@ -1,0 +1,250 @@
+/3.1
+(ODB.1
+FirstRootClassName:	"Legend"
+Roots:	2
+Version:	31
+)
+(Legend.2
+	SymType:	0x01
+	ClassType:	0x03
+	LegType:	0x08
+	FieldNames:	3
+	Symbols:	4
+	Class:	17
+	Class:	18
+	Class:	19
+	Class:	20
+	Class:	21
+	Class:	22
+	Class:	23
+	StdDevs:	1.00000000000000
+	NullSym:	24
+	NullValues:	26
+	StatValues:	27
+	Precision:	-3
+)
+(AVStr.3
+	S:	"styleidx"
+)
+(SymList.4
+	Child:	5
+	Child:	7
+	Child:	9
+	Child:	11
+	Child:	13
+	Child:	15
+	Child:	24
+)
+(BLnSym.5
+	Color:	6
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.6
+
+  Blue: 0xFFFF
+)
+(BLnSym.7
+	Color:	8
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.8
+
+  Green: 0xAAAA
+  Blue: 0xFFFF
+)
+(BLnSym.9
+	Color:	10
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.10
+	Red: 0xFFFF
+)
+(BLnSym.11
+	Color:	12
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.12
+	Red: 0xFFFF
+  Green: 0xAAAA
+)
+(BLnSym.13
+	Color:	14
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.14
+	Red: 0xFFFF
+  Blue: 0xAAAA
+)
+(BLnSym.15
+	Color:	16
+	Width:	3.302000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.16
+	Red: 0xAAAA
+  Green: 0xAAAA
+)
+(LClass.17
+	Label:	"1840 to 1849"
+	MinNum:	0
+	MaxNum:	0
+	Precision:	-3
+)
+(LClass.18
+	Label:	"1850 to 1859"
+	MinNum:	1
+	MaxNum:	1
+	Precision:	-3
+)
+(LClass.19
+	Label:	"1940 to 1949"
+	MinNum:	10
+	MaxNum:	10
+	Precision:	-3
+)
+(LClass.20
+	Label:	"1960 to 1969"
+	MinNum:	12
+	MaxNum:	12
+	Precision:	-3
+)
+(LClass.21
+	Label:	"1970 to 1979"
+	MinNum:	13
+	MaxNum:	13
+	Precision:	-3
+)
+(LClass.22
+	Label:	"1980 to 1989"
+	MinNum:	14
+	MaxNum:	14
+	Precision:	-3
+)
+(LClass.23
+	IsNoData:	1
+	Label:	"No Data"
+	MaxNum:	-1.00000000000000
+	Precision:	-3
+)
+(BLnSym.24
+	Color:	25
+	Width:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+	Pattern:	0.00000000000000
+)
+(TClr.25
+	Name:	"Transparent"
+)
+(NameDict.26
+)
+(NameDict.27
+)

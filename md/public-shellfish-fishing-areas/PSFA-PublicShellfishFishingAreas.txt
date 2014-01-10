@@ -1,0 +1,276 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 2012
+      Title: PSFA-PublicShellfishFishingAreas
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland
+        Publisher: Department of Natural Resources
+  Description:
+    Abstract: Public Shellfising Areas of the Chesapeake Bay and Its Tidal Tributaries June 2012 incorporated by reference effective October 1, 2012. Previous versions of this data were distributed in December of 2010 and August of 2011.
+    Purpose:
+      The purpose of this data was to create a digital map layer of Maryland's Public Shellfish Fishery Areas, which are areas open for commercial harvest.
+      The coordinates used to create this file are estimated to be accurate to 2 meters. In some cases, slight overlaps in adjacent PSFA's will appear. Appropriate scale for this data is between 1:10,000 and 1:1,000,000. This dataset was created for management purposes only. For the official boundaries, please consult the Annotated Code of Maryland. Printed or electronic media created with this data should bear the following disclaimer: "The lines shown are for oyster management purposes only. For the official boundary(ies) consult Maryland D.N.R.'s Hydrographic Operations Division."
+
+    Supplemental_Information:
+
+      A. Public Shellfish Areas of the Chesapeake Bay and Its Tidal Tributaries (June 2012) designates public shellfish fishery areas in the Chesapeake Bay and its tidal tributaries and is hereby incorporated by reference.
+
+      B. Declassification.
+
+      (1) A person may petition the Department to declassify a portion of a public shellfish fishery area by submitting a lease application as described in COMAR 08.02.23.03A or B and Natural Resources Article, §4-11A-08, Annotated Code of Maryland.
+
+      (2) The declassification of a public shellfish fishery area may be approved:
+
+      (a) If the results of a biological survey conducted by the Department or a designated agent show that the average density of oysters per square meter is equal to or below the maximum threshold of one oyster that is 1 inch or greater per square meter;
+
+      (b) After commercial harvest activity and other quantitative data is considered by the Department;
+
+      (c) If the lease application meets the requirements of COMAR 08.02.23.03; and
+
+      (d) If the lease application is approved in accordance with Natural Resources Article, Title 4, Subtitle 11A, Annotated Code of Maryland.
+
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2012
+        Time_of_Day: Unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: As needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.86757
+      East_Bounding_Coordinate: -75.81957
+      North_Bounding_Coordinate: 39.28912
+      South_Bounding_Coordinate: 37.91241
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: MMRG
+      Theme_Keyword: environment
+    Theme:
+      Theme_Keyword_Thesaurus: Fisheries
+      Theme_Keyword: oyster bars
+      Theme_Keyword: shellfish
+    Place:
+      Place_Keyword_Thesaurus: Maryland
+      Place_Keyword: Chesapeake Bay
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use. The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data. The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy. The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties. The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Thomas O'Connel
+      Contact_Position: Director - Fisheries Service
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 580 Taylor Ave.
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8281
+      Contact_Facsimile_Telephone: 410-260-8281
+      Contact_Electronic_Mail_Address: TOCONNELL@dnr.state.md.us
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: None
+  Logical_Consistency_Report: None
+  Completeness_Report: None
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Data was qced over current imagery sources available through the Department of Natural Resources.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None
+  Lineage:
+    Process_Step:
+      Process_Description: Unknown - Please contact MD-DNR Fisheries Service.
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Thomas O'Connel
+          Contact_Position: Director - Fisheries Service
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 580 Taylor Ave.
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401
+            Country: USA
+          Contact_Voice_Telephone: 410-260-8281
+          Contact_Facsimile_Telephone: 410-260-8281
+          Contact_Electronic_Mail_Address: TOCONNELL@dnr.state.md.us
+  Cloud_Cover: Unknown
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 178
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.6666666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1
+          Ordinate_Resolution: 1
+        Planar_Distance_Units: m
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Captured
+      Entity_Type_Definition: Unknown
+      Entity_Type_Definition_Source: Unknown
+    Attribute:
+      Attribute_Label: NOB_NAME
+      Attribute_Definition: Natural Oyster Bar name.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: name
+          Enumerated_Domain_Value_Definition: Name classification given to the Natural Oyster Bar by the Maryland DNR, Boating Administration.
+          Enumerated_Domain_Value_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Measurement_Frequency: As needed
+    Attribute:
+      Attribute_Label: COMMENTS
+      Attribute_Definition: General comments field.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text field for general comments about Public Shellfishing Area.
+      Attribute_Measurement_Frequency: As needed
+    Attribute:
+      Attribute_Label: ACRES
+      Attribute_Definition: Area of Public Shellfish Fishing Area, calculated using Arcmap. (Albers Equal Area projection)
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown - Please contact MD-DNR Fisheries Service.
+      Attribute_Measurement_Frequency: As needed
+    Attribute:
+      Attribute_Label: PSFANAME
+      Attribute_Definition: Public Shellfish Fishing Area name, as specified in IBR document.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: name
+          Enumerated_Domain_Value_Definition: Name classification name given to the Public Shellfish Fishing Area by the DNR Fisheries Service.
+          Enumerated_Domain_Value_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Measurement_Frequency: As needed
+  Overview_Description:
+    Entity_and_Attribute_Overview: None
+    Entity_and_Attribute_Detail_Citation: None
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of its paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20121024
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: Unknown
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None

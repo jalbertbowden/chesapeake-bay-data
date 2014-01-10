@@ -1,0 +1,516 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 2013
+      Publication_Time: Unknown
+      Title: CBNERRboundaries - Chesapeake Bay National Estuarine Research Reserve Boundaries
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland
+        Publisher: MD-DNR
+      Other_Citation_Details: CBNERR means Chesapeake National Estuarine Research Reserve.
+  Description:
+    Abstract: The National Estuarine Research Reserve System (NERRS) is a network of protected areas established for long-term research, education and stewardship. This partnership program between NOAA and the coastal states protects more than one million acres of estuarine land and water, which provides essential habitat for wildlife; offers educational opportunities for students, teachers and the public; and serves as living laboratories for scientists.
+    Purpose: Three of the National Estuarine Research Reserves (NERR) Sites are located in Maryland.  They are: Otter Point Creek along the Bush River in Harford County, Jug Bay Wetlands Sanctuary in Anne Arundel and Prince George's Counties, and Monie bay in Somerset County.  The project area boundaries were created to assist in planning and data collection operations.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20131008
+        Time_of_Day: Unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -76.71705
+      East_Bounding_Coordinate: -75.77266
+      North_Bounding_Coordinate: 39.45084
+      South_Bounding_Coordinate: 38.19144
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: MMRG
+      Theme_Keyword: environment
+      Theme_Keyword: biota
+    Theme:
+      Theme_Keyword_Thesaurus: DNR General
+      Theme_Keyword: Bay
+      Theme_Keyword: Estuary
+      Theme_Keyword: Maryland
+      Theme_Keyword: National Estuarine Research Reserve
+      Theme_Keyword: NERR
+      Theme_Keyword: Wetlands
+    Place:
+      Place_Keyword_Thesaurus: Maryland
+      Place_Keyword: Maryland
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Geospatial Information and Analysis
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Security_Information:
+    Security_Classification_System: None
+    Security_Classification: None
+    Security_Handling_Description: None
+  Native_Data_Set_Environment: This data have been produced over a period of time using ESRI software products on personal computer platforms.  Due to the length of the project, multiple versions of the software have been used.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: All attributes were checked over their native data sets.
+  Logical_Consistency_Report: All polygons are closed.  Polygons do not overlap.
+  Completeness_Report: None
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The original polygons were digitized on SPOT 10-meter panchromatic imagery.  Those polygons are an approximation of the area in which to acquire aerial photography.  The expansion areas were digitized over underlying tax map boundaries.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: None
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Ken Miller
+          Publication_Date: 20010809
+          Publication_Time: Unknown
+          Title: doqnerr - NERR Project Areas
+          Edition: 1
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Annapolis, Maryland
+            Publisher: Ken Miller, MD DNR
+          Other_Citation_Details: NERR means National Esturaine Reseach Reserve.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2001
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: NERR Project Areas
+      Source_Contribution: The general project area was hand drawn on the SPOT imagery.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department of Planning (MDP)
+          Publication_Date: 2006
+          Publication_Time: Unknown
+          Title: Maryland Property View 2005
+          Edition: 2005
+          Geospatial_Data_Presentation_Form: map
+          Series_Information:
+            Series_Name: MdProperty View
+            Issue_Identification: 2005
+          Publication_Information:
+            Publication_Place: Maryland
+            Publisher: Maryland Department of Planning
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 2005
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: MD Property View
+      Source_Contribution: NERR Boundary expansion.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department of Natural Resources
+          Publication_Date: 19930101
+          Title: dnrwet - DNR_Wetlands
+          Publication_Information:
+            Publication_Place: Annapolis, Maryland
+            Publisher:
+              Maryland Department of Natural Resources - Geographic Information
+              Services Division
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 12000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19880330
+            Beginning_Time: Unknown
+            Ending_Date: 19950405
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: DNR Wetlands
+      Source_Contribution: Core and buffer designation.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department Of Natural Resources
+          Publication_Date: 20020401
+          Title: Maryland County Boundaries
+          Geospatial_Data_Presentation_Form: GIS coverage
+          Publication_Information:
+            Publication_Place: Baltimore, Maryland
+            Publisher: Md SHA
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1999
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Maryland Political County Boundaries
+      Source_Contribution: Ownership and political region.
+    Process_Step:
+      Process_Description: The original project areas were drawn on SPOT 10-meter panchromatic imagery.  They were drawn by Ken Miller and verified by the Maryland Chesapeake Bay National Estuarine Research Reserve (CBNERR) coordinator, Carol Towle.  Using the source maps as a rough guide, the lines were redrawn using an ArcView 3.2 platform.
+      Process_Date: 20010809
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Coyne
+          Contact_Position: Chief, Geospatial Information and Analysis
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8985
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+    Process_Step:
+      Process_Description: Several process steps and data sets went into updating the Chesapeake Bay National Estuarine Research Reserve (CBNERR) boundaries since their original creation over the 10-meter panchromatic imagery.  First off, the Otter Point Creek and the Jug Bay sites were expanded to incorporate recent property acquisitions.  These boundaries, originally digitized over tax map boundaries for property acquisition assessment, were added.  Otter Point Creek had just a small expansion of a couple of parcels.  However, Jug Bay was expanded considerably to encompass the Glendening Preserve and some other properties to the east acquired by Anne Arundel County.  Now as per the requirements of the National Estuarine Research Reserve System Program each reserve was split up into what they designate as Core and Buffer Areas.  Areas designated as core being defined as areas of limited future disturbance that would affect the ecological integrity of the reserve.  Areas being designated as buffer as those areas that protect the core.  Therefore for the purpose of defining core and buffer for Maryland's Reserves, core will be those areas designated as open water, tidal wetlands, and non-tidal in holdings and buffer will be those areas designated as woodland and non-tidal wetlands.  For this the DNR 12,000 scale wetlands were intersected with the boundaries to delineate the tidal vs. non-tidal boundaries for Otter Point Creek and Jug Bay.  Note: in keeping with the separation of core and buffer non-tidal dikes and islands were removed from the core.  Now Monie Bay, being completely tidal in mature, had to be delineated using best user judgment.  And lastly, boundaries were separated by Maryland's Political County Boundaries to identify separations in ownerships.
+      Process_Date: 2007
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Coyne
+          Contact_Position: Chief, Geospatial Information and Analysis
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8985
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+    Process_Step:
+      Process_Description: In order to create a boundary outline for the three Maryland NERR sites, property boundaries were dissolved.
+      Process_Date: 2009
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Coyne
+          Contact_Position: Chief, Geospatial Information and Analysis
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8985
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+    Process_Step:
+      Process_Description: The Otter Point Creek NERR boundary was modified to include Harford County property.
+      Process_Date: 20100601
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Coyne
+          Contact_Position: Chief, Geospatial Information and Analysis
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8985
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+    Process_Step:
+      Process_Description: ayer was modified to align with property lines of the vectorized parcel maps for each county to include Anne Arundel (2011), Harford (2008), Prince Georges and Somerset Counties (2008).  Shorelines which did not correspond to property boundaries where modified to the MDOrthos0708 - MD Statewide Orthophotography 6 inch Natural Color.  In two instances parcels the where originally designated incorrectly were removed.  These include Somerset County, Map 0013 Parcel 25 and Anne Arundel County, Map 0071 Parcel 0065.  A parcel in Somerset County Map 0021 Parcel 0049 was added. It was incorrectly excluded in earlier file.
+      Process_Date: 2013
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Coyne
+          Contact_Position: Chief, Geospatial Information and Analysis
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8985
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 61
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.6666666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1
+          Ordinate_Resolution: 1
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Entered
+      Entity_Type_Definition: none.
+      Entity_Type_Definition_Source: Maryland Department of Natural Resources
+    Attribute:
+      Attribute_Label: Acres
+      Attribute_Definition: The acres computed from the square meters described in the "shape" field.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Acreage
+          Enumerated_Domain_Value_Definition: Area of parcel
+          Enumerated_Domain_Value_Definition_Source: Acreage of parcel (polygon) calculated from area field.
+    Attribute:
+      Attribute_Label: Area
+      Attribute_Definition: "Area" of G polygon.
+      Attribute_Definition_Source: ArcView Calculation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Area (square meters)
+    Attribute:
+      Attribute_Label: Core
+      Attribute_Definition: Areas within the NERR site
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Buffer
+          Enumerated_Domain_Value_Definition: Areas that protect the core
+          Enumerated_Domain_Value_Definition_Source: NERRS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Core
+          Enumerated_Domain_Value_Definition: Areas of limited future disturbance that would affect the ecological integrity of the reserve
+          Enumerated_Domain_Value_Definition_Source: NERRS
+    Attribute:
+      Attribute_Label: County
+      Attribute_Definition: Name of Maryland county or counties
+      Attribute_Definition_Source: Maryland State Highway Administration
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Text name of county.
+    Attribute:
+      Attribute_Label: Descript
+      Attribute_Definition: Description of attributes in the Core field.
+      Attribute_Definition_Source: NERRS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Buffer
+          Enumerated_Domain_Value_Definition: Areas designated as woodland and non-tidal wetlands
+          Enumerated_Domain_Value_Definition_Source: NERRS
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Core
+          Enumerated_Domain_Value_Definition: Area designated as open water, tidal wetlands, and non-tidal in holdings.
+          Enumerated_Domain_Value_Definition_Source: NERRS
+    Attribute:
+      Attribute_Label: Hectares
+      Attribute_Definition: The hectares computed from the square meters described in the "shape" field.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Hectares
+          Enumerated_Domain_Value_Definition: Area of parcel (The hectare is a metric unit of area defined as 10,000 square meters.  Primarily used in the measurement of land.)
+          Enumerated_Domain_Value_Definition_Source: Hectares of parcel (polygon) calculated from area field.
+    Attribute:
+      Attribute_Label: NERR_Site
+      Attribute_Definition: Name of Site
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: There are three sites in Maryland: Otter Point Creek (Harford County), Monie Bay (Somerset County) and Jug Bay (Anne Arundel and Prince George's Counites).
+    Attribute:
+      Attribute_Label: Owner_Name
+      Attribute_Definition: NERR property owner
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The owners for each NERR site is as follows:  Harford County (Otter Point Creet), Jug Bay (Anne Arundel County and Maryland National Park and Planning Commission - MNPPC, and Monie Bay (Maryland Department of Natural Resouces - DNR).
+    Attribute:
+      Attribute_Label: Perimeter
+      Attribute_Definition: "Peimeter" of G polygon
+      Attribute_Definition_Source: ArcView Calculation
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Perimeter of G polygon
+    Attribute:
+      Attribute_Label: Region
+      Attribute_Definition: Name of Region with the National Estuarine Research Reserve System
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: CBM - Chesapeake Bay Maryland
+    Attribute:
+      Attribute_Label: WebLink
+      Attribute_Definition: URL of additional information posted on the web
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: URL of additional information posted on the web
+  Overview_Description:
+    Entity_and_Attribute_Overview: Attributes were assigned based upon the reference layers and the reserve designations.
+    Entity_and_Attribute_Detail_Citation: None
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Geospatial Information and Analysis
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Resource_Description: Live Data and Maps
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://www.dnr.state.md.us/gis/
+    Fees: None
+    Ordering_Instructions: Please refer to http://www.dnr.state.md.us/gis/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of its paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20131009
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Coyne
+      Contact_Position: Chief, Geospatial Information and Analysis
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8985
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kjcoyne@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints: None
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: none
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: none

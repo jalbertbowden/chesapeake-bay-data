@@ -1,0 +1,418 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 2002
+      Publication_Time: Unknown
+      Title: shorhist - HistoricalShorelines
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland
+        Publisher: Maryland Department of Natural Resources
+      Online_Linkage: www.msgic.state.md.us/techtool
+  Description:
+    Abstract: Digital shoreline vectors derived from bromide or mylar copies of National Ocean Service T-sheets or hydrographic surveys.  Area covered includes Chesapeake Bay and tidal tributary shorelines along the western side of the Chesapeake Bay and five 7.5' quadrangles on the lower eastern shore of the Chesapeake Bay.
+    Purpose: Digital shoreline vectors are used to overlay orthophoto base map rasters of the Maryland shoreline.  Acquired as part of multi-year Shoreline Changes mapping project to show erosion and other shoreline shifts along Maryland's Chesapeake Bay and tidal tributaries.
+    Supplemental_Information: The complete data set consists of data collected from 121 NOS T-sheets.  The shorelines have been manipulated so that the available data are in 7.5-minute quadrangle format, which may or may not have coincidental T-sheet boundaries.  Combined, the 121 digital T-sheets represent 56 7.5-minute quadrangles in nine Maryland counties.  A list of the quadrangles and counties available is included in Appendix 3.  Shorelines by T-sheet are not available.  Two other appendices have been included.  Appendix 1 contains information about each T-sheet, such as the T-sheet number, scale, and designated shoreline year.  Appendix 2 is the Maryland Department of Natural Resources (DNR) Licensing Agreement for Spatial Data and Spatial Data Transfer.   A copy of this agreement must be signed by all purchasers and users of DNR's digital data.  The form also includes a price list for all quadrangle files and merged county files.  The files have been merged with the Maryland Geological Survey's historical shoreline series.  These data are available in the same format as the NOS Shoreline series and have their own metadata, which will be made available to all recipients of files that include the historical shorelines.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 1934
+        Beginning_Time: Unknown
+        Ending_Date: 1976
+        Ending_Time: Unknown
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.375
+      East_Bounding_Coordinate: -75.625
+      North_Bounding_Coordinate: 39.625
+      South_Bounding_Coordinate: 38
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: MMRG
+      Theme_Keyword: oceans
+    Theme:
+      Theme_Keyword_Thesaurus: DNR General
+      Theme_Keyword: 7.5 minute quadrangle
+      Theme_Keyword: Chesapeake Bay
+      Theme_Keyword: National Ocean Survey (NOS)
+      Theme_Keyword: shoreline
+      Theme_Keyword: T-sheet
+    Place:
+      Place_Keyword_Thesaurus: Maryland
+      Place_Keyword: Maryland
+      Place_Keyword: Chesapeake Bay
+  Access_Constraints: None.
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROMs or DVD-ROMs and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources, Maryland Geological Survey
+        Contact_Person: Lamere Hennessee
+      Contact_Position: geologist
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: 2300 St. Paul Street
+        City: Baltimore
+        State_or_Province: Maryland
+        Postal_Code: 21218
+        Country: U.S.A.
+      Contact_Voice_Telephone: (410) 554 - 5519
+      Contact_Facsimile_Telephone: (410) 554 - 5502
+      Contact_Electronic_Mail_Address: lhennessee@mgs.dnr.md.gov
+      Hours_of_Service: 0900 - 1700 EST
+  Data_Set_Credit: Partial funding for the Shoreline Changes Project was provided by the National Oceanic and Atmospheric Administration (NOAA) and made available through the Tidewater Administration of the Maryland Department of Natural Resources.  Additional funding was provided by the Boating Administration of the Maryland Department of Natural Resources.
+  Native_Data_Set_Environment: Digitized by Survey staff using public domain software by U.S. Geological Survey (GSMAP, v. 7.0 to 8.0) and AutoCAD, v. 10 or later.  Final processing using MicroImages TNTmips (version 5.3) and Arc View (version 3.2) software by MD-DNR/GIS division.
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: All shorelines depicted represent mean high water, which is defined as the average height of high waters over a 19 year period.  All high waters are included in the average where the type of tide is either semidiurnal or mixed.  Where the type of tide is predominantly diurnal, only the higher-high-water heights are included in the average on those days when the tide is semidiurnal.  Therefore, according to Riparian Law, the mean high-water line is the intersection of the tidal plane of mean high water with the shore.  (Shalowitz, 1964)  The only other attribute is shoreline year, which is defined as either (1) the most recent date of photography for each T-sheet or (2) the field edit date if it is more recent than the date(s) of photography.
+  Logical_Consistency_Report: Consistency was determined through a series of QA/QC procedures conducted at the Survey.  All digitized files were plotted to scale after digitizing and overlain onto the source product.  Plots were checked for omissions, additions, overshoots, undershoots, locational accuracy (defined at this stage as no more than one pen length from source), and various other errors, such as double-digitizing of lines or polygons.  Errors of omission and addition and locational accuracy were corrected with the digitizing software.  Topological errors were corrected in the next stage of QA/QC, which occurred in the GIS software, or MicroImages' MIPS.  After import into MIPS format, vectors were "cleaned" and topology was defined.  In the vector edit process, all overshoots, undershoots and other errors are highlighted by the presence of nodes.  All nodes for each vector file are manually zoomed and individually repaired according to need.  Nodes represent the beginnings and endings of the line segments that make up the vector.  All line segments connect at nodes and do not extend or continue through end nodes.  All T-sheet vectors are complete in that the lines are free of "gaps," except in cases where (1) the end of a 7.5-minute quadrangle occurred, (2) the end of a county boundary occurred, or (3) the positional accuracy (described later) was determined to be noncompliant with standards.  In the latter case, these areas were deleted from the vector sets.  All polygons were checked for closure and corrected where necessary.  All corrected segments are documented within archived files only, unavailable with the published data set.  All vector editing was done in DOSmips v. 3.0 or later and/or converted to TNTMIPS v. 5.0 or later.
+  Completeness_Report: All ?MHW? shorelines from each T-sheet were digitized.  The only exclusions were shorelines that represented out-of-state areas, such as the Virginia side of the Potomac River.  On some quads, all shoreline years available are represented, resulting in up to four or five shoreline years per quad.  Only areas that were determined to be noncompliant with positional accuracy standards (explained below) were deleted from the published files.  In these cases, the areas of deletion generally included heads of creeks or small sections of shoreline that could not be registered correctly to the base raster product.  These sections still exist as raw or unprocessed data, unavailable with the published data set.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Accuracy of these digital vectors is based on the use of source material which was compiled to meet National Map Accuracy Standards (NMAS).  NMAS horizontal accuracy requires that at least 90% of points tested be within 0.02 inches of true position.  At 1:5000, 1:10000 and 1:20000, this value, in feet is 8, 16 and 32, respectively.  Tic marks representing Maryland State Plane Coordinates, geographic coordinates (latitude/longitude) and/or National Ocean Survey third order or higher accuracy control stations were digitized and used to register all digital vectors.  At least four points per vector were used for registration, the average being 10 different points.  Manual registration of the vectors was done using MIPS software.  After registration, each point was rechecked manually to determine if the digital product itself complied with NMAS.  Any product that didn't comply was separated and reregistered in pieces until NMA Standards were met.  If, after that procedure, segments still did not comply, they were deleted from the final file.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: There are no verticle data references.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Oceanic and Atmospheric Administration (NOAA)
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: NOS T-Sheets(10,000)
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher: National Oceanic and Atmospheric Administration
+          Other_Citation_Details:
+            Comprehensive list of T-sheet and year (Scale 1:10,000):
+
+            T-5341(1934), T-5344(1934), T-5347(1934), T-5348(1934), T-5419(1934), T-5723(1937), T-8442(1942),
+            T-8542(1943), T-8543(1942), T-8544(1942), T-8545(1942), T-8546(1942), T-8547(1944), T-8548(1942),
+            T-8549(1942), T-8550(1942), T-10651(1959), T-10652(1958), T-10653(1958), T-10654(1958), T-10655(1958),
+            T-10656(1958), T-10657(1958), T-10658(1958), 10659(1958), T-10660(1958), T-10665(1959), T-10666(1958),
+            T-10667(1958), T-10672(1958), T-10673(1958), T-10903(1961), T-10904(1961), T-10905(1961), T-10906(1961),
+            T-10907(1961), T-10908(1961), T-10909(1961), T-10910(1959), T-10911(1959), T-10912(1961), T-10915(1961),
+            T-10916(1961), T-10917(1958), T-10918(1959), T-10921(1958), T-10922(1959), T-11288(1955), T-11289(1955),
+            T-11290(1955), T-11789(1960), T- 11790(1960), T-11791(1960), T-11792(1960), T-11793(1960), T-12660(1965),
+            T-12661(1965), T-12954(1965), T-12955(1965), T-12956(1965), TP-00318(1974), TP-00319(1974),
+            TP-00321(1974), TP-00322(1974), TP-00324(1973), TP-00325(1973), TP-00326(1972), TP-00327(1973),
+            TP-00329(1972), TP-00331(1972), TP-00332(1972), TP-00640(1974), TP-00641(1974), TP-00642(1974),
+            TP-00643(1974), TP-00848(1975), TP-00849(1975), TP-00850(1975), and TP-00852(1975).
+          Online_Linkage: www.nos.noaa.gov
+      Source_Scale_Denominator: 10000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1934
+            Beginning_Time: Unknown
+            Ending_Date: 1976
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: T-sheet(1:10,000)
+      Source_Contribution: NOS T-sheets provide actual shoreline positions.  These shorelines were digitized directly from the T-sheets.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: U.S. Department of Commerce, United States Coast and Geodetic Survey
+          Publication_Date: 1964
+          Publication_Time: Unknown
+          Title: Shalowitz, 1964
+          Geospatial_Data_Presentation_Form: publication
+          Publication_Information:
+            Publication_Place: Washington, D.C.
+            Publisher: U.S. Government
+          Other_Citation_Details: Publication 10-1, 749pp.
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 1964
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Shalowitz, 1964
+      Source_Contribution: Source used to determine mean high water line.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Oceanic and Atmospheric Administration (NOAA)
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: NOS T-Sheets(5,000)
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher: National Oceanic and Atmospheric Administration
+          Other_Citation_Details:
+            Comprehensive list of T-sheet and year (Scale 1:5,000):
+
+            T-12956(1965), TP-00836(1974), TP-00837(1975), TP-00838(1975), TP-00839(1975), TP-00841(1975),
+            TP-00842(1975), TP-00843(1975), TP-00844(1975), TP-00845(1975), TP-00846(1975), TP-00847(1975), and
+            TP-00851(1975).
+          Online_Linkage: www.nos.noaa.gov
+      Source_Scale_Denominator: 5000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1934
+            Beginning_Time: Unknown
+            Ending_Date: 1976
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: T-sheet(1:5,000)
+      Source_Contribution: NOS T-sheets provide actual shoreline positions.  These shorelines were digitized directly from the T-sheets.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: National Oceanic and Atmospheric Administration (NOAA)
+          Publication_Date: Unknown
+          Publication_Time: Unknown
+          Title: NOS T-Sheets(20,000)
+          Publication_Information:
+            Publication_Place: Silver Spring, Maryland
+            Publisher: National Oceanic and Atmospheric Administration
+          Other_Citation_Details:
+            Comprehensive list of T-sheet and year (Scale 1:5,000):
+
+            T-8111(1942), T-8112(1942), T-8113(1943), T-8114(1942), T-8115(1942), T-8116(1942), T-8117(1942),
+            T-8137(1943), T-8139(1943), T-8140(1942), T-8147(1942), T-8148(1942), T-8150(1942), T-8151(1942),
+            T-8160(1942), T-8161(1942), T-8162(1942), T-8254(1944), T-8255(1944), T-8257(1942), T-8264(1944),
+            TP-00956(1976), TP-00957(1976), TP-00958(1976), TP-00959(1976), TP-00961(1976), TP00962(1976),
+            TP-00963(1976), TP-00964(1976), and TP-00965(1976).
+          Online_Linkage: www.nos.noaa.gov
+      Source_Scale_Denominator: 20000
+      Type_of_Source_Media: stable-base material
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 1934
+            Beginning_Time: Unknown
+            Ending_Date: 1976
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: T-sheet(1:20,000)
+      Source_Contribution: NOS T-sheets provide actual shoreline positions.  These shorelines were digitized directly from the T-sheets.
+    Process_Step:
+      Process_Description:
+        Digitizing was done on a Calcomp 9100 series digitizer 48 x 36, adjustable in the vertical direction with full tilt capacity.  Digitizer accuracy is plus or minus 0 .0053 inches with a precision of 0.025mm, 16 button, unmagnified cursor with zero parallax and 4 mil crosshairs.  Registration points were selected, most often the four corners of the latitude/longitude neatline of the T-sheet.  If the neatline boundary fell on a 15 or 45 minute interval, the closest degree or 30 minute interval was chosen.  Because this line often exceeded 4 mil widths or was larger than the crosshairs on the digitizer cursor, self-adhesive mylar was attached to the corners.  A crosshair was inscribed into the mylar with an Exacto knife so that the exact location could be revisited, if necessary.  Registration point coordinates were entered into the GSMAP program and were digitized with the cursor.  The program provides true map scale and a warning if the map scale was in error greater than acceptable percentage (2%).  If this happened, set-up was rejected.  Map scales that approximated true scale were kept in place and the registration tics were re-visited in the digitization mode as points.  Digitization was exited and the point coordinates were listed on-screen.  If latitude and longitude of the digitized points matched the input registration coordinates, the set-up was accepted and the map was digitized.
+        If one or more corners exceeded distances of 30 to 60 feet in both or one direction respectively, the set-up was discarded and re-attempted.  If no acceptable set-up could be achieved the map was digitized as a Cartesian file in AutoCAD, its inability to be adequately set-up in GSMAP a probable result of media distortion, i.e. expansion or shrinkage.  Maps were digitized using the manual method of point input, allowing the user to place points in a non-uniform fashion, increasing point density where natural features became complex and demanded curve and complexity of features.  The seaward edge of the shoreline was digitized at all times.  AutoCAD and GSMAP files were plotted to scale using a Houston Instruments DMP-60DL with resolution to 0.001 inch plotter on mylar or translucent bond using 0.25 mm pen.  All digitized features were checked for accuracy of position; no line was accepted if it was more than one pen width away from the manuscript line.  Plots were also checked for omissions, additions, double digitized lines and accurate tic placement.  Digitized work that was determined to be unacceptable was edited and replotted until an acceptable check plot was achieved.  GSMAP and AutoCAD files were then imported into MIPS and registered to Maryland State Plane Coordinates (NAD 1927), later changed to UTM (NAD 1983).  After editing, files were exported to the latest version of TNTMIPS .RVC format.
+      Source_Used_Citation_Abbreviation: T-sheet(1:10,000)
+      Source_Used_Citation_Abbreviation: T-sheet(1:5,000)
+      Source_Used_Citation_Abbreviation: T-sheet(1:20,000)
+      Process_Date: 1994
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources, Maryland Geological Survey
+            Contact_Person: Lamere Hennessee
+          Contact_Position: geologist
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 2300 St. Paul Street
+            City: Baltimore
+            State_or_Province: Maryland
+            Postal_Code: 21218
+            Country: U.S.A.
+          Contact_Voice_Telephone: (410) 554 - 5519
+          Contact_Facsimile_Telephone: (410) 554 - 5502
+          Contact_Electronic_Mail_Address: lhennessee@mgs.dnr.md.gov
+          Hours_of_Service: 0900 - 1700 EST
+    Process_Step:
+      Process_Description: The final phase of the process was to prepare the data for distribution by the Maryland Department of Natural Resources.  All Historic Shoreline data was reprojected into MD-DNR distribution standards (Maryland State Plane 1983, NAD83 with units in meters) using MicroImages TNT mips (version 6.4).  The data was then exported into an Arc Shapefile format for MD-DNR distribution.
+      Process_Date: 2001
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Kevin Boone
+          Contact_Position: Chief, Geographic Information Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address:
+              Tawes State Office Building
+              580 Taylor Avenue, E-2
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: United States
+          Contact_Voice_Telephone: 410-260-8753
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Eastern Time
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.6666666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1
+          Ordinate_Resolution: 1
+        Planar_Distance_Units: m
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Captured
+      Entity_Type_Definition: None.
+      Entity_Type_Definition_Source: Maryland Geological Survey
+    Attribute:
+      Attribute_Label: Class
+      Attribute_Definition: The ""Class"" field in format XXXXYYYYY.
+      Attribute_Definition_Source: Maryland Geological Survey
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Class
+          Enumerated_Domain_Value_Definition: Concatenation of date and T-sheet number, where XXXX stands for shoreline year and YYYYY stands for the source T-sheet.
+          Enumerated_Domain_Value_Definition_Source: Maryland Geological Survey
+    Attribute:
+      Attribute_Label: YEAR
+      Attribute_Definition: Shoreline year was determined from the information printed on the published T-sheets or hydrographic surveys.  Date(s) of photography were used to designate shoreline year; in the case of multiple dates of photography, the most recent of these years was generally used.  If the date of field edit was later than the most recent date of photography, then the date of field edit was used to designate the shoreline year.
+      Attribute_Definition_Source: National Oceanic and Atmospheric Administration, Hydrographic Surveys Division (publishers of T-sheets)
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: YEAR
+          Enumerated_Domain_Value_Definition: Date of shoreline as found on the t-sheet.
+          Enumerated_Domain_Value_Definition_Source: Maryland Department of Natural Resources
+  Overview_Description:
+    Entity_and_Attribute_Overview: The Historical Shorelines data is distributed by county in the following naming structure "XXshorl".  The "XX" stands for the 2 digit county code used by the Maryland Department of Natural Resources for data distribution(see detailed citation for a list of codes) and the "shorl" denotes that this is a shoreline file.
+    Entity_and_Attribute_Detail_Citation:
+      County Abbreviations:
+      AL - Allegany County
+      AA - Anne Arundel County
+      BA - Baltimore County
+      BC - Baltimore City
+      CA - Calvert County
+      CE - Cecil County
+      CH - Charles County
+      CO - Caroline County
+      CL - Carroll County
+      DO - Dorchester County
+      FR - Frederick County
+      GA - Garrett County
+      HA - Harford County
+      HO - Howard County
+      KE - Kent County
+      MO - Montgomery County
+      PG - Prince George's County
+      QA - Queen Anne's County
+      SM - St. Mary's County
+      SO - Somerset County
+      TA - Talbot County
+      WA - Washington County
+      WI - Wicomico County
+      WO - Worcester County
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Boone
+      Contact_Position: Chief, Geographic Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8753
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20060512
+  Metadata_Review_Date: 20060512
+  Metadata_Future_Review_Date: 20060726
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Boone
+      Contact_Position: Chief, Geographic Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8753
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None.
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None.

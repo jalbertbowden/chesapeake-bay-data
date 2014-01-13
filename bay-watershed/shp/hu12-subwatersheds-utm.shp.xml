@@ -1,0 +1,645 @@
+<?xml version="1.0"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Natural Resources Conservation Service (NRCS)</origin>
+				<pubdate>Varies</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>Subwatershed 12-digit (6th Order) Hydrologic Unit Boundary Layer of US EPA Region 3</title>
+				<edition>1</edition>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Fort Worth, Texas</pubplace>
+					<publish>U.S. Department of Agriculture, Natural Resources Conservation Service</publish>
+				</pubinfo>
+				<onlink>http://datagateway.nrcs.usda.gov/</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data set is a complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for US EPA Region 3 and the extent of the Chesapeake Bay Watershed. These hydrologic units included in this data set extend out to encompass the full 8-digit (4th order) sub-basin boundaries that in any way intersect US EPA Region 3 and fully contains any subwatershed boundaries that are contained within the Chesapeake Bay Watershed. This data set consists of geo-referenced digital data and associated attributes created in accordance with the "FGDC Proposal, Version 1.0 - Federal Standards For Delineation of Hydrologic Unit Boundaries 3/01/02"(http://www.ftw.nrcs.usda.gov/huc_data.html). Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification. Arcs are attributed with the highest hydrologic unit code for each watershed, linesource and a metadata reference file.</abstract>
+			<purpose>The Watershed and Subwatershed hydrologic unit boundaries provide a uniquely identified and uniform method of subdividing large drainage areas. The smaller sized 6th level sub-watersheds (up to 250,000 acres) are useful for numerous application programs supported by a variety of local, State, and Federal Agencies. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information. The dataset will be appended to a larger seamless nationally consistent geospatial database as other states complete their portion of the watershed boundary dataset.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>unknown</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-84.501289</westbc>
+				<eastbc>-74.357422</eastbc>
+				<northbc>42.987332</northbc>
+				<southbc>35.183047</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>HUC</themekey>
+				<themekey>Hydrologic Units</themekey>
+				<themekey>Hydrologic Unit Code</themekey>
+				<themekey>Region</themekey>
+				<themekey>Sub-region</themekey>
+				<themekey>Basin</themekey>
+				<themekey>Sub-basin</themekey>
+				<themekey>Watershed</themekey>
+				<themekey>Watershed Boundaries</themekey>
+				<themekey>boundaries</themekey>
+				<themekey>Subwatershed</themekey>
+				<themekey>WBD</themekey>
+				<themekey>Watershed Boundary Dataset</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>USA</placekey>
+				<placekey>US EPA Region 3</placekey><placekey>Chesapeake Bay Watershed</placekey></place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A. The NRCS should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the Natural Resources Conservation Service any authority for the decisions they make.  The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data.  If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale.  Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Department of Agriculture</cntorg>
+					<cntper>Steve Nechero</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 W. Felix St., Bldg. 23</address>
+					<city>Fort Worth</city>
+					<state>Texas</state>
+					<postal>76115</postal>
+				</cntaddr>
+				<cntvoice>(817) 509-3366</cntvoice>
+				<cntemail>Steven.Nechero@ftw.usda.gov</cntemail>
+				<cntinst>Please email questions and requests.</cntinst>
+			</cntinfo>
+		</ptcontac>
+		<datacred>Funding and support for the Watershed Boundary Dataset (WBD) were provided by the Natural Resources Conservation Service, the Environmental Protection Agency, and the United States Geological Survey. Representatives from the U.S. Geological Survey and Environmental Protection Agency contributed a substantial amount of time and salary towards quality review and updating of the dataset in order to meet the Federal Standards for Delineation of Hydrologic Unit Boundaries.</datacred>
+		<native>Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.1850</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>
+100% of the attributes were visually verfied using 24K digital raster graphics (DRG's)
+The accuracy of this data is dependent on the level of detail of the source material and the interpretation procedures for capturing that source.
+</attraccr>
+		</attracc>
+		<logic>There are no unclosed polygons, intersections without nodes, or polygons without labels or with more than one label. Arc/Info's topological checking program CLEAN was used to correct intersections without nodes, identify unclosed polygons and remove duplicate lines with the same beginning and ending nodes. All sliver polygons were removed either using eliminate, merge or manually in ArcEdit.</logic>
+		<complete>All fields for all polygons in the .pat are attributed. Some polygons in the Ncontrb_a field might have a 0 value. All fields for the lines in the .aat are attributed. The lines adjacent to the universal polygon are attributed with a 0 for the hu_level. These cannot be attributed until the adjacent states complete their linework at which point the highest level of hydrologic unit can be determined.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>
+The WBD was produced using Digital Raster Graphics (DRG's) as the source map. Data completeness for DRG files reflects content of the source graphic and may therefore be reflected in the completeness and accuracy of the WBD. The map was digitized from USGS 1:24,000-scale digital raster graphic base maps, with an inherited error of +/- 40 feet according to the USGS National Map Accuracy Standards.
+It is estimated that any errors detected were less than 10%. It should also be noted that while general rules of hydrology were used (i.e. natural water flow is downhill), the locations of boundaries is still somewhat subjective as the 1:24,000-scale DRG's do not always provide enough information for identifying the location of the boundaries.
+</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>N/A</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>USGS 7.5 Minute Topographic Quadrangle Sheets</title>
+						<geoform>map</geoform>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>map delineation</srccurr>
+				</srctime>
+				<srccitea>USGS1</srccitea>
+				<srccontr>hydrologic unit map delineation and digitize map</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Digital Raster Graphic</title>
+						<onlink>http://datagateway.nrcs.usda.gov</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1999</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>map delineation</srccurr>
+				</srctime>
+				<srccitea>USGSDRG</srccitea>
+				<srccontr>hydrologic unit map delineation and digitize map</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>Digital Orthophoto Quads</title>
+						<geoform>raster digital data</geoform>
+						<onlink>http://datagateway.nrcs.usda.gov</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>USGSDOQ</srccitea>
+				<srccontr>GIS raster coverage used for reference in watershed boundary delineation</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>250K Hydrologic Unit Boundaries</title>
+					</citeinfo>
+				</srccite>
+				<srcscale>250000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS2</srccitea>
+				<srccontr>Reference for 8-digit watershed delineation</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>National Hydrography Dataset</title>
+						<onlink>http://nhd.usgs.gov/data.html</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>24000</srcscale>
+				<typesrc>online</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>unknown</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>map delineation</srccurr>
+				</srctime>
+				<srccitea>NHD</srccitea>
+				<srccontr>GIS coverage used for reference in watershed boundary delineation</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>The original hydrologic unit boundaries were hand-digitized on a tablet from the USGS 7.5 minute quadrangles. This process occurred over a span of approximately 20 years.</procdesc>
+				<srcused>USGS1</srcused>
+				<procdate>1980~2000</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>The original dataset was reviewed by USGS personnel using on-screen techniques with DRG's as the base map. All hydrologic units within the dataset that were under 3,000 acres were dissolved out.</procdesc>
+				<srcused>USGSDRG</srcused>
+				<procdate>2003</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+The new WBD dataset was reviewed on-screen by USGS, EPA, or NRCS personnel using DRG's and DOQ?s as base maps. Hydrologic Units that were under 10,000 acres (for the 12-digit units) and 40,000 acres (for the 10-digit units) were reviewed and if possible were dissolved out. Along the coastal areas classic watersheds that fell within the federal guidelines size criteria (12-digit: 10,000-40,000 acres, 10-digit: 40,000-250,000 acres) were broken out. If possible the remaining frontals were left as their own units. Frontals that did not meet the size criteria were grouped together with other frontals within the overall 8-digit or 10-digit unit.
+Hydrologic units what were greater than 40,000 acres (12-digit units) and 250,000 acres (10-digit units) were reviewed. If possible these unit where then broken down into smaller units that met the size criteria. In some cases additional breaks within the unit would not have made sense or have been very useful (example: When the majority of the unit was made up by a major waterbody feature such as a lake or reservoir and the surrounding tributaries were too small to break out as their own unit). In these instances the unit was left big. 	 Source_Used_Citation_Abbreviation: USGSDRG
+</procdesc>
+				<srcused>USGSDOQ</srcused>
+				<procdate>2005</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Hydrologic units from surrounding states were used to edgematch watershed boundaries.</procdesc>
+				<srcused>NA</srcused>
+				<procdate>2005</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Original dataset attribution was reviewed and revised to reflect the updates and changes made to the dataset. These revisions to the attribution were also made to ensure that the dataset met the Federal Standards for Delineation of Hydrologic Unit Boundaries. The NHD was used during this process to help with the naming and downstream coding of each unit. In some instances there were name hydrologic unit name discrepancies between the NHD and what was printed on the DRG's. In these instances the DRG's were used instead of the NHD.</procdesc>
+				<srcused>NHD</srcused>
+				<srcused>USGSDRG</srcused>
+				<procdate>2005</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>
+First draft of metadata created by Laura Davenport using
+METADATA Editor in ArcCatalog ver. 9.1 sp.1
+hu12_geo83
+</procdesc>
+				<procdate>20070124</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>HU_12_Type or NCONTRB_A updates by NRCS SD.</procdesc>
+				<procdate>20080430</procdate>
+META_ID: SD02
+</procstep>
+			<procstep>
+				<procdesc>Name or Code updates by EPA Region.</procdesc>
+				<procdate>20080421 and 20080507</procdate>
+META_ID: IL02
+META_ID: OH02
+</procstep>
+			<procstep>
+				<procdesc>Name, Code, or Arc updates by EPA Region.</procdesc>
+				<procdate>20080507</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Name updates by EPA Region.</procdesc>
+				<procdate>20080716</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>Name and DS code updates by EPA Region.</procdesc>
+				<procdate>20080716</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>USGS Edits to Georgia, South Carolina, Tennessee, and Alabama to eliminate duplicate HUC12 codes.</procdesc>
+				<procdate>20081130</procdate>
+META_ID:  GA02
+SC02
+TN02
+AL06
+</procstep>
+			<procstep>
+				<procdesc>USGS Edits to Downstream coding.</procdesc>
+				<procdate>2009Jan</procdate>
+			</procstep>
+			<procstep><procdesc>Created HUC_4 and HUC_6 fields, derived from HUC_8. Joined HU_8_NAME from an existing 8-digit sub-basin table; incorporated the changes of HU_8_NAMES and reviewed for name changes and new Hydrologic Unit numbering assignments. 
+(new) 02040303  (previous) 02060010  Chincoteague
+(new) 02040304  (previous) 02080110  Eastern Lower Delmarva
+(new) 02080111  (previous) parts of 02060009, 02080109, 02080101 Pocomoke-Western Lower Delmarva (new name)
+(new) 02080110  (previous) 02060007 Tangier (new name)</procdesc><procdate>24 February 2009</procdate></procstep><procstep><procdesc>Dataset copied.</procdesc><srcused/><procdate>20090311</procdate><proctime>14091900</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><procdate Sync="TRUE">20090429</procdate><proctime Sync="TRUE">11501900</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">H:\Draft\wsheds\HU12Subwatersheds_utm</srcused><procdate Sync="TRUE">20090429</procdate><proctime Sync="TRUE">11520500</proctime></procstep></lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>4853</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Label point</sdtstype>
+				<ptvctcnt>1928</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>GT-polygon composed of chains</sdtstype>
+				<ptvctcnt>1927</ptvctcnt>
+			</sdtsterm>
+			<sdtsterm>
+				<sdtstype>Point</sdtstype>
+				<ptvctcnt>4</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000000</latres>
+				<longres>0.000000</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+		<vertdef>
+			<altsys>
+				<altres>1.000000</altres>
+				<altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>HU12Subwatersheds</enttypl>
+				<enttypd>Identifies subwatershed boundaries</enttypd>
+				<enttypds>n/a</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>HU_10_TYPE</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>This field identifies the type of watershed.</attrdef><attrdomv><edom><edomv>S</edomv><edomvd>"Standard" hydrologic unit - Any land HU with drainage flowing to a single outlet point, excluding non-contributing areas. Some examples include "true", "classic", "composite", and "remnant" hydrologic units. Areas such as triangular wedges between adjacent HU's that remain after classic hydrologic units are delineated are also identified as "standard".</edomvd></edom><edom><edomv>C</edomv><edomvd>"Closed Basin" hydrologic unit - A drainage area that is 100% non-contributing. This means all surface flow is internal, no overland flow leaves the hydrologic unit through the outlet point.</edomvd></edom><edom><edomv>F</edomv><edomvd>"Frontal" hydrologic unit - Areas along the coastline of lakes, oceans, bays, etc. that have more than one outlet.  These HU's are predominantly land with some water areas at or near the outlet(s).</edomvd></edom><edom><edomv>W</edomv><edomvd>"Water" hydrologic unit - Hydrologic units that are predominantly water with adjacent land areas, ex. lake, eastuaries, harbors. </edomvd></edom><edom><edomv>I</edomv><edomvd>"Island" hydrologic unit - A hydrologic unit that is one or more islands and adjacent water out to the toe of the shore face.</edomvd></edom><edom><edomv>U</edomv><edomvd>"Unclassified" hydrologic unit - A hydrologic unit that can't be defined or doesn't fit into one of the types that have been listed.</edomvd></edom><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>HU_12_DS</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>The 12-digit code of the 5th level hydrologic unit that is receiving the majority of the flow from the watershed that the 6th level HU falls within.  Outlets created by ditching or other artificial drainage were not considered for this field.</attrdef><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>HU_12_NAME</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>A unique name for each 6th level hydrologic unit that relates to the major water feature within the polygon or the major water body it contributes to.</attrdef><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>HU_12_MOD</attrlabl>
+				<attrdefs>Modification by U.S. Geological Survey and U.S.D.A Natural Resources Conservation Service to the Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>This field identifies interbasin transfers (IT), dams at outlet (DM), etc. that modify natural overland flow as  Modifications are identified from most significant to least significant modification(s).  Hydrologic units with no modification are marked with NM.</attrdef><attrdomv><edom><edomv>SC - Stormwater Canal </edomv></edom><edom><edomv>BC - Barge Canal</edomv></edom><edom><edomv>PD - Pipe Diversion</edomv></edom><edom><edomv>KA - Karst</edomv></edom><edom><edomv>OC - Overflow Channel</edomv></edom><edom><edomv>ID - Irrigation Ditch</edomv></edom><edom><edomv>SD - Stormwater Ditch</edomv></edom><edom><edomv>CD - Channel Diversion</edomv></edom><edom><edomv> LE - Levee</edomv></edom><edom><edomv>OT - Other</edomv></edom><edom><edomv>IT - Interbasin Transfer</edomv></edom><edom><edomv>CB - Closed Basin</edomv></edom><edom><edomv>NC - Non-Contributing</edomv></edom><edom><edomv>NM - No Modifications</edomv></edom><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr><attrlabl>HUC4</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>HUC6</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>HU_12_TYPE</attrlabl>
+				<attrdef>This field identifies the type of watershed.</attrdef><attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdomv><edom><edomv>S</edomv><edomvd>"Standard" hydrologic unit - Any land HU with drainage flowing to a single outlet point, excluding non-contributing areas. Some examples include "true", "classic", "composite", and "remnant" hydrologic units. Areas such as triangular wedges between adjacent HU's that remain after classic hydrologic units are delineated are also identified as "standard".  </edomvd></edom><edom><edomv>C</edomv><edomvd>"Closed Basin" hydrologic unit - A drainage area that is 100% non-contributing. This means all surface flow is internal, no overland flow leaves the hydrologic unit through the outlet point.</edomvd></edom><edom><edomv>F</edomv><edomvd>"Frontal" hydrologic unit - Areas along the coastline of lakes, oceans, bays, etc. that have more than one outlet.  These HU's are predominantly land with some water areas at or near the outlet(s).</edomvd></edom><edom><edomv>W</edomv><edomvd>"Water" hydrologic unit - Hydrologic units that are predominantly water with adjacent land areas, ex. lake, eastuaries, harbors. </edomvd></edom><edom><edomv>I</edomv><edomvd>"Island" hydrologic unit - A hydrologic unit that is one or more islands and adjacent water out to the toe of the shore face.</edomvd></edom><edom><edomv>U</edomv><edomvd>"Unclassified" hydrologic unit - A hydrologic unit that can't be defined or doesn't fit into one of the types that have been listed.</edomvd></edom></attrdomv></attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr><attrlabl>STATES</attrlabl><attrdef>The "States" field includes the names of the state(s) that the subwatershed falls within.  The field is populated with the 2-digit Postal abbreviation separated with a comma between multiple states. </attrdef><attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>META_ID</attrlabl>
+				<attrdef>Metadata ID is a code that identifies which metadata file applies to the arc. In many cases there will only be one metadata file. However, in some cases more than one metadata file may be created to identify different groups, procedures, or during mainentance of the dataset used to produce the lines. These separate metadata files may be identified for each separate arc. </attrdef><attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HUC_8</attrlabl>
+				<attrdef>A unique 8-digit code from the USGS map series "Hydrologic Unit Maps". The same number was used in every record that pertains to a subwatershed that resides within the same 8-digit sub-basin.</attrdef><attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs></attr>
+			<attr>
+				<attrlabl>HUC_10</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>This field provides a unique 10-digit code for each watershed derived from the 8-digit code.  This same number was used in every record that pertains to a subwatershed that resides within the same 10-digit watershed.</attrdef></attr>
+			<attr>
+				<attrlabl>HUC_12</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>This field provides a unique 12-digit code for each subwatershed derived from the 10-digit code.</attrdef></attr>
+			<attr>
+				<attrlabl>ACRES</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>Area of subwatershed including non-contributing areas calculated to acres as a whole number, no decimals.</attrdef></attr>
+			<attr>
+				<attrlabl>NCONTRB_A</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>Drainage areas that do not flow toward the outlet of any hydrologic unit are considered non-contributing.</attrdef></attr>
+			<attr>
+				<attrlabl>HU_10_GNIS</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>The Watershed GNIS Feature Identification Number field contains the 6- or 7-digit Feature Identification Number from the Geographic Names Information System (GNIS) that correspond to the official names used in the hydrologic unit name.</attrdef></attr>
+			<attr>
+				<attrlabl>HU_12_GNIS</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>The Subwatershed GNIS Feature Identification Number field contains the 6- or 7-digit Feature Identification Number from the Geographic Names Information System (GNIS) that correspond to the official names used in the hydrologic unit name.</attrdef></attr>
+			<attr>
+				<attrlabl>HU_10_DS</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>The 10-digit code of the 5th level hydrologic unit that is receiving the majority of the flow from the watershed that the 6th level HU falls within. Outlets created by ditching or other artificial drainage were not considered for this field.</attrdef></attr>
+			<attr>
+				<attrlabl>HU_10_NAME</attrlabl>
+				<attrdefs>Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>A unique name for each 5th level hydrologic unit that relates to the major water feature within the polygon or the major water body it contributes to.</attrdef></attr>
+			<attr>
+				<attrlabl>HU_10_MOD</attrlabl>
+				<attrdefs>Modification by U.S. Geological Survey and U.S.D.A Natural Resources Conservation Service to the Federal Standards for Delineation of Hydrologic Unit Boundaries</attrdefs><attrdef>This field identifies interbasin transfers (IT), dams at outlet (DM), etc. that modify natural overland flow as modifications are identified from most significant to least significant modification(s).  Hydrologic units with no modification are marked with NM.</attrdef><attrdomv><edom><edomv>SC - Stormwater Canal </edomv></edom><edom><edomv>BC - Barge Canal</edomv></edom><edom><edomv>PD - Pipe Diversion	</edomv></edom><edom><edomv>KA - Karst	</edomv></edom><edom><edomv>OC - Overflow Channel</edomv></edom><edom><edomv>ID - Irrigation Ditch</edomv></edom><edom><edomv>SD - Stormwater Ditch</edomv></edom><edom><edomv>CD - Channel Diversion</edomv></edom><edom><edomv>LE - Levee</edomv></edom><edom><edomv>OT - Other</edomv></edom><edom><edomv>IT - Interbasin Transfer</edomv></edom><edom><edomv>CB - Closed Basin</edomv></edom><edom><edomv>NC - Non-Contributing</edomv></edom><edom><edomv>NM - No Modifications</edomv></edom></attrdomv></attr>
+		</detailed>
+After Area has been calculated, you can highlight the
+"Acres" column, right click, and do the following for
+"Calculate Values":
+
+Int ( [SHAPE_Area] * .0002471 + .5 )
+
+States:
+The "States" field includes the names of all state(s) that the subwatershed falls within.  The 2-digit postal abbreviation in upper case and in alphabetical order was used, separated with a comma.
+
+Ncontrb_a: Non-Contributing Area - (FIELD REQUIRED, ATTRIBUTES OPTIONAL)
+Drainage areas that do not flow toward the outlet of any hydrologic unit are considered non-contributing.  If a non-contributing area is on the boundary between two or more hydrologic units, the non-contributing area is associated with the hydrologic unit adjacent to the low point on the boundary. This attribute should be the total of the non-contributing areas within a hydrologic unit calculated in acres.
+
+Hu_10_ds: Fifth Level Downstream Hydrologic Unit Code - (FIELD REQUIRED, ATTRIBUTES OPTIONAL)
+This field has the 10-digit code of the 5th level hydrologic unit that is receiving the majority of the flow from the watershed that the 6th level HU falls within.  Outlets created by ditching or other artificial drainage were not considered for this field. If an HU flows into an ocean or the Gulf of Mexico, this field was populated with "OCEAN" and if a HU flows into one of the Great Lakes the term "LAKE" was used.  If a HU flows across international borders, "CANADA" or "MEXICO" was used depending on which country the HU drains into.  If an HU is  a closed basin, then the term "CLOSED BASIN"was used.
+
+Hu_10_name: Fifth Level Hydrologic Unit Name - (FIELD REQUIRED, ATTRIBUTES OPTIONAL)
+This field used officially recognized names only.  This field was populated by following the directions in subsection 6.3 "Watershed and Subwatershed Naming Protocol".  The name used to attribute the watershed was used only once within a 4th level unit.
+
+Hu_10_mod: Fifth Level Hydrologic Unit Modifications - (REQUIRED)
+This field identifies any type of modifications to natural overland flow that alters the location of the hydrologic unit boundary for a 10-digit watershed.  This field shows the most significant to least significant modification(s) to the watershed boundary.  One or more of the following abbreviations was used.
+SC - Stormwater Canal
+ID - Irrigation Ditch
+IT - Interbasin Transfer
+BC - Barge Canal
+SD - Stormwater Ditch
+PD - Pipe Diversion
+CD - Channel Diversion
+NC - Non-Contributing Area
+KA - Karst
+LE - Levee
+NM - No Modifications
+OC - Overflow Channel
+DM - Dam at outlet or HU boundary
+GC - General Canal
+PS - Pumping Station
+DD - Drainage Ditch
+AD - Aqueduct
+RS - Reservoir
+TF - Transportation Feature (road, railroad, docks etc.)
+GF - Ground Water Flow
+MA - Mining Activity
+UA - Urban Area
+OT - Other
+
+Hu_10_type:    Fifth Level Hydrologic Unit Type - (REQUIRED)
+Populate this field with the hydrologic unit type from the list provided that most closely identifies the watershed.   Use any of the one-digit abbreviations in uppercase that is provided in the list.
+S - "Standard" hydrologic unit - Any land HU with drainage flowing to a single outlet point, excluding non-contributing areas. This includes areas or small triangular wedges between adjacent HU's that remain after classic hydrologic units are delineated.  Some examples include "true", "classic", "composite", and "remnant" hydrologic units.
+C - "Closed Basin" hydrologic unit - A drainage area that is 100% non-contributing. This means all surface flow is internal, no overland flow leaves the hydrologic unit through the outlet point.
+F - "Frontal" hydrologic unit - Areas along the coastline of lakes, oceans, bays, etc. that have more than one outlet.  These HU's are predominantly land with some water areas at or near the outlet(s).
+W - "Water" hydrologic unit - Hydrologic units that are predominantly water with adjacent land areas, ex. lake, easturies, harbors.
+I - "Island" hydrologic unit - A hydrologic unit that is one or more islands and adjacent water out to the toe of the shore face.
+U - "Unclassified" hydrologic unit - A hydrologic unit that can't be defined or doesn't fit into one of the types that have been listed.
+
+Hu_12_ds:   Sixth Level Downstream Hydrologic Unit Code - (FIELD REQUIRED, ATTRIBUTES OPTIONAL)
+Populate this field with the 12-digit code of the 6th level hydrologic unit that is receiving the majority of the flow from the subwatershed.  Outlets created by ditching or other artificial drainage are not to be considered for this field.  If a HU flows into an ocean or the Gulf of Mexico populate this field with "OCEAN" and if a HU flows into one of the Great Lakes use the term "LAKE".  If a HU flows across international borders use "CANADA" or "MEXICO" depending on which country the HU drains into.  If an HU is  a closed basin, then populate this record with the term "CLOSED BASIN".
+
+Hu_12_name:   Sixth Level Hydrologic Unit Name - (FIELD REQUIRED, ATTRIBUTES OPTIONAL)
+This field is for officially recognized names only.  Populate this field by following the directions in subsection 6.3 "Watershed and Subwatershed Naming Protocol".  The name used to attribute the subwatershed should be used only once within a 6th level unit. Some 10-digit HU were assigned the huc_12 number when no GNIS name was identified on the DRG-Es.
+
+Hu_12_mod:  Sixth Level Hydrologic Unit Modifications - (REQUIRED)
+This field should identify any type of modifications to natural overland flow that alters the location of the hydrologic unit boundary for a 12-digit subwatershed.  In the attribute field, identify from most significant to least significant modification(s).  Use one or more of the following abbreviations in uppercase to identify your modification(s).  If using more than one abbreviation, separate with a comma with no space after the comma.
+SC - Stormwater Canal
+ID - Irrigation Ditch
+IT - Interbasin Transfer
+BC - Barge Canal
+SD - Stormwater Ditch
+PD - Pipe Diversion
+CD - Channel Diversion
+NC - Non-Contributing Area
+KA - Karst
+LE - Levee
+NM - No Modifications
+OC - Overflow Channel
+DM - Dam at outlet or HU boundary
+GC - General Canal
+PS - Pumping Station
+DD - Drainage Ditch
+AD - Aqueduct
+RS - Reservoir
+TF - Transportation Feature (road, railroad, docks etc.)
+GF - Ground Water Flow
+MA - Mining Activity
+UA - Urban Area
+OT - Other
+
+Hu_12_type:    Sixth Level Hydrologic Unit Type - (REQUIRED)
+Populate this field with the hydrologic unit type from the list provided that most closely identifies the subwatershed.   Use any of the one digit abbreviations in uppercase that is provided in the list.
+S - "Standard" hydrologic unit - Any land HU with drainage flowing to a single outlet point, excluding non-contributing areas. This includes areas or small triangular wedges between adjacent HU's that remain after classic hydrologic units are delineated.  Some examples include "true", "classic", "composite", and "remnant" hydrologic units.
+C - "Closed Basin" hydrologic unit - A drainage area that is 100% non-contributing.  This means all surface flow is internal, no overland flow leaves the hydrologic unit through the outlet point.
+F - "Frontal" hydrologic unit - Areas along the coastline of lakes, oceans, bays, etc. that have more than one outlet.  These HU's are predominantly land with some water at or near the outlet(s).
+W - "Water" hydrologic unit - Hydrologic units that are predominantly water with adjacent land areas, ex. lake, easturies.
+I - "Island" hydrologic unit - A hydrologic unit that is one or more islands and adjacent water out to the toe of the shore face.
+U - "Unclassified" hydrologic unit - A hydrologic unit that can't be defined or doesn't fit into one of the types that have been listed.
+
+HU_10_GNIS#: 5th level GNIS Feature Identification Number - (Field Required, Attribute Optional)
+The Geographic Names Information System (GNIS) has a unique Feature Identification Number for each officially recognized name in the country. This number is 6-7 characters long. If a hydrologic unit name uses two or mure features, then this field woudl have two GNIS feature numbers with a space separating each number. As of August, 2004 this field does not need to be populated, but plans are to develope a semi_automated method to do this.
+
+HU_12_GNIS#: 6th level GNIS Feature Identification Number - (Field Required, Attribute Optional)
+The Geographic Names Information System (GNIS) has a unique Feature Identification Number for each officially recognized name in the country. This number is 6-7 characters long. If a hydrologic unit name uses two or mure features, then this field woudl have two GNIS feature numbers with a space separating each number. As of August, 2004 this field does not need to be populated, but plans are to develope a semi_automated method to do this.
+
+ArcInfo (.pat) and ArcView Polygon Format
+Item name Width Output Type (ArcView) N.Dec.  Example
+
+Huc_8       8     8     C       -             01080201
+Huc_10      10    10    C       -             0108020103
+Huc_12      12    12    C       -             010802010310
+Acres       8     12    F       N        0    026739
+States      11    11    C       -             KS,MO,OK
+Ncontrb_a   8     12    F       N        0    357
+Hu_10_ds    10    10    C       -             1710020504
+Hu_10_name  80    80    C       -             Upper Blue River
+Hu_10_mod   20    20    C       -             CB,NC,ID
+Hu_10_type  1     1     C       -             S
+Hu_12_ds    12    12    C       -             171002050402
+Hu_12_name  80    80    C       -             Drift Creek-Big Bear River
+Hu_12_mod   20    20    C       -             SD,KA,PD
+Hu_12_type  1     1     C       -             C
+HU_10_GNIS# 23    23    C       -             102354 238437
+HU_12_GNIS# 23    23    C       -             1023547 2384378
+
+2) .aat attributes
+
+Hu_level:	Hydrologic Unit Level - (REQUIRED)
+This field provides the means to create cartographically pleasing maps.  Populate this field with the highest hydrologic unit level (smallest number) for the line  (arc) represented by the record.  Record the level using numbers 1 through 6 representing each level with 1 being the highest and 6 the lowest level.  An example would be if a line represents a region, subregion, basin, subbasin, watershed, and subwatershed boundary, then this cell would be populated with a 1 (Region).  Example two would be if a line is a subbasin, watershed, and subwatershed boundary, then the cell would get a 4 (Subbasin).  Use one of the levels provided in the list below.
+Level    Digit#    Name
+1          2          Region
+2          4          Subregion
+3          6          Basin
+4          8          Subbasin
+5          10         Watershed
+6          12         Subwatershed
+
+Linesource:	Line Spatial Data Source - (REQUIRED)
+The Linesource should indicate the base map source(s) used to delineate at 1:24,000 scale.  Populate the field using one of the standardized code(s) listed below in uppercase.  If using more than one code, separate with a comma with no space after the comma.
+TOPO24 - Delineation from hardcopy 1:24,000 scale topographic maps
+TOPO25 - Delineation from hardcopy 1:25,000 topgraphic maps, only Alaska and Caribbean
+TOPO63 - Delineation from hardcopy 1:63,360 topographic maps, only Alaska and Caribbean
+DRG24 - Delineation from 1:24,000 scale Digital Raster Graphics
+DRG25 - Delineation from 1:25,000 Digital Raster Graphics, only Alaska and Caribbean
+DRG63 - Delineation from 1:63,360 Digital Raster Graphics, only Alaska and Caribbean
+DEM10 - Derived from 10 meter Digital Elevation Model
+DEM30 - Derived from 30 meter Digital Elevation Model
+NED30 - Derived from 30 meter National Elevation Dateset Model
+EDNA30 - (formally NED-H), derived from 30 meter Elevation Derivatives for National
+Applications
+BATH"scale" (ex. BATH24) - Interpreted from NOAA 1:24,000 scale bathymetric data
+HYPSO"scale" (ex. HYPSO24)- Delineated from 1:24,000 scale contour data
+ORTHO"scale" (ex. ORTHO12) - Interpreted from 1:12,000 scale Ortho-imagery
+DEDEM10 - Drainage enforced 10 meter Digital Elevation Model
+DEDEM30 - Drainage enforced 30 meter Digital Elevation Model
+GPS - Derived from Global Positioning System
+LIDAR - Derived from LIDAR
+IFSAR - Derived from IFSAR data
+OTH - Other
+UNK - Unknown
+All other reference and source maps not listed should be noted in the metadata.
+Meta_id:	Metadata ID Number - (REQUIRED)
+<metadata>ID is a code that identifies which metadata file applies to the arc. In many cases there will only be one metadata file. However, in some cases more than one metadata file may be created to identify different groups and/or procedures used to produce the lines. These separate metadata files may be identified for each separate arc. The metadata ID should be a 4-character code starting with the 2-letter state postal code, followed by a 2-digit sequence number. For example "OK01", "ID02", etc.</metadata>
+
+ArcInfo Line (.aat) Attribute Format
+Item name    Width    Output    Type    N.Dec.    Example
+Hu_level       1        1        I        -       6
+Linesource     20       20       C        -       DEM30,DRG24,GPS
+Meta_id        4	      4        C        -       OK01
+<eadetcit>Federal Standard for Delineation of Hydrologic Unit Boundaries</eadetcit>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Steve Nechero</cntper>
+					<cntorg>U.S. Department of Agriculture</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 W. Felix St., Bldg. 23</address>
+					<city>Fort Worth</city>
+					<state>Texas</state>
+					<postal>76115</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>(817) 509-3366</cntvoice>
+				<cntemail>Steven.Nechero@ftw.usda.gov</cntemail>
+				<cntinst>please e-mail with data requests.</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Downloadable Data</resdesc>
+		<distliab>The distributor shall not be held liable for improper or incorrect use of this data, based on the description of appropriate/inappropriate uses described in this metadata document. It is strongly recommended that this data is directly acquired from the distributor and not indirectly through other sources which may have changed the data in some way. These data should not be used at scales greater than 1:24,000 for the purpose of identifying hydrographic watershed boundary feature locations in the U.S.A.  The U.S. Department of Agriculture makes no claims for the data's suitability for other purposes. U.S. Department of Agriculture should be acknowledged as the data source in products derived from these data. The Watershed Boundary Dataset is public information and may be interpreted by all organizations, agencies, units of government, or others based on needs; however, they are responsible for the appropriate application of the data. Federal, State, or local regulatory bodies are not to reassign to the U.S. Department of Agriculture or the Natural Resources Conservation Service any authority for the decisions they make.  The Natural Resources Conservation Service will not perform any evaluations of these maps or purposes related solely to State or local regulatory programs. Photographic or digital enlargement of these maps to scales greater than that at which they were originally delineated can result in misrepresentation of the data.  If enlarged, the maps will not include the fine detail that would be appropriate for mapping at the small scale.  Digital data files are periodically updated. Files are dated, and users are responsible for obtaining the latest version of the data from the source distributor.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ARC Export</formname>
+					<formverd>20050801</formverd>
+					<filedec>no compression applies</filedec>
+					<transize>19.156</transize>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://datagateway.nrcs.usda.gov</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>none</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20090423</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Laura Davenport</cntper>
+					<cntorg>USDA-Natural Resources Conservation Service</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>501 W. Felix St., Bldg. 23</address>
+					<city>Fort Worth</city>
+					<state>TX</state>
+					<postal>76115</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>817-509-3366</cntvoice>
+				<cntfax>817-509-3469</cntfax>
+				<cntemail>Laura.Davenport@ftw.usda.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+	<dataIdInfo><envirDesc>Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.3.1.1850</envirDesc><dataLang><languageCode value="en"/></dataLang><idCitation><resTitle>HU12Subwatersheds</resTitle><presForm><PresFormCd value="005"/></presForm></idCitation><spatRpType><SpatRepTypCd value="001"/></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL>-84.501289</westBL><eastBL>-74.357422</eastBL><northBL>42.987332</northBL><southBL>35.183047</southBL><exTypeCode>1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL>-84.501289</westBL><eastBL>-74.357422</eastBL><northBL>42.987332</northBL><southBL>35.183047</southBL><exTypeCode>1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode value="en"/></mdLang><mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer>DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd value="004"/></mdChar><mdHrLv><ScopeCd value="005"/></mdHrLv><mdHrLvName>dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc>002</orDesc><linkage>file://\\NAS2.chesapeakebay.net\WrkGrp\GIS\Draft\wsheds\HU12Subwatersheds.shp</linkage><protocol>Local Area Network</protocol></onLineSrc><transSize>75.515</transSize></distorTran><distorFormat><formatName>Shapefile</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode>GCS_North_American_1983</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd value="001"/></topLvl><geometObjs><geoObjTyp><GeoObjTypCd value="001"/></geoObjTyp><geoObjCnt>4853</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt>20090423</mdDateSt><Esri><CreaDate>20090429</CreaDate><CreaTime>11520500</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project" Date="20090429" Time="115021">Project HU12Subwatersheds G:\GIS\Draft\wsheds\HU12Subwatersheds_utm.shp PROJCS['NAD_1983_UTM_Zone_18N',GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',-75.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] # GEOGCS['GCS_North_American_1983',DATUM['D_North_American_1983',SPHEROID['GRS_1980',6378137.0,298.257222101]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process></lineage></DataProperties><MetaID>{C6996718-6A76-44B5-93E1-B8B65533520F}</MetaID></Esri></metadata>

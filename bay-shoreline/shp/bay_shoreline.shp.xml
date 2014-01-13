@@ -1,0 +1,57 @@
+<metadata xml:lang="">
+	<idinfo>
+		<citation>
+			<citeinfo><title>Chesapeake Bay and Tributary Shoreline (medium resolution)</title><geoform>vector digital data</geoform><onlink>Server=gar-dev; Service=5151; Database=gis; Version=sde.DEFAULT</onlink><origin>Chesapeake Bay Program</origin><pubdate>Unknown</pubdate><pubinfo><pubplace>Annapolis, MD</pubplace><publish>Chesapeake Bay Program</publish></pubinfo></citeinfo>
+		</citation>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native><descript><abstract>Medium resolution (1:250,000) depiction of shoreline of Chesapeake Bay and tidal tributaries.</abstract><purpose>General planning and cartographic purposes.</purpose></descript><spdom><bounding><westbc>-77.505782</westbc><eastbc>-75.597828</eastbc><northbc>39.615536</northbc><southbc>36.710435</southbc></bounding></spdom><ptcontac><cntinfo><cntorgp><cntorg>Chesapeake Bay Program</cntorg><cntper>John Wolf</cntper></cntorgp><cntpos>GIS Team Leader</cntpos><cntaddr><addrtype>mailing and physical address</addrtype><address>410 Severn Ave. Suite 109</address><city>Annapolis</city><state>MD</state><postal>21403</postal><country>USA</country></cntaddr><cntvoice>800-YOUR-BAY</cntvoice><cntfax>410-267-5777</cntfax></cntinfo></ptcontac><timeperd><timeinfo><sngdate><caldate>unknown</caldate></sngdate></timeinfo><current>publication date</current></timeperd><status><progress>Complete</progress><update>None planned</update></status><keywords><theme><themekt>none</themekt><themekey>inlandWaters</themekey><themekey>boundaries</themekey></theme></keywords><accconst>none</accconst><useconst>none</useconst></idinfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Chesapeake Bay Program</cntorg>
+				</cntorgp>
+				<cntpos>GIS Team Leader</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>410 Severn Ave.</address>
+					<address>Suite 109</address>
+					<city>Annapolis</city>
+					<state>Maryland</state>
+					<postal>21403</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-YOUR-BAY</cntvoice>
+				<cntfax>410-267-5777</cntfax>
+				<cntemail>jwolf@chesapeakebay.net</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>Although these data have been processed successfully on a computer system at the Chesapeake Bay Program, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty.  This disclaimer applies both to individual use of the data and aggregate use with other data.  It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data.  The Chesapeake Bay Program shall not be held liable for improper use of the data described and/or contained herein.</distliab>
+		<resdesc>Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd>20080313</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Chesapeake Bay Program</cntorg>
+					<cntper>John Wolf</cntper>
+				</cntorgp>
+				<cntpos>GIS Team Leader</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>410 Severn Ave.</address>
+					<address>Suite 109</address>
+					<city>Annapolis</city>
+					<state>Maryland</state>
+					<postal>21403</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>800-YOUR-BAY</cntvoice>
+				<cntfax>410-267-5777</cntfax>
+				<cntemail>jwolf@chesapeakebay.net</cntemail>
+			</cntinfo>
+		</metc>
+		<metac>none</metac>
+		<metuc>none</metuc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc></metainfo>
+	<mdDateSt>20080313</mdDateSt>
+	<dataqual><lineage><procstep><procdesc>Metadata imported.</procdesc><srcused>C:\DOCUME~1\jwolf\LOCALS~1\Temp\xml2977.tmp</srcused><date>20050927</date><time>16295100</time></procstep></lineage></dataqual><dataIdInfo><envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode value="en"/></dataLang><idCitation><resTitle>gis.GISOWNER.SHORE_MR</resTitle><presForm><PresFormCd value="005"/></presForm></idCitation><spatRpType><SpatRepTypCd value="001"/></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL>284820.95025</westBL><eastBL>446622.116225</eastBL><northBL>4385271.614442</northBL><southBL>4065455.803072</southBL><exTypeCode>1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL>-77.505782</westBL><eastBL>-75.597828</eastBL><northBL>39.615536</northBL><southBL>36.710435</southBL><exTypeCode>1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode value="en"/></mdLang><mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer>DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd value="004"/></mdChar><mdHrLv><ScopeCd value="005"/></mdHrLv><mdHrLvName>dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc>002</orDesc><linkage>Server=gar-dev; Service=5151; Database=gis; Version=sde.DEFAULT</linkage><protocol>ArcSDE Connection</protocol></onLineSrc><transSize>0.000</transSize></distorTran><distorFormat><formatName>SDE Feature Class</formatName></distorFormat></distributor></distInfo><spdoinfo><direct>Vector</direct><ptvctinf><sdtsterm><sdtstype>G-polygon</sdtstype><ptvctcnt>288</ptvctcnt></sdtsterm></ptvctinf></spdoinfo><spref><horizsys><planar><planci><plance>coordinate pair</plance><plandu>meters</plandu><coordrep><absres>0.001024</absres><ordres>0.001024</ordres></coordrep></planci><gridsys><gridsysn>Universal Transverse Mercator</gridsysn><utm><utmzone>18</utmzone><transmer><sfctrmer>0.999600</sfctrmer><longcm>-75.000000</longcm><latprjo>0.000000</latprjo><feast>500000.000000</feast><fnorth>0.000000</fnorth></transmer></utm></gridsys></planar><geodetic><horizdn>North American Datum of 1983</horizdn><ellips>Geodetic Reference System 80</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257222</denflat></geodetic></horizsys><vertdef><altsys><altenc>Explicit elevation coordinate included with horizontal coordinates</altenc><altres>1.000000</altres></altsys></vertdef></spref><refSysInfo><RefSystem><refSysID><identCode>NAD_1983_UTM_Zone_18N</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd value="001"/></topLvl><geometObjs><geoObjTyp><GeoObjTypCd value="001"/></geoObjTyp><geoObjCnt>288</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><eainfo><detailed><enttyp><enttypl>gis.GISOWNER.SHORE_MR</enttypl></enttyp><attr><attrlabl>FID</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>SHAPE</attrlabl><attrdef>Feature geometry.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl>SHAPE_area</attrlabl><attrdef>Area of feature in internal units squared.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>SHAPE_len</attrlabl></attr></detailed></eainfo></metadata>

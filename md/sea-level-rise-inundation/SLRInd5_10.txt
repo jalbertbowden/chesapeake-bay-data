@@ -1,0 +1,263 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Center for Geographic Information Sciences at Towson University
+      Publication_Date: 20071001
+      Title: SLRInd5_10 - Sea Level Rise Inundation Vulnerability 5-10 feet
+      Geospatial_Data_Presentation_Form: remote-sensing image
+      Publication_Information:
+        Publication_Place: Towson, Maryland
+        Publisher: CGIS
+  Description:
+    Abstract: The 5 - 10 Foot Sea Level Rise Inundation dataset is a derivative of high-resolution topographic data (LiDAR) that the State of Maryland in cooperation with local and federal agencies has acquired to identify areas vulnerable to inundation and flooding.  The dataset represents inundation areas of Maryland coastal counties within the five to ten foot range of a ten foot sea level rise. Data is not available for Harford Co., Prince George's Co., and Baltimore City.
+    Purpose: Through a National Oceanic and Atmospheric Administration, Coastal Zone Management Grant, the 5 - 10 Foot Sea Level Rise Inundation dataset was created to assist the Maryland Commission on Climate Change achieve one of its mandates: developing a strategy for reducing Maryland's vulnerability to climate change-induced sea level rise. The dataset was created as a generalized projection map for the State that is based on high resolution information.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 2002
+        Ending_Date: 2007
+    Currentness_Reference: ground condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -77.373139
+      East_Bounding_Coordinate: -74.955405
+      North_Bounding_Coordinate: 39.749939
+      South_Bounding_Coordinate: 37.82016
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: MMRG
+      Theme_Keyword: inlandWaters
+    Theme:
+      Theme_Keyword_Thesaurus: DNR General
+      Theme_Keyword: Climate Change
+      Theme_Keyword: Sea Level
+      Theme_Keyword: sea level rise
+      Theme_Keyword: shoreline
+    Place:
+      Place_Keyword_Thesaurus: Maryland
+      Place_Keyword: Maryland
+      Place_Keyword: USA
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM?s or DVD-ROM?s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Kevin Boone
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Director, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8753
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.1.1332
+Data_Quality_Information:
+  Logical_Consistency_Report: Each pixel with a value of 1 is considered water (only areas within the 5 - 10 foot range of a 10 foot sea level rise) while each pixel with a value of 0 is land, areas within the 0 - 5 foot range of a 10 foot sea level rise or areas where no LiDAR data was available at the time of the project.  Inland areas, such as quarries, classified as water but not likely to be influence by sea level rise were reclassified as land.  A clump process, which passed a 3x3 filter over the image to compare each pixel to its 8 neighboring pixels, was employed to group adjacent pixels of the same value (0 or 1).  The resultant clumped image, which identified groups of contiguous water or land pixels, was then passed through a sieve process which eliminated all groups of contiguous pixels with an area less than 0.25 acres.
+  Completeness_Report: The Center for Geographic Information Sciences at Towson University performed various inspections to verify that the dataset represents areas inundated by a two to five foot sea level rise.  Comparisons were made between the dataset's source LiDAR data and the reclassification values used to create the final dataset.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: For the DNR LiDAR data's horizontal accuracy information visit MD DNR's website (http://dnrweb.dnr.state.md.us/gis/data/data.asp).  For the Baltimore County LiDAR and Calvert County LiDAR data's horizontal accuracy information contact Baltimore County's Office of Information Technology and Calvert County's Department of Technology Services respectively.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report: For the DNR LiDAR data's vertical accuracy information visit MD DNR's website (http://dnrweb.dnr.state.md.us/gis/data/data.asp).  For the Baltimore County LiDAR and Calvert County LiDAR data's vertical accuracy information contact Baltimore County's Office of Information Technology and Calvert County's Department of Technology Services respectively.
+  Lineage:
+    Process_Step:
+      Process_Description:
+        Data Collection:  Two primary data sources were obtained for this project: 1) high resolution LiDAR data and 2) datum information for select NOAA tidal stations.  The high resolution LiDAR data provided elevation values as measured from the NAVD 88 datum.  The elevation baseline for this project was Mean Sea Level.  Therefore, NOAA tidal station data was required in order to determine the difference between the tidal station's NAVD 88 datum and Mean Sea Level so that the final inundation areas are based on a Mean Sea Level baseline not a NAVD 88 baseline.
+
+        The Center for Geographic Information Sciences at Towson University obtained high-resolution LiDAR data for Anne Arundel, Caroline, Cecil, Charles, Dorchester, Kent, Queen Anne's, Somerset, St. Mary's, Talbot, Wicomico, and Worcester Counties from the MD DNR.  Baltimore County and Calvert County LiDAR data was obtained from Baltimore County's Office of Information Technology and Calvert County's Department of Technology Services respectively.  LIDAR DATA FOR BALTIMORE CITY, HARFORD COUNTY, AND PRINCE GEORGE'S COUNTY WAS NOT AVAILABLE AT THE TIME THIS DATASET WAS CREATED.
+
+        The Center for Geographic Information Sciences at Towson University obtained point data representing select tidal stations from NOAA's Tides and Currents website (http://tidesandcurrents.noaa.gov/station_retrieve.shtml?type=Historic+Tide+Data).  Tidal station data used for this project include Baltimore (Fort McHenry), Beaverdam Creek, Bishops Head, Cambridge, Chesapeake City, Chincoteague Channel, Colonial Beach, Crumpton, Havre De Grace, Hillsboro, Lewisetta, Lower Marlboro, McCreadys Creek, Ocean City Inlet, Ocean City Fishing Pier, Snow Hill, Solomons Island, Tangier Island, Tolchester Beach, U.S. Naval Academy, Vienna, and Washington.
+      Process_Date: 200708
+    Process_Step:
+      Process_Description: LiDAR Processing:  The Center for Geographic Information Sciences at Towson University reprojected the Calvert County LiDAR data from Maryland State Plane (NAD 83 Feet) to Maryland State Plane (NAD 83 Meters), resampled the dataset's spatial resolution from 3 feet to 2 meters, and converted the dataset's pixel values from feet to meters in order to conform the dataset to the MD DNR and Baltimore County LiDAR datasets.  Subsequently, the MD DNR, Baltimore County, and Calvert County LiDAR datasets were mosaiced into five mosaics which together encompassed most of the study area, excluding those areas where LIDAR data was not available: Baltimore City, Harford County and Prince George's County.
+      Process_Date: 200708
+    Process_Step:
+      Process_Description: Thiessen Polygon Creation: The Center for Geographic Information Sciences at Towson University created a tidal station thiessen polygon dataset from the tidal station point dataset.  The tidal station polygon boundaries were manually altered to make the polygons cover areas likely influenced by tides in a similar manner as the tidal station the polygon is derived from.
+      Process_Date: 200703
+    Process_Step:
+      Process_Description: LiDAR Clipping:  The Center for Geographic Information Sciences at Towson University clipped the five LiDAR mosaics created in process step two by each tidal station polygon.  This resulted in 22 LiDAR datasets, one corresponding to the extents of each tidal station polygon created in process step three.
+      Process_Date: 200708
+    Process_Step:
+      Process_Description: Reclassification Value Calculation:  The Center for Geographic Information Sciences at Towson University calculated three reclassification values (2 foot, 5 foot, 10 foot) for each tide station's LiDAR dataset.  Each reclassification value was calculated by adding the difference between the tide station's NAVD 88 value and Mean Sea Level value to the flood inundation value (i.e. 2 feet, 5 feet, or 10 feet).  It is important to note that 13 of the 22 tide stations did not have a NAVD 88 value.  An estimated difference between NAVD 88 and Mean Sea Level at these 13 tide stations was calculated based on the known differences of the other 9 tide stations. The estimated difference assigned to the 13 tide stations was 0.02 meters, which was calculated by averaging 7 out of the 9 known differences (the highest and lowest known differences were considered outliers and not used in the average).
+      Process_Date: 200708
+    Process_Step:
+      Process_Description: LiDAR Reclassification:  The Center for Geographic Information Sciences at Towson University reclassified each tidal station's LiDAR dataset by the reclassification values that were calculated in process step 5. This produced three 1-bit raster datasets for each tide station: a 2 foot inundation raster, a 5 foot inundation raster, and a 10 foot inundation raster.  Each inundation raster dataset was clipped by the given tide station's boundary in order to remove incorrect water classifications outside of the tide station's boundary.
+      Process_Date: 200709
+    Process_Step:
+      Process_Description: Minimum Mapping Unit Established: The Center for Geographic Information Sciences at Towson University conformed the three reclassified raster datasets for each tide station to the 0.25 acre minimum mapping unit.  Each reclassified raster dataset's pixels were clumped, based on 8 neighboring pixels, and all clumped pixels less than 0.25 acres were subsequently removed through a sieving process.  The sieved reclassified raster datasets were converted to 1-bit images.
+      Process_Date: 200709
+    Process_Step:
+      Process_Description: Statewide Inundation Raster Datasets Created:  The Center for Geographic Information Sciences at Towson University mosaiced the inundation raster datasets created in process step 7 to produce three 1-bit statewide inundation raster datasets, where one represents a 2 foot sea level rise, another represents a 5 foot sea level rise, and another represents a 10 foot sea level rise.
+      Process_Date: 200709
+    Process_Step:
+      Process_Description: Classification Review:  The Center for Geographic Information Sciences at Towson University reviewed each sea level rise inundation raster's classification.  Several areas incorrectly classified as water were reclassified as land and a number of quarries located in areas distant from the true inundation areas were also reclassified as land.
+      Process_Date: 200709
+    Process_Step:
+      Process_Description: 5 - 10 Foot Sea Level Rise Inundation Dataset Created:  The Center for Geographic Information Sciences at Towson University created the 5 - 10 Foot Sea Level Rise Inundation dataset by subtracting the 10 Foot Sea Level Rise Inundation dataset's pixel values from the 5 Foot Sea Level Rise Inundation dataset's pixel values.  This process reclassified all pixel values within the 0 - 5 foot inundation range of the 10 Foot Sea Level Rise Inundation dataset from 1 (water) to 0 (land / no data).
+      Process_Date: 200709
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Pixel
+    Row_Count: 106158
+    Column_Count: 103627
+    Vertical_Count: 1
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 2
+          Ordinate_Resolution: 2
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: 5 - 10 Foot Sea Level Rise Inundation Attribute Table
+      Entity_Type_Definition: Identifies whether a pixel is classified as inundated (water) or non-inundated (land / no data) by a 10 foot sea level rise.  NOTE: Areas falling within the 0 - 5 foot range of a 10 foot sea level rise are classified as 0.
+      Entity_Type_Definition_Source: Center for Geographic Information Sciences at Towson University
+    Attribute:
+      Attribute_Label: Contrast
+      Attribute_Definition: Contrast Value.
+      Attribute_Definition_Source: ERDAS
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 1
+    Attribute:
+      Attribute_Label: Count
+      Attribute_Definition: Total number of pixels in the raster dataset that have the given Value.
+      Attribute_Definition_Source: Center for Geographic Information Sciences at Towson University
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 11000835066
+    Attribute:
+      Attribute_Label: ObjectID
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: Value
+      Attribute_Definition: Pixel classification where 0 is "land", "0 - 5 foot inundation" or "no data" and 1 is "5 - 10 foot inundation".
+      Attribute_Definition_Source: Center for Geographic Information Sciences at Towson University
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 0
+          Enumerated_Domain_Value_Definition: No Source Data (LiDAR) Available, Land, or Areas Within The 0 - 5 Foot Range of the 10 Foot Sea Level Rise
+          Enumerated_Domain_Value_Definition_Source: Center for Geographic Information Sciences at Towson University
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Water
+          Enumerated_Domain_Value_Definition_Source: Center for Geographic Information Sciences at Towson University
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Boone
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8753
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Resource_Description: Downloadable Data
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ERDAS
+        Format_Version_Number: Publication Date
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20071015
+  Metadata_Review_Date: 20071015
+  Metadata_Future_Review_Date: 20081015
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Kevin Boone
+      Contact_Position: Chief, Natural Resources Information Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address:
+          Tawes State Office Building
+          580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: United States
+      Contact_Voice_Telephone: 410-260-8753
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kboone@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Eastern Time
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile

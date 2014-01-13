@@ -1,0 +1,717 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 199408
+      Title: shorrcnt - Recent Shorelines
+      Edition: 1994
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Baltimore, Maryland
+        Publisher: Maryland Department of Natural Resources
+  Description:
+    Abstract:
+      In 2000, the Maryland Geological Survey (MGS) was awarded a Coastal Zone
+      Management grant to complete the acquisition of a recent (ca. 1990) digital shoreline for the coastal
+      regions of Maryland - the Chesapeake Bay, its tributaries, the coastal bays, and the Atlantic Coast.
+      MGS contracted the services of EarthData International, Inc. (EDI) of Gaithersburg, Md., to extract
+      shorelines from an existing wetlands delineation, which was based on photo interpretation of
+      3.75-minute digital orthophoto quarter quads (DOQQs).  In areas where a wetland coverage was not
+      yet available, EDI interpreted shorelines directly from the orthophotography.   DOQQ registration
+      (Maryland State Plane Coordinate System, NAD 83, meters) was transferred automatically to the
+      shoreline vectors.  Following shoreline extraction or interpretation, EDI assigned attributes to the
+      vectors based on shoreline type: beach, vegetated, structure, or water's edge.
+
+      This data set has been merged into a county files for ease of processing and decision making.
+    Purpose:
+      This data set complements a set of historical digital shorelines for the Maryland reaches
+      of the Chesapeake Bay, the coastal bays, and the Atlantic coast.  That data set spans the period
+      1841-1977.  The two data sets will be used to update a series of Shoreline Changes maps and to
+      determine coastal land loss, by watershed and by county, during the last half of the 20th century.
+      Other State agencies will be able to use this data to analyze and update land loss information,
+      analyze historical erosion trends, and assess the extent and magnitude of shore erosion on a regional
+      geographic basis.  In particular, the availability of up-to-date shoreline change data will support the
+      design and implementation of shore protection projects and the development of a comprehensive shore
+      erosion control plan.
+    Supplemental_Information:
+      County Abbreviations:
+      AL - Allegany County
+      AA - Anne Arundel County
+      BA - Baltimore County
+      BC - Baltimore City
+      CA - Calvert County
+      CE - Cecil County
+      CH - Charles County
+      CO - Caroline County
+      CL - Carroll County
+      DO - Dorchester County
+      FR - Frederick County
+      GA - Garrett County
+      HA - Harford County
+      HO - Howard County
+      KE - Kent County
+      MO - Montgomery County
+      PG - Prince George's County
+      QA - Queen Anne's County
+      SM - St. Mary's County
+      SO - Somerset County
+      TA - Talbot County
+      WA - Washington County
+      WI - Wicomico County
+      WO - Worcester County
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 19880417
+        Beginning_Time: Unknown
+        Ending_Date: 19950325
+        Ending_Time: Unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: In Work
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -79.44089
+      East_Bounding_Coordinate: -75.0139
+      North_Bounding_Coordinate: 39.73059
+      South_Bounding_Coordinate: 37.86309
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Coastal Bay
+      Theme_Keyword: Chesapeake Bay
+      Theme_Keyword: Barrier Islands
+      Theme_Keyword: Beaches
+      Theme_Keyword: Erosion
+      Theme_Keyword: Shoreline
+      Theme_Keyword: oceans
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Maryland
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: MD Department of Natural Resources
+        Contact_Person: Kenneth Miller
+      Contact_Position: Chief, Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building, 580 Taylor Avenue, E-2
+        City: Annapolis
+        State_or_Province: MD
+        Postal_Code: 21401
+        Country: USA
+      Contact_Voice_Telephone: 410  260-8751
+      Contact_TDD/TTY_Telephone: 410  260-8835
+      Contact_Facsimile_Telephone: 410  260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800-1700 hours M-F EST
+  Data_Set_Credit:
+    Partial funding for this data set was provided by the National Oceanic and Atmospheric Administration
+    (Award No. NA87OZ0236 ) and made available through the Maryland Coastal Zone Management
+    Program, Department of Natural Resources (CZM Grant M00-050 CZM 031).  The views expressed
+    herein are those of the authors and do not necessarily reflect the views of NOAA or any of its
+    sub-agencies.
+  Native_Data_Set_Environment: Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; MicroImages TNTmips, version 6.6
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources, Chesapeake Bay and Watershed Programs, Resource Assessment Service, Maryland Geological Survey (MGS)
+      Publication_Date: 2000
+      Title: Recent (ca. 1990) shoreline
+      Geospatial_Data_Presentation_Form: vector digital data
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland  USA
+        Publisher: Maryland Department of Natural Resouces
+      Online_Linkage: http://www.mgs.md.gov
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maryland Geological Survey
+      Publication_Date: 2000
+      Publication_Time: Unknown
+      Title: Historical Shorelines, 1841-1976: Chesapeake Bay Region of Maryland
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Baltimore, Maryland
+        Publisher: Maryland Geological Survey
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maryland Geological Survey
+      Publication_Date: 1999
+      Title:
+        Shoreline Changes and Erosion Rates for the Northern Coastal Bays of Maryland: Historical
+        Shorelines, 1849-1989
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Baltimore, Maryland
+        Publisher: Maryland Geological Survey
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maryland Geological Survey
+      Publication_Date: 2000
+      Publication_Time: Unknown
+      Title:
+        Shoreline Changes and Erosion Rates for the Southern Coastal Bays of Maryland: Historical
+        Shorelines, 1843-1989
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Baltimore, Maryland
+        Publisher: Maryland Geological Survey
+  Cross_Reference:
+    Citation_Information:
+      Originator: Maryland Geological Survey
+      Publication_Date: 2000
+      Publication_Time: Unknown
+      Title: Shoreline Changes maps
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Baltimore, Maryland
+        Publisher: Maryland Geological Survey
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Attribute accuracy was not assessed.
+  Logical_Consistency_Report:
+    EDI checked logical consistency through a series of quality assurance/quality control (QA/QC)
+    procedures, reported in the Process Steps (interpretation/extraction of shorelines).
+  Completeness_Report:
+    The area covered includes the Maryland part of the Chesapeake Bay and its tidal tributaries, the
+    coastal bays, and the Atlantic coast of the State.  The only exclusions were (1) the headward reach of
+    the Patapsco River west of the Curtis Bay quadrangle and (2) shorelines located in out-of-state areas,
+    such as the Virginia side of the Potomac River.
+
+    In digitizing historical shorelines from hard copy maps, MGS had adopted an operational definition of
+    the headward extent of a stream - the point at which the stream was represented on the map by a single
+    line versus a double line delineating opposite stream banks.  That point, dependent as it is on the scale
+    of the map, does not necessarily represent the head of tide.  A similar criterion was used in extracting
+    the 1990 shoreline to the extent that the contractor could fit a double line on photography displayed
+    at a scale of 1:24,000.  Reaches upstream of that point were excluded.  Again, the headward extent
+    of a digitized stream does not necessarily correspond with head of tide.
+
+    Shorelines in the 1990 data set bounded several different wetlands classifications (Cowardin et al.,
+    1979):
+    1.  E 1 UB L (Estuarine -- Subtidal -- Unconsolidated bottom -- Subtidal)
+    2.  E 2 US M (Estuarine   Intertidal   Unconsolidated shore   Irregularly exposed)
+    3.  E 2 US N (Estuarine   Intertidal   Unconsolidated shore   Regularly flooded)
+    4.  E 2 US P (Estuarine   Intertidal   Unconsolidated shore   Irregularly flooded)
+    5.  M 2 US M (Marine   Intertidal   Unconsolidated shore   Irregularly exposed)
+    6.  M 2 US N (Marine   Intertidal   Unconsolidated shore   Regularly flooded)
+    7.  R 1 UB V (Riverine -- Tidal -- Unconsolidated bottom -- Permanent tidal (tidally influenced, freshwater system)
+    8.  R 2 UB 8   (Riverine -- Lower perennial -- Unconsolidated bottom -- Eusaline)
+    In addition to designating UB L and UB V as water, M 2 or E 2 US (Unconsolidated shore) M
+    (Irregularly flooded) or N (Regularly flooded) classifications were considered water, given that those
+    areas were more likely to be under water than above.  E 2 US P (Irregularly flooded) was considered
+    upland, given that those areas were more likely to be above water than under.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report:
+        The DOQQs meet National Map Accuracy Standards at the production scale of 1:12,000, using the
+        American Society for Photogrammetry and Remote Sensing (ASPRS) method.  The contractor who
+        produced the DOQQs provided a detailed aerotriangulation report for each production area (See
+        DOQQ metadata at the web site listed in www.towson.edu/cgis/metadata).
+
+        The production of accurately georeferenced DOQQs depends on sufficient ground control.  In open
+        water, ground control is necessarily lacking, because land areas, if they exist at all, are small and/or
+        inaccessible.  Two quarter quads in the data set, Deal Island NW and Barren Island NE, contain so
+        much open water that they are not properly tied to the adjoining tiles, Nanticoke SW and Honga NW,
+        respectively.  Consequently, corresponding line work (shoreline) had to be visually corrected to
+        maintain consistency within the data set.
+    Vertical_Positional_Accuracy:
+      Vertical_Positional_Accuracy_Report:
+        The aerial photography from which the DOQQs were developed was not tide-coordinated.
+        Therefore, shorelines in this data set do not represent a consistent vertical datum.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department of Natural Resources
+          Publication_Date: 20000712
+          Title: Maryland Digital Orthophoto Quarter Quadrangles
+          Geospatial_Data_Presentation_Form: Remote-Sensing Image
+          Series_Information:
+            Series_Name: Maryland Digital Orthophoto Quarter Quadrangles
+            Issue_Identification: see Supplemental Information Section
+          Publication_Information:
+            Publication_Place: Annapolis, Maryland
+            Publisher: Maryland Department of Natural Resources
+      Source_Scale_Denominator: 12000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19880330
+            Beginning_Time: Unknown
+            Ending_Date: 19950415
+            Ending_Time: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Digital Orthophoto Quarter Quadrangles
+      Source_Contribution:
+        Photo interpretation of the DOQQs resulted in the Maryland DNR Wetlands Inventory, from
+        which most of the recent shorelines were extracted.  In areas where a wetlands coverage
+        was not yet available, EDI interpreted shorelines directly from the orthophotography.
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Maryland Department of Natural Resources
+          Publication_Date: 19930101
+          Title: dnrwet - DNR_Wetlands
+          Publication_Information:
+            Publication_Place: Annapolis, Maryland
+            Publisher:
+              Maryland Department of Natural Resources - Geographic Information
+              Services Division
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 12000
+      Type_of_Source_Media: CD-ROM
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Range_of_Dates/Times:
+            Beginning_Date: 19880330
+            Beginning_Time: Unknown
+            Ending_Date: 19950405
+            Ending_Time: Unknown
+        Source_Currentness_Reference: ground condition
+      Source_Citation_Abbreviation: DNR Wetlands
+      Source_Contribution:
+        Most of the recent shorelines were extracted from the DNR wetlands inventory, a
+        vector data set interpreted from the DOQQs.
+    Process_Step:
+      Process_Description:
+        Under contract to the Maryland Geological Survey, Earth Data International extracted or interpreted
+        the modern (1988-1995) shoreline directly or indirectly from digital orthophotography.  For all but 35
+        of the quarter quads, EDI extracted the shoreline from existing wetlands vectors, previously delineated
+        for the Maryland Department of Natural Resources (DNR) over 1:1,000-scale DOQQs.  The DOQQs,
+        in turn, were derived from 1:40,000-scale color infrared (CIR) film.  For the remaining 35 quarter quads,
+        the shoreline was interpreted directly from the DOQQs.
+
+        For shoreline vectors extracted from the existing wetlands coverage, EDI stripped wetlands vectors of
+        their linear attributes (line classes).  All shorelines and the DOQQ tile boundary were displayed over
+        the DOQQ (raster) from which they were originally interpreted and reassigned attributes.  Shoreline
+        segments were classified using the following four categories: beach, structure, vegetated, and water's
+        edge.  All four categories are linear features, except for "beach," which can be both linear and
+        polygonal.  The DOQQ tile boundary was arbitrarily assigned one of the four categories so that it could
+        be extracted with the shoreline vectors.  Shoreline vectors were extracted from the original vector set
+        by line class, using only the four shoreline categories.  The extracted vectors were then displayed to
+        detect shoreline breaks or other consistencies.  Errors were corrected, and shoreline vectors were
+        re-extracted.  After extraction, vector sets were cleaned by deleting any extraneous lines (non-shoreline
+        vectors) that had been mistakenly assigned one of the four categories before extraction.  Beach
+        polygons were attributed at this time, and the DOQQ tile boundary was assigned to a fifth category -
+        unclassified.  The final quality control check consisted of two steps.  First, each tile (quarter quad) was
+        displayed individually to check for unclassified shoreline vectors.  Second, if the photography on which
+        the DOQQs were based was flown in the same year, vectors from adjacent tiles were merged into a
+        single, 7.5-minute quadrangle vector set.  Otherwise, multi-year shorelines for the same quad were
+        stored as separate objects within the TNTmips project (.rvc) file.  Merged vector sets were displayed
+        to check for class consistency (proper edge matching) between adjacent tiles.  Any necessary
+        corrections were made before saving the final vector sets.
+
+        Shorelines derived directly from DOQQs were interpreted according to the procedure outlined in the
+        wetlands inventory metadata.
+
+        The DOQQs were already georeferenced to the Maryland State Plane Coordinate System (North
+        American Datum of 1983, meters).  Georeferencing was transferred automatically upon delineating
+        either wetlands or shorelines.
+      Process_Date: 1995
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Earth Data International of Maryland, LLC
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: 45 West Watkins Mill Road
+            City: Gaithersburg
+            State_or_Province: MD
+            Postal_Code: 20878
+            Country: USA
+          Contact_Voice_Telephone: 301-948-8550
+          Contact_Facsimile_Telephone: 301-963-2064
+          Contact_Electronic_Mail_Address: metadata@earthdata.com
+          Hours_of_Service: 9:00 AM - 5:00 PM (ET) M-F
+    Process_Step:
+      Process_Description:
+        The first step in creating the state wide file was to add an attribute field to each database for the quadrangle name and the date of photography.  The name and date was added so as not to lose this information when the files were merged.  Also the topology of the quad files were changed from polygonal to linear in order to delete the surrounding neat lines.  Once the neat lines were removed, the (125) MGS shoreline files were merged into a state wide file.  Unfortunately, the final output of the merge left a file with numerous undershoots, dangles, and mismatches.  These features had to be manually cleaned using the native orthophotography and the DNR Wetlands.  In most cases, the undershoots in the linear features were between quadrangles.  Therefore, a cross connecting line was added and attributed accordingly.  Overshoots were deleted based upon user best judgment using the native orthophotography.  Mismatches were also shifted based upon the native orthophotography using operator best judgment.  Once all dangles, undershoots, and mismatches were corrected, the linear shoreline was validated for topology.
+
+        The second step in creating the state wide file was to add the Maryland State Boundary to the linear shorelines.  The linear shorelines were merged with the most recent Political State Boundary.  Unfortunately, the final output of this merge also left a file with undershoots, dangles, and mismatches.  Undershoots were just a lack of connection between the linear shoreline and the State Boundary.  Therefore, across connector was added and attributed.  Dangles on the other hand were lines digitized from the orthophoto that extended outside the Political State Boundary.  These lines were closed and attributed as a cut off to digitizing effort.  And, an attribute field was added to describe to which state the linear feature belongs(Maryland, Delaware, Washington, or Virgin).  The State Wide file was once again validated for topology.
+      Process_Date: 2002
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Ken Miller
+          Contact_Position: Chief.  Spatial Data Production Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Tawes State Office Building E-2 580 Taylor Avenue
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: USA
+          Contact_Voice_Telephone: 410-260-8751
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+    Process_Step:
+      Process_Description: In creating an inclusive shoreline file, the Department of Natural Resources added in the shoreline for the Susquehanna River up to the Conowingo Dam.  Just as the initial Recent shoreline data was created, the DNR wetlands and the 12,000 scale Digital Orthophotography was used to accomplish the task.  The linear shorelines were identified and extracted from the associated Wetlands(Aberdeen NE and NW, Conowingo Dam SW, SE, and NE, & Rising Sun SW).  The name and date was added.  The shorelines for Deer Creek and Octoraro Creek were included up to the nearest fish blockage(Dam) as well.  The file was then merged and manually cleaned using the same procedures discussed in process step 2.  All data was then validated for consistency.
+      Process_Date: 2003
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Ken Miller
+          Contact_Position: Chief.  Spatial Data Production Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Tawes State Office Building E-2 580 Taylor Avenue
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: USA
+          Contact_Voice_Telephone: 410-260-8751
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+    Process_Step:
+      Process_Description: The SwrecentSL file was split up into county wide data sets for ease of distribution.  Due to the size of the statewide shoreline data, the shoreline file will have to be cut down in order to necessitate downloading from the Department of Natural Resources data down load site.  The SWrecentSL data was intersected by the Political County boundary file using Arc Info's identification process.  This process gave the ability to select out the shoreline boundaries by their associated county placement.  The statewide shoreline file was then extracted out into county wide data sets.  Please see supplemental information for a list of county data set codes.
+      Process_Date: 2003
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Maryland Department of Natural Resources
+            Contact_Person: Ken Miller
+          Contact_Position: Chief.  Spatial Data Production Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Tawes State Office Building E-2 580 Taylor Avenue
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: USA
+          Contact_Voice_Telephone: 410-260-8751
+          Contact_TDD/TTY_Telephone: 410-260-8835
+          Contact_Facsimile_Telephone: 410-260-8759
+          Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+          Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: String
+      Point_and_Vector_Object_Count: 22359
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Map_Projection:
+        Map_Projection_Name: Lambert Conformal Conic
+        Lambert_Conformal_Conic:
+          Standard_Parallel: 38.3
+          Standard_Parallel: 39.45
+          Longitude_of_Central_Meridian: -77
+          Latitude_of_Projection_Origin: 37.67
+          False_Easting: 400000
+          False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1
+          Ordinate_Resolution: 1
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Shoreline
+      Entity_Type_Definition:
+        The shoreline, based on photo interpretation, is the dividing line
+        between land and sea.
+      Entity_Type_Definition_Source: Operational definition agreed upon by Maryland Geological Survey and Earth Data International.
+    Attribute:
+      Attribute_Label: CO_name
+      Attribute_Definition: Name associated with the shoreline in question.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain:
+          Maryland Counties(source SHA Political County Boundaries):
+          Allegany County
+          Anne Arundel County
+          Baltimore County
+          Baltimore City
+          Calvert County
+          Cecil County
+          Charles County
+          Caroline County
+          Carroll County
+          Dorchester County
+          Frederick County
+          Garrett County
+          Harford County
+          Howard County
+          Kent County
+          Montgomery County
+          Prince George's County
+          Queen Anne's County
+          St. Mary's County
+          Somerset County
+          Talbot County
+          Washington County
+          Wicomico County
+          Worcester County
+          Washington D.C.
+    Attribute:
+      Attribute_Label: Co_number
+      Attribute_Definition: Number associated with the shoreline in question.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain:
+          Maryland Counties(source SHA Political County Boundaries):
+          1 - Allegany County
+          2 - Anne Arundel County
+          3 - Baltimore County
+          0 - Baltimore City
+          4 - Calvert County
+          7 - Cecil County
+          8 - Charles County
+          5 - Caroline County
+          6 - Carroll County
+          9 - Dorchester County
+          10 - Frederick County
+          11 - Garrett County
+          12 - Harford County
+          13 - Howard County
+          14 - Kent County
+          15 - Montgomery County
+          16 - Prince George's County
+          17 - Queen Anne's County
+          18 - St. Mary's County
+          19 - Somerset County
+          20 - Talbot County
+          21 - Washington County
+          22 - Wicomico County
+          23 - Worcester County
+          0 - Washington D.C.
+    Attribute:
+      Attribute_Label: DATE_
+      Attribute_Definition: The "date" of the 7.5' orthophoto that was used to digitize the linear data.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: DATE
+          Enumerated_Domain_Value_Definition: Date of orthophotography
+          Enumerated_Domain_Value_Definition_Source: Maryland Department of Natural Resources
+    Attribute:
+      Attribute_Label: District
+      Attribute_Definition: District associated with the shoreline in question.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain:
+          Maryland districts(source SHA Political County Boundaries):
+          District 0(outside of district or blank)
+          District 1
+          District 2
+          District 3
+          District 4
+          District 5
+          District 6
+          District 7
+    Attribute:
+      Attribute_Label: LENGTH
+      Attribute_Definition: The "length" of the shoreline features.
+      Attribute_Definition_Source: ArcInfo Calculation
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: LENGTH
+          Enumerated_Domain_Value_Definition: Length of segment.
+          Enumerated_Domain_Value_Definition_Source: "Length" calculated by Arc after conversion into coverage format.
+    Attribute:
+      Attribute_Label: Linear#
+      Attribute_Definition: G polygon identification.
+      Attribute_Definition_Source: ArcInfo Calculation
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: G polygon identifier.
+          Enumerated_Domain_Value_Definition: G polygon identifier.
+          Enumerated_Domain_Value_Definition_Source: Default calculation by ArcInfo during conversion into Coverage Format.
+    Attribute:
+      Attribute_Label: Linear_ID
+      Attribute_Definition: User polygon identification.
+      Attribute_Definition_Source: ArcInfo Calculation
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: User polygon identifier.
+          Enumerated_Domain_Value_Definition: User polygon identifier.
+          Enumerated_Domain_Value_Definition_Source: Default calculation by ArcInfo during conversion into Coverage Format.
+    Attribute:
+      Attribute_Label: QUADRANGLE
+      Attribute_Definition: Name of 7.5' minute quadrangle used in creating the shoreline.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: QUADRANGLE
+          Enumerated_Domain_Value_Definition: USGS 7.5 x 7.5 minute Quadrangle name.
+          Enumerated_Domain_Value_Definition_Source: United States Geological Survey
+    Attribute:
+      Attribute_Label: TYPE_
+      Attribute_Definition: A classification of the shoreline, based on photo interpretation
+      Attribute_Definition_Source: Classification agreed upon by Maryland Geological Survey and Earth Data International of Maryland
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: structure
+          Enumerated_Domain_Value_Definition:
+            Any type of manmade object that serves as the
+            land/water boundary.  Structures include, but are not limited to, bulkheads, seawalls, and riprap.
+          Enumerated_Domain_Value_Definition_Source: Photo interpretation convention
+        Enumerated_Domain:
+          Enumerated_Domain_Value: vegetated
+          Enumerated_Domain_Value_Definition:
+            Any portion of shoreline with vegetation, such as
+            marsh or forest, as the dominant land cover.
+          Enumerated_Domain_Value_Definition_Source: Photo interpretation convention
+        Enumerated_Domain:
+          Enumerated_Domain_Value: waters edge
+          Enumerated_Domain_Value_Definition:
+            Any reach of shoreline that does not fit into one of
+            the three preceding categories.  This may include mud flats.
+          Enumerated_Domain_Value_Definition_Source: Photo interpretation convention
+        Enumerated_Domain:
+          Enumerated_Domain_Value: unclassified
+          Enumerated_Domain_Value_Definition: Used to identify the DOQQ tile boundary line.  Used to identify the large polygon(s) enclosed by the DOQQ tile boundary line.  And used to identify linear features not covered by the other 4 domain attributes.
+          Enumerated_Domain_Value_Definition_Source: TNTmips attribute table
+        Enumerated_Domain:
+          Enumerated_Domain_Value: beach
+          Enumerated_Domain_Value_Definition: Any sandy beach-like area, not including mud flats.
+          Enumerated_Domain_Value_Definition_Source: Photo interpretation convention
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      Shoreline vectors are grouped by 7.5-minute quad and, within a quad, by year.  Shorelines for a
+      particular quad are located in a directory assigned the full, concatenated name of the quad.  The
+      TNTmips project (.rvc) files, which contain the shoreline vectors, are named according to the following
+      conventions.  The first four or five characters are an abbreviation of the quad name, usually the first four
+      or five letters of the name.  The next three characters "_SL" indicate that the file contains shorelines.
+      The file extension ".rvc" denotes a file that can be read by MicroImage's TNT line of products.  The
+      TNTmips description of the project file is in the form:
+      QUAD NAME (NE/NW/SE/SW) - Shoreline - 19xx, where
+      QUAD NAME = the full name of the quad
+      (NE/NW/SE/SW) = the quadrants for which a shoreline was interpreted
+      19xx = the shoreline year
+      For example, the shoreline for the Richland Point quad is located in a directory named RichlandPoint.
+      The file that contains the shoreline vector itself is named RICHL_SL.rvc.  The TNTmips description of
+      the file is "RICHLAND POINT (NE) - Shoreline - 1994," indicating that a 1994 shoreline was
+      interpreted from the NE quadrant only of the Richland Point quad.
+
+      Each .rvc file contains one or two "objects"   shoreline vectors for particular years.  Naming and
+      describing objects also follow conventions.  The object name "_19xx" always indicates the shoreline
+      year.  The object description gives the exact date on which the aerial photography from which the
+      DOQQs were derived was flown.  For example, "1994 shoreline from DOQQs flown 4/8/1994".
+      Line and polygon attribute tables, both named "TYPE," are associated with each object.  They contain
+      the attributes described in Section 5.1.  A second table "TypeStyle" contains the style assignment for
+      the TYPE Table.  TypeStyle points to another project file, ShoreStyles.rvc, which contains common
+      line and polygon styles for the entire data set.
+    Entity_and_Attribute_Detail_Citation: none
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Miller
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Chief.  Watershed Information Services Division
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Resource_Description: Downloadable Data
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20040906
+  Metadata_Review_Date: 20040907
+  Metadata_Future_Review_Date: 20050906
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Ken Miller
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Security_Information:
+    Metadata_Security_Classification_System: None
+    Metadata_Security_Classification: Unclassified
+    Metadata_Security_Handling_Description: None

@@ -1,0 +1,2763 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>swsub8 - Maryland's Sub-Watershed</title>
+<link rel=schema.dc href="http://purl.org/metadata/dublin_core">
+<meta name="dc.title" content="swsub8 - Maryland's Sub-Watershed ">
+<meta name="dc.creator" content="Maryland Department of Natural Resources ">
+<meta name="dc.subject" content="Maryland State Highway Administration (SHA) GRID map series Drainage Area Federal Information Processing Standard, FIPS Maryland Watershed Codes Strahler Third-Order Streams Tributary Strategy USGS 7.5' Quadrangle Topography ">
+<meta name="dc.description" content="This file (SWSUB8) is a statewide digital watershed file. This file depicts the State with 138 separate watersheds each with an 8-digit numeric code This file was created primarily for State and Federal agency use.  The creation of this file  goes back many years and involved several State and Federal agencies,.  This file was derived from a more detailed watershed file (Maryland's Third-Order Watershed).  The U.S. Natural Resources Conservation Service (NRCS) redefined the third order watersheds creating the HUA14 file.  The SUB1998 file contains all of the HUA14 Watersheds and some added Watersheds to maintain water quality sampling sites  The process used to create this file is consistent with the elevation contour information found on the US Geological Survey's 7.5' topographic quadrangle maps and the Maryland Department of the Environment's watershed location and naming conventions.  This file is similar, but not identical, to the US Natural Resources Conservation Service's (NRCS) Hydrologic Unit Code (HUC11) watershed file.  The watersheds define Strahler (Strahler 1952 p.1120) third order stream drainage by contours on U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets.  Some watershed drainage areas were defined for streams less than third order and some large area Watersheds were split to maintain a maximum size of 15,000 acres. ">
+<meta name="dc.publisher" content="Maryland Department of Natural Resources">
+<meta name="dc.contributor" content="The original eight digit watershed file was created in 1991 from Maryland Department of the Environment (MDE) hardcopy watershed maps. The Maryland Department of Planning (MDP) created that digital file by contracting with Daft, McCune and Walker to digitize third order stream watersheds. The U.S. Natural Resources Conservation Service (NRCS) produced the Hydrological Unit Code watershed file HUA14 using the MDP file as a base map and redefining watersheds. NCRS field offices verified the watershed boundaries. The Maryland Department of Housing and Community Development Maryland Historic Trust (MHT) provided scanned US Geological Survey (USGS) 7.5 minute quadrangle map sheets to be used as a base map for corrections. MD DNR corrected the watershed boundaries to the scanned USGS 7.5 minute quadrangle map sheets in cooperation with NRCS. The State political boundary file from Maryland State Highway Administration's (SHA) GRID map series was merged into the file replacing the existing state line. The merge and watershed corrections were completed by MD DNR. ">
+<meta name="dc.date" content="1998">
+<meta name="dc.type" content="data.structured-text">
+<meta name="dc.format" content="ESRI shape files">
+<meta name="dc.format" content="ESRI shape files">
+<meta name="dc.identifier" content="www.msgic.state.md.us/techtool">
+<meta name="dc.source" content="Downloadable Data">
+<meta name="dc.lang" content="en">
+<meta name="dc.coverage.x.min" scheme="DD" content="-79.4938">
+<meta name="dc.coverage.x.max" scheme="DD" content="-75.045">
+<meta name="dc.coverage.y.min" scheme="DD" content="37.8713">
+<meta name="dc.coverage.y.max" scheme="DD" content="39.7425">
+<meta name="dc.coverage.placeName" content="Maryland">
+<meta name="dc.coverage.placeName" content="MD">
+<meta name="dc.coverage.placeName" content="USA">
+<meta name="dc.coverage.placeName" content="US">
+<meta name="dc.coverage.placeName" content="Allegany County">
+<meta name="dc.coverage.placeName" content="Anne Arundel County">
+<meta name="dc.coverage.placeName" content="Baltimore County">
+<meta name="dc.coverage.placeName" content="Baltimore City">
+<meta name="dc.coverage.placeName" content="Calvert County">
+<meta name="dc.coverage.placeName" content="Caroline County">
+<meta name="dc.coverage.placeName" content="Carroll County">
+<meta name="dc.coverage.placeName" content="Cecil County">
+<meta name="dc.coverage.placeName" content="Charles County">
+<meta name="dc.coverage.placeName" content="Dorchester County">
+<meta name="dc.coverage.placeName" content="Frederick County">
+<meta name="dc.coverage.placeName" content="Garrett County">
+<meta name="dc.coverage.placeName" content="Harford County">
+<meta name="dc.coverage.placeName" content="Howard County">
+<meta name="dc.coverage.placeName" content="Kent County">
+<meta name="dc.coverage.placeName" content="Montgomery County">
+<meta name="dc.coverage.placeName" content="Prince George's County">
+<meta name="dc.coverage.placeName" content="Queen Anne's County">
+<meta name="dc.coverage.placeName" content="St. Mary's County">
+<meta name="dc.coverage.placeName" content="Somerset County">
+<meta name="dc.coverage.placeName" content="Talbot County">
+<meta name="dc.coverage.placeName" content="Washington County">
+<meta name="dc.coverage.placeName" content="Wicomico County">
+<meta name="dc.coverage.placeName" content="Worcester County">
+<meta name="dc.rights" content="Access constraints: None; Use constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.">
+</head>
+<body>
+<h1>swsub8 - Maryland's Sub-Watershed</h1>
+Metadata also available as - [<A HREF="swsub8.txt">Parseable text</A>] <p>
+<h2>Metadata:</h2>
+<ul>
+<li><A HREF="#1">Identification_Information</A></li>
+<li><A HREF="#2">Data_Quality_Information</A></li>
+<li><A HREF="#3">Spatial_Data_Organization_Information</A></li>
+<li><A HREF="#4">Spatial_Reference_Information</A></li>
+<li><A HREF="#5">Entity_and_Attribute_Information</A></li>
+<li><A HREF="#6">Distribution_Information</A></li>
+<li><A HREF="#7">Metadata_Reference_Information</A></li>
+</ul>
+<A NAME="1">
+</A>
+<hr>
+<dl>
+<dt><em>Identification_Information:</em>  
+<dd>
+<dl>
+<dt><em>Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  Maryland Department of Natural Resources</dt>
+<dt><em>Publication_Date:</em>  1998</dt>
+<dt><em>Publication_Time:</em>  Unknown</dt>
+<dt><em>Title:</em>  swsub8 - Maryland's Sub-Watershed</dt>
+<dt><em>Edition:</em>  1998</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Annapolis, Maryland</dt>
+<dt><em>Publisher:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Online_Linkage:</em>  www.msgic.state.md.us/techtool</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Description:</em>  
+<dd>
+<dl>
+<dt><em>Abstract:</em>  
+<dd>
+
+This file (SWSUB8) is a statewide digital watershed file. This file depicts the State with 138 separate watersheds each with an 8-digit numeric code This file was created primarily for State and Federal agency use.  The creation of this file  goes back many years and involved several State and Federal agencies,.  This file was derived from a more detailed watershed file (Maryland's Third-Order Watershed).  The U.S. Natural Resources Conservation Service (NRCS) redefined the third order watersheds creating the HUA14 file.  The SUB1998 file contains all of the HUA14 Watersheds and some added Watersheds to maintain water quality sampling sites
+<P>
+The process used to create this file is consistent with the elevation contour information found on the US Geological Survey's 7.5' topographic quadrangle maps and the Maryland Department of the Environment's watershed location and naming conventions.  This file is similar, but not identical, to the US Natural Resources Conservation Service's (NRCS) Hydrologic Unit Code (HUC11) watershed file.
+<P>
+The watersheds define Strahler (Strahler 1952 p.1120) third order stream drainage by contours on U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets.  Some watershed drainage areas were defined for streams less than third order and some large area Watersheds were split to maintain a maximum size of 15,000 acres.
+
+</dd>
+<dt><em>Purpose:</em>  
+<dd>
+
+The watershed file is used by many state and local government agencies to accurately locate and report many landscape activities by watershed in Maryland.
+<P>
+SWSUB8 was created to identify and define Sub-Watersheds from contours on the U.S. Geological Survey (USGS) 7.5 minute quadrangle map sheets.  This file was created from SHED1998 - currently being distributed under the name SWSHED12 -  by dissolving to the third-order-watershed codes.
+
+</dd>
+<dt><em>Supplemental_Information:</em>  
+<dd>
+
+This data can be found in 'Boundary\Watersheds\8Digit\swsub' folder on coverags.
+<P>
+See Maryland's Third Order Watershed file and metadata as well.  That file (SWSHED12-Maryland'sThirdOrderWatershed) can be accessed at <A HREF="http://dnrweb.dnr.state.md.us/gis/data/">&lt;http://dnrweb.dnr.state.md.us/gis/data/&gt;</A>
+<P>
+The State political boundary used in this file is used for all Statewide files created by the Geographic Information Services Division of MD DNR.  HUA14 Watershed codes are in the file.  MDE collects data to the MDE8DIGT code.  MD DNR maintains data for the 10 Tributary Strategy Watersheds in the  STRACODE and STRANAME field.  This currnet file is derived from SHED1998, an older name for the current file, SWSHED12.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  19980201</dt>
+<dt><em>Time_of_Day:</em>  Unknown</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Status:</em>  
+<dd>
+<dl>
+<dt><em>Progress:</em>  Complete</dt>
+<dt><em>Maintenance_and_Update_Frequency:</em>  None planned</dt>
+</dl>
+</dd>
+<dt><em>Spatial_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Bounding_Coordinates:</em>  
+<dd>
+<dl>
+<dt><em>West_Bounding_Coordinate:</em>  -79.4938</dt>
+<dt><em>East_Bounding_Coordinate:</em>  -75.045</dt>
+<dt><em>North_Bounding_Coordinate:</em>  39.7425</dt>
+<dt><em>South_Bounding_Coordinate:</em>  37.8713</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Keywords:</em>  
+<dd>
+<dl>
+<dt><em>Theme:</em>  
+<dd>
+<dl>
+<dt><em>Theme_Keyword_Thesaurus:</em>  DNR General</dt>
+<dt><em>Theme_Keyword:</em>  Maryland State Highway Administration (SHA) GRID map series</dt>
+<dt><em>Theme_Keyword:</em>  Drainage Area</dt>
+<dt><em>Theme_Keyword:</em>  Federal Information Processing Standard, FIPS</dt>
+<dt><em>Theme_Keyword:</em>  Maryland Watershed Codes</dt>
+<dt><em>Theme_Keyword:</em>  Strahler</dt>
+<dt><em>Theme_Keyword:</em>  Third-Order Streams</dt>
+<dt><em>Theme_Keyword:</em>  Tributary Strategy</dt>
+<dt><em>Theme_Keyword:</em>  USGS 7.5' Quadrangle</dt>
+<dt><em>Theme_Keyword:</em>  Topography</dt>
+</dl>
+</dd>
+<dt><em>Theme:</em>  
+<dd>
+<dl>
+<dt><em>Theme_Keyword_Thesaurus:</em>  MMRG</dt>
+<dt><em>Theme_Keyword:</em>  inlandWaters</dt>
+</dl>
+</dd>
+<dt><em>Place:</em>  
+<dd>
+<dl>
+<dt><em>Place_Keyword_Thesaurus:</em>  Maryland</dt>
+<dt><em>Place_Keyword:</em>  Maryland</dt>
+<dt><em>Place_Keyword:</em>  MD</dt>
+<dt><em>Place_Keyword:</em>  USA</dt>
+<dt><em>Place_Keyword:</em>  US</dt>
+<dt><em>Place_Keyword:</em>  Allegany County</dt>
+<dt><em>Place_Keyword:</em>  Anne Arundel County</dt>
+<dt><em>Place_Keyword:</em>  Baltimore County</dt>
+<dt><em>Place_Keyword:</em>  Baltimore City</dt>
+<dt><em>Place_Keyword:</em>  Calvert County</dt>
+<dt><em>Place_Keyword:</em>  Caroline County</dt>
+<dt><em>Place_Keyword:</em>  Carroll County</dt>
+<dt><em>Place_Keyword:</em>  Cecil County</dt>
+<dt><em>Place_Keyword:</em>  Charles County</dt>
+<dt><em>Place_Keyword:</em>  Dorchester County</dt>
+<dt><em>Place_Keyword:</em>  Frederick County</dt>
+<dt><em>Place_Keyword:</em>  Garrett County</dt>
+<dt><em>Place_Keyword:</em>  Harford County</dt>
+<dt><em>Place_Keyword:</em>  Howard County</dt>
+<dt><em>Place_Keyword:</em>  Kent County</dt>
+<dt><em>Place_Keyword:</em>  Montgomery County</dt>
+<dt><em>Place_Keyword:</em>  Prince George's County</dt>
+<dt><em>Place_Keyword:</em>  Queen Anne's County</dt>
+<dt><em>Place_Keyword:</em>  St. Mary's County</dt>
+<dt><em>Place_Keyword:</em>  Somerset County</dt>
+<dt><em>Place_Keyword:</em>  Talbot County</dt>
+<dt><em>Place_Keyword:</em>  Washington County</dt>
+<dt><em>Place_Keyword:</em>  Wicomico County</dt>
+<dt><em>Place_Keyword:</em>  Worcester County</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Access_Constraints:</em>  None</dt>
+<dt><em>Use_Constraints:</em>  
+<dd>
+
+The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+
+</dd>
+<dt><em>Point_of_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Data_Set_Credit:</em>  
+<dd>
+
+The original eight digit watershed file was created in 1991 from Maryland Department of the Environment (MDE) hardcopy watershed maps. The Maryland Department of Planning (MDP) created that digital file by contracting with Daft, McCune and Walker to digitize third order stream watersheds. The U.S. Natural Resources Conservation Service (NRCS) produced the Hydrological Unit Code watershed file HUA14 using the MDP file as a base map and redefining watersheds. NCRS field offices verified the watershed boundaries. The Maryland Department of Housing and Community Development Maryland Historic Trust (MHT) provided scanned US Geological Survey (USGS) 7.5 minute quadrangle map sheets to be used as a base map for corrections. MD DNR corrected the watershed boundaries to the scanned USGS 7.5 minute quadrangle map sheets in cooperation with NRCS. The State political boundary file from Maryland State Highway Administration's (SHA) GRID map series was merged into the file replacing the existing state line. The merge and watershed corrections were completed by MD DNR.
+
+</dd>
+<dt><em>Native_Data_Set_Environment:</em>  
+<dd>
+
+The data creation and oringinal quality control work was done on Inetl Based PC's running MS/DOS and NT Workstation using software packages by ESRI such as ARC/INFO, ARC/VIEW and MicroImage Inc.'s TNTMIPS.
+<P>
+The original digital file was created in workstation ESRI software ARC/INFO version unknown. The U.S.  Natural Resources Conservation Service edited the file in GRASS version unknown. MD DNR edited the file in TNTMIPS, PC ARC/INFO 3.5 . MD DNR will maintain the file in ESRI Shapefile  formats, and TNTMIPS '.rvc' format.
+
+</dd>
+</dl>
+</dd>
+</dl>
+
+<A NAME="2">
+</A>
+<hr>
+<dl>
+<dt><em>Data_Quality_Information:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Accuracy_Report:</em>  
+<dd>
+
+There are no blank fields for any of the polygons.  The fields AREA, PERIMETER, SWSUBIdc_, SWSUBSdc_id, X_COORD and Y_COORD are internal fields to PC ARC/INFO.  The MDE6DIGT, MDE8DIGT.  ACRE were  filled by mathematical calculation.  MDE6NAME and MDE8NAME were filled by joining appropriate databases. Each polygon was checked for accuracy both through automated and manual inspection. The data is complete and accurate. Each of these fields were created by one analyst and reviewed by another using automated and visual inspection.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Logical_Consistency_Report:</em>  
+<dd>
+
+Each watershed is a closed polygon. Each polygon has a centroid created by PC ARC/INFO where the attribute is attached. Extra nodes and label points have been removed. Polygons were checked and all of the polygons are essential to meet the decision rules set for creation of the file. Dangles and overshoots have been removed. Final verification was completed by creating a dBASE III+ report of all polygons by area.
+
+</dd>
+<dt><em>Completeness_Report:</em>  
+<dd>
+
+All land areas in the State of Maryland and Washington D.C. have watersheds defined. Watersheds that join or are contiguous to Maryland will be defined by adjoining states through an effort coordinated by the U.S. Natural Resources Conservation Service (NRCS). At this time, Pennsylvania and Virginia have completed most of the adjoining watersheds. Watersheds are delineated for all third order streams, as defined by Strahler and visible on USGS 7.5 minute quadrangle map sheets.
+
+</dd>
+<dt><em>Positional_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Positional_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Positional_Accuracy_Report:</em>  
+<dd>
+
+Data were compiled on a 1:24,000 scale base using USGS 7.5 minute quads.  Qualified hydrologic -engineers made inspections.  Adjustments were based on 'Best professional Judgment' using quadrangle maps.  Corrections were reviewed by NRCS personnel and verified by field personnel.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Vertical_Positional_Accuracy:</em>  
+<dd>
+<dl>
+<dt><em>Vertical_Positional_Accuracy_Report:</em>  There is no vertical data reference.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Lineage:</em>  
+<dd>
+<dl>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  Maryland Department of Natural Resources</dt>
+<dt><em>Publication_Date:</em>  1998</dt>
+<dt><em>Publication_Time:</em>  Unknown</dt>
+<dt><em>Title:</em>  Maryland 12-digit watershed designation</dt>
+<dt><em>Edition:</em>  1998</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  map</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Annapolis, Maryland</dt>
+<dt><em>Publisher:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  24000</dt>
+<dt><em>Type_of_Source_Media:</em>  CD-ROM</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  1998</dt>
+<dt><em>Time_of_Day:</em>  Unknown</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  MD-DNR-ThirdOrderWshed</dt>
+<dt><em>Source_Contribution:</em>  
+<dd>
+
+DNR dissolved SHED1998 to Sub-watershed completed Metadata and released SUB1998.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  MDP</dt>
+<dt><em>Publication_Date:</em>  1994</dt>
+<dt><em>Publication_Time:</em>  Unknown</dt>
+<dt><em>Title:</em>  MDP watershed maps</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  map</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Baltimore, Maryland</dt>
+<dt><em>Publisher:</em>  MDP</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  62500</dt>
+<dt><em>Type_of_Source_Media:</em>  online</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Single_Date/Time:</em>  
+<dd>
+<dl>
+<dt><em>Calendar_Date:</em>  1994</dt>
+<dt><em>Time_of_Day:</em>  Unknown</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  MDP wshed</dt>
+<dt><em>Source_Contribution:</em>  
+<dd>
+
+Digitized MDE's paper maps and created the digital watershed file.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  U.S. Natural Resource Conservation Service</dt>
+<dt><em>Publication_Date:</em>  Unknown</dt>
+<dt><em>Publication_Time:</em>  Unknown</dt>
+<dt><em>Title:</em>  Hydrological Units map</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  map</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Annapolis, Maryland  USA</dt>
+<dt><em>Publisher:</em>  Maryland Department of Natural Resouces</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  100000</dt>
+<dt><em>Type_of_Source_Media:</em>  paper</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Range_of_Dates/Times:</em>  
+<dd>
+<dl>
+<dt><em>Beginning_Date:</em>  1960</dt>
+<dt><em>Beginning_Time:</em>  Unknown</dt>
+<dt><em>Ending_Date:</em>  1969</dt>
+<dt><em>Ending_Time:</em>  Unknown</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  NRCS HUA</dt>
+<dt><em>Source_Contribution:</em>  
+<dd>
+
+During this era the U.S. Natural Resource Conservation Service (NRCS) created hardcopy watershed maps for 100,000 scale statewide map attributed with the Hydrologic Unit Code (HUA or HUC). Process - manual cartographic interpretation.
+
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Information:</em>  
+<dd>
+<dl>
+<dt><em>Source_Citation:</em>  
+<dd>
+<dl>
+<dt><em>Citation_Information:</em>  
+<dd>
+<dl>
+<dt><em>Originator:</em>  Maryland Department of Environment</dt>
+<dt><em>Publication_Date:</em>  Unknown</dt>
+<dt><em>Publication_Time:</em>  Unknown</dt>
+<dt><em>Title:</em>  Maryland 8-Digit Watershed designation</dt>
+<dt><em>Geospatial_Data_Presentation_Form:</em>  map</dt>
+<dt><em>Publication_Information:</em>  
+<dd>
+<dl>
+<dt><em>Publication_Place:</em>  Baltimore, Maryland</dt>
+<dt><em>Publisher:</em>  MDE</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Scale_Denominator:</em>  62500</dt>
+<dt><em>Type_of_Source_Media:</em>  paper</dt>
+<dt><em>Source_Time_Period_of_Content:</em>  
+<dd>
+<dl>
+<dt><em>Time_Period_Information:</em>  
+<dd>
+<dl>
+<dt><em>Range_of_Dates/Times:</em>  
+<dd>
+<dl>
+<dt><em>Beginning_Date:</em>  1960</dt>
+<dt><em>Beginning_Time:</em>  Unknown</dt>
+<dt><em>Ending_Date:</em>  1969</dt>
+<dt><em>Ending_Time:</em>  Unknown</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Source_Currentness_Reference:</em>  publication date</dt>
+</dl>
+</dd>
+<dt><em>Source_Citation_Abbreviation:</em>  MDE</dt>
+<dt><em>Source_Contribution:</em>  MDE Paper Maps of watersheds.</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Creation of hardcopy  of Maryland watershed maps for planning - MDE - 1960's  - Watershed maps were created from county topographic maps produced in the 1960's. These hardcopy maps were used by hydrologists and planners to create the first statewide Watershed maps. The Watersheds were attributed with a Maryland Department of the Environment (MDE) 8 digit code. MDE is the custodian of these hard copy maps.
+
+</dd>
+<dt><em>Process_Date:</em>  1960</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Creation of hardcopy of Federal watershed maps for planning - NRCS - 1960's - Process - manual cartographic interpretation. During this era the U.S. Natural Resource Conservation Service (NRCS) created hardcopy Watershed 100,000 scale state wide map attributed with the Hydrologic Unit Code (HUA or HUC).
+
+</dd>
+<dt><em>Process_Date:</em>  1960</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Creation of digital Maryland watershed file (SWSHED) - MDP - Process - manual cartographic interpretation. The Watersheds in both maps were for groupings of large rivers. These groupings were hydrologically correct but not the same. Daft, McCune and Walker, working under contract with the Maryland Deparment of Planning (MDP), digitized the MDE Watershed maps. The contract specified delineation of Watersheds for third order streams using hard copy USGS 7.5 minute quadrangle map sheets as a basis for contour lines. This file was completed in 1994. OP is the custodian of this original digital Watershed file. Projection State Plane 27 feet.
+
+</dd>
+<dt><em>Process_Date:</em>  1994</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Combining Maryland and Federal watersheds to create a digital file - NRCS - Process - digitization from hard copy maps into ARC/INFO. This file defines third order Watersheds correctly, although it has tidal areas that were too large to use in Watershed planning. State and federal agencies formed a work group to define Watersheds of consistent size for planning purposes. The NRCS was given directions to define smaller Watersheds and create a digital file. NRCS added the line work to the Maryland file over USGS quad sheets. Projection converted to UTM zone 17 meters.
+
+</dd>
+<dt><em>Process_Date:</em>  1995</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+QC digital watershed file - DNR - Process - digitization from hard copy maps into GRASS. QC was done on this file over USGS quad sheets and it was determined that some of the lines were not quad accurate. DNR reviewed each of the Watersheds and coordinated with NRCS to make the changes; projection converted to State Plane 27 feet;
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Create digital file DNRHUA14 - DNR - process:: on screen review over scanned USGS 7.5 minute quad sheets in Micro Images, Inc. TNTMIPS.  This file had no attributes. A unique four digit number was added to each polygon for identification. Each member of the work group was given this file (DNRHUA14) as a beta release with hopes that no new Watershed would need to be defined; projection State Plane 27 feet;
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Attribute DNRHUA14 - DNR - process:: create a field and fill with a unique number. This was done in ARC/INFO. DNR began attributing the file DNRHUA14 with MDE codes. Pennsylvania and Virginia began digitizing Watersheds for their state. They used DNRHUA14 to edge match between states. Some of the Watersheds could be better defined using elevation from the adjoining state. Some of the MDE codes could not be maintained because lines were missing; projection State Plane 27 feet.  Process was visual interpretation.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Add lines to maintain MDE codes and to be consistent with adjoining states - DNR - process:: visual interpretation. DNR coordinated with NRCS to add the appropriate lines from other states. NRCS does not maintain all-water polygons (Maryland does) so it was necessary to create two files:: one with the all-water Watersheds (SHED1997) and one without (HUA14). DNR discovered that the state line in DNRHUA14 was a 250,000 scale line that had an error. DNR removed this line and merged in the State Highway Administration (SHA) 24,000 scale state line. DNR completed the line work that would be maintained in the federal file and sent the file to NRCS for QC review. Exported file to DLG format in UTM zone 17. DNR completed the line work that would be maintained by Maryland; projection DNR's file State Plane 27 feet, NRCS's file UTM zone 17 meters.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Create digital file SHED96A - DNR - Process was heads up digitizing in Micro Images Inc. TNTMIPS and attribution done in ARC/INFO. DNR released SUBS96A, a draft file. This file contained the MDE codes and the line work to be maintained by Maryland; projection State Plane 27 feet.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Remove dangles and overshoots in SHED96A - DNR - Users reported dangles and overshoots in the file. DNR cleaned the file. Process was done in ARC/INFO; projection State Plane 27 feet.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Create digital file SHED96B - DNR - DNR released SUBS96B, a draft file. This file is a cleaned version of the SUBS96A Watershed file. Projection State Plane 27 feet.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+QC SHED96A - NRCS - NRCS reviewed the line work and determined that the lines were generalized; projection UTM Zone 17 meters.  Process was to digitally compare the file to DNRHUA14 file in GRASS software package.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Correct the generalization of line work in SHED96A - NRCS - Process was to digitally compare the file to DNRHUA14 file in GRASS. NRCS re-digitized the lines (see event 8). NRCS digitized lines to be consistent with adjoining states and 250,000 scale state boundary; projection still UTM Zone 17 meters; digitizing - in GRASS.
+
+</dd>
+<dt><em>Process_Date:</em>  1996</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Create digital files HUA14, HUA11, and HUA8 - NRCS - NRCS released HUA14 in a DLG format; projection UTM Zone 17 meters.
+
+</dd>
+<dt><em>Process_Date:</em>  1997</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Using HUA14 change state line and make edits for compliance with MDE code - DNR -  DNR removed the state line from HUA14 and added the SHA state line. The all-water Watersheds needing to maintain MDE Watershed codes were added and the file was attributed. Projection converted from UTM Zone 17 meters to State Plane 27 feet.
+
+</dd>
+<dt><em>Process_Date:</em>  1997</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Create digital file SHED1997 - DNR -  Process -done in ARC/INFO. DNR completed Metadata and released SHED1997.
+
+</dd>
+<dt><em>Process_Date:</em>  1997</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+Dissolve SHED1997 to SUB Watersheds Maryland's original hardcopy 1:62,500.         DNR dissolved SHED1997 to Sub-watersheds, completed Metadata and released SUBS1997.
+
+</dd>
+<dt><em>Process_Date:</em>  1997</dt>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  Fixed problems in SHED1997.  Released as SHED1998.</dt>
+<dt><em>Process_Date:</em>  1998</dt>
+<dt><em>Process_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+The file was projected to Maryland State Plane NAD 1983 with units in Meters.  The file was renamed to SWSUB8.  The format of the file was converted to ESRI shape file.  This is the current format for distribution
+
+</dd>
+<dt><em>Process_Date:</em>  2000</dt>
+<dt><em>Process_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Process_Step:</em>  
+<dd>
+<dl>
+<dt><em>Process_Description:</em>  
+<dd>
+
+It was brought to our attention that there was an error with the Western Branch (02131103) watershed boundary.  Evidently, there was an extra linear boundary from a previous version of the data.  Deleated the extra linear feature, corrected the attributes, and updated the file.
+
+</dd>
+<dt><em>Process_Date:</em>  2004</dt>
+<dt><em>Process_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Cloud_Cover:</em>  0</dt>
+</dl>
+</dd>
+</dl>
+
+<A NAME="3">
+</A>
+<hr>
+<dl>
+<dt><em>Spatial_Data_Organization_Information:</em>  
+<dd>
+<dl>
+<dt><em>Direct_Spatial_Reference_Method:</em>  Vector</dt>
+</dl>
+</dd>
+</dl>
+
+<A NAME="4">
+</A>
+<hr>
+<dl>
+<dt><em>Spatial_Reference_Information:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Coordinate_System_Definition:</em>  
+<dd>
+<dl>
+<dt><em>Planar:</em>  
+<dd>
+<dl>
+<dt><em>Grid_Coordinate_System:</em>  
+<dd>
+<dl>
+<dt><em>Grid_Coordinate_System_Name:</em>  State Plane Coordinate System 1983</dt>
+<dt><em>State_Plane_Coordinate_System:</em>  
+<dd>
+<dl>
+<dt><em>SPCS_Zone_Identifier:</em>  1900</dt>
+<dt><em>Lambert_Conformal_Conic:</em>  
+<dd>
+<dl>
+<dt><em>Standard_Parallel:</em>  -38.3</dt>
+<dt><em>Standard_Parallel:</em>  39.45</dt>
+<dt><em>Longitude_of_Central_Meridian:</em>  -77</dt>
+<dt><em>Latitude_of_Projection_Origin:</em>  37.67</dt>
+<dt><em>False_Easting:</em>  400000</dt>
+<dt><em>False_Northing:</em>  0</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Planar_Coordinate_Information:</em>  
+<dd>
+<dl>
+<dt><em>Planar_Coordinate_Encoding_Method:</em>  Coordinate Pair</dt>
+<dt><em>Coordinate_Representation:</em>  
+<dd>
+<dl>
+<dt><em>Abscissa_Resolution:</em>  1</dt>
+<dt><em>Ordinate_Resolution:</em>  1</dt>
+</dl>
+</dd>
+<dt><em>Planar_Distance_Units:</em>  meters</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Geodetic_Model:</em>  
+<dd>
+<dl>
+<dt><em>Horizontal_Datum_Name:</em>  North American Datum of 1983</dt>
+<dt><em>Ellipsoid_Name:</em>  Geodetic Reference System 80</dt>
+<dt><em>Semi-major_Axis:</em>  6378137</dt>
+<dt><em>Denominator_of_Flattening_Ratio:</em>  298.257</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<A NAME="5">
+</A>
+<hr>
+<dl>
+<dt><em>Entity_and_Attribute_Information:</em>  
+<dd>
+<dl>
+<dt><em>Detailed_Description:</em>  
+<dd>
+<dl>
+<dt><em>Entity_Type:</em>  
+<dd>
+<dl>
+<dt><em>Entity_Type_Label:</em>  SWSUB</dt>
+<dt><em>Entity_Type_Definition:</em>  
+<dd>
+
+This field contains the Maryland Department of Environment (MDE) six digit Watershed code representing nineteen Watersheds for Maryland. This field was filled manually by DNR using Watershed codes in the original Watershed file from the Maryland Office of Planning (OP) and from hardcopy maps of the Watershed from MDE and directions given by MDE staff.
+<P>
+This field also contains the MDE eight digit Watershed code representing one hundred thirty eight Watershed for Maryland. This field was filled by intersecting the old Watershed polygon code from OP then visually comparing attributes to hard copy maps and OP stream file.
+
+</dd>
+<dt><em>Entity_Type_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  Area</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This is an internal field calculated by ARC/INFO and stored in square feet.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  ARC/INFO Area of a G polygon</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  ARC G polygon</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Area of G Polygon</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Area calcualted by ARC after exporting from TNTMIPS.</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  DC2</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This field tells whether the particular polygon is inside the Washington Metropolitan Area
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  Visually determined by spatial extent.</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  yes</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MDE6DIGT</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This field contains the Maryland Department of Environment (MDE) six digit Watershed code representing nineteen Watersheds for Maryland. This field was filled manually by DNR using Watershed codes in the original Watershed file from the Maryland Office of Planning (OP) and from hardcopy maps of the Watershed from MDE and directions given by MDE staff.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021399</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Chesapeake Bay (proper)</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Susquehanna River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021301</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Coastal area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021302</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Pocomoke River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021303</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Nanticoke River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021304</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Choptank River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021305</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Chester River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021306</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Elk River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021307</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bush River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021308</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Gunpowder River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021309</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patapsco River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021310</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  West Chesapeake Bay area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021311</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patuxent River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021401</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Potomac River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021402</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Washington Metropolitan area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021403</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Middle Potomac River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021405</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Potomac River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  021410</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  North Branch Potomac River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  050202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Youghiogheny River area</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MDE6NAME</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This field contains names from the hardcopy MDE Watershed code book. Data was entered manually using hard copy maps from MDE and joined to the polygon data base using MDE6DIGT as the joining key.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  Name of Watershed</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  
+<dd>
+
+This is the name of the six digit watershed as given by the source.
+
+</dd>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MDE8DIGT</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This field contains the MDE eight digit Watershed code representing one hundred thirty eight Watershed for Maryland. This field was filled by intersecting the old Watershed polygon code from OP then visually comparing attributes to hard copy maps and OP stream file.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02050301</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Conewago Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02120201</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  L Susquehanna River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02120202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Deer Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02120203</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Octoraro Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02120204</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Conowingo Dam Susq R</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02120205</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Broad Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130102</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Assawoman Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130103</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Isle of Wight Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130104</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Sinepuxent Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130105</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Newport Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130106</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Chincoteague Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130201</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Pocomoke Sound</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Pocomoke River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130203</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Pocomoke River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130204</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Dividing Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130205</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Nassawango Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130206</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Tangier Sound</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130207</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Big Annemessex River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130208</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Manokin River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130301</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Wicomico River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130302</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Monie Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130303</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Wicomico Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130304</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Wicomico River Head</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130305</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Nanticoke River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130306</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Marshyhope Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130307</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Fishing Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130308</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Transquaking River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130401</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Honga River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130402</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Choptank</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130403</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Choptank</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130404</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Choptank</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130405</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Tuckahoe Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130501</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Eastern Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130502</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Miles River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130503</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Wye River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130504</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Kent Narrows</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130505</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Chester River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130506</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Langford Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130507</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Corsica River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130508</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Southeast Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130509</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Middle Chester River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130510</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Chester River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130511</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Kent Island Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130601</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Elk River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130602</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bohemia River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130603</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Elk River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130604</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Back Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130605</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Elk Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130606</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Big Elk Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130607</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Christina River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130608</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Northeast River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130609</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Furnace Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130610</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Sassafras River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130611</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Stillpond-Fairlee</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130701</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bush River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130702</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Winters Run</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130703</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Atkisson Reservoir</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130704</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bynum Run</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130705</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Aberdeen Proving Ground</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130706</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Swan Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130801</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Gunpowder River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130802</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Gunpowder Falls</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130803</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bird River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130804</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Gunpowder Falls</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130805</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Loch Raven Reservoir</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130806</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Prettyboy Reservoir</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130807</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Middle River - Browns</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130901</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Back River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130902</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Bodkin Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130903</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Baltimore Harbor</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130904</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Jones Falls</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130905</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Gwynns Falls</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130906</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patapsco River L N Br</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130907</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Liberty Reservoir</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130908</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  S Branch Patapsco</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131001</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Magothy River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131002</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Severn River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131003</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  South River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131004</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  West River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131005</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  West Chesapeake Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131101</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patuxent River Lower</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131102</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patuxent River Middle</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131103</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Western Branch</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131104</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Patuxent River Upper</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131105</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Patuxent River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131106</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Middle Patuxent River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131107</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Rocky Gorge Dam</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02131108</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Brighton Dam</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02139996</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Chesapeake Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02139997</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Middle Chesapeake Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02139998</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Chesapeake Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140101</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River Lower Tidal</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140102</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River Middle Tidal</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140103</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  St. Mary's River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140104</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Breton Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140105</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  St. Clement Bay</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140106</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Wicomico River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140107</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Gilbert Swamp</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140108</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Zekiah Swamp</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140109</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Port tobacco River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140110</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Nanjemoy Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140111</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Mattawoman Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140201</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River U Tidal</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River MO Cnty</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140203</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Piscataway Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140204</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Oxon Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140205</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Anacostia River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140206</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Rock Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140207</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Cabin John Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140208</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Seneca Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140301</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River FR Cnty</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140302</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Lower Monocacy River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140303</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Upper Monocacy River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140304</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Double Pipe Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140305</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Catoctin Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140501</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River WA Cnty</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140502</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Antietam Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140503</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Marsh Run</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140504</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Conococheaque Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140505</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Conococheaque</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140506</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Licking Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140507</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Tonoloway Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140508</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River AL Cnty</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140509</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Tonoloway Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140510</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Sideling Hill Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140511</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Fifteen Mile Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02140512</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Town Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141001</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River L N Branch</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141002</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Evitts Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141003</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Wills Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141004</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Georges Creek</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141005</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Potomac River U N Branch</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02141006</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Savage River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  05020201</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Youghiogheny River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  05020202</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Little Youghiogheny R</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  05020203</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Deep Creek Lake</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  05020204</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Casselman River</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  02130101</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  Atlantic Ocean</dt>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  MDE8NAME</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This field contains names from the hardcopy MDE Watershed code book. Data was entered manually using hard copy maps from MDE and joined to the polygon data base using MDE6DIGT as the joining key.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain:</em>  
+<dd>
+<dl>
+<dt><em>Enumerated_Domain_Value:</em>  Name of Eight Digit watershed</dt>
+<dt><em>Enumerated_Domain_Value_Definition:</em>  
+<dd>
+
+This is the eight-digit watershed name as assigned by the source.
+
+</dd>
+<dt><em>Enumerated_Domain_Value_Definition_Source:</em>  Maryland Department of Environment (MDE)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  Perimeter</dt>
+<dt><em>Attribute_Definition:</em>  
+<dd>
+
+This is an internal field calculated by ARC/INFO. It is the perimeter of the polygon in feet.
+
+</dd>
+<dt><em>Attribute_Definition_Source:</em>  ARC/INFO</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  This is the perimeter as calcualated by ARC/INFO</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  SWSUBDC</dt>
+<dt><em>Attribute_Definition:</em>  This is an internal field set up by ARC/INFO.</dt>
+<dt><em>Attribute_Definition_Source:</em>  ARC/INFO</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  internal value</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Attribute:</em>  
+<dd>
+<dl>
+<dt><em>Attribute_Label:</em>  SWSUBDC_ID</dt>
+<dt><em>Attribute_Definition:</em>  This is an internal field set up by ARC/INFO.</dt>
+<dt><em>Attribute_Definition_Source:</em>  ARC/INFO</dt>
+<dt><em>Attribute_Domain_Values:</em>  
+<dd>
+<dl>
+<dt><em>Unrepresentable_Domain:</em>  internal value</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Overview_Description:</em>  
+<dd>
+<dl>
+<dt><em>Entity_and_Attribute_Overview:</em>  
+<dd>
+
+SUB1998 was edited in State Plane Maryland, NAD 1983 meters, released as SWSUB.
+
+</dd>
+<dt><em>Entity_and_Attribute_Detail_Citation:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<A NAME="6">
+</A>
+<hr>
+<dl>
+<dt><em>Distribution_Information:</em>  
+<dd>
+<dl>
+<dt><em>Distributor:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Resource_Description:</em>  Downloadable Data</dt>
+<dt><em>Distribution_Liability:</em>  None</dt>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Form:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Transfer_Information:</em>  
+<dd>
+<dl>
+<dt><em>Format_Name:</em>  ESRI shape files</dt>
+<dt><em>Format_Version_Date:</em>  20021031</dt>
+<dt><em>Format_Information_Content:</em>  Thematic spatial data</dt>
+</dl>
+</dd>
+<dt><em>Digital_Transfer_Option:</em>  
+<dd>
+<dl>
+<dt><em>Online_Option:</em>  
+<dd>
+<dl>
+<dt><em>Computer_Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Network_Address:</em>  
+<dd>
+<dl>
+<dt><em>Network_Resource_Name:</em>  <A HREF="http://dnrweb.dnr.state.md.us/gis/data/">&lt;http://dnrweb.dnr.state.md.us/gis/data/&gt;</A></dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Access_Instructions:</em>  Please refer to <A HREF="http://dnrweb.dnr.state.md.us/gis/data/">&lt;http://dnrweb.dnr.state.md.us/gis/data/&gt;</A></dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Fees:</em>  None</dt>
+<dt><em>Ordering_Instructions:</em>  Please refer to <A HREF="http://dnrweb.dnr.state.md.us/gis/data/">&lt;http://dnrweb.dnr.state.md.us/gis/data/&gt;</A></dt>
+</dl>
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Non-digital_Form:</em>  
+<dd>
+
+Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Fees:</em>  
+<dd>
+
+DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Ordering_Instructions:</em>  
+<dd>
+
+Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Turnaround:</em>  1-3 business days after receiving payment.</dt>
+</dl>
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Form:</em>  
+<dd>
+<dl>
+<dt><em>Digital_Transfer_Information:</em>  
+<dd>
+<dl>
+<dt><em>Format_Name:</em>  ESRI shape files</dt>
+<dt><em>Format_Version_Date:</em>  20021031</dt>
+<dt><em>Format_Information_Content:</em>  Thematic spatial data</dt>
+</dl>
+</dd>
+<dt><em>Digital_Transfer_Option:</em>  
+<dd>
+<dl>
+<dt><em>Offline_Option:</em>  
+<dd>
+<dl>
+<dt><em>Offline_Media:</em>  CD-ROM</dt>
+<dt><em>Recording_Capacity:</em>  
+<dd>
+<dl>
+<dt><em>Recording_Density:</em>  650 Megabytes</dt>
+<dt><em>Recording_Density_Units:</em>  Megabytes</dt>
+</dl>
+</dd>
+<dt><em>Recording_Format:</em>  ISO 9660</dt>
+<dt><em>Compatibility_Information:</em>  ISO 9660 compatible CD-ROM drives</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Fees:</em>  Please refer to www.msgic.state.md.us/techtool</dt>
+<dt><em>Ordering_Instructions:</em>  Please refer to www.msgic.state.md.us/techtool</dt>
+<dt><em>Turnaround:</em>  1-3 business days after receiving payment.</dt>
+</dl>
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Non-digital_Form:</em>  
+<dd>
+
+Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Fees:</em>  
+<dd>
+
+DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Ordering_Instructions:</em>  
+<dd>
+
+Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Turnaround:</em>  1-3 business days after receiving payment.</dt>
+</dl>
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Non-digital_Form:</em>  
+<dd>
+
+Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Fees:</em>  
+<dd>
+
+DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Ordering_Instructions:</em>  
+<dd>
+
+Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Turnaround:</em>  1-3 business days after receiving payment.</dt>
+</dl>
+</dd>
+<dt><em>Standard_Order_Process:</em>  
+<dd>
+<dl>
+<dt><em>Non-digital_Form:</em>  
+<dd>
+
+Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Fees:</em>  
+<dd>
+
+DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Ordering_Instructions:</em>  
+<dd>
+
+Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at <A HREF="http://www.msgic.state.md.us/techtool/license/index.htm">&lt;http://www.msgic.state.md.us/techtool/license/index.htm&gt;</A> for cost and availability information.
+
+</dd>
+<dt><em>Turnaround:</em>  1-3 business days after receiving payment.</dt>
+</dl>
+</dd>
+<dt><em>Custom_Order_Process:</em>  None</dt>
+</dl>
+</dd>
+</dl>
+
+<A NAME="7">
+</A>
+<hr>
+<dl>
+<dt><em>Metadata_Reference_Information:</em>  
+<dd>
+<dl>
+<dt><em>Metadata_Date:</em>  20041005</dt>
+<dt><em>Metadata_Review_Date:</em>  20041006</dt>
+<dt><em>Metadata_Future_Review_Date:</em>  20051005</dt>
+<dt><em>Metadata_Contact:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Information:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person_Primary:</em>  
+<dd>
+<dl>
+<dt><em>Contact_Person:</em>  Ken Miller</dt>
+<dt><em>Contact_Organization:</em>  Maryland Department of Natural Resources</dt>
+</dl>
+</dd>
+<dt><em>Contact_Position:</em>  Chief.  Watershed Information Services Division</dt>
+<dt><em>Contact_Address:</em>  
+<dd>
+<dl>
+<dt><em>Address_Type:</em>  mailing and physical address</dt>
+<dt><em>Address:</em>  Tawes State Office Building E-2 580 Taylor Avenue</dt>
+<dt><em>City:</em>  Annapolis</dt>
+<dt><em>State_or_Province:</em>  Maryland</dt>
+<dt><em>Postal_Code:</em>  21401-2397</dt>
+<dt><em>Country:</em>  USA</dt>
+</dl>
+</dd>
+<dt><em>Contact_Voice_Telephone:</em>  410-260-8751</dt>
+<dt><em>Contact_TDD/TTY_Telephone:</em>  410-260-8835</dt>
+<dt><em>Contact_Facsimile_Telephone:</em>  410-260-8759</dt>
+<dt><em>Contact_Electronic_Mail_Address:</em>  kenmiller@dnr.state.md.us</dt>
+<dt><em>Hours_of_Service:</em>  0800 - 1700 Monday to Friday (EST)</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt><em>Metadata_Standard_Name:</em>  FGDC Content Standard For Digital Geospatial Metadata</dt>
+<dt><em>Metadata_Standard_Version:</em>  FGDC-STD-001-1998</dt>
+<dt><em>Metadata_Time_Convention:</em>  local time</dt>
+<dt><em>Metadata_Security_Information:</em>  
+<dd>
+<dl>
+<dt><em>Metadata_Security_Classification_System:</em>  None</dt>
+<dt><em>Metadata_Security_Classification:</em>  Unclassified</dt>
+<dt><em>Metadata_Security_Handling_Description:</em>  None</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+
+<hr>
+Generated by <A HREF="http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></A> version 2.8.12 on Mon Oct 25 13:49:25 2004<br>
+
+</body>
+</html>

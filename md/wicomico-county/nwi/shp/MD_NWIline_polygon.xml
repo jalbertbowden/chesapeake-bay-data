@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Fish &amp; Wildlife Service, National Wetlands Inventory</origin>
+				<pubdate>1981-2002</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title Sync="TRUE">AANWIP</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>St. Petersburg, Florida</pubplace>
+					<publish>U.S. Fish &amp; Wildlife Service, National Wetlands Inventory</publish>
+				</pubinfo>
+				<othercit>Information for this element varies for each 7.5' quad.  The data was originally acquired as the quad extent file.  However, the 7.5 quadrangles for any given county have been merged to provide a county wide extent file. This was done for ease of use by customers.</othercit>
+				<onlink>
+ftp://ftp.nwi.fws.gov/arcdata/
+ftp://ftp.nwi.fws.gov/dlgdata/
+http://www.msgic.state.md.us/
+</onlink>
+				<ftname Sync="TRUE">AANWIP</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>NWI digital data files are records of wetlands location and classification as developed by the U.S. Fish &amp; Wildlife Service. The classification system was adopted as a national classification standard in 1996 by the Federal Geographic Data Committee. This dataset is one of a series available in 7.5 minute by 7.5 minute blocks containing ground planimetric coordinates of wetlands point, line, and polygon features and wetlands attributes.  Coverage includes both digital data and hardcopy maps. The NWI maps do not show all wetlands since the maps are derived from aerial photointerpretation with varying limitations due to scale, photo quality, inventory techniques, and other factors. Consequently, the maps tend to show wetlands that are readily photointerpreted. Maps derived from color infrared photography tend to yield more accurate results except when this photography was captured during a dry year, making wetland identification equally difficult. Proper use of NWI maps therefore requires knowledge of the inherent limitations of this mapping.  Users should also consult other information to aid in wetland detection, such as U.S. Department of Agriculture soil survey reports and other wetland maps that may have been produced by state and local governments, and not rely solely on NWI maps. See section on """"Completeness_Report"""" for more information.</abstract>
+			<purpose>The data provide consultants, planners, and resource managers with information on wetland location and type. The data were collected to meet U.S. Fish &amp; Wildlife Service's mandate to map the wetland and deepwater habitats of the United States. The purpose of this survey was not to map all wetlands and deepwater habitats of the United States, but rather to use aerial photointerpretation techniques to produce thematic maps that show, in most cases, the larger ones and types that can be identified by such techniques. The objective was to provide better geospatial information on wetlands than found on the U.S. Geological Survey topographic maps. It was not the intent of the NWI to produce maps that show exact wetland boundaries comparable to boundaries derived from ground surveys. Boundaries are therefore generalized in most cases. The quality of the wetland data is variable  See section on """"Completeness_Report"""" for more information.</purpose>
+			<supplinf>The data was originally obtained from NWI with the extents of USGS 7.5' quadrangle for all the counties in Maryland.  The quadrangles belonging to any given county were then merged together to form a county-wide extents file, and that is how the data is being distributed my Maryland Department of Natural Resources (MD DNR).</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>1977</begdate>
+					<begtime>Unknown</begtime>
+					<enddate>1982</enddate>
+					<endtime>Unknown</endtime>
+				</rngdates>
+				<sngdate><caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate></sngdate></timeinfo>
+			<current>source photography date; see NWI website for this - http://www.nwi.fws.gov/Maps/maps.htm. At this site pick the link for quad specific metadata. Then use 1:24k scale photography and MD for state to see the photodates</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Unknown</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-79.4938</westbc>
+				<eastbc>-75.045</eastbc>
+				<northbc>39.77425</northbc>
+				<southbc>37.8713</southbc>
+			</bounding>
+			<lboundng><leftbc Sync="TRUE">413834.786428</leftbc><rightbc Sync="TRUE">456285.478459</rightbc><bottombc Sync="TRUE">115899.050870</bottombc><topbc Sync="TRUE">174447.501471</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>wetlands</themekey>
+				<themekey>hydrologic</themekey>
+				<themekey>land cover</themekey>
+				<themekey>surface and man made features</themekey>
+				<themekey>SOILS survey</themekey>
+			</theme>
+			<place>
+				<placekt>NONE</placekt>
+				<placekey>Range includes all 50 states, but used the ones for State of Maryland only</placekey>
+				<placekey>Allegany County, Maryland abbreviated as AL</placekey>
+				<placekey>Anne Arundel County, Maryland abbreviated as AA</placekey>
+				<placekey>Baltimore City, Maryland abbreviated as BC</placekey>
+				<placekey>Baltimore County, Maryland abbreviated as BA</placekey>
+				<placekey>Calvert Conty, Maryland abbreviated as CA</placekey>
+				<placekey>Carroll County, Maryland abbreviated as CL</placekey>
+				<placekey>Cecil County, Maryland abbreviated as CE</placekey>
+				<placekey>Charles County, Maryland abbreviated as CH</placekey>
+				<placekey>Dorchester County, Maryland abbreviated as DO</placekey>
+				<placekey>Frederick County, Maryland abbreviated as FR</placekey>
+				<placekey>Garrett County, Maryland abbreviated as GA</placekey>
+				<placekey>Harford County, Maryland abbreviated as HA</placekey>
+				<placekey>Howard  County, Maryland abbreviated as HO</placekey>
+				<placekey>Kent County, Maryland abbreviated as KE</placekey>
+				<placekey>Montgomery County, Maryland abbreviated as MO</placekey>
+				<placekey>Prince George's County, Maryland abbreviated as PG</placekey>
+				<placekey>Queen Anne's County, Maryland abbreviated as QA</placekey>
+				<placekey>Saint Mary's County, Maryland abbreviated as SM</placekey>
+				<placekey>Somerset County, Maryland abbreviated as SO</placekey>
+				<placekey>Talbot County, Maryland abbreviated as TA</placekey>
+				<placekey>Washington County, Maryland abbreviated as WA</placekey>
+				<placekey>Wicomico County, Maryland abbreviated as WI</placekey>
+				<placekey>Worcester County, Maryland abbreviated as WO</placekey>
+				<placekey>Caroline County, Maryland abbreviated as CO</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>
+Federal, State, and local regulatory agencies with jurisdiction over wetlands may define and describe wetlands in a different manner than that used in this inventory. There is no attempt, in either the design or products of this inventory, to define the limits of proprietary jurisdiction of any Federal, State, or local government or to establish the geographical scope of the regulatory programs of government agencies. Persons intending to engage in activities involving modifications within or adjacent to wetland areas should seek the advice of appropriate Federal, State, or local agencies concerning specified agency regulatory programs and proprietary jurisdictions that may affect such activities.
+The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Ken Miller</cntper>
+					<cntorg>Maryland Department of Natural Resources</cntorg>
+				</cntperp>
+				<cntpos>Chief.  Spatial Data Production Services</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Tawes State Office Building E-2 580 Taylor Avenue</address>
+					<city>Annapolis</city>
+					<state>Maryland</state>
+					<postal>21401-2397</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>410-260-8751</cntvoice>
+				<cnttdd>410-260-8835</cnttdd>
+				<cntfax>410-260-8759</cntfax>
+				<cntemail>kenmiller@dnr.state.md.us</cntemail>
+				<hours>0800 - 1700 Monday to Friday (EST)</hours>
+			</cntinfo>
+		</ptcontac>
+		<datacred>N/A</datacred>
+		<native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<natvform Sync="TRUE">Shapefile</natvform></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The attribute accuracy is tested by manual comparison of the source with hard copy printouts and/or symbolized display of the digital wetlands data on an interactive computer graphic system. In addition, quality control verification software (USFWS-NWI) tests the attributes against a master set of valid wetland attributes.</attraccr>
+		</attracc>
+		<logic>Polygons intersecting the neatline are closed along the border. Segments making up the outer and inner boundaries of a polygon tie end-to-end to completely enclose the area. Line segments are a set of sequentially numbered coordinate pairs. No duplicate features exist nor duplicate points in a data string. Intersecting lines are separated into individual line segments at the point of intersection. Point data are represented by two sets of coordinate pairs, each with the same coordinate values. All nodes are represented by a single coordinate pair which indicates the beginning or end of a line segment. The neatline is generated by connecting the four corners of the digital file, as established during initialization of the digital file. All data crossing the neatline are clipped to the neatline and data within a specified tolerance of the neatline are snapped to the neatline. Tests for logical consistency are performed by quality control verification software (USFWS-NWI).</logic>
+		<complete>NWI maps do not show all wetlands, but attempt to show most photointerpretable wetlands given considerations of map/photo scale and wetland delineation practices. A target mapping unit (tmu) is an estimate of the size class of the smallest group of wetlands that NWI attempts to map consistently; it is not the smallest wetland mapped. Recognize that some wetland types are conspicuous and readily mapped (e.g., marshes and ponds) and smaller ones may be mapped. Drier wetlands and forested wetlands (especially evergreen) are more difficult to photointerpret and larger ones may be missed. The tmu also varies with photo scale; in forested regions, the tmu may be 3-5 acres (1:80K photos), 1-3 acres (1:58K), or 1 acre (1:40K). NWI maps should show most wetlands larger than the tmu. In the treeless prairies, a 1/4 acre tmu is possible due to the openness of terrain and occurrence of wetlands in distinct depressions. Take notice of the photo scale/type used to make the maps (see legend) and realize that black and white photos tend to yield more conservative interpretations than color infrared film. Most farmed wetlands (e.g., mucklands) are usually not mapped, except for pothole-type wetlands, cranberry bogs, and diked former tidelands (Sacramento Valley). Partly drained wetlands are conservatively mapped due to photointerpretation limitations. No attempt was made to identify regulated wetlands from other wetlands. Recognize that maps produced through photointerpretation are not as accurate as one prepared from on-the-ground surveys, so NWI boundaries are generalized.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Horizontal</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>The Domain includes U.S. Geological Survey (USGS), U.S. Department of Agriculture (USDA), National Aeronautics and Space Administration (NASA), special project. Information for this element varies for each 7.5' quad. See the quad-specific metadata file at the URL shown in the 'online-linkage' section below.</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>National Wetlands Inventory</title>
+						<geoform>remote-sensing image</geoform>
+						<pubinfo>
+							<pubplace>St. Petersburg, Florida</pubplace>
+							<publish>U. S. Fish and Wildlife Service, National Wetlands Inventory</publish>
+						</pubinfo>
+						<onlink>http://www.nwi.fws.gov/Maps/maps.htm</onlink>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1981</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>Present</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Source photography date - refer to NWI's website at http://www.nwi.fws.gov/Maps/maps.htm</srccurr>
+				</srctime>
+				<srccitea>NWI</srccitea>
+				<srccontr>Wetlands Spatial extents and attribute information.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U. S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>Topographic Maps</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U. S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1902</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>Present</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Topographic Maps</srccitea>
+				<srccontr>topological data</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U. S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>USGS QUAD</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U. S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1902</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>Present</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>USGS QUAD</srccitea>
+				<srccontr>base cartographic data.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U. S. Department of Agriculture, Natual Resource Conservation Service</origin>
+						<pubdate>Unknown</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>County Soil Survey</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>Government Printing Office</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>Unknown</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>Soil Survey</srccitea>
+				<srccontr>Hydric Soils information required to delineate wetlands.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>The Domain includes U.S. Geological Survey (USGS), U.S. Department of Agriculture (USDA), National Aeronautics and Space Administration (NASA), special project. Information for this element varies for each 7.5' quad. See the quad-specific metadata file.</origin>
+						<pubdate>1977-2002</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>PHOTOS</title>
+						<geoform>remote-sensing image</geoform>
+						<pubinfo>
+							<pubplace>Reston, Virginia</pubplace>
+							<publish>U. S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>1977</begdate>
+							<begtime>Unknown</begtime>
+							<enddate>1982</enddate>
+							<endtime>Unknown</endtime>
+						</rngdates>
+					</timeinfo>
+					<srccurr>source photography date</srccurr>
+				</srctime>
+				<srccitea>PHOTOS</srccitea>
+				<srccontr>Wetland delineation locations.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Mayland Department of Natural Resources</origin>
+						<pubdate>Unknown</pubdate>
+						<title>County wide merged NWI files.</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Annapolis, Maryland</pubplace>
+							<publish>MD DNR</publish>
+						</pubinfo>
+						<othercit>The individual 7.5' USGS Quads were merged to a result in county-wide extents file.  This was done to facilitate ease of use.</othercit>
+					</citeinfo>
+				</srccite>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>1995</caldate>
+							<time>Unknown</time>
+						</sngdate>
+					</timeinfo>
+					<srccurr>photo date of the 7.5' quad photos.</srccurr>
+				</srctime>
+				<srccitea>Countywide NWI</srccitea>
+				<srccontr>Individual 7.5' USGS Quadrangle NWI files.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>NWI maps are compiled through manual photointerpretation of NHAP or NAPP aerial photography supplemented by Soil Surveys and field checking of wetland photo signatures. Delineated wetland boundaries are manually transferred from interpreted photos to USGS 7.5 minute topographic quadrangle maps and then manually labeled. Quality control steps occur throughout the photointerpretation, map compilation, and map reproduction processes. Digital wetlands data are either manually digitized or scanned from stable-base copies of the 1:24,000 scale wetlands overlays registered to the standard U.S. Geological Survey (USGS) 7.5 minute quadrangles into topologically correct data files using Arc/Info software. Files contain ground planimetric coordinates and wetland attributes. The quadrangles were referenced to the North American Datum of 1927 (NAD27) horizontal datum. The scanning process captured the digital data at a scanning resolution of at least 0.001 inches; the resulting raster data were vectorized and then attributed on an interactive editing station. Manual digitizing used a digitizing table to capture the digital data at a resolution of at least 0.005 inches; attribution was performed as the data were digitized. The determination of scanning versus manual digitizing production method was based on feature density, source map quality, feature symbology, and availability of production systems. The data were checked for position by comparing plots of the digital data to the source material</procdesc>
+				<srcused>Topographic Maps</srcused>
+				<srcused>USGS QUAD</srcused>
+				<srcused>PHOTOS</srcused>
+				<procdate>1977 - 2001</procdate>
+				<srcprod>NWI</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>U. S. Fish and Wildlife Service, National Wetlands Inventory Center</cntorg>
+							<cntper>National Wetland Inventory Office of U. S. Fish and Wildlife Service</cntper>
+						</cntorgp>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>9720 Executive Center Drive</address>
+							<city>St. Petersburg</city>
+							<state>Florida</state>
+							<postal>33702</postal>
+							<country>US</country>
+						</cntaddr>
+						<cntvoice>(727)-570-5400</cntvoice>
+						<hours>Normal Business Hours</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>
+The Maryland Department of Natural Resources (MD DNR) has reprojected the National Wetlands
+Inventory data as produced by the U.S. Fish &amp; Wildlife Service,  the data producer and
+custodian.  The data, currently,  is being distributed in Maryland State Plane 1983 datum with units in meters in ESRI's shape file format.
+
+There are two files that make up the entire coverage for any given county - one each for linear and polygonal features.  XXNWIL.shp, XXNWIL.shx and XXNWIL.dbf are the three constituent files of the ESRI's shape file for linear elements of the NWI file. (XX is the two letter county abbreviated code). XXNWIP.shp, XXNWIP.shx and XXNWIP.dbf are the three constituent files of the ESRI's shape file for for the polygon element of the NWI file. (XX is the two letter county abbreviated code.) Refer to the 'Place Keyword' section for details of abbreviations.
+
+{PLEASE NOTE THAT THE DATA WAS PREVIOUSLY RELEASED IN DIFFERENT PROJECTIONS AND UNITS OF MEASUREMENT. THIS IS FOR THE PREVIOUS RELEASES ONLY.  THE CURRENT DATA IS IN MD SP NAD 1983 METERS.  Previously it was in SP83f for Montgomery Co., SP83m for Baltimore City and SP27f for Baltimore County and rest of the State in ARC/INFO export format. The combination of datums and units was necessary to be compatible with various software platforms.  These changes were performed using PC ARC/INFO's v. 3.5 PROJECT command.  The distribution files were created using the EXPORT command and are
+contained on an ISO 9660 compatible CD-ROM disc.  The following is a description of the file
+naming convention FOR THE PREVIOUS RELEASES:
+AANWIW7F.E00 (Anne Arundel County, National Wetlands Inventory Wetlands,
+Maryland State Plane 1927, Feet),
+MONWIW3F.E00  (Montgomery County, National Wetlands Inventory Wetlands,
+Maryland State Plane 1983, Feet),
+BCNWIW3M.E00  (Baltimore City, National Wetlands Inventory Wetlands,
+Maryland State Plane 1983, Meters).}
+</procdesc>
+				<srcused>NWI</srcused>
+				<procdate>1995</procdate>
+				<srcprod>Countywide NWI</srcprod>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Ken Miller</cntper>
+							<cntorg>Maryland Department of Natural Resources</cntorg>
+						</cntperp>
+						<cntpos>Chief.  Spatial Data Production Services</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Tawes State Office Building E-2 580 Taylor Avenue</address>
+							<city>Annapolis</city>
+							<state>Maryland</state>
+							<postal>21401-2397</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>410-260-8751</cntvoice>
+						<cnttdd>410-260-8835</cnttdd>
+						<cntfax>410-260-8759</cntfax>
+						<cntemail>kenmiller@dnr.state.md.us</cntemail>
+						<hours>0800 - 1700 Monday to Friday (EST)</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">C:\DOCUME~1\jfs126\LOCALS~1\Temp\xml240.tmp</srcused><date Sync="TRUE">20060926</date><time Sync="TRUE">10324400</time></procstep></lineage>
+		<cloud>Unknown</cloud>
+	</dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf><esriterm Name="AANWIP"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">3241</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="AANWIP"><sdtstype Sync="TRUE">G-polygon</sdtstype><ptvctcnt Sync="TRUE">3241</ptvctcnt></sdtsterm></ptvctinf></spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>State Plane Coordinate System 1983</gridsysn>
+					<spcs>
+						<spcszone>1900</spcszone>
+						<lambertc>
+							<stdparll>38.3</stdparll>
+							<stdparll>39.45</stdparll>
+							<longcm>77</longcm>
+							<latprjo>37.8333</latprjo>
+							<feast>400000</feast>
+							<fnorth>0</fnorth>
+						</lambertc>
+					</spcs>
+				</gridsys>
+				<planci>
+					<plance>Coordinate Pair</plance>
+					<coordrep>
+						<absres>1</absres>
+						<ordres>1</ordres>
+					</coordrep>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed Name="AANWIP">
+			<enttyp>
+				<enttypl Sync="TRUE">AANWIP</enttypl>
+				<enttypd>
+Wetlands are lands transitional between terrestrial and aquatic systems where the water
+table is usually at or near the surface or the land is covered by shallow water. For purposes of this
+classification wetlands must have one or more of the following attributes: 1) at least periodically, the land
+supports predominantly hydrophytes; 2) the substrate is predominantly undrained hydric soil; and 3) the substrate
+is non-soil and is saturated with water or covered by shallow water at some time during the growing season of
+each year.
+</enttypd>
+				<enttypds>
+Cowardin, L.M., V. Carter, F. Golet, and E. LaRoe. 1979. Classification of wetlands
+and deepwater habitats of the United States. U.S. Fish and Wildlife Service. 103 pp.
+</enttypds>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">3241</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">ATTRIBUTE</attrlabl><attalias Sync="TRUE">ATTRIBUTE</attalias><attrtype Sync="TRUE">String</attrtype><attwidth Sync="TRUE">20</attwidth></attr></detailed>
+		<overview>
+			<eaover>
+The wetland classification system is hierarchical, with wetlands and deep water
+habitats divided among five major systems at the broadest level.
+The five systems include Marine (open ocean and associated
+coastline), Estuarine (salt marshes and brackish tidal water),
+Riverine (rivers, creeks, and streams), Lacustrine (lakes and deep
+ponds), and Palustrine (shallow ponds, marshes, swamps, sloughs).
+Systems are further subdivided into subsystems which reflect
+hydrologic conditions.  Below the subsystem is the class which
+describes the appearance of the wetland in terms of vegetation or
+substrate.  Each class is further subdivided into subclasses;
+vegetated subclasses are described in terms of life form and
+substrate subclasses in terms of composition.  The classification
+system also includes modifiers to describe hydrology (water
+regime), soils, water chemistry (pH, salinity), and special
+modifiers relating to man's activities (e.g., impounded, partly
+drained).
+</eaover>
+			<eadetcit>
+Cowardin, L.M., V.
+Carter, F. Golet, and E. LaRoe. 1979. Classification of wetlands
+and deep water habitats of the United States. U.S. Fish Wildlife
+Service. 103 pp.
+</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Ken Miller</cntper>
+					<cntorg>Maryland Department of Natural Resources</cntorg>
+				</cntperp>
+				<cntpos>Chief.  Spatial Data Production Services</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Tawes State Office Building E-2 580 Taylor Avenue</address>
+					<city>Annapolis</city>
+					<state>Maryland</state>
+					<postal>21401-2397</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>410-260-8751</cntvoice>
+				<cnttdd>410-260-8835</cnttdd>
+				<cntfax>410-260-8759</cntfax>
+				<cntemail>kenmiller@dnr.state.md.us</cntemail>
+				<hours>0800 - 1700 Monday to Friday (EST)</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>None</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shape files</formname>
+					<formverd>20021031</formverd>
+					<formcont>Thematic spatial data</formcont>
+					<transize Sync="TRUE">5.207</transize><dssize Sync="TRUE">5.207</dssize></digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://dnrweb.dnr.state.md.us/gis/data/</networkr>
+							</networka>
+						</computer>
+						<accinstr>Please refer to http://dnrweb.dnr.state.md.us/gis/data/</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+			<ordering>Please refer to http://dnrweb.dnr.state.md.us/gis/data/</ordering>
+		</stdorder>
+		<stdorder>
+			<nondig>Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.</nondig>
+			<fees>DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.</fees>
+			<ordering>Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.</ordering>
+			<turnarnd>1-3 business days after receiving payment.</turnarnd>
+			<digform><digtinfo><transize Sync="TRUE">5.207</transize><dssize Sync="TRUE">5.207</dssize></digtinfo></digform></stdorder>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI shape files</formname>
+					<formverd>20021031</formverd>
+					<formcont>Thematic spatial data</formcont>
+					<transize Sync="TRUE">5.207</transize><dssize Sync="TRUE">5.207</dssize></digtinfo>
+				<digtopt>
+					<offoptn>
+						<offmedia>CD-ROM</offmedia>
+						<reccap>
+							<recden>650 Megabytes</recden>
+							<recdenu>Megabytes</recdenu>
+						</reccap>
+						<recfmt>ISO 9660</recfmt>
+						<compat>ISO 9660 compatible CD-ROM drives</compat>
+					</offoptn>
+				</digtopt>
+			</digform>
+			<fees>Please refer to www.msgic.state.md.us/techtool</fees>
+			<ordering>Please refer to www.msgic.state.md.us/techtool</ordering>
+			<turnarnd>1-3 business days after receiving payment.</turnarnd>
+		</stdorder>
+		<custom>None</custom>
+		<resdesc Sync="TRUE">Downloadable Data</resdesc></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20060926</metd>
+		<metrd>20021126</metrd>
+		<metfrd>20031126</metfrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Ken Miller</cntper>
+					<cntorg>Maryland Department of Natural Resources</cntorg>
+				</cntperp>
+				<cntpos>Chief.  Spatial Data Production Services</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Tawes State Office Building E-2 580 Taylor Avenue</address>
+					<city>Annapolis</city>
+					<state>Maryland</state>
+					<postal>21401-2397</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>410-260-8751</cntvoice>
+				<cnttdd>410-260-8835</cnttdd>
+				<cntfax>410-260-8759</cntfax>
+				<cntemail>kenmiller@dnr.state.md.us</cntemail>
+				<hours>0800 - 1700 Monday to Friday (EST)</hours>
+				<cntorgp><cntper>REQUIRED: The person responsible for the metadata information.</cntper><cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg></cntorgp></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<metac>None</metac>
+		<metuc>None</metuc>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><MetaID>{4D8F629A-5804-472F-B474-517E0287A190}</MetaID><CreaDate>20060926</CreaDate><CreaTime>10324400</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20060926</SyncDate><SyncTime>10324400</SyncTime><ModDate>20060926</ModDate><ModTime>10324400</ModTime></Esri><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc></onLineSrc></distorTran></distributor></distInfo></metadata>

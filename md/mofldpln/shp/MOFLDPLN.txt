@@ -1,0 +1,598 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Federal Emergency Management Agency
+      Publication_Date: 2001
+      Title: MOFLDPLN - Montgomery County Maryland - Q3 Flood Data
+      Geospatial_Data_Presentation_Form: map
+      Publication_Information:
+        Publication_Place: Washington, DC
+        Publisher: Federal Emergency Management Agency
+      Online_Linkage: www.msgic.state.md.us/techtool
+  Description:
+    Abstract: The Q3 Flood Data are derived from the Flood Insurance Rate Maps (FIRMs) published by the Federal Emergency Management Agency (FEMA). The file is georeferenced to the earth's surface using the geographic projection and the decimal degree coordinate system.  The specifications for the horizontal control of Q3 Flood Data files are consistent with those required for mapping at a scale of 1:24000.  This metadata makes a reference to 'Q3 Flood Data Specifications.'  This is available from FEMA at ftp://ftp.fema.gov/mscdata/q3spec.txt
+    Purpose: The FIRM is the basis for floodplain management, mitigation, and insurance activities for the National Flood Insurance Program (NFIP).  Insurance applications include enforcement of the mandatory purchase requirement of the Flood Disaster Protection Act,  which 'requires the purchase of flood insurance by property owners who are being assisted by Federal programs or by Federally supervised, regulated, or insured agencies or institutions in the acquisition or improvement of land facilities located or to be located in identified areas having special flood hazards' (Section 2 (b) (4) of the 1973 Flood Disaster Protection Act).  In addition to the identification of Special Flood Hazard Areas (SFHAs), the risk zones shown on the FIRMs are the basis for the establishment of premium rates for flood insurance coverage offered through the NFIP. Q3 Flood Data files convey certain key features from the existing hard copy FIRM.  Edge-matching errors, overlaps and deficiencies in coverage, and similar problems are not corrected during digitizing or post-processing.  The Q3 Flood Data files are intended to provide users with automated flood risk data that may be used to locate SFHAs.  More detailed information may be obtained from the paper FIRM.
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 2003
+        Time_of_Day: Unknown
+    Currentness_Reference: publication date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: Irregular
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -79.4938
+      East_Bounding_Coordinate: -75.045
+      North_Bounding_Coordinate: 39.7425
+      South_Bounding_Coordinate: 37.8713
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: FEMA Flood Hazard Zones
+      Theme_Keyword: Q3 Flood Data
+      Theme_Keyword: Q3 Coverage
+      Theme_Keyword: Special Flood Hazard Areas
+      Theme_Keyword: Digital Flood Insurance Rate Maps
+      Theme_Keyword: Floodplain
+      Theme_Keyword: Q3 Flood Data Specifications available at ftp://ftp.fema.gov/mscdata/q3spec.txt
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: MARYLAND
+      Place_Keyword: USA
+      Place_Keyword: Howard County
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Federal Emergency Management Agency, Mitigation Directorate
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 500 C Street, S.W.
+        City: Washington
+        State_or_Province: District of Columbia
+        Postal_Code: 20472
+        Country: USA
+      Contact_Voice_Telephone: 1-800-358-9616
+  Native_Data_Set_Environment: Original data development environment varies.  Additional manipulation, topological structuring, and attribute encoding were undertaken using ARC/INFO software on a UNIX-based workstation.
+  Cross_Reference:
+    Citation_Information:
+      Originator: Federal Emergency Management Agency
+      Publication_Date: 1996
+      Title: Q3 DLG
+      Publication_Information:
+        Publication_Place: Washington, DC
+        Publisher: Federal Emergency Management Agency
+  Cross_Reference:
+    Citation_Information:
+      Originator: Federal Emergency Management Agency
+      Publication_Date: 1996
+      Title: Q3 Raster FIRM
+      Publication_Information:
+        Publication_Place: Washington, DC
+        Publisher: Federal Emergency Management Agency, Data Quality Information
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: The Q3 Flood Data are county wide vector files derived from FEMA FIRMs.  The attribute definitions may be found in the 'Q3 Flood Data Specifications'.  Attribute accuracy was tested by manual comparison of source graphic with hardcopy plots and a symbolized display on an interactive computer graphic system.  Selected attributes that could not be visually verified were individually queried.  In addition, an ARC/INFO Arc Macro Language (AML) software program was applied to the data set to test the attributes against a master set of valid attributes for the specific data category and a complete set of valid attribute combinations.  (See also Entity Attribute Information.)
+  Logical_Consistency_Report: Polygon and chain-node topology are present. Certain node-area-line relationships are collected or generated to   satisfy topological requirements.  Some of these requirements include the following: lines must begin and end at nodes, lines must connect to each other at nodes, lines do not extend through nodes, left and right areas are defined for each line segment and are consistent throughout the files, and the lines representing the limits of the file neatlines are free of gaps.  Tests of logical consistency were performed by ARC/INFO software modules.  Check plots were made to test for leaks in all internal polygons.
+  Completeness_Report:
+    Data completeness for Q3 Flood Data files reflects the content of the source graphic.  Features may have been eliminated or generalized on the source graphic, due to scale and legibility constraints.
+    Flood risk data are developed for communities participating in the NFIP for use in insurance rating and for floodplain management.  Flood hazard areas are determined using statistical analysis of records of river flow, storm tides, and rainfall; information obtained through consultation with the communities floodplain topographic surveys; and hydrologic and hydraulic analysis.  Both detailed and approximate analyses are employed. Generally, detailed analyses are used to generate flood risk data only for developed or developing areas of communities.  For undeveloped areas where little or no development is expected to occur, FEMA uses approximate analyses to generate flood risk data.  Typically, only drainage areas that are greater than one square mile are studied.
+    Q3 Flood Data may be derived from DFIRM-DLGs, from FIRM-DLGs, or from FIRMs digitized previously for emergency applications, or they may be newly created.  In Q3 Flood Data derived from older data sets, certain items may not have been captured or may have been captured differently from the current Q3 Flood Data specifications.
+    In some cases, preliminary FIRM data have been included in the Q3 Flood Data files.  These data have been provided to the community for review and comment, and may be subject to change before their final publication date.  In addition, in some cases, areas designated as Flood Prone Areas on maps prepared by USGS and FIA have been included in the Q3 Flood Data files.  These areas were delineated based on available information of past floods and are described by a unique attribute code that distinguishes them from areas of 1% annual chance flooding derived from FIRMs.
+    FIRMs continually undergo revisions and updates.  Some of these revisions are effected by letter (Letter of Map Revision [LOMR], Letter of Map Amendment [LOMA]).  Q3 Flood Data may not reflect the most current information or information that is not mappable at the publication scale of the FIRM.  To obtain the latest information, contact the address listed under distributor.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Specifications for the digitizing of FIRMs to create Q3 Flood Data are consistent with those requirements for mapping at a scale of 1:24000. Horizontal control of Q3 Flood Data was established using USGS quadrangle maps at 1:24000 or other standard scales.  Users should assess the horizontal positional accuracy of the Q3 Flood Data with regard to the selected base map sources and the requirements of their application.  With increased frequency,  large-scale spatial data sets are becoming widely available for computer-based geographic information systems.  Q3 Flood Data may be used in combination with other digital spatial data; however, users should be aware that scalar  enlargements do not enhance the relative accuracy of the Q3 Flood Data.
+  Lineage:
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 2001
+          Title: Montgomery County (Unincorporated Areas), MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details:
+            Panel: 2400490000 -  Source Scale Denominator: NA -  Panel Date: NA;
+
+            Panel: 240049025B - Panel Date: July 2, 1979;
+
+            Panel: 240049050B -  Panel Date: July 2, 1979;
+
+            Panel: 240049075B - Panel Date: July 2, 1979;
+
+            Panel: 240049100B - Panel Date: July 2, 1979;
+
+            Panel: 240049125B - Panel Date: June 16, 1992;
+
+            Panel: 240049150B - Panel Date: July 2, 1979;
+
+            Panel: 240049175B - Panel Date: August 1, 1984;
+
+            Panel: 240049200B - Panel Date: August 5, 1991.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 24000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: Unknown
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Montgomery County (Unincorporated Areas), MD
+      Source_Contribution: spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 2001
+          Title: City of Gaithersburg, Montgomery County, MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details:
+            Panel: 2400500000 - Source Scale Denominator: NA -  Panel Date: NA;
+
+            Panel: 2400500001B;
+            Panel: 2400500002B;
+            Panel: 2400500004B;
+            Panel: 2400500005B;
+            Panel: 2400500007B.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 4800
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19821201
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: City of Gaithersburg, Montgomery County, MD
+      Source_Contribution: spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 2001
+          Title: City of Rockville, Montgomery County, MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details:
+            Panel: 2400510000 -  Source Scale Denominator: NA - Panel Date: NA;
+            Panel: 2400510001B;
+            Panel: 2400510002B;
+            Panel: 2400510003B;
+            Panel: 2400510004B.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 6000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19780105
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: City of Rockville, Montgomery County, MD
+      Source_Contribution: spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 19790810
+          Title: Town of Barnesville, Montgomery County, MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details: Panel: 2400940001B.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 7200
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19790810
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Town of Barnesville, Montgomery County, MD
+      Source_Contribution: spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 19821015
+          Title: Town of Poolesville, Montgoemery County, MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details: Panel: 2401180003B.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 4800
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19821015
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Town of Poolesville, Montgoemery County, MD
+      Source_Contribution: spatial and attribute information
+    Source_Information:
+      Source_Citation:
+        Citation_Information:
+          Originator: Federal Emergency Management Agency
+          Publication_Date: 19890619
+          Title: Town of Brookville, Montgomery County, MD
+          Geospatial_Data_Presentation_Form: map
+          Publication_Information:
+            Publication_Place: Washington, DC
+            Publisher: Federal Emergency Management Agency
+          Other_Citation_Details: Panel: 2401660001A.
+          Online_Linkage: www.msgic.state.md.us/techtool
+      Source_Scale_Denominator: 6000
+      Type_of_Source_Media: paper
+      Source_Time_Period_of_Content:
+        Time_Period_Information:
+          Single_Date/Time:
+            Calendar_Date: 19890619
+            Time_of_Day: Unknown
+        Source_Currentness_Reference: publication date
+      Source_Citation_Abbreviation: Town of Brookville, Montgomery County, MD
+      Source_Contribution: spatial and attribute information
+    Process_Step:
+      Process_Description:
+        Q3 Flood Data were produced by either scanning and
+        vectorizing or manually digitizing a hardcopy version of the graphic
+        materials.  The scanning and vectorization process captured the digital
+        data as raster data that were vectorized and attributed on an
+        interactive editing station.  The manual digitizing process used a
+        digitizing table to capture the digital data; attribution was performed
+        either as the data were digitized or on an interactive edit station after
+        the digitizing was completed.  The determination of the production methodology
+        was based on various criteria, including availability of production systems.
+        Four to nine control points per FIRM panel were used for registration
+        during manual digitizing.  A projective   transformation was performed
+        on the coordinates used in the data collection and editing systems to
+        register the digital data to the Universal Transverse Mercator (UTM)
+        grid coordinates.  An ARC/INFO coverage of the Q3 Flood Data was
+        generated and used to create the Q3-DLG file.  The Q3 Flood
+        Data were checked for position and attribute accuracy by comparing
+        plots of the digital data to the source graphic and by symbolized
+        display on an interactive computer system.  Selected attributes that
+        could not be visually verified were individually queried. In addition,
+        an ARC/INFO  Arc Macro Language (AML) software program was applied to
+        the dataset to test the attributes against a master set of valid attributes
+        for the specific data category and a complete set of valid attribute
+        combinations.  Source graphics were revised to reflect updates
+        effected by Letters of Map Change (Letter of Map Revision [LOMR],
+        Letter of Map Amendment [LOMA]).  These revisions were included in
+        the Q3 Flood Data if they were mappable at the publication scale of
+        the source graphic.  Once final, the ARC/INFO coverage is projected into a
+        geographic grid system, using decimal degree latitude and longitude
+        coordinates and then converted into an ARC/INFO Export file.
+        Source Used Citation Abbreviation: FIRM1-FIRM3, LOMC1
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Organization_Primary:
+            Contact_Organization: Federal Emergency Management Agency, Map Service Center
+          Contact_Address:
+            Address_Type: mailing address
+            Address: 6730 Santa Barbara Court
+            City: Baltimore
+            State_or_Province: Maryland
+            Postal_Code: 21227-5832
+            Country: USA
+          Contact_Voice_Telephone: 1-800-358-9616
+          Contact_Instructions: Data requests should include the full name of the community or county and the Flood Insurance Rate Map panel number(s) or the 7.5-minute quadrangle sheet area(s) covered by the request.
+    Process_Step:
+      Process_Description: The original files from FEMA were in ARC/INFO Format with Geographic Projection and decimal degrees units. These files have gone through two conversion processes at Maryland Department of Natural Resources.  These were converted to ARC/INFO export format using PC ARC/INFO.  At this point the projections were also changed. The projections were changed to Maryland State Plane NAD 1927 feet.  Subsequently these '.e00' files were converted to the ARCVIEW Shape files in Maryland State Plane NAD 1983 Meters.  The conversions are done on Intel compatible PCs running ESRI's ARCVIEW, ARC/INFO and Microimages Inc.'s TNTMIPS GIS software on the Windows NT platform.
+      Process_Date: Unknown
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: don't use
+            Contact_Organization: Maryland Department of Natural Resources
+          Contact_Position: Chief, Spatial Data Production Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Tawes State Office Building E-2; 580 Taylor Ave.
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: USA
+          Contact_Voice_Telephone: 410 260 8751
+          Contact_TDD/TTY_Telephone: 410 260 8835
+          Contact_Facsimile_Telephone: 410 260 8759
+          Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+          Hours_of_Service: 0830 - 1700 EST
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+  Point_and_Vector_Object_Information:
+    SDTS_Terms_Description:
+      SDTS_Point_and_Vector_Object_Type: G-polygon
+      Point_and_Vector_Object_Count: 1479
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: -38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.6667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.61
+          Ordinate_Resolution: 0.61
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: MOFLDPLN.dbf
+      Entity_Type_Definition: Attribute items identifiying characteristics about the Flood Hazard Area, COBRA, Floodway, Political Jurisdiction, Quadrangle, or FIRM panel etc.
+      Entity_Type_Definition_Source:
+        FEMA FIRM, digital data sources,
+        or other information as appropriate.
+    Attribute:
+      Attribute_Label: COBRA
+      Attribute_Definition: Undeveloped Coastal Barrier Area
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Multiple Codes-refer to 'Q3 Flood Data Specifications'
+          Enumerated_Domain_Value_Definition: Undeveloped Coastal Barrier Area
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification, FEMA_FIRM
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: COMMUNITY
+      Attribute_Definition: Identifies a county, city, or other community responsible for floodplain management.  Numeric value assigned by FEMA.
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Range_Domain:
+          Range_Domain_Minimum: 0
+          Range_Domain_Maximum: 9999
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: FIPS
+      Attribute_Definition: Standard 5-digit State and County FIPS codes
+      Attribute_Definition_Source: Federal Information Processing Standard (FIPS), National Institute of Standards & Technology (NIST)
+      Attribute_Domain_Values:
+        Codeset_Domain:
+          Codeset_Name: Federal Information Processing Standard (FIPS)
+          Codeset_Source: National Institute of Standards & Technology (NIST)
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: FIRM_PANEL
+      Attribute_Definition: Eleven-digit alpha-numeric code identifies portion of community covered or not covered by a FIRM panel.
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Code comprises a unique alpha-numeric sequence based on FIPS and FEMA Community and Panel identification numbers.
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: FLOODWAY
+      Attribute_Definition: Channel, river or watercourse reserved for flood discharge.
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Multiple Codes-refer to 'Q3 Flood Data Specifications'
+          Enumerated_Domain_Value_Definition: Undeveloped Coastal Barrier Area
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification, FEMA_FIRM
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: PANEL_TYP
+      Attribute_Definition: Type of FIRM panel represented
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Multiple Codes-refer to 'Q3 Flood Data Specifications'
+          Enumerated_Domain_Value_Definition: Undeveloped Coastal Barrier Area
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification, FEMA_FIRM
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: QUAD
+      Attribute_Definition: USGS 7.5-minute quadrangle identifier
+      Attribute_Definition_Source: USGS Quadrangle Index
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unique sequence based on latitude and longitude
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: SFHA
+      Attribute_Definition: In/Out of flood zone designation
+      Attribute_Definition_Source: Determined from data topology
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: IN
+          Enumerated_Domain_Value_Definition: Area located within Special Flood Hazard Area (SFHA)
+          Enumerated_Domain_Value_Definition_Source: FEMA FIRM
+        Enumerated_Domain:
+          Enumerated_Domain_Value: OUT
+          Enumerated_Domain_Value_Definition: Area located outside of SFHA
+          Enumerated_Domain_Value_Definition_Source: FEMA FIRM
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: SYMBOL
+      Attribute_Definition: Polygon shade symbols for graphic output
+      Attribute_Definition_Source: Based on polygon codes
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Multiple Codes-refer to 'Q3 Flood Data Specifications'
+          Enumerated_Domain_Value_Definition: Based on polygon code
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification
+      Attribute_Measurement_Frequency: Unknown
+    Attribute:
+      Attribute_Label: ZONE
+      Attribute_Definition: Flood hazard zone designation
+      Attribute_Definition_Source: FEMA FIRM
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: ZONE A
+          Enumerated_Domain_Value_Definition: No base flood elevations determined. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone AE
+          Enumerated_Domain_Value_Definition: Base flood elevations determined. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: FEMA Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone AH
+          Enumerated_Domain_Value_Definition: Flood depths of 1 to 3 feet  (usually areas of ponding); base flood elevations determined. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone AO
+          Enumerated_Domain_Value_Definition: Flood depths of 1 to 3 feet (usually sheet flow on sloping terrain); average depths determined.  For areas of alluvial fan flooding, velocities also determined. [100-yr]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone A1-A30
+          Enumerated_Domain_Value_Definition: Areas of 100-year flood base flood elevations and flood hazard factors determined. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone A99
+          Enumerated_Domain_Value_Definition: Areas to be protected from 100-year flood by Federal flood protection system under construction; no base elevations determined. [OUT of Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone ANI
+          Enumerated_Domain_Value_Definition: Areas Not Included or incorporated areas not participating in Flood Insurance Program. [OUT]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone B
+          Enumerated_Domain_Value_Definition: Areas between limits of the 100-year flood and 500-year flood; or certain areas subject to 100 year flooding with average depths less than (1) foot or where the contributing drainage area is less than (1) square mile; or areas protected by levees from the base flood. [500-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone C
+          Enumerated_Domain_Value_Definition: Areas of minimal flooding (no shading). [OUT]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone D
+          Enumerated_Domain_Value_Definition: Areas of undetermined, but possible flood hazards. [Considered OUT of  Floodplain;  or Federal Property where Flood Insurance not necessary (but available)].
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone V
+          Enumerated_Domain_Value_Definition: Coastal flooding with velocity hazard(wave action); base flood elevations determined. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone V1- V30
+          Enumerated_Domain_Value_Definition: Areas of 100-year coastal flood (wave action) base flood elevations and flood hazard factors determined. [100-year Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone X
+          Enumerated_Domain_Value_Definition: Areas outside 500 year floodplain . [Upland]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: Zone X (shaded)
+          Enumerated_Domain_Value_Definition: Areas of 500-year flood {X500}; areas of 100-year flood with average depths of less than (1) foot ; or drainage areas less than (1) square mile. [500-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+        Enumerated_Domain:
+          Enumerated_Domain_Value: UNDES
+          Enumerated_Domain_Value_Definition: Open Water areas near paper panel edges. [100-yr Floodplain]
+          Enumerated_Domain_Value_Definition_Source: Q3 Flood Data Specification
+      Attribute_Measurement_Frequency: Unknown
+  Overview_Description:
+    Entity_and_Attribute_Overview:
+      In addition to locational and topological information, Q3 coverage data elements are explicitly encoded using attribute items.  Each attribute item identifies characteristics about the Flood Hazard Area, COBRA, Floodway, Political Jurisdiction, Quadrangle, or FIRM panel.  All polygon data elements may be encoded with one or more feature characteristics.
+
+      To display the 100 year and 500 year floodplains refer to the  'Enumerated Domain Values and their definitions' for the 'Attribute_Label: Zone' in the 'Attribute' section above.  This section details the attribute values to be selected for displaying the 100 and 500 year floodplains.
+
+      The original data received from FEMA had 21 attributes in entity.  However, the data being distributed has 10 attributes (the attributes such as area, perimeter, ID number are not shown).  The ten attributes of the data being distribute are described in this section.  For the 21 attributes of the original data please visit the FEMA website at www.fema.gov. More specifically, for Q3 users guide visit ftp://ftp.fema.gov/mscdata/nuser_gd.txt, or for Q3 specifications, visit ftp://ftp.fema.gov/mscdata/q3spec.txt
+    Entity_and_Attribute_Detail_Citation: The FEMA 'Q3 Flood Data Specifications' contains a detailed description of each attribute code and a reference to other relevant information. Visit ftp://ftp.fema.gov/mscdata/q3spec.txt for this document.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Miller
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20030624
+  Metadata_Review_Date: 20030625
+  Metadata_Future_Review_Date: 20040625
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: Maryland Department of Natural Resources
+        Contact_Person: Ken Miller
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

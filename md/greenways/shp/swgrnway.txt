@@ -1,0 +1,269 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: Maryland Department of Natural Resources
+      Publication_Date: 20000824
+      Title: swgrnway - Greenways
+      Edition: 2
+      Geospatial_Data_Presentation_Form: Map
+      Series_Information:
+        Series_Name: Greenways
+        Issue_Identification: Not applicable
+      Publication_Information:
+        Publication_Place: Annapolis, Maryland
+        Publisher: Maryland Department of Natural Resources
+      Online_Linkage: www.msgic.state.md.us/techtool
+  Description:
+    Abstract: The Maryland Greenways Commission has been working since 1990 to plan, establish, and promote a statewide system of greenways.  Greenways are natural corridors set aside to connect larger areas of open space and to provide for the conservation of natural resources, protection of natural resources, protection of habitat, movement of plants and animals, and to offer opportunities for linear recreation, alternative transportation, and nature study.  In addition to Green Way Corridors, water routes know as Water Trails have been recognized as pathways for recreation and nature study.
+    Purpose: This file is used for planning purposes and making maps. This file was used in making the maps for the Maryland Greenway Commission’s Maryland Atlas of Greenways, Water Trails, and Green Infrastructure 2000 edition.
+    Supplemental_Information: 1996 Maryland Greenway Atlas, county reviews of paper maps
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20000824
+        Time_of_Day: Unknown
+    Currentness_Reference: Publication Date
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: None Planned
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -79.42305
+      East_Bounding_Coordinate: -75.06239
+      North_Bounding_Coordinate: 39.72748
+      South_Bounding_Coordinate: 37.8919
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: None
+      Theme_Keyword: Greenways
+      Theme_Keyword: Greenway Corridors
+      Theme_Keyword: Water Trails
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: Maryland
+  Access_Constraints: None
+  Use_Constraints: The Department of Natural Resources makes no warranty, expressed or implied, as to the use or appropriateness of Spatial Data, and there are no warranties of merchantability or fitness for a particular purpose or use.  The information contained in Spatial Data is from publicly available sources, but no representation is made as to the accuracy or completeness of Spatial Data.  The Department of Natural Resources shall not be subject to liability for human error, error due to software conversion, defect, or failure of machines, or any material used in the connection with the machines, including tapes, disks, CD-ROM’s or DVD-ROM’s and energy.  The Department of Natural Resources shall not be liable for any lost profits, consequential damages, or claims against the Department of Natural Resources by third parties.  The liability of the Department of Natural Resources for damage regardless of the form of the action shall not exceed any distribution fees that may have been paid in obtaining Spatial Data.
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Miller
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Native_Data_Set_Environment: PC-based Arc Shape file
+Data_Quality_Information:
+  Attribute_Accuracy:
+    Attribute_Accuracy_Report: Greenway lines are classed as either existing, potential or watertrail.
+  Logical_Consistency_Report: Greenway lines for each county were digitized.  Greenway Commission staff reviewed the maps produced to ensure all greenway corridors were correct.
+  Completeness_Report: The greenway lines were reviewed by staff of the Greenway Commission and found to be suitable at the maps scale developed.
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: The greenway lines were created from small-scale (approximately 1:500,000 scale) maps and intended for use as a graphic only.  No horizontal accuracy is given beyond the use of a small-scale graphical element.
+  Lineage:
+    Process_Step:
+      Process_Description: Greenway lines were digitized on-screen using the 1992 Maryland Greenway Atlas as a guide.  Maryland State Highway Administration road and stream files (1:24,000 scale) were used as reference layers.  Updates and new lines were created from verbal instructions (such as follow the railroad tracks from Route 50 to Baltimore & Annapolis Boulevard).  Since the end-product was to be a graphical map for use in the new publication, the positional accuracy of lines was considered acceptable at scales of approximately 1:500,000.
+      Process_Date: 20000824
+      Process_Contact:
+        Contact_Information:
+          Contact_Person_Primary:
+            Contact_Person: don't use
+            Contact_Organization: Maryland Department of Natural Resources
+          Contact_Position: Chief, Spatial Data Production Services
+          Contact_Address:
+            Address_Type: mailing and physical address
+            Address: Tawes State Office Building E-2; 580 Taylor Ave.
+            City: Annapolis
+            State_or_Province: Maryland
+            Postal_Code: 21401-2397
+            Country: USA
+          Contact_Voice_Telephone: 410 260 8751
+          Contact_TDD/TTY_Telephone: 410 260 8835
+          Contact_Facsimile_Telephone: 410 260 8759
+          Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+          Hours_of_Service: 0830 - 1700 EST
+    Process_Step:
+      Process_Description: This data has been reprojected from Maryland State Plane NAD1927 units in feet to Maryland State Plane NAD1983 unit in meters.
+      Process_Date: 20010417
+  Cloud_Cover: 0
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Vector
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 1900
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 38.3
+            Standard_Parallel: 39.45
+            Longitude_of_Central_Meridian: -77
+            Latitude_of_Projection_Origin: 37.6666666667
+            False_Easting: 400000
+            False_Northing: 0
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: Coordinate Pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 1
+          Ordinate_Resolution: 1
+        Planar_Distance_Units: meters
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 80
+      Semi-major_Axis: 6378137
+      Denominator_of_Flattening_Ratio: 298.257
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: Captured
+      Entity_Type_Definition: None
+      Entity_Type_Definition_Source: Department of Natural Resources
+    Attribute:
+      Attribute_Label: FNODE_
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: GRE2000_
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: GRE2000_ID
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: GREENWAY
+      Attribute_Definition: The data in this field indicates the corridor type:  existing Greenway Corridor, potential Greenway Corridor, or Water Trail.
+      Attribute_Definition_Source: Maryland Department of Natural Resources
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: The data in the Greenway field represents the following:  EXISTING - existing Greenway Corridor, POTENTIAL - potential Greenway Corridor, and WATERTRAIL - Water Trail
+    Attribute:
+      Attribute_Label: LENGTH
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: LPOLY_
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: MILE
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: RPOLY_
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+    Attribute:
+      Attribute_Label: TNODE_
+      Attribute_Definition: Unknown
+      Attribute_Definition_Source: Unknown
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Unknown
+  Overview_Description:
+    Entity_and_Attribute_Overview: The main attribute in the Greenways file is the GREENWAY field which identifies the type of trail.
+    Entity_and_Attribute_Detail_Citation: The data in the GREENWAY field represents the following: EXISTING - Existing Greenway trails, POTENTIAL - Potential Greenway trails, and WATERTRAIL - water trails.
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Miller
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Distribution_Liability: None
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://dnrweb.dnr.state.md.us/gis/data/
+          Access_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+    Fees: None
+    Ordering_Instructions: Please refer to http://dnrweb.dnr.state.md.us/gis/data/
+  Standard_Order_Process:
+    Non-digital_Form: Paper maps may be available.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Fees: DNR charges for the cost of distribution of it's paper maps.  Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Ordering_Instructions: Please refer to the Maryland Department of Natural Resource's Hardcopy Products Order Form found at http://www.msgic.state.md.us/techtool/license/index.htm for cost and availability information.
+    Turnaround: 1-3 business days after receiving payment.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shape files
+        Format_Version_Date: 20021031
+        Format_Information_Content: Thematic spatial data
+      Digital_Transfer_Option:
+        Offline_Option:
+          Offline_Media: CD-ROM
+          Recording_Capacity:
+            Recording_Density: 650 Megabytes
+            Recording_Density_Units: Megabytes
+          Recording_Format: ISO 9660
+          Compatibility_Information: ISO 9660 compatible CD-ROM drives
+    Fees: Please refer to www.msgic.state.md.us/techtool
+    Ordering_Instructions: Please refer to www.msgic.state.md.us/techtool
+    Turnaround: 1-3 business days after receiving payment.
+  Custom_Order_Process: None
+Metadata_Reference_Information:
+  Metadata_Date: 20021120
+  Metadata_Review_Date: 20021120
+  Metadata_Future_Review_Date: 20031120
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Person_Primary:
+        Contact_Person: Ken Miller
+        Contact_Organization: Maryland Department of Natural Resources
+      Contact_Position: Chief.  Spatial Data Production Services
+      Contact_Address:
+        Address_Type: mailing and physical address
+        Address: Tawes State Office Building E-2 580 Taylor Avenue
+        City: Annapolis
+        State_or_Province: Maryland
+        Postal_Code: 21401-2397
+        Country: USA
+      Contact_Voice_Telephone: 410-260-8751
+      Contact_TDD/TTY_Telephone: 410-260-8835
+      Contact_Facsimile_Telephone: 410-260-8759
+      Contact_Electronic_Mail_Address: kenmiller@dnr.state.md.us
+      Hours_of_Service: 0800 - 1700 Monday to Friday (EST)
+  Metadata_Standard_Name: FGDC Content Standard For Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998

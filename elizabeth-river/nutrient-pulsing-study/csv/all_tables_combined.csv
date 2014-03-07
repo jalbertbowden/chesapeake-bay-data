@@ -1,0 +1,241 @@
+,Nutrient Pulsing Study
+,Elizabeth River Steering Committee
+,"August 2, 2013"
+,1
+,Topics
+•,Relationship to James River Study
+•,Methods
+•,Preliminary results
+** Conclusions are pending completion of study,
+,and associated data analysis **
+,2
+,,James River Study
+Big picture objectives:,Big picture objectives:,
+•,Re-evaluate the existing chlorophyll a criteria,
+,and standards,
+•,Improve related modeling (WSM and CHLA),
+•,2017: Provide basis for revised James River,
+,2023 nutrient allocations in the Bay TMDL,
+,,3
+,James River Study (Lower Estuary Portion),
+•,Monitoring,
+,–,"Dataflow, continuous monitors, fixed sites"
+•,Phytoplankton,
+,–,Identification and enumeration
+,–,HPLC pigments
+•,Environmental factors favoring algal blooms,
+,–,Nutrient pulse (subject for today)
+,–,Nutrient uptake
+,–,Nutrient exchange from bottom sediments
+•,Effects studies,
+,–,Lab toxicity testing
+,–,Field studies (oyster cages)
+•,Modeling improvements,
+,–,Watershed model
+,–,CHLA / HAB model
+All of the above are related and connected to larger objective,All of the above are related and connected to larger objective,
+,,4
+,Factors promoting algal blooms
+Our previous research has shown....,
+•,Cochlodinium polykrikoides is dominant summer
+,bloom former (other species also co-exist and
+,bloom at times)
+•,Summer blooms tend to follow storm events
+•,Optimal water temperatures
+•,Quiescent – stagnant conditions
+•,Stratified water column
+•,Blooms often initiate in the LAF headwaters and
+,spread to mainstem ER and lower James
+,5
+,Objectives of present study
+•,Measure stormwater inputs
+•,Measure effects of storms on the river
+,– Continuous monitoring (CMON)
+,– Temporally intensive sampling on piers
+,– Spatially extensive monitoring by boat
+•,Relate inputs and storms effects to blooms
+•,Focus on Lafayette River since headwaters are
+,often the initiation grounds for blooms
+•,Results should be transferable to similar systems
+,6
+Stormwater,
+,7
+Stormwater – Colonial Place,
+Gosnold and New York Ave - ~21 acres drainage area,
+Suburban land use,
+Recent rain gauge additions not shown,8
+Stormwater – WHRO
+"Near WHRO, behind ODU dorm - ~122 acre drainage area"
+Institutional land use
+9
+Stormwater – WHRO
+10
+,11
+,ISCO stormwater details
+•,Equipment is set up when forecasts are
+,favorable (i.e. >=50% chance and >0.1”
+,forecast)
+•,Samples collected sequentially by time and
+,manually composited by flow (flow weighted)
+•,"Samples collected for TSS, nutrients (TN, TP,"
+,"NH3, NO3+NO3, OPO4), and salinity"
+,12
+River Sampling : Private pier sites,
+,NYCC
+,Ashland Circle
+,13
+Norfolk Yacht Club,
+,Sampler
+,CMON
+,Near mouth location
+,~ 18 feet deep (tidal average)
+,14
+,Ashland Circle
+,Headwater location
+,~ 6 feet deep (tidal average)
+,15
+,Pier sampling details
+•,ISCO samplers set up when forecasts are favorable
+,(coincides with SW deployment)
+•,“Prior” samples collected at equipment set up
+•,Sampler triggers by rain gauge (@0.1”/hr)
+•,"Samples collected sequentially by time intervals @ (0,"
+,"30 min, hourly, every 2 hrs, every 4 hrs, every 6 hrs) -"
+,out to 48 hours – sometimes extended
+,– Idea is to collect samples frequently since nutrients can be
+,rapidly assimilated by phytoplankton
+•,"Parameters: NH4, NO2+NO3, PO4, TDN with analysis"
+,by ODU
+•,Concurrent daily sampling by ODU (nutrients and
+,phytoplankton)
+,16
+,,Continuous Monitors
+•,YSI 6600 V2 EDS,
+•,Weekly sonde exchanges,
+,–,Swap out instruments (requires 2 sondes for each site)
+,–,Collect QC information
+,–,Clean and re-calibrate instruments
+,–,Data review and troubleshooting if needed
+•,Sonde data is recorded at 15 min intervals for,
+,"depth, temp, salinity, do, pH, CHLA, and Turb",
+•,Data is validated and reported to VECOS,
+,,17
+,,Boat: Dataflow System
+"Adapted from VIMS – YSI 6600, GPS, fathometer, and LabView platform","Adapted from VIMS – YSI 6600, GPS, fathometer, and LabView platform",
+,,18
+Dataflow Cruise Track
+19
+Laptop Data Logging Example
+csv file format
+"Typically ~ 2,500-4,500 records long – depends on travel time"
+Coordinate system allows for GIS analysis and WQ mapping
+20
+,Nutrient Sampling - Boat
+,21
+,Boat sampling details
+•,"Boat was deployed “prior”, 1 day after, and 2"
+,days after storms
+•,Dataflow results were logged
+•,Fixed site nutrient grabs collected + QC
+•,Vertical profiling conducted
+"Nutrient parameters: NH3, NO2, NO3, PO4, and","Nutrient parameters: NH3, NO2, NO3, PO4, and"
+,TDN – Analysis by ODU at low level
+,22
+Preliminary Findings,Preliminary Findings,
+,,23
+SW averages (2013 thru 7-12),SW averages (2013 thru 7-12),
+,Colonial,WHRO
+,Place,
+TN (mg/l),1.5,1.2
+TDN (mg/l),0.58,0.50
+TP (mg/l),0.21,0.19
+OPO4 (mg/l),0.122,0.068
+TSS (mg/l),47,78.0
+Flow (gal),"13,771","995,874"
+n,3,4
+• TDN calculated as sum of NH3 and NO3+NO3,• TDN calculated as sum of NH3 and NO3+NO3,
+• 2012 data is available but done by different lab methods,• 2012 data is available but done by different lab methods,
+• WHRO samples may be biased low due to tidal intrusion,• WHRO samples may be biased low due to tidal intrusion,
+,,24
+,,WHRO SW TN vs Salinity,WHRO SW TN vs Salinity,WHRO SW TN vs Salinity,WHRO SW TN vs Salinity,WHRO SW TN vs Salinity,WHRO SW TN vs Salinity,,,
+,,,,,,,,,2.00,
+,,,,,,,,,1.80,
+,,,,,,,,,1.60,
+,,,,,,,,,1.40,
+,,,,,,,,,,T
+,,,,,,,,,1.20,N
+,,,,,,,,,1.00,m
+,,,,,,,,,,g
+,,,,,,,,,0.80,/
+,,,,,,,,,,l
+,,,,,,,,,0.60,
+,,,,,,,,,0.40,
+,,,,,,,,,0.20,
+,,,,,,,,,0.00,
+18.0,16.0,14.0,12.0,10.0,8.0,6.0,4.0,2.0,0.0,
+,,,,Salinity,,,,,,
+,,,,,,,,,,25
+,,River sites – piers,River sites – piers,River sites – piers,River sites – piers,River sites – piers,River sites – piers,,,
+,,Ashland Circle + NYCC,Ashland Circle + NYCC,Ashland Circle + NYCC,Ashland Circle + NYCC,Ashland Circle + NYCC,Ashland Circle + NYCC,Ashland Circle + NYCC,,
+,,,,,,,,,,26
+Salinity vs Precip – AC (2012),
+From Mulholland and Filippino (draft),27
+Salinity vs Precip – NYCC (2012),
+From Mulholland and Filippino (draft),28
+Chlorophyll vs Precip – AC (2012),
+From Mulholland and Filippino (draft),29
+Chlorophyll vs Precip – NYCC (2012),
+From Mulholland and Filippino (draft),30
+River TDN around precip events - AC,
+"July 9th-July 13, 2012",
+From Mulholland and Filippino (draft),31
+River PO4 around precip events - AC,
+"July 9th-July 13, 2012",
+From Mulholland and Filippino (draft),32
+River sites – boat,
+(spatially intensive),
+,33
+River sampling : TDN,
+Headwaters,
+Mainstem,
+Mouth,
+"July 12th-Sept 13, 2012",
+From Mulholland and Filippino (draft),34
+River sampling : PO4,
+Headwaters,
+MHaienasdtewmaters,
+MMouatinhstem,
+Mouth,
+"July 12th-Sept 13, 2012",
+From Mulholland and Filippino (draft),35
+River sampling : TDN,
+(after 1.2” rain),
+From Mulholland and Filippino (draft),36
+River sampling : TDN+CHLA,
+From Mulholland and Filippino (draft),37
+River sampling : PO4+CHLA,
+From Mulholland and Filippino (draft),38
+Dataflow 2012,
+(Water Quality Mapping),
+,39
+AA,B
+PRE BLOOM (31May),BLOOM START (04JUn)
+C,D
+BLOOM PEAK (12Jul),BLOOM END (24Sep)
+,40
+,Acknowledgements
+•,KC Filippino and Margie Mulholland (ODU)
+•,Ryan Morse (Univ RI)
+•,Todd Egerton (ODU)
+•,Bruce Weckworth and field crews at HRSD
+•,Justin Shafer (Norfolk)
+•,Joe Rieger (ERP)
+•,Arthur Butt (DEQ)
+•,VIMS for VECOS support
+•,HRSD for in kind support
+,41
+,Questions?
+Will Hunley – HRSD,
+whunley@hrsd.com,
+757-460-4252,
+,42

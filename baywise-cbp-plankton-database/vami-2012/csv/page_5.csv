@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”
+Table: 5,Table: 5,Table: 5,Table: 5
+,,,
+,,,Page 5 of 12
+taxonomists have also consistently found high counts of Oligotrichs in split samples,taxonomists have also consistently found high counts of Oligotrichs in split samples,taxonomists have also consistently found high counts of Oligotrichs in split samples,taxonomists have also consistently found high counts of Oligotrichs in split samples
+where Maryland reported an absence of the group. No explanation for this has been,where Maryland reported an absence of the group. No explanation for this has been,where Maryland reported an absence of the group. No explanation for this has been,where Maryland reported an absence of the group. No explanation for this has been
+determined to date. There for it is strongly recommended that this microzooplankton,determined to date. There for it is strongly recommended that this microzooplankton,determined to date. There for it is strongly recommended that this microzooplankton,determined to date. There for it is strongly recommended that this microzooplankton
+data should not be used with Maryland data and only be used for qualitative purposes.,data should not be used with Maryland data and only be used for qualitative purposes.,data should not be used with Maryland data and only be used for qualitative purposes.,data should not be used with Maryland data and only be used for qualitative purposes.
+Positional_Accuracy:,,,
+Horizontal_Positional_Accuracy:,,,
+Horizontal_Positional_Accuracy_Report:,Horizontal_Positional_Accuracy_Report:,,
+Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+Station latitudes and longitudes are input into a Loran-C/ GPS receiver and,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and
+sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,Loran-C is
+accurate to +/- 1500 ft.,The actual Loran/GPS coordinates for each sampling,The actual Loran/GPS coordinates for each sampling,The actual Loran/GPS coordinates for each sampling
+event are not currently recorded in data set.,event are not currently recorded in data set.,,
+Vertical_Positional_Accuracy:,,,
+Vertical_Positional_Accuracy_Report:,Vertical_Positional_Accuracy_Report:,,
+"Water column salinity, temperature and depth is recorded prior to zooplankton","Water column salinity, temperature and depth is recorded prior to zooplankton","Water column salinity, temperature and depth is recorded prior to zooplankton","Water column salinity, temperature and depth is recorded prior to zooplankton"
+sampling. Pycnocline is used as the cutoff depth between upper and lower,sampling. Pycnocline is used as the cutoff depth between upper and lower,sampling. Pycnocline is used as the cutoff depth between upper and lower,sampling. Pycnocline is used as the cutoff depth between upper and lower
+water column for composite samples. If a station has no pycnocline the water,water column for composite samples. If a station has no pycnocline the water,water column for composite samples. If a station has no pycnocline the water,water column for composite samples. If a station has no pycnocline the water
+column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water
+column is treated as the upper,column is treated as the upper,,
+water column. The,pycnocline is determined as follows: ((Bottom,pycnocline is determined as follows: ((Bottom,
+Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold.,Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold.,Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold.,If
+"Threshold is less than 500, then the station has no pycnocline if Threshold is","Threshold is less than 500, then the station has no pycnocline if Threshold is","Threshold is less than 500, then the station has no pycnocline if Threshold is","Threshold is less than 500, then the station has no pycnocline if Threshold is"
+"greater than 500, then the pycnocline depth is determined to","greater than 500, then the pycnocline depth is determined to","greater than 500, then the pycnocline depth is determined to",be the first depth
+at which the conductivity change is greater than the,at which the conductivity change is greater than the,threshold value. Units of,threshold value. Units of
+measurement:,Conductivity- uhhos/cm,Depth- meters,
+Prior to 1997 this depth was not recorded in the datasets and is reported as,Prior to 1997 this depth was not recorded in the datasets and is reported as,Prior to 1997 this depth was not recorded in the datasets and is reported as,Prior to 1997 this depth was not recorded in the datasets and is reported as
+missing.,,,
+Lineage:,,,
+Source_Information:,,,
+Source_Citation:,,,
+Citation_Information:,,,
+"Originator: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old","Originator: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old","Originator: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old","Originator: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old"
+Dominion University.,Dominion University.,,
+Publication_Date: 20000101,Publication_Date: 20000101,,
+Title:,,,
+,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay
+,Microzooplankton Study (January 1993 through December 1998),Microzooplankton Study (January 1993 through December 1998),Microzooplankton Study (January 1993 through December 1998)
+Publication_Information:,Publication_Information:,,
+,"Publication_Place: Annapolis, Maryland","Publication_Place: Annapolis, Maryland",
+,"Publisher: U.S. Environmental Protection Agency, Chesapeake","Publisher: U.S. Environmental Protection Agency, Chesapeake","Publisher: U.S. Environmental Protection Agency, Chesapeake"
+,Bay Program administered by Virginia Department of,Bay Program administered by Virginia Department of,
+,Environmental Quality,,
+Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,,
+Online_Linkage: ftp.chesapeakebay.net,Online_Linkage: ftp.chesapeakebay.net,,
+Larger_Work_Citation:,Larger_Work_Citation:,,
+,Citation_Information:,,
+,Originator: Jacqueline Johnson,,
+,Publication_Date: 19981231,,
+,Title:,,
+,,Chesapeake Bay Program Plankton Database,Chesapeake Bay Program Plankton Database
+,Edition: Version 2.0,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,4/26/2012

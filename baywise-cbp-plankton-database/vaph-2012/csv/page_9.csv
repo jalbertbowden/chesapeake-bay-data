@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,
+,,,,Page 9 of 13
+Back to Top,,,,
+Spatial_Data_Organization_Information:,Spatial_Data_Organization_Information:,,,
+Indirect_Spatial_Reference_Method:,Indirect_Spatial_Reference_Method:,,,
+Chesapeake Bay and Its Tidal Tribuaries in the Commonwealth of Virginia.,Chesapeake Bay and Its Tidal Tribuaries in the Commonwealth of Virginia.,Chesapeake Bay and Its Tidal Tribuaries in the Commonwealth of Virginia.,Chesapeake Bay and Its Tidal Tribuaries in the Commonwealth of Virginia.,
+Direct_Spatial_Reference_Method: Point,Direct_Spatial_Reference_Method: Point,Direct_Spatial_Reference_Method: Point,,
+Point_and_Vector_Object_Information:,Point_and_Vector_Object_Information:,Point_and_Vector_Object_Information:,,
+SDTS_Terms_Description:,SDTS_Terms_Description:,,,
+SDTS_Point_and_Vector_Object_Type: Entity point,SDTS_Point_and_Vector_Object_Type: Entity point,SDTS_Point_and_Vector_Object_Type: Entity point,SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,SDTS_Terms_Description:,,,
+SDTS_Point_and_Vector_Object_Type: Area point,SDTS_Point_and_Vector_Object_Type: Area point,SDTS_Point_and_Vector_Object_Type: Area point,SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,,,,
+Spatial_Reference_Information:,,,,
+Horizontal_Coordinate_System_Definition:,Horizontal_Coordinate_System_Definition:,Horizontal_Coordinate_System_Definition:,,
+Geographic:,,,,
+Latitude_Resolution: 30,Latitude_Resolution: 30,,,
+Longitude_Resolution: 30,Longitude_Resolution: 30,Longitude_Resolution: 30,,
+Geographic_Coordinate_Units: Decimal degrees,Geographic_Coordinate_Units: Decimal degrees,Geographic_Coordinate_Units: Decimal degrees,Geographic_Coordinate_Units: Decimal degrees,
+Geodetic_Model:,,,,
+Horizontal_Datum_Name: North American Horizontal Datum of 1983,Horizontal_Datum_Name: North American Horizontal Datum of 1983,Horizontal_Datum_Name: North American Horizontal Datum of 1983,Horizontal_Datum_Name: North American Horizontal Datum of 1983,
+Ellipsoid_Name: Geodedic Reference System 80,Ellipsoid_Name: Geodedic Reference System 80,Ellipsoid_Name: Geodedic Reference System 80,Ellipsoid_Name: Geodedic Reference System 80,
+Semi-major_Axis: 6378206.4,Semi-major_Axis: 6378206.4,Semi-major_Axis: 6378206.4,,
+Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,
+Vertical_Coordinate_System_Definition:,Vertical_Coordinate_System_Definition:,Vertical_Coordinate_System_Definition:,,
+Depth_System_Definition:,Depth_System_Definition:,,,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,Depth_Resolution: .1,,,
+Depth_Distance_Units: meters,Depth_Distance_Units: meters,Depth_Distance_Units: meters,,
+Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,
+Back to Top,,,,
+Entity_and_Attribute_Information:,Entity_and_Attribute_Information:,,,
+Overview_Description:,,,,
+Entity_and_Attribute_Overview:,Entity_and_Attribute_Overview:,Entity_and_Attribute_Overview:,,
+All data,,,,
+Entity_and_Attribute_Detail_Citation:,Entity_and_Attribute_Detail_Citation:,Entity_and_Attribute_Detail_Citation:,,
+6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office
+due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.
+Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.
+Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,
+8/31/1995-,GMETHOD,was changed to,7.,Code 7 refers to an unspecified
+plankton pump.,"For an extensive gear code list see Table 17, PAGE F-9 APPENDIX","For an extensive gear code list see Table 17, PAGE F-9 APPENDIX","For an extensive gear code list see Table 17, PAGE F-9 APPENDIX","For an extensive gear code list see Table 17, PAGE F-9 APPENDIX"
+"F, of the Living Resources Data management plan, 1989.","F, of the Living Resources Data management plan, 1989.","F, of the Living Resources Data management plan, 1989.","F, of the Living Resources Data management plan, 1989.",This is a change from
+GMETHOD code in previous versions of the data set. This does not represent a,GMETHOD code in previous versions of the data set. This does not represent a,GMETHOD code in previous versions of the data set. This does not represent a,GMETHOD code in previous versions of the data set. This does not represent a,GMETHOD code in previous versions of the data set. This does not represent a
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,4/27/2012

@@ -1,0 +1,769 @@
+,,,Page 1 of 16
+Virginia Chesapeake Bay Monitoring Program:,Virginia Chesapeake Bay Monitoring Program:,Virginia Chesapeake Bay Monitoring Program:,Virginia Chesapeake Bay Monitoring Program:
+Lower Chesapeake Bay Mesozooplankton Study,Lower Chesapeake Bay Mesozooplankton Study,Lower Chesapeake Bay Mesozooplankton Study,Lower Chesapeake Bay Mesozooplankton Study
+Metadata:,Metadata:,,
+z,Identification_Information,,
+z,Data_Quality_Information,,
+z,Spatial_Data_Organization_Information,,
+z,Spatial_Reference_Information,,
+z,Entity_and_Attribute_Information,,
+z,Distribution_Information,,
+z,Metadata_Reference_Information,,
+Identification_Information:,Identification_Information:,,
+,Citation:,,
+,Citation_Information:,,
+,Originator: Kenneth Carpenter,Originator: Kenneth Carpenter,
+,Originator: Old Dominion University,Originator: Old Dominion University,
+,Publication_Date: 12/31/2002,Publication_Date: 12/31/2002,
+,Title:,,
+,,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay
+,,Mesozooplankton Study,
+,Geospatial_Data_Presentation_Form: tabular digital data,Geospatial_Data_Presentation_Form: tabular digital data,
+,Publication_Information:,,
+,,"Publication_Place: Annapolis, Maryland",
+,,Publisher: U.S. Environmental Protection Agency and Virginia Department of,Publisher: U.S. Environmental Protection Agency and Virginia Department of
+,,Environmental Quality program administered by Virginia Department of,Environmental Quality program administered by Virginia Department of
+,,Environmental Quality,
+,Description:,,
+,Abstract:,,
+,The initial objectives of this study were to characterize the composition and,The initial objectives of this study were to characterize the composition and,The initial objectives of this study were to characterize the composition and
+,"abundance, and the spatial and temporal patterns of the mesozooplankton populations","abundance, and the spatial and temporal patterns of the mesozooplankton populations","abundance, and the spatial and temporal patterns of the mesozooplankton populations"
+,"in the lower Chesapeake Bay and several major tributaries, and to examine","in the lower Chesapeake Bay and several major tributaries, and to examine","in the lower Chesapeake Bay and several major tributaries, and to examine"
+,relationships between water quality conditions and observed zooplankton,relationships between water quality conditions and observed zooplankton,relationships between water quality conditions and observed zooplankton
+,composition and abundance.,A major goal of the study is the establishment of a long,A major goal of the study is the establishment of a long
+,term data base that is being used to identify trends in zooplankton spatial-temporal,term data base that is being used to identify trends in zooplankton spatial-temporal,term data base that is being used to identify trends in zooplankton spatial-temporal
+,patterns of development over time and in relation to changes in Bay water quality,patterns of development over time and in relation to changes in Bay water quality,patterns of development over time and in relation to changes in Bay water quality
+,"conditions and other plankton components (Birdsong, 1992; Mateja et al., 1995).","conditions and other plankton components (Birdsong, 1992; Mateja et al., 1995).","conditions and other plankton components (Birdsong, 1992; Mateja et al., 1995)."
+,Sampling of tributary stations did not begin until January 1986. Sampling in the,Sampling of tributary stations did not begin until January 1986. Sampling in the,Sampling of tributary stations did not begin until January 1986. Sampling in the
+,Elizabeth River did not begin until January of 1989. Beginning in 1997 a second,Elizabeth River did not begin until January of 1989. Beginning in 1997 a second,Elizabeth River did not begin until January of 1989. Beginning in 1997 a second
+,"sampling cruise was added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to","sampling cruise was added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to","sampling cruise was added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to"
+,better measure food availability in andaromous fish spawning areas. In 1998,better measure food availability in andaromous fish spawning areas. In 1998,better measure food availability in andaromous fish spawning areas. In 1998
+,sampling at Elizabeth River station SBE2 was discontinued. Collection of Biomass,sampling at Elizabeth River station SBE2 was discontinued. Collection of Biomass,sampling at Elizabeth River station SBE2 was discontinued. Collection of Biomass
+,data at all stations was also discontinued. Sampling for mesozooplankton at all,data at all stations was also discontinued. Sampling for mesozooplankton at all,data at all stations was also discontinued. Sampling for mesozooplankton at all
+,stations ended in October 2002 due to the termination of the zooplankton portion of,stations ended in October 2002 due to the termination of the zooplankton portion of,stations ended in October 2002 due to the termination of the zooplankton portion of
+,the monitoring program in December 2002. Note due to contract changes starting in,the monitoring program in December 2002. Note due to contract changes starting in,the monitoring program in December 2002. Note due to contract changes starting in
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,Page 2 of 16
+"January 1996, station LE5.5 had a coordinate change. This station move was not","January 1996, station LE5.5 had a coordinate change. This station move was not","January 1996, station LE5.5 had a coordinate change. This station move was not"
+"documented until August 2005. Due to this station relocation, all data collected at the","documented until August 2005. Due to this station relocation, all data collected at the","documented until August 2005. Due to this station relocation, all data collected at the"
+altered location had the station name changed to LE5.5-W in August 2005.,altered location had the station name changed to LE5.5-W in August 2005.,altered location had the station name changed to LE5.5-W in August 2005.
+Purpose:,,
+The initial objectives of this data set were to characterize the composition and,The initial objectives of this data set were to characterize the composition and,The initial objectives of this data set were to characterize the composition and
+"abundance, and the spatial and temporal patterns of the mesozooplankton populations","abundance, and the spatial and temporal patterns of the mesozooplankton populations","abundance, and the spatial and temporal patterns of the mesozooplankton populations"
+"in the lower Chesapeake Bay and several major tributaries, and to examine","in the lower Chesapeake Bay and several major tributaries, and to examine","in the lower Chesapeake Bay and several major tributaries, and to examine"
+relationships between water quality conditions and observed zooplankton,relationships between water quality conditions and observed zooplankton,relationships between water quality conditions and observed zooplankton
+composition and abundance.,A major goal was the establishment of a long term data,A major goal was the establishment of a long term data
+base that is being used to identify trends in zooplankton spatio-temporal patterns of,base that is being used to identify trends in zooplankton spatio-temporal patterns of,base that is being used to identify trends in zooplankton spatio-temporal patterns of
+development over time and in relation to changes in Bay water quality conditions and,development over time and in relation to changes in Bay water quality conditions and,development over time and in relation to changes in Bay water quality conditions and
+"other plankton components (Birdsong, 1992; Mateja et al., 1995).","other plankton components (Birdsong, 1992; Mateja et al., 1995).",
+Supplemental_Information:,,
+#STATION NAMES AND DESCRIPTIONS:,#STATION NAMES AND DESCRIPTIONS:,
+CB6.1,"-Main Channel, Mid-Bay",
+CB6.4,"-Main Channel, Mid-Bay",
+CB7.3E,-Eastern Shore Channel Southern End,
+"CB7.4 -Baltimore Channel, Bay Mouth","CB7.4 -Baltimore Channel, Bay Mouth",
+LE3.6 -Off Mouth of Rappahannock River,LE3.6 -Off Mouth of Rappahannock River,
+WE4.2-Off Mouth of York River,WE4.2-Off Mouth of York River,
+LE5.5 -Off Mouth of James River,LE5.5 -Off Mouth of James River,
+SBE2 -South Branch Elizabeth River,SBE2 -South Branch Elizabeth River,
+"SBE5 -South Branch Elizabeth River,Off VEPCO","SBE5 -South Branch Elizabeth River,Off VEPCO",
+"TF3.3 -Rappahannock River, Buoy N40","TF3.3 -Rappahannock River, Buoy N40",
+"RET3.1 -Rappahannock River, N Buoy R10","RET3.1 -Rappahannock River, N Buoy R10",
+TF4.2 -Pamunkey River Off White House,TF4.2 -Pamunkey River Off White House,
+RET4.3,-York River Buoy C57,
+TF5.5 -James River Red Buoy 107,TF5.5 -James River Red Buoy 107,
+RET5.2,-James River Off Swann's Point,
+Time_Period_of_Content:,,
+Time_Period_Information:,,
+Range_of_Dates/Times:,,
+Beginning_Date: 19850101,Beginning_Date: 19850101,
+Ending_Date: 10/31/2002,Ending_Date: 10/31/2002,
+Currentness_Reference:,,
+ground condition,,
+Status:,,
+Progress: Complete,,
+Maintenance_and_Update_Frequency: None planned,Maintenance_and_Update_Frequency: None planned,
+Spatial_Domain:,,
+Bounding_Coordinates:,,
+West_Bounding_Coordinate: -77.233,West_Bounding_Coordinate: -77.233,
+East_Bounding_Coordinate: -76.0106,East_Bounding_Coordinate: -76.0106,
+North_Bounding_Coordinate: 38.019,North_Bounding_Coordinate: 38.019,
+South_Bounding_Coordinate: 36.7697,South_Bounding_Coordinate: 36.7697,
+Keywords:,,
+Theme:,,
+Theme_Keyword_Thesaurus: None,Theme_Keyword_Thesaurus: None,
+Theme_Keyword: mesozooplankton,Theme_Keyword: mesozooplankton,
+Theme_Keyword: water,,
+Theme_Keyword: biomass,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 3 of 16
+Theme_Keyword: gelatinous zooplankton,
+Theme_Keyword: jelly fish,
+Theme_Keyword: plankton,
+Theme_Keyword: water quality monitoring,
+Theme_Keyword: zooplankton,
+Place:,
+Place_Keyword_Thesaurus: None,
+Place_Keyword: York River,
+Place_Keyword: James River,
+Place_Keyword: Rappahannock River,
+Place_Keyword: Elizabeth River,
+Place_Keyword: Chesapeake Bay,
+Place_Keyword: USA,
+Place_Keyword: virginia,
+Place_Keyword: VA,
+Stratum:,
+Stratum_Keyword_Thesaurus: None,
+Stratum_Keyword: water column,
+Stratum_Keyword: Water column,
+Temporal:,
+Temporal_Keyword_Thesaurus: None,
+Temporal_Keyword: bimonthly,
+Access_Constraints: None,
+Use_Constraints:,
+None,
+Point_of_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Data_Set_Credit:,
+"EPA CHESAPEAKE BAY PROGRAM, VIRGINIA DEPARTMENT OF",
+"ENVIRONMENTAL QUALITY, OLD DOMINION UNIVERSITY",
+Security_Information:,
+Security_Classification_System: None,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,Page 4 of 16
+Security_Classification: Unclassified,Security_Classification: Unclassified,
+Security_Handling_Description: None,Security_Handling_Description: None,
+Cross_Reference:,,
+Citation_Information:,Citation_Information:,
+Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+Publication_Date: 20080301,Publication_Date: 20080301,
+Title:,,
+,Chesapeake Bay Program Plankton Database,
+Edition: Version 3.0,Edition: Version 3.0,
+Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, MD",
+,Publisher: US EPA Chesapeake Bay Program,
+Other_Citation_Details:,Other_Citation_Details:,
+,None,
+Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+Back to Top,,
+Data_Quality_Information:,Data_Quality_Information:,
+Attribute_Accuracy:,,
+Attribute_Accuracy_Report:,Attribute_Accuracy_Report:,
+Current Data Usage Recommendation,Current Data Usage Recommendation,
+After extensive examination of historic Chesapeake Bay Program (CBP),After extensive examination of historic Chesapeake Bay Program (CBP),
+"mesozooplankton monitoring data, and in consideration of the known methodological","mesozooplankton monitoring data, and in consideration of the known methodological","mesozooplankton monitoring data, and in consideration of the known methodological"
+"and data quality issues, the Chesapeake Bay Program is issuing the following data","and data quality issues, the Chesapeake Bay Program is issuing the following data","and data quality issues, the Chesapeake Bay Program is issuing the following data"
+usage recommendation: Only mesozooplankton samples enumerated with Hensen-,usage recommendation: Only mesozooplankton samples enumerated with Hensen-,usage recommendation: Only mesozooplankton samples enumerated with Hensen-
+Stempel methodologies are recommended for use in quantitative analyses. These data,Stempel methodologies are recommended for use in quantitative analyses. These data,Stempel methodologies are recommended for use in quantitative analyses. These data
+"have method codes MZ101A, MZ101B, MZ101C, and MZ103.","have method codes MZ101A, MZ101B, MZ101C, and MZ103.",Data quality issues
+have been identified for portions of the Virginia record.,have been identified for portions of the Virginia record.,Virginia samples collected
+"prior to 1993 and enumerated with method MZ102, as well as those samples collected","prior to 1993 and enumerated with method MZ102, as well as those samples collected","prior to 1993 and enumerated with method MZ102, as well as those samples collected"
+"between 1993 and 2000 and enumerated with method MZ102 or MZ102B, should","between 1993 and 2000 and enumerated with method MZ102 or MZ102B, should","between 1993 and 2000 and enumerated with method MZ102 or MZ102B, should"
+only be used for qualitative purposes. Species-specific correction factors have been,only be used for qualitative purposes. Species-specific correction factors have been,only be used for qualitative purposes. Species-specific correction factors have been
+developed for samples collected between 1993 and 1997 and enumerated with,developed for samples collected between 1993 and 1997 and enumerated with,developed for samples collected between 1993 and 1997 and enumerated with
+MZ102.,Data adjusted by these factors have method code MZ102_C and can be used,Data adjusted by these factors have method code MZ102_C and can be used
+with discretion in quantitative analysis on a bay wide basis.,with discretion in quantitative analysis on a bay wide basis.,
+Logical_Consistency_Report:,Logical_Consistency_Report:,
+not applicable,,
+Completeness_Report:,Completeness_Report:,
+Sampling of tributary stations did not begin until January 1986. Sampling in the Elizabeth,Sampling of tributary stations did not begin until January 1986. Sampling in the Elizabeth,Sampling of tributary stations did not begin until January 1986. Sampling in the Elizabeth
+river did not begin until January of 1989. Beginning in 1997 a second sampling cruise was,river did not begin until January of 1989. Beginning in 1997 a second sampling cruise was,river did not begin until January of 1989. Beginning in 1997 a second sampling cruise was
+"added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to better measure food","added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to better measure food","added for station in tidal fresh area (TF3.3, TF4.2, TF5.5) to better measure food"
+availability in andaromous fish spawning areas. In 1998 sampling at Elizabeth River station,availability in andaromous fish spawning areas. In 1998 sampling at Elizabeth River station,availability in andaromous fish spawning areas. In 1998 sampling at Elizabeth River station
+SBE2 was discontinued. Collection of Biomass data at all stations was also dicontinued. All,SBE2 was discontinued. Collection of Biomass data at all stations was also dicontinued. All,SBE2 was discontinued. Collection of Biomass data at all stations was also dicontinued. All
+sampling was terminated in October 2002,sampling was terminated in October 2002,
+"The zooplankton field chief was the custodian for all samples collected, verified proper","The zooplankton field chief was the custodian for all samples collected, verified proper","The zooplankton field chief was the custodian for all samples collected, verified proper"
+"labeling of bottles, complete field data entries, the collection of the samples, preservative","labeling of bottles, complete field data entries, the collection of the samples, preservative","labeling of bottles, complete field data entries, the collection of the samples, preservative"
+used and transport to the laboratory.,used and transport to the laboratory.,They also supervises the calibration and availability of
+field equipment. Samples are turned over to the laboratory chief who oversees the sample,field equipment. Samples are turned over to the laboratory chief who oversees the sample,field equipment. Samples are turned over to the laboratory chief who oversees the sample
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,Page 5 of 16
+"processing, analysis and recording of the raw data.","processing, analysis and recording of the raw data.","Taxon identifications, raw data sheets"
+and other stages of the collection and analysis procedures are routinely checked by the,and other stages of the collection and analysis procedures are routinely checked by the,and other stages of the collection and analysis procedures are routinely checked by the
+principal investigator and laboratory chief for quality assurance.,principal investigator and laboratory chief for quality assurance.,"Taxon identifications, raw"
+data sheets and other stages of the collection and analysis procedures are routinely checked,data sheets and other stages of the collection and analysis procedures are routinely checked,data sheets and other stages of the collection and analysis procedures are routinely checked
+by the principal investigator and laboratory chief for quality assurance.The principal,by the principal investigator and laboratory chief for quality assurance.The principal,by the principal investigator and laboratory chief for quality assurance.The principal
+investigator and laboratory chief for quality assurance routinely check the taxon,investigator and laboratory chief for quality assurance routinely check the taxon,investigator and laboratory chief for quality assurance routinely check the taxon
+"identifications, raw data sheets and other stages of the collection and analysis procedures.","identifications, raw data sheets and other stages of the collection and analysis procedures.","identifications, raw data sheets and other stages of the collection and analysis procedures."
+See EPA Quality assurance plan for extensive details on http://www.chesapeakebay.net.,See EPA Quality assurance plan for extensive details on http://www.chesapeakebay.net.,See EPA Quality assurance plan for extensive details on http://www.chesapeakebay.net.
+Positional_Accuracy:,,
+Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,Horizontal_Positional_Accuracy_Report:,
+Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+Station latitudes and longitudes are input into a Loran-C/GPS receiver and,Station latitudes and longitudes are input into a Loran-C/GPS receiver and,Station latitudes and longitudes are input into a Loran-C/GPS receiver and
+sampling begins when boat reaches pre-programmed coordinates.,sampling begins when boat reaches pre-programmed coordinates.,Loran-C is
+accurate to +/-1500 feet.,The actual Loran/GPS coordinates for each sampling,The actual Loran/GPS coordinates for each sampling
+event are not currently recorded in data set.,event are not currently recorded in data set.,
+Vertical_Positional_Accuracy:,,
+Vertical_Positional_Accuracy_Report:,Vertical_Positional_Accuracy_Report:,
+"The Layer sampled in this study is the whole water column, WC.","The Layer sampled in this study is the whole water column, WC.",Total Depth
+for each station is based on Hydrographic data collected concurrently with the,for each station is based on Hydrographic data collected concurrently with the,for each station is based on Hydrographic data collected concurrently with the
+plankton samples. Total Station depths were not reported prior to 1997.,plankton samples. Total Station depths were not reported prior to 1997.,plankton samples. Total Station depths were not reported prior to 1997.
+Lineage:,,
+Source_Information:,,
+Source_Citation:,,
+Citation_Information:,,
+Originator: Kenneth Carpenter,Originator: Kenneth Carpenter,
+Originator: Old Dominion University,Originator: Old Dominion University,
+Publication_Date: 1999,Publication_Date: 1999,
+Title:,,
+,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake
+,Bay Mesozooplankton Study,
+Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, Maryland",
+,Publisher: U.S. Environmental Protection Agency and Virginia,Publisher: U.S. Environmental Protection Agency and Virginia
+,Department of Environmental Quality program administered by,Department of Environmental Quality program administered by
+,Virginia Department of Environmental Quality,
+Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,
+Source_Time_Period_of_Content:,Source_Time_Period_of_Content:,
+Time_Period_Information:,Time_Period_Information:,
+Range_of_Dates/Times:,Range_of_Dates/Times:,
+,Beginning_Date: 19850101,
+,Ending_Date: Present,
+Source_Currentness_Reference:,Source_Currentness_Reference:,
+ground condition,,
+Source_Citation_Abbreviation:,Source_Citation_Abbreviation:,
+None,,
+Source_Contribution:,,
+None,,
+Process_Step:,,
+Process_Description:,,
+"Samples will be collected with paired 202um mesh , 0.5 m diameter, 2 m long","Samples will be collected with paired 202um mesh , 0.5 m diameter, 2 m long","Samples will be collected with paired 202um mesh , 0.5 m diameter, 2 m long"
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 6 of 16
+"plankton nets (Earnest A. Case, P.O. Box 45, Andover, NJ 07821) each fitted","plankton nets (Earnest A. Case, P.O. Box 45, Andover, NJ 07821) each fitted"
+with a calibrated flowmeter (General Oceanics model 2030) attached within the,with a calibrated flowmeter (General Oceanics model 2030) attached within the
+opening to provide an estimation of sampling effort.,Flow meter readings are
+taken prior to setting the net and recorded in the field log.,Nets are then towed
+in a double-oblique pattern from bottom to surface for approximately five,in a double-oblique pattern from bottom to surface for approximately five
+minutes.,"After retrieval of the nets, any problem with the tow is noted and if"
+warranted the tow is repeated after correcting the problem.,Upon successful
+tow completion the final flow readings are recorded in the field log as well as,tow completion the final flow readings are recorded in the field log as well as
+the tow time.,"Nets are washed down and codends are decanted into prelabeled,"
+"one liter field bottles (Nalge Company, P.O. Box 20375, Rochester, NY.,","one liter field bottles (Nalge Company, P.O. Box 20375, Rochester, NY.,"
+"spiked with 7% formaldehyde (Fisher Scientific, 711 Forbes Ave., Pittsburgh,","spiked with 7% formaldehyde (Fisher Scientific, 711 Forbes Ave., Pittsburgh,"
+PA.),Tributary collections are also stained with Rose Bengal (Sigma Chemical
+"Company, P.O. Box 14508, St. Louis, MO) to facilitate future identification of","Company, P.O. Box 14508, St. Louis, MO) to facilitate future identification of"
+planktonic organisms.,The bottles are then placed in storage containers for
+transport to the laboratory. In the event that gelatinous zooplankton is visible in,transport to the laboratory. In the event that gelatinous zooplankton is visible in
+"the nets, total volume is determined for the mesoglea after straining from the","the nets, total volume is determined for the mesoglea after straining from the"
+normal plankton sample.,Care will be taken to ensure that no residual plankton
+remains clinging to either the strainer or to the mesoglea.,Percent composition
+"of gelatinous zooplankton groups (ctenophore, moon jelly, stinging nettle) is","of gelatinous zooplankton groups (ctenophore, moon jelly, stinging nettle) is"
+determined and recorded on the field log.,Mesoglea is then discarded.
+SAMPLE ENUMERATION METHODS,
+ZOOPLANKTON BIOMASS DETERMINATION,
+-Chesapeake Bay Program Analytical Method Code-BM102,
+NOTE: BIOMASS DETERMINATIONS WERE DISCONTINUED IN 1996-,NOTE: BIOMASS DETERMINATIONS WERE DISCONTINUED IN 1996-
+DATA AVAILIBLE BY REQUEST.,
+The ash-free dry weights are determined following the normal biomass drying,The ash-free dry weights are determined following the normal biomass drying
+and weighing procedures.,"Following the initial weighing, the dried samples are"
+directly placed into the muffle furnace for incineration.,The samples are
+incinerated in the furnace at a temperature of 550 degrees C for 4 hours. The,incinerated in the furnace at a temperature of 550 degrees C for 4 hours. The
+samples are allowed to cool to room temperature and then transferred to,samples are allowed to cool to room temperature and then transferred to
+desiccators for storage until weighing.,"Drying, cooling and weighing are"
+repeated until the successive weights vary by less than 5% over a one-day,repeated until the successive weights vary by less than 5% over a one-day
+interval.,Exposure from the desiccators never exceeds 5 minutes.
+GELATINOUS ZOOPLANKTON ENUMERATION,
+-Chesapeake Bay Program Analytical Method Code-JF103,
+NOTE: NO JELLYFISH DATA AVAILABLE PRIOR TO 1996,
+"Beroe (BEROE, BEROEVOL), Hydrozoans (HYDRO, HYDROVOL),","Beroe (BEROE, BEROEVOL), Hydrozoans (HYDRO, HYDROVOL),"
+"Mnemiopsis (MNEMIOP, MNEMVOL), and true Jellyfish ((JELLY,",
+JELLYVOL) were removed from samples and sorted in the field after sample,JELLYVOL) were removed from samples and sorted in the field after sample
+"preservation, their numbers and settled volumes were recorded from the net that","preservation, their numbers and settled volumes were recorded from the net that"
+was used as the count sample.,
+ZOOPLANKTON SPECIES COMPOSITION AND ABUNDANCE,
+ENUMERATION,
+-Chesapeake Bay Program Analytical Method Code-MZ102,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,Page 7 of 16
+"From January 1985-February 1998, processing and analysis of samples is","From January 1985-February 1998, processing and analysis of samples is","From January 1985-February 1998, processing and analysis of samples is"
+conducted by the coefficient of variation stabilizing method (Alden et al.,conducted by the coefficient of variation stabilizing method (Alden et al.,conducted by the coefficient of variation stabilizing method (Alden et al.
+1982).,"Size fractionation of each sample produces 5 size classes (200, 300,600,","Size fractionation of each sample produces 5 size classes (200, 300,600,"
+"850, 2000 microns).",Size classes in which the organisms are too numerous to,Size classes in which the organisms are too numerous to
+count in their entirety are split with a Folsom plankton splitter until an,count in their entirety are split with a Folsom plankton splitter until an,count in their entirety are split with a Folsom plankton splitter until an
+appropriate sample size is reached for statistically valid counts of the dominant,appropriate sample size is reached for statistically valid counts of the dominant,appropriate sample size is reached for statistically valid counts of the dominant
+species.,The chosen error level of 35% requires that each species of interest be,The chosen error level of 35% requires that each species of interest be
+counted to achieve a range of between 20 nd 42 individuals in any given split.,counted to achieve a range of between 20 nd 42 individuals in any given split.,counted to achieve a range of between 20 nd 42 individuals in any given split.
+Species observed to be subdominant in the final split are counted until they,Species observed to be subdominant in the final split are counted until they,Species observed to be subdominant in the final split are counted until they
+have achieved the range for the 35% error level.,have achieved the range for the 35% error level.,The taxon abundance is
+recorded as numbers per unit volume.,recorded as numbers per unit volume.,
+-Chesapeake Bay Program Analytical Method Code-MZ102B,-Chesapeake Bay Program Analytical Method Code-MZ102B,-Chesapeake Bay Program Analytical Method Code-MZ102B
+"From March 1998 to January 2000, processing and analysis of samples was","From March 1998 to January 2000, processing and analysis of samples was","From March 1998 to January 2000, processing and analysis of samples was"
+conducted using a modification of the coefficient of variation stabilizing,conducted using a modification of the coefficient of variation stabilizing,conducted using a modification of the coefficient of variation stabilizing
+method (Alden et al. 1982).,method (Alden et al. 1982).,Size fractionation of each sample produces 6 size
+"classes (75, 200, 300, 600, 850, 2000 microns).","classes (75, 200, 300, 600, 850, 2000 microns).",Size classes in which the
+organisms are too numerous to count in their entirety are split with a Folsom,organisms are too numerous to count in their entirety are split with a Folsom,organisms are too numerous to count in their entirety are split with a Folsom
+plankton splitter until an appropriate sample size is reached for statistically,plankton splitter until an appropriate sample size is reached for statistically,plankton splitter until an appropriate sample size is reached for statistically
+valid counts of the dominant species.,valid counts of the dominant species.,The chosen error level of 35% requires
+that each species of interest be counted to achieve a range of between 20 nd 42,that each species of interest be counted to achieve a range of between 20 nd 42,that each species of interest be counted to achieve a range of between 20 nd 42
+individuals in any given split.,individuals in any given split.,Species observed to be subdominant in the final
+split are counted until they have achieved the range for the 35% error level.,split are counted until they have achieved the range for the 35% error level.,split are counted until they have achieved the range for the 35% error level.
+Taxon abundance is recorded as numbers per unit volume.,Taxon abundance is recorded as numbers per unit volume.,
+-Chesapeake Bay Program Analytical Method MZ103,-Chesapeake Bay Program Analytical Method MZ103,
+"From February 2000 to 2002, a hierarchical counting technique is employed to","From February 2000 to 2002, a hierarchical counting technique is employed to","From February 2000 to 2002, a hierarchical counting technique is employed to"
+obtain density estimates.,obtain density estimates.,This procedure consists of first counting at least 60
+individuals of the most dominant forms (e.g. Acartia tonsa) in a small sub,individuals of the most dominant forms (e.g. Acartia tonsa) in a small sub,individuals of the most dominant forms (e.g. Acartia tonsa) in a small sub
+"sample (usually 1 - 2 milliliters), followed by 5- and 10- milliliter sub samples","sample (usually 1 - 2 milliliters), followed by 5- and 10- milliliter sub samples","sample (usually 1 - 2 milliliters), followed by 5- and 10- milliliter sub samples"
+from which all species that had counts less than 60 in the previous sub sample,from which all species that had counts less than 60 in the previous sub sample,from which all species that had counts less than 60 in the previous sub sample
+"are counted. Macro zooplankton (amphipods, shrimp, etc.) are identified when","are counted. Macro zooplankton (amphipods, shrimp, etc.) are identified when","are counted. Macro zooplankton (amphipods, shrimp, etc.) are identified when"
+observed in sub samples.,observed in sub samples.,"In addition, all samples, after the standard"
+"hierarchical counting technique, were filtered through an 850-micrometer sieve.","hierarchical counting technique, were filtered through an 850-micrometer sieve.","hierarchical counting technique, were filtered through an 850-micrometer sieve."
+Mesozooplankton that were retained in the 850-micrometer sieve that were not,Mesozooplankton that were retained in the 850-micrometer sieve that were not,Mesozooplankton that were retained in the 850-micrometer sieve that were not
+previously identified in the sub samples and/or macro zooplankton were,previously identified in the sub samples and/or macro zooplankton were,previously identified in the sub samples and/or macro zooplankton were
+counted and identified.,counted and identified.,
+"# FORMULA, CALCULATIONS AND CONVERSION","# FORMULA, CALCULATIONS AND CONVERSION",
+>SAMPLE,VOLUME,
+The following formula is used to calculate distance traveled by the bongo net,The following formula is used to calculate distance traveled by the bongo net,The following formula is used to calculate distance traveled by the bongo net
+during a tow.,,
+DISTANCE=(STOP-START)*BLADE CONSTANT,DISTANCE=(STOP-START)*BLADE CONSTANT,
+Where,,
+STOP is the number of revolutions recorded on the bongo net flow meter at the,STOP is the number of revolutions recorded on the bongo net flow meter at the,STOP is the number of revolutions recorded on the bongo net flow meter at the
+"end of the tow,",,
+"START is the number of revolutions on the meter at the beginning of the tow,","START is the number of revolutions on the meter at the beginning of the tow,","START is the number of revolutions on the meter at the beginning of the tow,"
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,,Page 8 of 16
+DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.
+The blade constant is equal to 26873/999999.,The blade constant is equal to 26873/999999.,The blade constant is equal to 26873/999999.,
+The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:
+SAMPLE VOLUME= DISTANCE*AREA,SAMPLE VOLUME= DISTANCE*AREA,SAMPLE VOLUME= DISTANCE*AREA,
+Where AREA + 0.18776 square meters.,Where AREA + 0.18776 square meters.,Where AREA + 0.18776 square meters.,
+>ZOOPLANKTON,>ZOOPLANKTON,DENSITY,
+-For Variance Stabilization techniques MZ102A an MZ102B,-For Variance Stabilization techniques MZ102A an MZ102B,-For Variance Stabilization techniques MZ102A an MZ102B,
+Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is
+calculated.,The size classes range from 200 to 2000 microns and represent the,The size classes range from 200 to 2000 microns and represent the,The size classes range from 200 to 2000 microns and represent the
+sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and
+enumeration.,enumeration.,,
+SC2000= ((2**SC2000S)*SC2000C)/VOL,SC2000= ((2**SC2000S)*SC2000C)/VOL,SC2000= ((2**SC2000S)*SC2000C)/VOL,
+SC850,= ((2**SC850S)*SC850C)/VOL,= ((2**SC850S)*SC850C)/VOL,
+SC600,= ((2**SC600S)*SC600C)/VOL,= ((2**SC600S)*SC600C)/VOL,
+SC300,= ((2**SC300S)*SC300C)/VOL,= ((2**SC300S)*SC300C)/VOL,
+SC200,= ((2**SC2000S)*SC200C)/VOL,= ((2**SC2000S)*SC200C)/VOL,
+*SC75,= ((2**SC75S)*SC75C)/VOL,= ((2**SC75S)*SC75C)/VOL,
+T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,
+*SC75- for samples collected after March 1998,*SC75- for samples collected after March 1998,*SC75- for samples collected after March 1998,
+SC= Density of size class N,SC= Density of size class N,SC= Density of size class N,
+SCS= Number of splits for size class N,SCS= Number of splits for size class N,SCS= Number of splits for size class N,
+SCC= Number counted in split for size class N,SCC= Number counted in split for size class N,SCC= Number counted in split for size class N,
+-For Henson Stemple technique MZ103,-For Henson Stemple technique MZ103,-For Henson Stemple technique MZ103,
+The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon
+identified:,,,
+DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),
+Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,
+A = number of individuals counted in the sub sample,A = number of individuals counted in the sub sample,A = number of individuals counted in the sub sample,
+B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken
+C = sub sample volume in milliliters,C = sub sample volume in milliliters,C = sub sample volume in milliliters,
+FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters
+Process_Date: Unknown,Process_Date: Unknown,,
+Process_Contact:,Process_Contact:,,
+Contact_Information:,Contact_Information:,Contact_Information:,
+Contact_Person_Primary:,Contact_Person_Primary:,Contact_Person_Primary:,
+,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+,Basin,,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 9 of 16
+Manager,
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+Contact Instructions:,
+unavailable,
+Process_Step:,
+Process_Description:,
+Metadata imported.,
+Source_Used_Citation_Abbreviation:,
+C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml65E.tmp,
+Process_Date: 20081124,
+Process_Time: 12311100,
+Back to Top,
+Spatial_Data_Organization_Information:,
+Indirect_Spatial_Reference_Method:,
+Chesapeake Bay and its tidal tributaries in the Commonwealth of Virginia. Station names,Chesapeake Bay and its tidal tributaries in the Commonwealth of Virginia. Station names
+based on local reference names.,
+Direct_Spatial_Reference_Method: Point,
+Point_and_Vector_Object_Information:,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,
+Spatial_Reference_Information:,
+Horizontal_Coordinate_System_Definition:,
+Geographic:,
+Latitude_Resolution: 30,
+Longitude_Resolution: 30,
+Geographic_Coordinate_Units: Decimal degrees,
+Geodetic_Model:,
+Horizontal_Datum_Name: North American Datum of 1983,
+Ellipsoid_Name: Geodedic Reference System 80,
+Semi-major_Axis: 6378206.4,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,,,,Page 10 of 16
+Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,Denominator_of_Flattening_Ratio: 294.98,
+Vertical_Coordinate_System_Definition:,Vertical_Coordinate_System_Definition:,Vertical_Coordinate_System_Definition:,,
+Depth_System_Definition:,,,,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,,,,
+Depth_Distance_Units: meters,Depth_Distance_Units: meters,Depth_Distance_Units: meters,,
+Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,Depth_Encoding_Method: Attribute values,
+Back to Top,,,,
+Entity_and_Attribute_Information:,,,,
+Overview_Description:,,,,
+Entity_and_Attribute_Overview:,Entity_and_Attribute_Overview:,,,
+Virginia Chesapeake Bay,Virginia Chesapeake Bay,Water Quality Monitoring Program: Mesozooplankton,Water Quality Monitoring Program: Mesozooplankton,Water Quality Monitoring Program: Mesozooplankton
+Study,,,,
+ftp.chesapeakebay.net/pub/living_resources/meso/vamzdoc.pdf,ftp.chesapeakebay.net/pub/living_resources/meso/vamzdoc.pdf,ftp.chesapeakebay.net/pub/living_resources/meso/vamzdoc.pdf,ftp.chesapeakebay.net/pub/living_resources/meso/vamzdoc.pdf,
+Entity_and_Attribute_Detail_Citation:,Entity_and_Attribute_Detail_Citation:,Entity_and_Attribute_Detail_Citation:,,
+6/30/96- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/96- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/96- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/96- All plankton data was resubmitted to the Chesapeake Bay Program office,6/30/96- All plankton data was resubmitted to the Chesapeake Bay Program office
+due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.,due to discrepancies in sampling dates between synchronously collected samples.
+Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.,Sampling dates were corrected to field logs and resubmitted to the Data Center.
+Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,Please do not use data with an R_DATE prior to 06/01/96.,
+6/30/96- Note that,BARNACLE NAUPLII and LARVAE were reported in the,BARNACLE NAUPLII and LARVAE were reported in the,BARNACLE NAUPLII and LARVAE were reported in the,BARNACLE NAUPLII and LARVAE were reported in the
+Mesozooplankton data from January 1985-December 1992. After January 1993 these,Mesozooplankton data from January 1985-December 1992. After January 1993 these,Mesozooplankton data from January 1985-December 1992. After January 1993 these,Mesozooplankton data from January 1985-December 1992. After January 1993 these,Mesozooplankton data from January 1985-December 1992. After January 1993 these
+organisms were reported in the Microzooplankton data only.,organisms were reported in the Microzooplankton data only.,organisms were reported in the Microzooplankton data only.,organisms were reported in the Microzooplankton data only.,
+10/11/95- ODUCODE-,10/11/95- ODUCODE-,ODU added the code 9999 to their Species list.,ODU added the code 9999 to their Species list.,This code
+refers to small plastic beads found in plankton tows on the Elizabeth River. The beads,refers to small plastic beads found in plankton tows on the Elizabeth River. The beads,refers to small plastic beads found in plankton tows on the Elizabeth River. The beads,refers to small plastic beads found in plankton tows on the Elizabeth River. The beads,refers to small plastic beads found in plankton tows on the Elizabeth River. The beads
+are though to be used for sandblasting in the nearby shipyards.,are though to be used for sandblasting in the nearby shipyards.,are though to be used for sandblasting in the nearby shipyards.,are though to be used for sandblasting in the nearby shipyards.,
+8/31/95-,GMETHOD,was changed to,76.,Code 76 refers 202 micron mesh Bongo
+net with 0.5 meter opening.,net with 0.5 meter opening.,"For an extensive gear code list see Table 17, PAGE F-9","For an extensive gear code list see Table 17, PAGE F-9","For an extensive gear code list see Table 17, PAGE F-9"
+"APPENDIX F, of the Living Resources Data management plan, 1989.","APPENDIX F, of the Living Resources Data management plan, 1989.","APPENDIX F, of the Living Resources Data management plan, 1989.","APPENDIX F, of the Living Resources Data management plan, 1989.",This is a
+change from GMETHOD code in previous versions of the data set. This does not,change from GMETHOD code in previous versions of the data set. This does not,change from GMETHOD code in previous versions of the data set. This does not,change from GMETHOD code in previous versions of the data set. This does not,change from GMETHOD code in previous versions of the data set. This does not
+represent a change in actual sampling gear.,represent a change in actual sampling gear.,represent a change in actual sampling gear.,represent a change in actual sampling gear.,
+8/31/93- LBL all Latin Names and spelling for names have been corrected to the,8/31/93- LBL all Latin Names and spelling for names have been corrected to the,8/31/93- LBL all Latin Names and spelling for names have been corrected to the,8/31/93- LBL all Latin Names and spelling for names have been corrected to the,8/31/93- LBL all Latin Names and spelling for names have been corrected to the
+National Oceanographic Data Center accepted spelling.,National Oceanographic Data Center accepted spelling.,National Oceanographic Data Center accepted spelling.,National Oceanographic Data Center accepted spelling.,
+8/31/95- The actual volume of water sampled during zooplankton tows is not,8/31/95- The actual volume of water sampled during zooplankton tows is not,8/31/95- The actual volume of water sampled during zooplankton tows is not,8/31/95- The actual volume of water sampled during zooplankton tows is not,8/31/95- The actual volume of water sampled during zooplankton tows is not
+available in data sets prior to 1993. The value was collected and used to determine,available in data sets prior to 1993. The value was collected and used to determine,available in data sets prior to 1993. The value was collected and used to determine,available in data sets prior to 1993. The value was collected and used to determine,available in data sets prior to 1993. The value was collected and used to determine
+abundances but was not retained in historic data sets.,abundances but was not retained in historic data sets.,abundances but was not retained in historic data sets.,abundances but was not retained in historic data sets.,
+8/31/95- CRUISE NUMBERS - BAY004-BAY211 were supplied by the Chesapeake,8/31/95- CRUISE NUMBERS - BAY004-BAY211 were supplied by the Chesapeake,8/31/95- CRUISE NUMBERS - BAY004-BAY211 were supplied by the Chesapeake,8/31/95- CRUISE NUMBERS - BAY004-BAY211 were supplied by the Chesapeake,8/31/95- CRUISE NUMBERS - BAY004-BAY211 were supplied by the Chesapeake
+Bay Program office. See the Guide to Living Resources Data Sets for complete listing,Bay Program office. See the Guide to Living Resources Data Sets for complete listing,Bay Program office. See the Guide to Living Resources Data Sets for complete listing,Bay Program office. See the Guide to Living Resources Data Sets for complete listing,Bay Program office. See the Guide to Living Resources Data Sets for complete listing
+of Cruise periods.,,,,
+8/31/95- SER_NUM,Old Dominion University did not use a serial number system,Old Dominion University did not use a serial number system,Old Dominion University did not use a serial number system,Old Dominion University did not use a serial number system
+for sample tracking before 1995 so this variable is not available in prior data.,for sample tracking before 1995 so this variable is not available in prior data.,for sample tracking before 1995 so this variable is not available in prior data.,for sample tracking before 1995 so this variable is not available in prior data.,for sample tracking before 1995 so this variable is not available in prior data.
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 11 of 16,Page 11 of 16
+8/31/95- P_Depth,This variable is not applicable under the current sampling,This variable is not applicable under the current sampling
+protocol.,,
+JANUARY 1996- collection of all wet weight and ash-free dry weight data has been,JANUARY 1996- collection of all wet weight and ash-free dry weight data has been,JANUARY 1996- collection of all wet weight and ash-free dry weight data has been
+discontinued.,,
+JANUARY 1997-Sampling at station SBE2 was discontinued.,,
+SUMMER 1997 -,The Living Resources Data manager supplied salinity zones to the,The Living Resources Data manager supplied salinity zones to the
+zooplankton Data based on salinity data collected by the Virginia Water Quality,zooplankton Data based on salinity data collected by the Virginia Water Quality,zooplankton Data based on salinity data collected by the Virginia Water Quality
+Monitoring Program. Values were derived from Water Quality Hydrographic data,Monitoring Program. Values were derived from Water Quality Hydrographic data,Monitoring Program. Values were derived from Water Quality Hydrographic data
+collected concurrently with the mesozooplankton. If data was not available for the of,collected concurrently with the mesozooplankton. If data was not available for the of,collected concurrently with the mesozooplankton. If data was not available for the of
+sampling,"but was collected within a one week window of sampling date, the water","but was collected within a one week window of sampling date, the water"
+quality data,,
+was used to determine a salinity zone. However the salinity zone is marked with an E,was used to determine a salinity zone. However the salinity zone is marked with an E,was used to determine a salinity zone. However the salinity zone is marked with an E
+to denote being estimated.,,
+"JULY, 1998- An additional sieve screen (75um) was added to the sieve series used","JULY, 1998- An additional sieve screen (75um) was added to the sieve series used","JULY, 1998- An additional sieve screen (75um) was added to the sieve series used"
+"for sample processing. The size of the additional screen was changed in august, 1998","for sample processing. The size of the additional screen was changed in august, 1998","for sample processing. The size of the additional screen was changed in august, 1998"
+to 64 um.,This change in protocol was made to assess its ability to estimate,This change in protocol was made to assess its ability to estimate
+abundances of copepod nauplii and other small zooplankton.,This change does not,This change does not
+significantly affect data collected by the other sieve sizes.,The data collected for,The data collected for
+these size fractions was not included in the totals for this data submittal.,It is,It is
+anticipated that data for the 64 um Size fraction will be included in all data collected,anticipated that data for the 64 um Size fraction will be included in all data collected,anticipated that data for the 64 um Size fraction will be included in all data collected
+after December 1998.,,
+FEBRUARY 2000- The sample enumeration protocol was changed to a Henson,FEBRUARY 2000- The sample enumeration protocol was changed to a Henson,FEBRUARY 2000- The sample enumeration protocol was changed to a Henson
+Stemple protocol.,,
+SUMMER 2000- All Latitude and Longitude positions converted to NAD83,SUMMER 2000- All Latitude and Longitude positions converted to NAD83,SUMMER 2000- All Latitude and Longitude positions converted to NAD83
+coordinates.,,
+April 2002,,
+The Maryland and Virginia mesozooplankton monitoring programs implemented,The Maryland and Virginia mesozooplankton monitoring programs implemented,The Maryland and Virginia mesozooplankton monitoring programs implemented
+modifications to their respective laboratory counting protocols in 1998 in order to,modifications to their respective laboratory counting protocols in 1998 in order to,modifications to their respective laboratory counting protocols in 1998 in order to
+better estimate species richness in Maryland and to eliminate large sieving losses of,better estimate species richness in Maryland and to eliminate large sieving losses of,better estimate species richness in Maryland and to eliminate large sieving losses of
+smaller taxa in Virginia.,A 1998 - 1999 Mesozooplankton Split Sample Study,A 1998 - 1999 Mesozooplankton Split Sample Study
+indicates the desired outcomes of the modifications were only partially,,
+accomplished.,"The ""new"" Versar counting method (Method code MZ101C) has","The ""new"" Versar counting method (Method code MZ101C) has"
+"improved Versar's ability to measure species richness, an important Bay-wide","improved Versar's ability to measure species richness, an important Bay-wide","improved Versar's ability to measure species richness, an important Bay-wide"
+"indicator, and the ""new"" ODU counting method (Method code MZ102B)",has,has
+increased ODU's taxa counts per sample.,"However, the ""new"" ODU method still","However, the ""new"" ODU method still"
+produces split sample results with significantly lower total counts than those of,produces split sample results with significantly lower total counts than those of,produces split sample results with significantly lower total counts than those of
+Versar.,"It appears to selectively undercount key taxa, particularly the immature","It appears to selectively undercount key taxa, particularly the immature"
+"(copepodite) life stage of calanoid copepods, a common and frequently dominant","(copepodite) life stage of calanoid copepods, a common and frequently dominant","(copepodite) life stage of calanoid copepods, a common and frequently dominant"
+taxonomic group.,"The study determined that counts produced with the ""new"" ODU","The study determined that counts produced with the ""new"" ODU"
+protocol have variances that are much higher than counts produced with the Versar,protocol have variances that are much higher than counts produced with the Versar,protocol have variances that are much higher than counts produced with the Versar
+"protocol, hence the ODU counts are less precise.","Furthermore, the number of taxa","Furthermore, the number of taxa"
+identified per sample was on average lower in the ODU counts.,"The ""old""",(Method
+"Code MZ102A) and ""new""",(Method code MZ102B) ODU counting protocols should,(Method code MZ102B) ODU counting protocols should
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,,4/26/2012
+,,Page 12 of 16
+be discontinued and a counting protocol patterned after the ICES recommended,be discontinued and a counting protocol patterned after the ICES recommended,be discontinued and a counting protocol patterned after the ICES recommended
+protocol (Harris et al. 2000) should be instated (Method Code MZ103).,protocol (Harris et al. 2000) should be instated (Method Code MZ103).,Backward
+comparability with the pre-1998 Chesapeake Bay Program mesozooplankton data,comparability with the pre-1998 Chesapeake Bay Program mesozooplankton data,comparability with the pre-1998 Chesapeake Bay Program mesozooplankton data
+"will unfortunately be lost in Virginia for most mesozooplankton taxa, but Maryland","will unfortunately be lost in Virginia for most mesozooplankton taxa, but Maryland","will unfortunately be lost in Virginia for most mesozooplankton taxa, but Maryland"
+and Virginia results will become comparable and the CBP monitoring programs,and Virginia results will become comparable and the CBP monitoring programs,and Virginia results will become comparable and the CBP monitoring programs
+"should be able to calculate and use multiple, Bay-wide mesozooplankton indicators.","should be able to calculate and use multiple, Bay-wide mesozooplankton indicators.","should be able to calculate and use multiple, Bay-wide mesozooplankton indicators."
+For extensive details in regards to quality assurance issues please see the CBP,For extensive details in regards to quality assurance issues please see the CBP,For extensive details in regards to quality assurance issues please see the CBP
+Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance
+Program at:,,
+http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,
+WINTER 2002- This monitoring program was terminated. The data record ends in,WINTER 2002- This monitoring program was terminated. The data record ends in,WINTER 2002- This monitoring program was terminated. The data record ends in
+October of 2002.,October of 2002.,
+08/11/2005.,"Note due to contract changes starting in January 1996, station LE5.5 had","Note due to contract changes starting in January 1996, station LE5.5 had"
+a coordinate change. This station move was not documented until August 2005. Due,a coordinate change. This station move was not documented until August 2005. Due,a coordinate change. This station move was not documented until August 2005. Due
+"to this station relocation, all data collected at the altered location had the station name","to this station relocation, all data collected at the altered location had the station name","to this station relocation, all data collected at the altered location had the station name"
+changed to LE5.5-W in August 2005.,changed to LE5.5-W in August 2005.,
+"January 2007- When all sampling terminated in October 2002, approximately 1,000","January 2007- When all sampling terminated in October 2002, approximately 1,000","January 2007- When all sampling terminated in October 2002, approximately 1,000"
+archived split samples dating from 1996 to 2002 were in storage at Old Dominion,archived split samples dating from 1996 to 2002 were in storage at Old Dominion,archived split samples dating from 1996 to 2002 were in storage at Old Dominion
+University.,"In 2005, the Bay Program took formal custody of these sample in hopes","In 2005, the Bay Program took formal custody of these sample in hopes"
+that in the future these archived samples could be reprocess with the pipette sub-,that in the future these archived samples could be reprocess with the pipette sub-,that in the future these archived samples could be reprocess with the pipette sub-
+sampling technique. Funding for recounting a portion of the archive samples became,sampling technique. Funding for recounting a portion of the archive samples became,sampling technique. Funding for recounting a portion of the archive samples became
+available form CBPO in early 2006. 72 archived Virginia mesozooplankton samples,available form CBPO in early 2006. 72 archived Virginia mesozooplankton samples,available form CBPO in early 2006. 72 archived Virginia mesozooplankton samples
+"were recounted by Versar, Inc., the contractor to the State of Maryland for the entire","were recounted by Versar, Inc., the contractor to the State of Maryland for the entire","were recounted by Versar, Inc., the contractor to the State of Maryland for the entire"
+historic Maryland zooplankton program. Samples target for recount in this effort were,historic Maryland zooplankton program. Samples target for recount in this effort were,historic Maryland zooplankton program. Samples target for recount in this effort were
+samples collected during the summer (July- September) in mesohaline and polyhaline,samples collected during the summer (July- September) in mesohaline and polyhaline,samples collected during the summer (July- September) in mesohaline and polyhaline
+waters since,their was a need for validation samples for,the zooplankton Indexes of
+Biotic integrity,in various stages of development at that time. Both the original Old,in various stages of development at that time. Both the original Old
+Dominion University count data and the recounted data from Versar appear in the,Dominion University count data and the recounted data from Versar appear in the,Dominion University count data and the recounted data from Versar appear in the
+database. Versar recount data will have a method code of MZ101C. Please refer to the,database. Versar recount data will have a method code of MZ101C. Please refer to the,database. Versar recount data will have a method code of MZ101C. Please refer to the
+Maryland Mesozooplankton monitoring program project documentation for,Maryland Mesozooplankton monitoring program project documentation for,Maryland Mesozooplankton monitoring program project documentation for
+enumeration protocol details. The following samples were part of the 2006 recount,enumeration protocol details. The following samples were part of the 2006 recount,enumeration protocol details. The following samples were part of the 2006 recount
+effort.,,
+STATION SAMPLE_DATE,STATION SAMPLE_DATE,
+CB6.1 7/9/1996,CB6.1 7/9/1996,
+CB6.1 7/24/1996,CB6.1 7/24/1996,
+CB6.1 8/5/1996,CB6.1 8/5/1996,
+CB6.1 8/26/1996,CB6.1 8/26/1996,
+CB6.1 9/8/1997,CB6.1 9/8/1997,
+CB6.1 7/6/1998,CB6.1 7/6/1998,
+CB6.1 7/6/1999,CB6.1 7/6/1999,
+CB6.1 9/11/2000,CB6.1 9/11/2000,
+CB6.1 8/14/2002,CB6.1 8/14/2002,
+CB6.1 9/16/2002,CB6.1 9/16/2002,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 13 of 16
+CB6.4 7/24/1996,
+CB6.4 8/5/1996,
+CB6.4 8/12/1997,
+CB6.4 7/6/1998,
+CB6.4 8/7/2000,
+CB6.4 9/14/2000,
+CB6.4 7/15/2002,
+CB7.3E 8/7/1996,
+CB7.3E 7/15/1997,
+CB7.3E 9/3/1998,
+CB7.3E 7/6/1999,
+CB7.3E 8/5/1999,
+CB7.3E 9/21/1999,
+CB7.3E 7/11/2000,
+CB7.3E 9/19/2002,
+CB7.4 7/22/1996,
+CB7.4 8/13/1997,
+CB7.4 8/10/1998,
+CB7.4 9/3/1998,
+CB7.4 7/6/1999,
+CB7.4 8/5/1999,
+CB7.4 9/21/1999,
+CB7.4 9/11/2000,
+LE3.6 7/9/1996,
+LE3.6 7/24/1996,
+LE3.6 8/5/1996,
+LE3.6 8/26/1996,
+LE3.6 7/15/1997,
+LE3.6 7/6/1998,
+LE3.6 9/1/1998,
+LE3.6 7/6/1999,
+LE3.6 8/9/2000,
+LE5.5 7/22/1996,
+LE5.5-W 9/21/1999,
+RET3.1 8/5/1998,
+RET3.1 7/8/1999,
+RET3.1 8/5/1999,
+RET3.1 8/9/2001,
+RET3.1 9/12/2002,
+RET4.3 7/10/1996,
+RET4.3 7/24/1996,
+RET4.3 8/6/1996,
+RET4.3 7/10/1997,
+RET4.3 7/23/1997,
+RET4.3 7/20/1998,
+RET4.3 8/19/1998,
+RET4.3 9/9/1998,
+RET5.2 9/23/1997,
+RET5.2 8/17/1999,
+SBE5 7/8/1996,
+SBE5 7/23/1996,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 14 of 16
+SBE5 7/8/1997,
+SBE5 9/15/1999,
+SBE5 9/21/2000,
+TF3.3 7/8/1999,
+TF3.3 8/24/1999,
+WE4.2 7/24/1996,
+WE4.2 8/5/1996,
+WE4.2 7/6/1998,
+WE4.2 9/1/1998,
+Back to Top,
+Distribution_Information:,
+Distributor:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Distribution_Liability:,
+"I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other","I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other"
+agencies and institutions as specified by the Chesapeake Bay Program Office as data,agencies and institutions as specified by the Chesapeake Bay Program Office as data
+"providers. I agree to credit the data originators in any publications, reports or presentations","providers. I agree to credit the data originators in any publications, reports or presentations"
+"generated from this data. I also accept that, although these data have been processed","generated from this data. I also accept that, although these data have been processed"
+"successfully on a computer system at the Chesapeake Bay Program, no warranty expressed","successfully on a computer system at the Chesapeake Bay Program, no warranty expressed"
+or implied is made regarding the accuracy or utility of the data on any other system or for,or implied is made regarding the accuracy or utility of the data on any other system or for
+"general or scientific purposes, nor shall the act of distribution constitute any such warranty.","general or scientific purposes, nor shall the act of distribution constitute any such warranty."
+This disclaimer applies both to individual use of the data and aggregate use with other data.,This disclaimer applies both to individual use of the data and aggregate use with other data.
+It is strongly recommended that careful attention be paid to the contents of the data,It is strongly recommended that careful attention be paid to the contents of the data
+documentation file associated with these data. The Chesapeake Bay Program shall not be,documentation file associated with these data. The Chesapeake Bay Program shall not be
+held liable for improper or incorrect use of the data described and/or contained herein.,held liable for improper or incorrect use of the data described and/or contained herein.
+Standard_Order_Process:,
+Digital_Form:,
+Digital_Transfer_Information:,
+Format_Name: ASCII,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 15 of 16
+Digital_Transfer_Option:,
+Online_Option:,
+Computer_Contact_Information:,
+Network_Address:,
+Network_Resource_Name: www.chesapeakebay.net,Network_Resource_Name: www.chesapeakebay.net
+Network_Resource_Name: ftp.chesapeakebay.net,
+Offline_Option:,
+Offline_Media: CD-ROM,
+Recording_Capacity:,
+Recording_Density: 650,
+Recording_Density_Units: megabyte,
+Recording_Format: ISO 9660,
+Compatibility_Information:,
+None,
+Fees: None,
+Ordering_Instructions:,
+All requests for data on media must be made in writing,
+Turnaround: 5 Working Days,
+Standard_Order_Process:,
+Digital_Form:,
+Digital_Transfer_Information:,
+Format_Name: ASCII,
+Digital_Transfer_Option:,
+Online_Option:,
+Computer_Contact_Information:,
+Network_Address:,
+Network_Resource_Name: ftp.chesapeakebay.net,
+Network_Resource_Name: www.chesapeakebay.net,Network_Resource_Name: www.chesapeakebay.net
+Offline_Option:,
+Offline_Media: CD-ROM,
+Recording_Capacity:,
+Recording_Density: 650,
+Recording_Density_Units: megabytes,
+Recording_Format: ISO 9660,
+Compatibility_Information:,
+None,
+Fees: None,
+Ordering_Instructions:,
+All request for data on media must be in received,
+in writing,
+Turnaround: 5 Working Days,
+Standard_Order_Process:,
+Digital_Form:,
+Digital_Transfer_Information:,
+Format_Name: ASCII,
+Digital_Transfer_Option:,
+Online_Option:,
+Computer_Contact_Information:,
+Network_Address:,
+Network_Resource_Name:,
+http://cobia.chesapeakebay.net/plankton/fips.cfm,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012
+,Page 16 of 16
+Fees: None,
+Custom_Order_Process:,
+None,
+Technical_Prerequisites:,
+None,
+Available_Time_Period:,
+Time_Period_Information:,
+Range_of_Dates/Times:,
+Beginning_Date: 19850101,
+Ending_Date: Present,
+Back to Top,
+Metadata_Reference_Information:,
+Metadata_Date: 20000413,
+Metadata_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Metadata_Standard_Name: NBII Content Standard for National Biological Information,
+Infrastructure Metadata,
+Metadata_Standard_Version: FGDC-STD-001-1998,
+Metadata_Access_Constraints: None,
+Metadata_Use_Constraints:,
+None,
+Metadata_Security_Information:,
+Metadata_Security_Classification_System: None,
+Metadata_Security_Classification: Unclassified,
+Metadata_Security_Handling_Description:,
+None,
+Back to Top,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012

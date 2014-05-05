@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”,Name: “Table 1 of 1 on page 13 of 41”
+Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,ZOOP,ZOOP,WQAPP,,
+,,,,,,,,,,,Revision,Revision,No.:,No.:,5
+,,,,,,,,,,,Date:,Date:,4/30/02,4/30/02,4/30/02
+,,,,,,,,,,,Page:,Page:,13,of,41
+Sampling,Sampling,IV.C,IV.C,,sample,,"
+    ","
+    ",80-120%,80-120%,,,90%,,
+Table,2.,Precision,Precision,",",Accuracy,and,Completeness,Completeness,Completeness,MDL,Objectives,Objectives,Objectives,for,for
+Field,Measurements,Measurements,Measurements,,,,,,,,,,,,
+Parameter,Parameter,Reference,Reference,,Precision,,Accuracy,Accuracy,Compl.,Compl.,MDL,,,,
+pH,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.01,pH,,,
+D.O,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.02,mg/L,,,
+Secchi,Secchi,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.1,M,,,
+Cond.,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,1,umho/cm,umho/cm,,,
+Salinity,Salinity,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.1,ppt,,,
+Light,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.05,@,,,
+Attenuation,Attenuation,,,,,,,,,,100%,100%,light,,
+Water,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.1,C,,,
+Temperature,Temperature,,,,,,,,,,,,,,
+Depth,,IV.C,IV.C,,"
+    ",,80-120,80-120,90%,,0.02,M,,,
+Table,3.,"Precision,","Precision,","Precision,",Accuracy,Accuracy,and,Completeness,Completeness,Completeness,Objectives,Objectives,Objectives,for,for
+Zooplankton,Zooplankton,Analysis,Analysis,,,,,,,,,,,,
+Parameter,Parameter,Reference,Reference,Condition,Condition,Precision,Precision,Precision,Accuracy,Accuracy,Completion,Completion,Completion,,
+Zooplankton,Zooplankton,,,subsample,subsample,"
+    ","10% 
+    ",10%,>,90%,,,,,
+Identification,Identification,Identification,,,,,,,,,,,,,
+,,"Birdsong,","Birdsong,",et,"al.,",1983,,,,,,,,,
+Enumeration,Enumeration,,,subsample,subsample,"
+    ","5% 
+    ",5%,>,95%,,,,,
+,,"Alden,",et,"al.,",1982,,,,,,,,,,

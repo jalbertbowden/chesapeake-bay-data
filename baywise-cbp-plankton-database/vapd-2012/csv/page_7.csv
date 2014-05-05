@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,
+,,,,,Page 7 of 12
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",
+>Calculation,>Calculation,of,Carbon,Fixation,
+The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in
+ug/l/hr.,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in
+the associated data set.,the associated data set.,Only the resulting carbon fixation rate is included.,Only the resulting carbon fixation rate is included.,Only the resulting carbon fixation rate is included.,Only the resulting carbon fixation rate is included.
+1) CARBALK = 120 * (Total Alkalinity),1) CARBALK = 120 * (Total Alkalinity),1) CARBALK = 120 * (Total Alkalinity),1) CARBALK = 120 * (Total Alkalinity),1) CARBALK = 120 * (Total Alkalinity),
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK
+* 1.05 / DPMSP * (ETIME-BTIME),* 1.05 / DPMSP * (ETIME-BTIME),* 1.05 / DPMSP * (ETIME-BTIME),* 1.05 / DPMSP * (ETIME-BTIME),,
+where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,
+IVOL = Volume incubated,IVOL = Volume incubated,IVOL = Volume incubated,IVOL = Volume incubated,,
+FVOL = Volume filtered,FVOL = Volume filtered,FVOL = Volume filtered,FVOL = Volume filtered,,
+DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample
+DPMT0 = Disintegrations per minute from corresponding unincubated,DPMT0 = Disintegrations per minute from corresponding unincubated,DPMT0 = Disintegrations per minute from corresponding unincubated,DPMT0 = Disintegrations per minute from corresponding unincubated,DPMT0 = Disintegrations per minute from corresponding unincubated,DPMT0 = Disintegrations per minute from corresponding unincubated
+(time zero - t0) sample,(time zero - t0) sample,,,,
+DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike
+BTIME = Beginning time of incubation (h),BTIME = Beginning time of incubation (h),BTIME = Beginning time of incubation (h),BTIME = Beginning time of incubation (h),BTIME = Beginning time of incubation (h),
+ETIME = Ending time of incubation (h),ETIME = Ending time of incubation (h),ETIME = Ending time of incubation (h),ETIME = Ending time of incubation (h),ETIME = Ending time of incubation (h),
+CARBALK = Total inorganic carbonate,CARBALK = Total inorganic carbonate,CARBALK = Total inorganic carbonate,CARBALK = Total inorganic carbonate,CARBALK = Total inorganic carbonate,
+>Calculation,>Calculation,of,Assimilation,Ratio,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to
+rounding the CARBFIX value,rounding the CARBFIX value,rounding the CARBFIX value,rounding the CARBFIX value,,
+where ASMRATIO = Assimilation ratio,where ASMRATIO = Assimilation ratio,where ASMRATIO = Assimilation ratio,where ASMRATIO = Assimilation ratio,where ASMRATIO = Assimilation ratio,
+CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,
+CHLA = Chlorophyll a in ug/l,CHLA = Chlorophyll a in ug/l,CHLA = Chlorophyll a in ug/l,CHLA = Chlorophyll a in ug/l,,
+Process_Date: ongoing,Process_Date: ongoing,,,,
+Process_Contact:,Process_Contact:,,,,
+Contact_Information:,Contact_Information:,,,,
+Contact_Person_Primary:,Contact_Person_Primary:,Contact_Person_Primary:,Contact_Person_Primary:,,
+,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+,Basin,,,,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+Manager,Manager,,,,
+Contact_Address:,Contact_Address:,Contact_Address:,,,
+,Address_Type: mailing and physical address,Address_Type: mailing and physical address,Address_Type: mailing and physical address,Address_Type: mailing and physical address,
+,Address:,,,,
+,"410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109",
+,City: Annapolis,City: Annapolis,City: Annapolis,,
+,State_or_Province: Maryland,State_or_Province: Maryland,State_or_Province: Maryland,State_or_Province: Maryland,
+,Postal_Code: 21403,Postal_Code: 21403,Postal_Code: 21403,,
+,Country: USA,Country: USA,Country: USA,,
+Contact_Voice_Telephone: 1-800-968-7229,Contact_Voice_Telephone: 1-800-968-7229,Contact_Voice_Telephone: 1-800-968-7229,Contact_Voice_Telephone: 1-800-968-7229,Contact_Voice_Telephone: 1-800-968-7229,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,4/27/2012

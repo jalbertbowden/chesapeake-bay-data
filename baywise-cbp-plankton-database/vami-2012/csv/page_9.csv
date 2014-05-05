@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 9 of 12”,Name: “Table 1 of 1 on page 9 of 12”
+Table: 9,Table: 9
+,
+,Page 9 of 12
+"at the following stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5,","at the following stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5,"
+"TF4.2, RET4.3, TF5.5, and RET5.2. From September to the present, all stations in the","TF4.2, RET4.3, TF5.5, and RET5.2. From September to the present, all stations in the"
+current list were included in the sampling regime.,During 1993 species counts were
+made only for large groups (SPECCODE 1 to 6).,"As a result, only density values for"
+these 6 groups are included in the data set for 1993.,"During 1994, counts were made"
+for Rotifers to the lowest possible taxonomic level and the data set structure reflects,for Rotifers to the lowest possible taxonomic level and the data set structure reflects
+this change.,The Rotifer spp. NAME and SPECCODE are total abundance of all
+rotifers.,
+The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -
+BAY171 - BAY211. See the Guide to Living Resources Data Sets for complete,BAY171 - BAY211. See the Guide to Living Resources Data Sets for complete
+listing of Cruise periods.,
+8/31/95- SER_NUM,Old Dominion University does not use a serial number system
+for sample tracking so this variable is not available,
+SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the
+zooplankton Data based on salinity data collected by the Virginia Water Quality,zooplankton Data based on salinity data collected by the Virginia Water Quality
+Monitoring Program. Values were derived from Water Quality Hydrographic data,Monitoring Program. Values were derived from Water Quality Hydrographic data
+collected concurrently with the mesozooplankton. If data was not available for the of,collected concurrently with the mesozooplankton. If data was not available for the of
+"sampling but was collected within a one week window of sampling date, the water","sampling but was collected within a one week window of sampling date, the water"
+quality data was used to determine a salinity zone. However the salinity zone is,quality data was used to determine a salinity zone. However the salinity zone is
+marked with an E to denote being estimated.,
+02/01/98- The salinity zones appearing in the 1997 data are provisional. They have,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have
+not yet been checked against the water quality data for validation. The 1997 Virginia,not yet been checked against the water quality data for validation. The 1997 Virginia
+Tributary water quality data will not be delivered to the CBPO until June 1998. After,Tributary water quality data will not be delivered to the CBPO until June 1998. After
+"delivery of the water quality data, salinity zones will be confirmed.",
+07/01/1998- Analysis of the data as part of the CBP Zooplankton Indicator Program,07/01/1998- Analysis of the data as part of the CBP Zooplankton Indicator Program
+revealed a double counting rotifers in the 1994 data set rotifers were identified once,revealed a double counting rotifers in the 1994 data set rotifers were identified once
+as a group and then individually as species. Therefore all individual species counts,as a group and then individually as species. Therefore all individual species counts
+were removed.,
+"01/01/2000- As part of a migration to a FOXPRO database management system, the","01/01/2000- As part of a migration to a FOXPRO database management system, the"
+species coding system changed.,Old codes were changed to the form ODU_## to
+clearly denote them from the new species list.,It is recommended that only data from
+the online data system or ASCII files generated after October 2002 be used for,the online data system or ASCII files generated after October 2002 be used for
+analysis.,
+04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables,04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables
+abnormally high counts of Oligotrichs were found at numerous stations.,It is unclear
+whether this increase due to natural phenomena or some kind of taxonomist bias due,whether this increase due to natural phenomena or some kind of taxonomist bias due
+to the introduction of new personnel.,
+03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton,03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton
+genus Ceratium were being mistaken as rotifers in routine and split sample counts.,genus Ceratium were being mistaken as rotifers in routine and split sample counts.
+Phytoplankton samples with high Ceratium counts were identified and the,Phytoplankton samples with high Ceratium counts were identified and the
+corresponding microzooplankton samples were recounted and resubmitted from the,corresponding microzooplankton samples were recounted and resubmitted from the
+time period between July 1999-December 2001.,ODU taxonomists were also noted
+finding high counts of Oligotrichs in split samples where Maryland personnel did not,finding high counts of Oligotrichs in split samples where Maryland personnel did not
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,4/26/2012

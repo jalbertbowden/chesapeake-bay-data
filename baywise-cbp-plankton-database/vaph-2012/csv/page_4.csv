@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”,Name: “Table 1 of 1 on page 4 of 13”
+Table: 4,Table: 4,Table: 4,Table: 4
+,,,
+,,,Page 4 of 13
+Native_Data_Set_Environment:,Native_Data_Set_Environment:,,
+Relational Database,Relational Database,,
+Cross_Reference:,,,
+Citation_Information:,Citation_Information:,,
+Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,,
+Publication_Date: 20000101,Publication_Date: 20000101,,
+Publication_Time: Unknown,Publication_Time: Unknown,,
+Title:,,,
+,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living
+,Resources Data,,
+Edition: Version 1,Edition: Version 1,,
+Publication_Information:,Publication_Information:,,
+,"Publication_Place: Annapolis, MD",,
+,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,
+Other_Citation_Details:,Other_Citation_Details:,,
+,Unknown,,
+Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf
+Back to Top,,,
+Data_Quality_Information:,,,
+Attribute_Accuracy:,,,
+Attribute_Accuracy_Report:,Attribute_Accuracy_Report:,,
+The principal investigator and laboratory chief for quality assurance routinely check,The principal investigator and laboratory chief for quality assurance routinely check,The principal investigator and laboratory chief for quality assurance routinely check,The principal investigator and laboratory chief for quality assurance routinely check
+"taxon identifications, raw data sheets and other stages of the collection and analysis","taxon identifications, raw data sheets and other stages of the collection and analysis","taxon identifications, raw data sheets and other stages of the collection and analysis","taxon identifications, raw data sheets and other stages of the collection and analysis"
+procedures.,In-lab verifications of identification and cell counts are conducted by the,In-lab verifications of identification and cell counts are conducted by the,In-lab verifications of identification and cell counts are conducted by the
+"re-examination of 5% of the sample concentrates, and with annual comparisons made","re-examination of 5% of the sample concentrates, and with annual comparisons made","re-examination of 5% of the sample concentrates, and with annual comparisons made","re-examination of 5% of the sample concentrates, and with annual comparisons made"
+in split sample analysis involving the Morgan State Phytoplankton Laboratory. Cell,in split sample analysis involving the Morgan State Phytoplankton Laboratory. Cell,in split sample analysis involving the Morgan State Phytoplankton Laboratory. Cell,in split sample analysis involving the Morgan State Phytoplankton Laboratory. Cell
+counts and identifications comparisons will also be conducted on in-lab QA/QC,counts and identifications comparisons will also be conducted on in-lab QA/QC,counts and identifications comparisons will also be conducted on in-lab QA/QC,counts and identifications comparisons will also be conducted on in-lab QA/QC
+results coming from checking and comparing results between taxonomist,results coming from checking and comparing results between taxonomist,results coming from checking and comparing results between taxonomist,from 5% of
+samples counted each cruise.,samples counted each cruise.,,
+Logical_Consistency_Report:,Logical_Consistency_Report:,,
+Not Applicable,,,
+Completeness_Report:,,,
+DATA ENTRY METHOD:,DATA ENTRY METHOD:,Phytoplankton and picoplankton counts are entered using a,Phytoplankton and picoplankton counts are entered using a
+program written in BASIC.,program written in BASIC.,ASCII format files are then converted into SAS datasets and,ASCII format files are then converted into SAS datasets and
+used for statistical analyses .,used for statistical analyses .,ASCII format data sets for submittal are exported from the,ASCII format data sets for submittal are exported from the
+SAS datasets.,,,
+DATA VERIFICATION:,DATA VERIFICATION:,Double-entry with comparison of two files in SAS. Re-entry,Double-entry with comparison of two files in SAS. Re-entry
+until both copies match exactly.,until both copies match exactly.,,
+Positional_Accuracy:,,,
+Horizontal_Positional_Accuracy:,Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,Horizontal_Positional_Accuracy_Report:,,
+,Station positions (latitudes and longitudes) in data set are approximations of,Station positions (latitudes and longitudes) in data set are approximations of,Station positions (latitudes and longitudes) in data set are approximations of
+,actual positions in the field. Station latitudes and longitudes are input into a,actual positions in the field. Station latitudes and longitudes are input into a,actual positions in the field. Station latitudes and longitudes are input into a
+,Loran-C or GPS receiver and sampling begins when boat reaches,Loran-C or GPS receiver and sampling begins when boat reaches,
+,preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+,Loran/ GPS coordinates for each sampling event are not currently recorded in,Loran/ GPS coordinates for each sampling event are not currently recorded in,Loran/ GPS coordinates for each sampling event are not currently recorded in
+,data set.,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,,4/27/2012

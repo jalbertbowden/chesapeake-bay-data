@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”,Name: “Table 1 of 1 on page 5 of 12”
+Table: 5,Table: 5,Table: 5,Table: 5
+,,,
+,,,Page 5 of 12
+Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+Station latitudes and longitudes are input into a,Station latitudes and longitudes are input into a,Station latitudes and longitudes are input into a,Loran-C or GPS receiver and
+sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,Loran-C is
+accurate to +/- 1500 ft.,accurate to +/- 1500 ft.,The actual Loran/ GPS coordinates for each sampling,The actual Loran/ GPS coordinates for each sampling
+event are not currently recorded in data set.,event are not currently recorded in data set.,event are not currently recorded in data set.,
+Vertical_Positional_Accuracy:,Vertical_Positional_Accuracy:,,
+Vertical_Positional_Accuracy_Report:,Vertical_Positional_Accuracy_Report:,Vertical_Positional_Accuracy_Report:,
+Water column conductivity is recorded immediately before plankton sampling.,Water column conductivity is recorded immediately before plankton sampling.,Water column conductivity is recorded immediately before plankton sampling.,Water column conductivity is recorded immediately before plankton sampling.
+P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff,P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff,P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff,P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff
+depth between upper and lower water column composite samples. If a station,depth between upper and lower water column composite samples. If a station,depth between upper and lower water column composite samples. If a station,depth between upper and lower water column composite samples. If a station
+has no pycnocline then the is divided into thirds by depth and the top third of,has no pycnocline then the is divided into thirds by depth and the top third of,has no pycnocline then the is divided into thirds by depth and the top third of,has no pycnocline then the is divided into thirds by depth and the top third of
+the water column is treated as the upper water column.,the water column is treated as the upper water column.,the water column is treated as the upper water column.,The pycnocline is
+determined as follows:,determined as follows:,((Bottom Conductivity-Surface Conductivity) /,((Bottom Conductivity-Surface Conductivity) /
+Bottomdepth)*2= Threshold,Bottomdepth)*2= Threshold,If Threshold is less than 500 then Station has no,If Threshold is less than 500 then Station has no
+"Pycnocline. If Threshold is greater than 500, then the pycnocline is the first","Pycnocline. If Threshold is greater than 500, then the pycnocline is the first","Pycnocline. If Threshold is greater than 500, then the pycnocline is the first","Pycnocline. If Threshold is greater than 500, then the pycnocline is the first"
+depth at which the conductivity change is greater than the threshold value.,depth at which the conductivity change is greater than the threshold value.,depth at which the conductivity change is greater than the threshold value.,depth at which the conductivity change is greater than the threshold value.
+Units of measurement: Conductivity -uhhos/cm,Units of measurement: Conductivity -uhhos/cm,Units of measurement: Conductivity -uhhos/cm,Depth- meters
+,Lineage:,,
+Source_Information:,,,
+,Source_Citation:,,
+Citation_Information:,Citation_Information:,,
+Originator: Kneeland Nesius,Originator: Kneeland Nesius,Originator: Kneeland Nesius,
+Originator: Old Dominion University,Originator: Old Dominion University,Originator: Old Dominion University,
+Publication_Date: 20000101,Publication_Date: 20000101,Publication_Date: 20000101,
+,Title:,,
+,Virginia Chesapeake Bay Water Quality Monitoring,Virginia Chesapeake Bay Water Quality Monitoring,
+,Program:Primary Production Component,Program:Primary Production Component,
+Publication_Information:,Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, MD USA","Publication_Place: Annapolis, MD USA",
+,Publisher: US EPA Chesapeake Bay Program Office,Publisher: US EPA Chesapeake Bay Program Office,Publisher: US EPA Chesapeake Bay Program Office
+Other_Citation_Details:,Other_Citation_Details:,Other_Citation_Details:,
+,Unknown,,
+Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+Online_Linkage: ftp.chesapeakebay.net,Online_Linkage: ftp.chesapeakebay.net,Online_Linkage: ftp.chesapeakebay.net,
+Larger_Work_Citation:,Larger_Work_Citation:,Larger_Work_Citation:,
+,Citation_Information:,Citation_Information:,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+,Publication_Date: 19981231,Publication_Date: 19981231,
+,Title:,,
+,,Chesapeake Bay Program Plankton Database,Chesapeake Bay Program Plankton Database
+,Edition: Version 2.0,Edition: Version 2.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database
+,Publication_Information:,Publication_Information:,
+,,"Publication_Place: Annapolis, MD",
+,,Publisher: US EPA Chesapeake Bay Program,Publisher: US EPA Chesapeake Bay Program
+,Other_Citation_Details:,Other_Citation_Details:,
+,,None,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,
+Source_Time_Period_of_Content:,Source_Time_Period_of_Content:,,
+Time_Period_Information:,Time_Period_Information:,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,4/27/2012

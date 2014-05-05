@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”,Name: “Table 1 of 1 on page 7 of 12”
+Table: 7,Table: 7,Table: 7
+,,
+,,Page 7 of 12
+"Group I - copepod nauplii, barnacle nauplii, polycheate larvae, Rotifers, and","Group I - copepod nauplii, barnacle nauplii, polycheate larvae, Rotifers, and","Group I - copepod nauplii, barnacle nauplii, polycheate larvae, Rotifers, and"
+Cladocera nauplii over 73 um in size,Cladocera nauplii over 73 um in size,
+Group II-,"Large tintinnids, oligotrichs, and small rotifers between 30 - 73 um","Large tintinnids, oligotrichs, and small rotifers between 30 - 73 um"
+Group III-Small Ciliates below 30 um,Group III-Small Ciliates below 30 um,
+The following equation was used to convert raw,The following equation was used to convert raw,
+counts to density (#/L) for each taxon identified:,counts to density (#/L) for each taxon identified:,
+GROUP II OR III ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN,GROUP II OR III ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN,GROUP II OR III ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN
+TRIBS,,
+SUM OF GROUP I +(GROUP II *MULTIPLIER)+(GROUP III*,SUM OF GROUP I +(GROUP II *MULTIPLIER)+(GROUP III*,SUM OF GROUP I +(GROUP II *MULTIPLIER)+(GROUP III*
+MULTIPLIER) DEN_L = DENSITY PER VOLUME,MULTIPLIER) DEN_L = DENSITY PER VOLUME,
+((RAWCOUNT/MILLILITERS OF SAMPLE),((RAWCOUNT/MILLILITERS OF SAMPLE),
+*CONCENTRATION),*CONCENTRATION),/TOTAL VOLUMEOF COMPOSITE SAMPLE
+WHERE RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A,WHERE RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A,WHERE RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A
+CHAMBER,CHAMBER,
+CONCENTRATION=CONCENTRATION FACTOR,CONCENTRATION=CONCENTRATION FACTOR,{283.286}
+Process_Date: Unknown,Process_Date: Unknown,
+Process_Contact:,Process_Contact:,
+Contact_Information:,Contact_Information:,
+,Contact_Person_Primary:,
+,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+,Basin,
+,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+,Manager,
+,Contact_Address:,
+,Address_Type: mailing and physical address,
+,Address:,
+,"410 Severn Avenue, Suite 109",
+,City: Annapolis,
+,State_or_Province: Maryland,
+,Postal_Code: 21403,
+,Country: USA,
+,Contact_Voice_Telephone: 1-800-968-7229,
+,Contact_Voice_Telephone: 410-267-5729,
+,Contact_Facsimile_Telephone: 410-267-5777,
+,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net
+,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+,Contact Instructions:,
+,unavailable,
+Process_Step:,,
+Process_Description:,Process_Description:,
+Metadata imported.,Metadata imported.,
+Source_Used_Citation_Abbreviation:,Source_Used_Citation_Abbreviation:,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata8.htm,4/26/2012

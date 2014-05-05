@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”,Name: “Table 1 of 1 on page 5 of 13”
+Table: 5,Table: 5,Table: 5,Table: 5
+,,,
+,,,Page 5 of 13
+Vertical_Positional_Accuracy:,Vertical_Positional_Accuracy:,,
+Quantitative_Vertical_Positional_Accuracy_Assessment:,Quantitative_Vertical_Positional_Accuracy_Assessment:,Quantitative_Vertical_Positional_Accuracy_Assessment:,
+Vertical_Positional_Accuracy_Value: P_Depth,Vertical_Positional_Accuracy_Value: P_Depth,Vertical_Positional_Accuracy_Value: P_Depth,
+Vertical_Positional_Accuracy_Explanation:,Vertical_Positional_Accuracy_Explanation:,Vertical_Positional_Accuracy_Explanation:,
+Determination of upper and lower water column: A pycnocline is,Determination of upper and lower water column: A pycnocline is,Determination of upper and lower water column: A pycnocline is,Determination of upper and lower water column: A pycnocline is
+established by recording Water,established by recording Water,established by recording Water,
+column conductivity,column conductivity,immediately before plankton sampling.,P_DEPTH
+is set at 0.5 meters above the,is set at 0.5 meters above the,is set at 0.5 meters above the,
+Pycnocline and is used at the cutoff depth between upper and lower water,Pycnocline and is used at the cutoff depth between upper and lower water,Pycnocline and is used at the cutoff depth between upper and lower water,Pycnocline and is used at the cutoff depth between upper and lower water
+column composite samples. If a station has no pycnocline the water,column composite samples. If a station has no pycnocline the water,column composite samples. If a station has no pycnocline the water,column composite samples. If a station has no pycnocline the water
+column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water,column is divided in to thirds by total depth and the top third of the water
+column is treated as the upper water column. The pycnocline is,column is treated as the upper water column. The pycnocline is,column is treated as the upper water column. The pycnocline is,column is treated as the upper water column. The pycnocline is
+determined as follows:,determined as follows:,,
+((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2=,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2=,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2=,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2=
+Threshold,Threshold,,
+"if Threshold is less than 500, then the station has no pycnocline if","if Threshold is less than 500, then the station has no pycnocline if","if Threshold is less than 500, then the station has no pycnocline if","if Threshold is less than 500, then the station has no pycnocline if"
+"Threshold is greater than 500, then the pycnocline depth is determined to","Threshold is greater than 500, then the pycnocline depth is determined to","Threshold is greater than 500, then the pycnocline depth is determined to","Threshold is greater than 500, then the pycnocline depth is determined to"
+be the first depth at which the conductivity change is greater than the,be the first depth at which the conductivity change is greater than the,be the first depth at which the conductivity change is greater than the,be the first depth at which the conductivity change is greater than the
+threshold value. Stations with out a pycnocline arbitraily have the top 1/3,threshold value. Stations with out a pycnocline arbitraily have the top 1/3,threshold value. Stations with out a pycnocline arbitraily have the top 1/3,threshold value. Stations with out a pycnocline arbitraily have the top 1/3
+rd of the water column be considered the upper water column and lower,rd of the water column be considered the upper water column and lower,rd of the water column be considered the upper water column and lower,rd of the water column be considered the upper water column and lower
+2/3rds is considered the lower water column Units of measurement:,2/3rds is considered the lower water column Units of measurement:,2/3rds is considered the lower water column Units of measurement:,2/3rds is considered the lower water column Units of measurement:
+Conductivity- uhhos/cm,Conductivity- uhhos/cm,Depth- meters,
+,Lineage:,,
+Source_Information:,,,
+,Source_Citation:,,
+Citation_Information:,Citation_Information:,,
+Originator: Harold Marshall,Originator: Harold Marshall,Originator: Harold Marshall,
+Originator: Old Dominion University,Originator: Old Dominion University,Originator: Old Dominion University,
+Publication_Date: 20000101,Publication_Date: 20000101,Publication_Date: 20000101,
+,Title:,,
+,Virginia Chesapeake Bay Water Quality Monitoring Program:,Virginia Chesapeake Bay Water Quality Monitoring Program:,Virginia Chesapeake Bay Water Quality Monitoring Program:
+,Phytoplankton and Picoplankton Component,Phytoplankton and Picoplankton Component,
+Edition: Unknown,Edition: Unknown,,
+Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+Publication_Information:,Publication_Information:,,
+,"Publication_Place: Annapolis, Maryland United States","Publication_Place: Annapolis, Maryland United States",
+,Publisher: US EPA Chesapeake Bay Program,Publisher: US EPA Chesapeake Bay Program,
+Other_Citation_Details:,Other_Citation_Details:,,
+,Unknown,,
+Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+Online_Linkage: ftp.chesapeakebay.net,Online_Linkage: ftp.chesapeakebay.net,Online_Linkage: ftp.chesapeakebay.net,
+Larger_Work_Citation:,Larger_Work_Citation:,,
+,Citation_Information:,Citation_Information:,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+,Publication_Date: 20080301,Publication_Date: 20080301,
+,Title:,,
+,,Chesapeake Bay Program Plankton Database,Chesapeake Bay Program Plankton Database
+,Edition: Version 3.0,Edition: Version 3.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata5.htm,4/27/2012

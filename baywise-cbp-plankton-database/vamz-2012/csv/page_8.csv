@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 8 of 16”,Name: “Table 1 of 1 on page 8 of 16”,Name: “Table 1 of 1 on page 8 of 16”,Name: “Table 1 of 1 on page 8 of 16”
+Table: 8,Table: 8,Table: 8,Table: 8
+,,,
+,,,Page 8 of 16
+DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.,DISTANCE is the distance traveled by the bongo net during the tow.
+The blade constant is equal to 26873/999999.,The blade constant is equal to 26873/999999.,The blade constant is equal to 26873/999999.,
+The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:
+SAMPLE VOLUME= DISTANCE*AREA,SAMPLE VOLUME= DISTANCE*AREA,SAMPLE VOLUME= DISTANCE*AREA,
+Where AREA + 0.18776 square meters.,Where AREA + 0.18776 square meters.,Where AREA + 0.18776 square meters.,
+>ZOOPLANKTON,>ZOOPLANKTON,DENSITY,
+-For Variance Stabilization techniques MZ102A an MZ102B,-For Variance Stabilization techniques MZ102A an MZ102B,-For Variance Stabilization techniques MZ102A an MZ102B,
+Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is,Densities are first calculated for each size class and then a total density is
+calculated.,The size classes range from 200 to 2000 microns and represent the,The size classes range from 200 to 2000 microns and represent the,The size classes range from 200 to 2000 microns and represent the
+sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and,sieve sizes used to separate organisms into categories prior to identification and
+enumeration.,enumeration.,,
+SC2000= ((2**SC2000S)*SC2000C)/VOL,SC2000= ((2**SC2000S)*SC2000C)/VOL,SC2000= ((2**SC2000S)*SC2000C)/VOL,
+SC850,= ((2**SC850S)*SC850C)/VOL,= ((2**SC850S)*SC850C)/VOL,
+SC600,= ((2**SC600S)*SC600C)/VOL,= ((2**SC600S)*SC600C)/VOL,
+SC300,= ((2**SC300S)*SC300C)/VOL,= ((2**SC300S)*SC300C)/VOL,
+SC200,= ((2**SC2000S)*SC200C)/VOL,= ((2**SC2000S)*SC200C)/VOL,
+*SC75,= ((2**SC75S)*SC75C)/VOL,= ((2**SC75S)*SC75C)/VOL,
+T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,
+*SC75- for samples collected after March 1998,*SC75- for samples collected after March 1998,*SC75- for samples collected after March 1998,
+SC= Density of size class N,SC= Density of size class N,SC= Density of size class N,
+SCS= Number of splits for size class N,SCS= Number of splits for size class N,SCS= Number of splits for size class N,
+SCC= Number counted in split for size class N,SCC= Number counted in split for size class N,SCC= Number counted in split for size class N,
+-For Henson Stemple technique MZ103,-For Henson Stemple technique MZ103,-For Henson Stemple technique MZ103,
+The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon
+identified:,,,
+DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),
+Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,
+A = number of individuals counted in the sub sample,A = number of individuals counted in the sub sample,A = number of individuals counted in the sub sample,
+B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken
+C = sub sample volume in milliliters,C = sub sample volume in milliliters,C = sub sample volume in milliliters,
+FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters
+Process_Date: Unknown,Process_Date: Unknown,,
+Process_Contact:,Process_Contact:,,
+Contact_Information:,Contact_Information:,Contact_Information:,
+Contact_Person_Primary:,Contact_Person_Primary:,Contact_Person_Primary:,
+,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+,Basin,,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata4.htm,4/26/2012

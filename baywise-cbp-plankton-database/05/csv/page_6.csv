@@ -1,0 +1,60 @@
+Name: “Table 1 of 1 on page 6 of 21”,Name: “Table 1 of 1 on page 6 of 21”,Name: “Table 1 of 1 on page 6 of 21”,Name: “Table 1 of 1 on page 6 of 21”,Name: “Table 1 of 1 on page 6 of 21”,Name: “Table 1 of 1 on page 6 of 21”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,
+,,VAPHDOC.doc,VAPHDOC.doc,,
+"if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then"
+the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the
+threshold value.,,,,,
+Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,,
+>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),,,,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,
+"determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline"
+">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",,,
+>PARAMETER: TOTAL_DEPTH,>PARAMETER: TOTAL_DEPTH,,,,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to water collection.,,,,,
+>DATA ENTRY METHOD:,>DATA ENTRY METHOD:,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in
+BASIC.,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII
+format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,,
+>DATA VERIFICATION:,>DATA VERIFICATION:,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match
+exactly.,,,,,
+# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,,
+The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,,
+>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin
+Names are as follows:,,,,,
+SPEC_CODE,,SOURCE_LBL,27,Chaetoceros compressus,
+2,Amphiprora sp.,,28,Chaetoceros concavicornis,
+3,Amphora sp.,,29,Trachelomonas intermedia,
+4,Amphora proteoides,,30,Chaetoceros constrictus,
+5,Asterionellopsis glacialis,,31,Chaetoceros convolutus,
+6,Asterolampra marylandica,,32,Chaetoceros costatus,
+7,Asteromphalus sp.,,33,Chaetoceros curvisetus,
+8,Asteromphalus heptactis,,34,Chaetoceros danicus,
+9,Bacteriastrum comosum,,35,Chaetoceros debilis,
+10,Bacteriastrum delicatulum,,36,Chaetoceros decipiens,
+11,Bacteriastrum elongatum,,37,Chaetoceros densus,
+12,Bacteriastrum hyalinum,,38,Chaetoceros didymus,
+13,Odontella sp.,,39,Chaetoceros didymus var. protuberans,Chaetoceros didymus var. protuberans
+14,Odontella alternans,,40,Chaetoceros difficilis,
+15,Odontella aurita,,41,Chaetoceros gracilis,
+16,Odontella longicruris,,42,Chaetoceros laciniosus,
+17,Odontella sinensis,,43,Chaetoceros pelagicus,
+18,Cerataulina pelagica,,44,Chaetoceros pendulus,
+19,Nitzschia angularis var. affinis,,45,Chaetoceros peruvianus,
+20,Chaetoceros sp.,,46,Chaetoceros pseudocurvisetus,
+21,Chaetoceros affinis,,47,Chaetoceros radians,
+22,Chaetoceros affinis var. willei,,48,Chaetoceros socialis,
+23,Chaetoceros atlanticus,,49,Chlorella marina,
+24,Chaetoceros borealis,,50,Chaetoceros tetrastichon,
+25,Chaetoceros brevis,,51,Chaetoceros tortissimus,
+26,Chaetoceros coarctatus,,52,Climacodium sp.,
+,,6,,01/03/11,

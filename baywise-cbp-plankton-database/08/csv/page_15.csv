@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 15 of 16”,Name: “Table 1 of 1 on page 15 of 16”,Name: “Table 1 of 1 on page 15 of 16”,Name: “Table 1 of 1 on page 15 of 16”
+Table: 15,Table: 15,Table: 15,Table: 15
+,,,
+,,MDMIDOC.doc,
+# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,,
+THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE
+PERFORMED WITH THE MOST RECENT DATA SETS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS AVAILABLE.,HOWEVER IF YOU
+HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT
+CHANGES TO BE AWARE OF.,CHANGES TO BE AWARE OF.,,
+The following stations had their names changed to the standard Chesapeake Bay Program Station Names.,The following stations had their names changed to the standard Chesapeake Bay Program Station Names.,The following stations had their names changed to the standard Chesapeake Bay Program Station Names.,The following stations had their names changed to the standard Chesapeake Bay Program Station Names.
+Previous station names ware as follows:,Previous station names ware as follows:,,
+LRNAME,CBP NAME,,
+XDE5339,LE1.1,,
+XED4892,TF1.7,,
+PXT0402,TF1.5,,
+XEA6596,TF2.3,,
+XDA1177,RET2.2,,
+MLE2.2,LE2.2,,
+MET4.2,ET4.2,,
+MET5.1,ET5.1,,
+MET5.2,ET5.2,,
+MEE3.1,EE3.1,,
+MWT5.1,WT5.1,,
+5/31/95 - CRUISE NUMBERS BAY004 - BAY211 were supplied by the Chesapeake Bay Program Office,5/31/95 - CRUISE NUMBERS BAY004 - BAY211 were supplied by the Chesapeake Bay Program Office,5/31/95 - CRUISE NUMBERS BAY004 - BAY211 were supplied by the Chesapeake Bay Program Office,5/31/95 - CRUISE NUMBERS BAY004 - BAY211 were supplied by the Chesapeake Bay Program Office
+and modified by Amy Imirie and Elgin Perry to reflect true start and end dates with corresponding MSU trip,and modified by Amy Imirie and Elgin Perry to reflect true start and end dates with corresponding MSU trip,and modified by Amy Imirie and Elgin Perry to reflect true start and end dates with corresponding MSU trip,and modified by Amy Imirie and Elgin Perry to reflect true start and end dates with corresponding MSU trip
+numbers.,This prevents the occurrence of two sampling events for one station during a Bay Cruise period.,This prevents the occurrence of two sampling events for one station during a Bay Cruise period.,This prevents the occurrence of two sampling events for one station during a Bay Cruise period.
+5/31/95 - GMETHOD was changed to 8.,5/31/95 - GMETHOD was changed to 8.,Code 8 refers to unspecified plankton net.,For an extensive gear
+code please consult The 2000 Users Guide Chesapeake Bay Program Biological and Living Resources,code please consult The 2000 Users Guide Chesapeake Bay Program Biological and Living Resources,code please consult The 2000 Users Guide Chesapeake Bay Program Biological and Living Resources,code please consult The 2000 Users Guide Chesapeake Bay Program Biological and Living Resources
+Monitoring Data.,This is a change from the GMETHOD code in previous versions of the data set. This does,This is a change from the GMETHOD code in previous versions of the data set. This does,This is a change from the GMETHOD code in previous versions of the data set. This does
+not represent a change in actual sampling gear.,not represent a change in actual sampling gear.,not represent a change in actual sampling gear.,
+"5/31/95 - REP_NUM 5,6,7 WERE PREVIOUSLY REPORTED AS T, B, and W.","5/31/95 - REP_NUM 5,6,7 WERE PREVIOUSLY REPORTED AS T, B, and W.","5/31/95 - REP_NUM 5,6,7 WERE PREVIOUSLY REPORTED AS T, B, and W.",The change in REP_NUM
+designation was necessary because REP_NUM is a numeric field.,designation was necessary because REP_NUM is a numeric field.,designation was necessary because REP_NUM is a numeric field.,
+5 - combined 1 & 3 (above pycnocline),5 - combined 1 & 3 (above pycnocline),5 - combined 1 & 3 (above pycnocline),
+6 - combined 2 & 4 (below pycnocline),6 - combined 2 & 4 (below pycnocline),6 - combined 2 & 4 (below pycnocline),
+7 - whole water column,7 - whole water column,,
+5/31/93 - Spelling of species Latin Names in LBL have been corrected to the National Oceanographic Data,5/31/93 - Spelling of species Latin Names in LBL have been corrected to the National Oceanographic Data,5/31/93 - Spelling of species Latin Names in LBL have been corrected to the National Oceanographic Data,5/31/93 - Spelling of species Latin Names in LBL have been corrected to the National Oceanographic Data
+Center or IT IS accepted spelling.,Center or IT IS accepted spelling.,In a few cases MSU Species Latin Names were changed to the currently,In a few cases MSU Species Latin Names were changed to the currently
+accepted NODC Species Latin name.,accepted NODC Species Latin name.,,
+4/15/92,"- The name of species MSUCODE = 4506130200010 has been changed from ""Synchaeta sp. A -","- The name of species MSUCODE = 4506130200010 has been changed from ""Synchaeta sp. A -","- The name of species MSUCODE = 4506130200010 has been changed from ""Synchaeta sp. A -"
+"long horns"" to ""Synchaeta bicornis"" and the name of species MSUCODE = 4506130200020 has been","long horns"" to ""Synchaeta bicornis"" and the name of species MSUCODE = 4506130200020 has been","long horns"" to ""Synchaeta bicornis"" and the name of species MSUCODE = 4506130200020 has been","long horns"" to ""Synchaeta bicornis"" and the name of species MSUCODE = 4506130200020 has been"
+"changed from ""Synchaeta sp. B - porker"" to ""Synchaeta baltica.""","changed from ""Synchaeta sp. B - porker"" to ""Synchaeta baltica.""","changed from ""Synchaeta sp. B - porker"" to ""Synchaeta baltica.""",
+"7/13/1998- The net sample for station LE1.1 was lost, only whole water counts are available for this station","7/13/1998- The net sample for station LE1.1 was lost, only whole water counts are available for this station","7/13/1998- The net sample for station LE1.1 was lost, only whole water counts are available for this station","7/13/1998- The net sample for station LE1.1 was lost, only whole water counts are available for this station"
+and date.,,,
+SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data provided by the Maryland,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data provided by the Maryland,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data provided by the Maryland,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data provided by the Maryland
+Department of the Environment. Values were derived from Water Quality Hydrographic data collected,Department of the Environment. Values were derived from Water Quality Hydrographic data collected,Department of the Environment. Values were derived from Water Quality Hydrographic data collected,Department of the Environment. Values were derived from Water Quality Hydrographic data collected
+concurrently with the plankton when ever possible. If data was not available for the of sampling but was,concurrently with the plankton when ever possible. If data was not available for the of sampling but was,concurrently with the plankton when ever possible. If data was not available for the of sampling but was,concurrently with the plankton when ever possible. If data was not available for the of sampling but was
+"collected within a one week window of sampling date, the water quality data was used to determine a salinity","collected within a one week window of sampling date, the water quality data was used to determine a salinity","collected within a one week window of sampling date, the water quality data was used to determine a salinity","collected within a one week window of sampling date, the water quality data was used to determine a salinity"
+zone. However the salinity zone is marked with an E to denote being estimated,zone. However the salinity zone is marked with an E to denote being estimated,zone. However the salinity zone is marked with an E to denote being estimated,
+,,15,03/11/09

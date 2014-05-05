@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 9 of 21”,Name: “Table 1 of 1 on page 9 of 21”,Name: “Table 1 of 1 on page 9 of 21”,Name: “Table 1 of 1 on page 9 of 21”,Name: “Table 1 of 1 on page 9 of 21”,Name: “Table 1 of 1 on page 9 of 21”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,,
+SPEC_CODE,TSN,SOURCE_LBL,SPEC_CODE,TSN,SOURCE_LBL
+57,0072878,unknown Naticidae,108,0097809,Pagurus pollicarus zoea
+58,0073552,Mitrella lunata,109,0097774,unknown Paguridae zoea
+59,0082379,Loliguncula brevis,110,0098134,Emerita talpoida zoea
+60,0083545,unknown Pycnogonida,111,0098104,Lepidopa websteri zoea
+61,0083677,unknown Crustacea,112,0098691,Arenaeus cribrarius zoea
+62,0083967,Podon polyphemoides,113,0098696,Callinectes sapidus zoea
+63,0083961,Evadne nordmanni,114,0098714,Ovalipes ocellatus zoea
+64,0083962,Evadne tergestina,115,0098718,Portunus gibbesii zoea
+65,0083963,Evadne spinifera,116,0098721,Portunus spinimanus zoea
+66,0085322,Paracalanus spp.,117,0098689,Portunidae spp. zoea
+67,0085324,Paracalanus crassirostris,118,0098679,Cancer irroratus zoea
+68,0085877,Temora longicornis,119,0098759,Eurypanopeus depressus zoea
+69,0085864,Eurytemora americana,120,0098764,Hexapanopeus angustifrons zoea
+70,0085765,Centropages furcatus,121,0098764,Hexapanopeus angustifrons megal
+71,0085766,Centropages hamatus,122,0098776,Neopanope texana sayi zoea
+72,0085767,Centropages typicus,123,0098776,Neopanope texana sayi megalopa
+73,0086047,Labidocera aestiva,124,0098748,unknown Xanthidae zoea
+74,0086046,Labidocera wollastoni,125,0098998,Pinnixia chaetopterana zoea
+75,0086054,Pontella pennata,126,0098998,Pinnixia chaetopterana megalopa
+76,0086097,ACARTIA HUDSONICA,127,0098999,Pinnixia cylindrica zoea
+77,0086087,Acartia longiremus,128,0099002,Pinnixia sayanna zoea
+78,0086088,Acartia tonsa,129,0098993,Pinnixia spp. zoea
+79,0086546,Euterpina acutifrons,130,0098975,Pinnotheres maculatus zoea
+80,0086335,Harpacticus gracilis,131,0098976,Pinnotheres ostreum megalopa
+81,0086446,Tisbe furcata,132,0098976,Pinnotheres ostreum crab
+82,0167676,Morone spp. larvae,133,0099084,Uca spp. zoea
+83,0083956,Holopedium sp.,134,0086382,Zausodes arenicolus
+84,0163342,unknown Cyprinidae larvae,135,0099084,Uca spp. megalopa
+85,0088577,Corycaeus venustus,136,0098453,Libinia spp. zoea
+86,0088595,Farranula gracilis,137,0098455,Libinia emarginata megalopa
+87,0089593,Chthamalus fragilis,138,0099143,Squilla empusa zoea
+88,0089599,unknown Balanidae,139,0083677,unknown Crustacea zoea
+89,0089599,unknown barnacle nauplius,140,0156862,unknown Asteroidea
+90,0090062,Neomysis americana,141,0157325,unknown Ophiuroidea
+91,0090139,Mysidopsis bigelowi,142,0084176,Moina branchiata
+92,0089977,Heteromysis formosa,143,0158774,Sagitta enflata
+93,0095889,Acetes americanus zoea,144,0093594,Corophium lacustre
+94,0095916,Lucifer faxoni zoea,145,0168469,Perca flavescens larvae
+95,0095605,Penaeus aztecus zoea,146,0158854,unknown Ascidacean
+96,0095648,Trachypenaeus constrictus zoea,147,0161838,Anchoa hepsetus larvae
+97,0096221,Macrobrachium ohione zoea,148,0161839,Anchoa mitchilli larvae
+98,0096383,Palaemonetes spp. zoea,149,0161839,Anchoa mitchilli eggs
+99,0096600,unknown Alpheidae zoea,150,0164460,Gobiesox strumosus larvae
+100,0096735,unknown Ogyridae zoea,151,0164499,Lophius americanus larvae
+101,0096746,unknown Hippolytidae zoea,152,0165994,Menidia menidia larvae
+102,0097110,Crangon septemspinosa zoea,153,0166488,Hippocampus erectus larvae
+103,0097733,Callianassa spp. zoea,154,0166451,Syngnathus fuscus larvae
+104,0098209,Upogebia affinis zoea,155,0169259,Bairdiella chrysoura eggs
+105,0098081,Euceramus praelongus zoea,156,0169241,Cynoscion regalis larvae
+106,0098083,Polyonyx gibbesi zoea,157,0169276,Menticirrhus saxatilis larvae
+107,0097807,Pagurus longicarpus zoea,158,0169288,Pogonias cromis eggs
+,,9,,,01/31/07

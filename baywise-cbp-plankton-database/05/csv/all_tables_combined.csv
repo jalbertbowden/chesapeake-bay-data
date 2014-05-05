@@ -1,0 +1,1263 @@
+,,VAPHDOC.doc,
+,VIRGINIA CHESAPEAKE BAY PROGRAM,VIRGINIA CHESAPEAKE BAY PROGRAM,VIRGINIA CHESAPEAKE BAY PROGRAM
+,PHYTOPLANKTON AND PICOPLANKTON,PHYTOPLANKTON AND PICOPLANKTON,
+,MONITORING SURVEYDATA DICTIONARY,MONITORING SURVEYDATA DICTIONARY,MONITORING SURVEYDATA DICTIONARY
+Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton and Picoplankton Components,Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton and Picoplankton Components,Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton and Picoplankton Components,Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton and Picoplankton Components
+,- Taxonomic Data Dictionary,,
+,- Event Data Dictionary,,
+NOTES:,,,
+1) THIS DICTIONARY WAS REVISED ON,1) THIS DICTIONARY WAS REVISED ON,3 January 2011 AND SUPERSEDES ALL OTHER,3 January 2011 AND SUPERSEDES ALL OTHER
+DICTIONARIES FOR THE VIRGINIA PHYTOPLANKTON DATA,DICTIONARIES FOR THE VIRGINIA PHYTOPLANKTON DATA,DICTIONARIES FOR THE VIRGINIA PHYTOPLANKTON DATA,
+"The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored"
+plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries
+since 1985.,The current program is designed to give comprehensive spatial and temporal information on,The current program is designed to give comprehensive spatial and temporal information on,The current program is designed to give comprehensive spatial and temporal information on
+phytoplankton. Sampling is performed in conjunction with the water quality monitoring programs.,phytoplankton. Sampling is performed in conjunction with the water quality monitoring programs.,phytoplankton. Sampling is performed in conjunction with the water quality monitoring programs.,phytoplankton. Sampling is performed in conjunction with the water quality monitoring programs.
+# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILE,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILE,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILE,
+2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data
+# PROJECT TITLE:,# PROJECT TITLE:,,
+Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Phytoplankton and Picoplankton,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Phytoplankton and Picoplankton,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Phytoplankton and Picoplankton,Virginia Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Phytoplankton and Picoplankton
+Studies,,,
+# CURRENT PRINCIPAL INVESTIGATORS:,# CURRENT PRINCIPAL INVESTIGATORS:,,
+">Program Manager: Frederick Hoffman, Virginia Department of Environmental Quality",">Program Manager: Frederick Hoffman, Virginia Department of Environmental Quality",">Program Manager: Frederick Hoffman, Virginia Department of Environmental Quality",
+">Principal Investigator: Harold Marshall, Old Dominion University",">Principal Investigator: Harold Marshall, Old Dominion University",">Principal Investigator: Harold Marshall, Old Dominion University",
+">Statistician: Michael Lane, Old Dominion University",">Statistician: Michael Lane, Old Dominion University",">Statistician: Michael Lane, Old Dominion University",
+">Data Coordinator: TBD, Old Dominion University, Applied Marine Research Laboratory",">Data Coordinator: TBD, Old Dominion University, Applied Marine Research Laboratory",">Data Coordinator: TBD, Old Dominion University, Applied Marine Research Laboratory",
+# CURRENT FUNDING AGENCIES:,# CURRENT FUNDING AGENCIES:,,
+Not Applicable,Not Applicable,,
+#,PROJECT COST,,
+Not Applicable,Not Applicable,,
+# QA/QC OFFICER: Not Applicable,# QA/QC OFFICER: Not Applicable,,
+# POINT OF CONTACT:,# POINT OF CONTACT:,,
+Jacqueline Johnson,Jacqueline Johnson,,
+Living Resources Data Manager,Living Resources Data Manager,,
+US EPA Chesapeake Bay Program Office,US EPA Chesapeake Bay Program Office,,
+"410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109",,
+"Annapolis, MD 21403","Annapolis, MD 21403",,
+1-800-968-7229 x729,1-800-968-7229 x729,,
+1-410-267-5729,1-410-267-5729,,
+E-Mail JJOHNSON@CHESAPEAKEBAY.NET,E-Mail JJOHNSON@CHESAPEAKEBAY.NET,,
+,,1,01/03/11
+,,,VAPHDOC.doc,,,,
+# LOCATION OF STUDY,# LOCATION OF STUDY,,,,,,
+Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,,,
+# DATE INTERVALS,# DATE INTERVALS,,,,,,
+08/01/1985- 09/30/2010,08/01/1985- 09/30/2010,,,,,,
+# ABSTRACT,# ABSTRACT,,,,,,
+"The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,","The phytoplankton monitoring program was established to determine the composition, distribution,"
+"biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in","biomass, and abundance of these plankton constituents in the Chesapeake Bay and Virginia tributaries, in"
+relation to water quality conditions and algal productivity in these waters.,relation to water quality conditions and algal productivity in these waters.,relation to water quality conditions and algal productivity in these waters.,relation to water quality conditions and algal productivity in these waters.,relation to water quality conditions and algal productivity in these waters.,Additional emphasis has been,Additional emphasis has been,Additional emphasis has been
+placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,placed on bloom and toxin producing species and long term trends in population development and,
+environmental relationships.,environmental relationships.,"Composite plankton collections, above and below the pycnocline, began at 7","Composite plankton collections, above and below the pycnocline, began at 7","Composite plankton collections, above and below the pycnocline, began at 7","Composite plankton collections, above and below the pycnocline, began at 7","Composite plankton collections, above and below the pycnocline, began at 7","Composite plankton collections, above and below the pycnocline, began at 7"
+"Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey","Bay stations in July 1985. River station collections in the James, York, Rappahannock, and Pamunkey"
+"Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once","Rivers began in March 1986. Twice monthly collections were taken March through October, and once"
+monthly November through February at all stations.,monthly November through February at all stations.,monthly November through February at all stations.,monthly November through February at all stations.,Two stations were added in the Elizabeth River in,Two stations were added in the Elizabeth River in,Two stations were added in the Elizabeth River in,Two stations were added in the Elizabeth River in
+"February 1989, with station SBE2 discontinued in January 1998.","February 1989, with station SBE2 discontinued in January 1998.","February 1989, with station SBE2 discontinued in January 1998.","February 1989, with station SBE2 discontinued in January 1998.",Autotrophic picoplankton collections were,Autotrophic picoplankton collections were,Autotrophic picoplankton collections were,Autotrophic picoplankton collections were
+"added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added","added at all stations in January 1989, with plankton productivity (C-14) determinations for all stations added"
+in July 1989.,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern,Beginning in October 1990 monthly collections were taken at all stations and this pattern
+"continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February","continues for the Bay stations, however in 2002 collections in the tributaries for November through February"
+"were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other","were discontinued, with monthly collections taken only from March through October for the tributaries. Other"
+modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the,modifications include discontinuing and replacing in March 1986 station RET4.1 with station TF4.2 in the
+"Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.","Pamunkey River, and a station designation and site change in August 2005 for LE5.5 to LE5.5-W.",Sampling
+was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary,was reduced in frequcy in 2010 due to budget constraints. All below pycnocline sampleing in the tributary
+stations was dropped in 2010.,stations was dropped in 2010.,,,,,,
+# STATION NAMES AND DESCRIPTIONS,# STATION NAMES AND DESCRIPTIONS,# STATION NAMES AND DESCRIPTIONS,,,,,
+CB6.1,"Main Channel, Mid-Bay",,,,,,
+CB6.4,"Main Channel, Mid-Bay",,,,,,
+CB7.3E,"Eastern Shore Channel, Southern End","Eastern Shore Channel, Southern End","Eastern Shore Channel, Southern End",,,,
+CB7.4,"Baltimore Channel, Bay Mouth","Baltimore Channel, Bay Mouth",,,,,
+LE3.6,Off Mouth of Rappahannock River,Off Mouth of Rappahannock River,,,,,
+LE5.5,Off Mouth of James River,Off Mouth of James River,,,,,
+LE5.5-W,Off Mouth of James River,Off Mouth of James River,,,,,
+RET3.1,"Rappahannock River, N Buoy R10","Rappahannock River, N Buoy R10",,,,,
+RET4.1,"York River,",,,,,,
+RET4.3,"York River, Buoy C57",,,,,,
+RET5.2,"James River, Off Swann's Point","James River, Off Swann's Point",,,,,
+SBE2,South Branch Elizabeth River,South Branch Elizabeth River,,,,,
+SBE5,"South Branch Elizabeth River, Off VEPCO","South Branch Elizabeth River, Off VEPCO","South Branch Elizabeth River, Off VEPCO",,,,
+TF3.3,"Rappahannock River, Buoy N40","Rappahannock River, Buoy N40",,,,,
+TF4.2,"Pamunkey River, Off White House","Pamunkey River, Off White House",,,,,
+TF5.5,"James River, Red Buoy 107","James River, Red Buoy 107",,,,,
+WE4.2,Off Mouth of York River,,,,,,
+"# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDES (decimal degrees), LONGITUDES (decimal degrees), TOTAL DEPTH"
+"(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and","(meters), LATITUDES (degrees, minutes and decimal seconds), and LONGITUDES (degrees, minutes and"
+decimal seconds). These station postions represent target values and are not actual values.,decimal seconds). These station postions represent target values and are not actual values.,decimal seconds). These station postions represent target values and are not actual values.,decimal seconds). These station postions represent target values and are not actual values.,decimal seconds). These station postions represent target values and are not actual values.,decimal seconds). These station postions represent target values and are not actual values.,They are the,They are the
+values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station,values used by the Chesapeake Bay Prorgram as a whole to coordinate data for the stations. Station
+positions are provided as NAD83 coodinates.,positions are provided as NAD83 coodinates.,positions are provided as NAD83 coodinates.,,,,,
+STATION,LATITUDE,LONGITUDE,TOTAL_DEPTH,LATITUDE (DMS),LONGITUDE (DMS),LONGITUDE (DMS),LONGITUDE (DMS)
+CB6.1,37.58833,-76.1625 13.1,,"37 35' 18""","-77 50' 15""",,
+CB6.4,37.23639,-76.2083 10.5,,"37 14' 11""","-77 47' 30""",,
+CB7.3E,37.22861,-76.0542 17.8,,"37 13' 43""","-77 56' 45""",,
+,,,2,,,01/03/11,
+,,,,,,,,,VAPHDOC.doc,VAPHDOC.doc,VAPHDOC.doc,VAPHDOC.doc,,,,,,,,,
+CB7.4,,,36.99556,36.99556,36.99556,,-76.0208 13.8,-76.0208 13.8,,,,,"36 59' 44""",,,"-77 58' 45""","-77 58' 45""",,,,
+LE3.6,,,37.59667,37.59667,37.59667,,-76.285 9.8,-76.285 9.8,,,,,"37 35' 48""",,,"-77 42' 54""","-77 42' 54""",,,,
+LE5.5,,,36.99889,36.99889,36.99889,,-76.3136 21.4,-76.3136 21.4,,,,,"36 59' 48""",,,"-76 18' 12""","-76 18' 12""",,,,
+LE5.5-W,LE5.5-W,,36.99903,36.99903,36.99903,-76.31328 6.0,-76.31328 6.0,-76.31328 6.0,,,,,36 59’ 56”,,,-76 18’ 49”,-76 18’ 49”,,,,
+RET3.1,RET3.1,,37.92014,37.92014,37.92014,,-76.8214 5.8,-76.8214 5.8,,,,,"37 55' 12.488""","37 55' 12.488""",,"-77 10' 43.138""","-77 10' 43.138""","-77 10' 43.138""","-77 10' 43.138""",,
+RET4.1,RET4.1,,37.52514,37.52514,37.52514,,-76.8697,,,,,,"37 31' 30.522""","37 31' 30.522""",,"-77 7' 49.131""","-77 7' 49.131""","-77 7' 49.131""",,,
+RET4.3,RET4.3,,37.50681,37.50681,37.50681,,-76.788 5.2,-76.788 5.2,,,,,"37 30' 24.522""","37 30' 24.522""",,"-77 12' 43.14""","-77 12' 43.14""","-77 12' 43.14""",,,
+RET5.2,RET5.2,,37.21015,37.21015,37.21015,,-76.793 8.3,-76.793 8.3,,,,,"37 12' 36.533""","37 12' 36.533""",,"-77 12' 25.145""","-77 12' 25.145""","-77 12' 25.145""","-77 12' 25.145""",,
+SBE2,,,36.81265,36.81265,36.81265,,-76.3058 13.0,-76.3058 13.0,,,,,"36 48' 45.533""","36 48' 45.533""",,"-77 41' 39.212""","-77 41' 39.212""","-77 41' 39.212""","-77 41' 39.212""",,
+SBE5,,,36.76987,36.76987,36.76987,,-76.2961 10.0,-76.2961 10.0,,,,,"36 46' 11.534""","36 46' 11.534""",,"-77 42' 14.215""","-77 42' 14.215""","-77 42' 14.215""","-77 42' 14.215""",,
+TF3.3,,,38.01874,38.01874,38.01874,,-76.908 6.6,-76.908 6.6,,,,,"38 1' 7.481""","38 1' 7.481""",,"-77 5' 31.122""","-77 5' 31.122""","-77 5' 31.122""",,,
+TF4.2,,,37.57987,37.57987,37.57987,,-77.0216 6.4,-77.0216 6.4,,,,,"37 34' 47.52""","37 34' 47.52""",,"-78 58' 42.113""","-78 58' 42.113""","-78 58' 42.113""","-78 58' 42.113""",,
+TF5.5,,,37.31293,37.31293,37.31293,,-77.2328 9.0,-77.2328 9.0,,,,,"37 18' 46.534""","37 18' 46.534""",,"-78 46' 2.087""","-78 46' 2.087""","-78 46' 2.087""",,,
+WE4.2,,,37.24167,37.24167,37.24167,,-76.3867 14.1,-76.3867 14.1,,,,,"37 14' 30""",,,"-77 36' 48""","-77 36' 48""",,,,
+Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,Station depths are based on a nine year (1985-1994) averages of Virginia Department of Environmental,
+"Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.","Quality, water quality hydrographic data collected concurrently with the plankton samples.",,,
+# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,,,,,,
+"The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of","The phytoplankton field chief is the custodian for all samples collected, and verifies proper labeling of",,
+"bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the","bottles, complete field data entries, the collection of the samples, preservative used and transport to the",
+laboratory.,laboratory.,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to,He also supervises the calibration and availability of field equipment. Samples are turned over to
+"the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.","the laboratory chief who oversees the sample processing, analysis and recording of the raw data.",The,
+"principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw",
+data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,,,,,,,
+# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,,,,,,,,,,,,
+-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,-Chesapeake Bay Program Sample Analysis Method PH102,,,,,,,,,
+Upon,return,return,to,the,"laboratory,","laboratory,",each,500,ml,water,water,sample,(fixed,(fixed,with,Lugol’s,Lugol’s,solution,on,station),are
+"preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then","preserved with 5 ml of buffered formaldehyde. The 500 ml replicate sample sets are mixed (1000 ml), then"
+"500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by","500 ml are withdrawn and allowed to settle undisturbed for 72 hours, the original 500 ml is reduced by"
+careful,siphoning,siphoning,siphoning,to,approximately,approximately,approximately,200-250,ml.,ml.,The,samples,samples,are,allowed,to,stand,undisturbed,undisturbed,for,an
+additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,additional 48 hours and are again siphoned to 20-40 ml concentrates.,,The final 20-40 ml concentrate is,The final 20-40 ml concentrate is,The final 20-40 ml concentrate is,The final 20-40 ml concentrate is,The final 20-40 ml concentrate is,The final 20-40 ml concentrate is
+"transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has","transferred to a previously labeled storage vial, where the label information from the collection bottle has"
+been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,been transferred and verified by the laboratory supervisor.,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be,A known volume of the entire concentrate will be
+placed,in,an,Utermöhl,Utermöhl,Utermöhl,settling,chamber,chamber,for,examination,examination,examination,with,an,inverted,plankton,plankton,microscope.,microscope.,If,the
+"phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume","phytoplankton, and/or silt, density is too great in the final concentrate for clear examination, a known volume"
+of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,of the concentrate is drawn off to provide a sub-sample suitable for analysis.,"Prior to counting, a work","Prior to counting, a work","Prior to counting, a work","Prior to counting, a work","Prior to counting, a work"
+"sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and","sheet is prepared, where information from the sample vial label is transferred to the raw data sheet and"
+"verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).","verified. The microscopic examination will be done at 3 magnifications (Marshall and Alden, 1990).",At 300X,At 300X
+"magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where","magnification, a combined random field (10) and minimum cell count (200) procedure will be followed where"
+all,taxa,are,counted,counted,to,the,lowest,taxonomic,taxonomic,category,category,category,possible.,,This,examination,examination,is,repeated,at,500x
+magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,magnification for 10 randomly selected fields.,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are,Cells not clearly discernable at the 300x magnification are
+examined,examined,at,600X,,for,identification.,identification.,All,species,species,will,be,counted,at,only,one,of,these,magnifications.,magnifications.,In
+"addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in","addition, the entire chamber will be scanned at 125X for recording previously unrecorded larger species in"
+the,chamber.,chamber.,All,phytoplankton,phytoplankton,phytoplankton,categories,categories,will,be,included,included,in,this,"analysis,",including,including,colonies,colonies,and,algal
+filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell,filaments at 300x. Calculations will be made from these data at the different magnifications to determine cell
+concentrations,concentrations,concentrations,per,,unit,volume,(e.g.,cells/l).,cells/l).,Identification,Identification,Identification,will,be,based,on,on,internationally,internationally,accepted,accepted
+"identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in","identification keys, and checked against voucher specimens (e.g. Chesapeake Bay) that are maintained in"
+the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,the ODU phytoplankton analysis laboratory.,,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Samples are archived for a period of one year.,Raw data,Raw data
+sheets are kept on file.,sheets are kept on file.,sheets are kept on file.,sheets are kept on file.,sheets are kept on file.,sheets are kept on file.,,,,,,,,,,,,,,,,
+-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,-Chesapeake Bay Program Analytical Method Code PH102M,,,,,,,,,
+,,,,,,,,,,3,,,,,,,,01/03/11,01/03/11,,
+,VAPHDOC.doc,VAPHDOC.doc,
+Counting Method 102 was slightly modified in January 2005 for better agreement with the new counting,Counting Method 102 was slightly modified in January 2005 for better agreement with the new counting,Counting Method 102 was slightly modified in January 2005 for better agreement with the new counting,Counting Method 102 was slightly modified in January 2005 for better agreement with the new counting
+"methodology adopted in the Maryland Phytoplankton program. Beginning in 2005, at 600X all cells were","methodology adopted in the Maryland Phytoplankton program. Beginning in 2005, at 600X all cells were","methodology adopted in the Maryland Phytoplankton program. Beginning in 2005, at 600X all cells were","methodology adopted in the Maryland Phytoplankton program. Beginning in 2005, at 600X all cells were"
+indentified using the following categories:,indentified using the following categories:,,
+"CENTRIC DIATOMS 
+    ",,,
+"CRYPTOMONAS 
+    ",,,
+"PENNATE DIATOMS
+    ",,,
+UNIDENTIFIED GREEN CELLS 3-5UM,UNIDENTIFIED GREEN CELLS 3-5UM,,
+"UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    ","UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    ",,
+All other protocol for sample enumeration remained the same.,All other protocol for sample enumeration remained the same.,All other protocol for sample enumeration remained the same.,
+-Chesapeake Bay Program analytical Method Code PH103,-Chesapeake Bay Program analytical Method Code PH103,-Chesapeake Bay Program analytical Method Code PH103,
+Beginning in October 2005 the counting enumeration method was slightly modified again to be in agreement,Beginning in October 2005 the counting enumeration method was slightly modified again to be in agreement,Beginning in October 2005 the counting enumeration method was slightly modified again to be in agreement,Beginning in October 2005 the counting enumeration method was slightly modified again to be in agreement
+with the official Chesapeake Bay program technique for phytoplankton enumeration. The final enumeration,with the official Chesapeake Bay program technique for phytoplankton enumeration. The final enumeration,with the official Chesapeake Bay program technique for phytoplankton enumeration. The final enumeration,with the official Chesapeake Bay program technique for phytoplankton enumeration. The final enumeration
+protocol for the Virginia program is as follows:,protocol for the Virginia program is as follows:,,
+(1),"At 300X magnification, a minimum of twenty random fields and 200 cells of taxa > 5 microns in","At 300X magnification, a minimum of twenty random fields and 200 cells of taxa > 5 microns in","At 300X magnification, a minimum of twenty random fields and 200 cells of taxa > 5 microns in"
+largest dimension will be counted.,"If 200 cells are not tallied in 10 fields, cells in additional fields will be","If 200 cells are not tallied in 10 fields, cells in additional fields will be","If 200 cells are not tallied in 10 fields, cells in additional fields will be"
+"enumerated until 200 cells have been enumerated. All colonies, trichomes, & filaments are counted at this","enumerated until 200 cells have been enumerated. All colonies, trichomes, & filaments are counted at this","enumerated until 200 cells have been enumerated. All colonies, trichomes, & filaments are counted at this","enumerated until 200 cells have been enumerated. All colonies, trichomes, & filaments are counted at this"
+magnification. Very large (>60 Microns) or rare species (less than 1 cell in less than 10 Grids) not counted in,magnification. Very large (>60 Microns) or rare species (less than 1 cell in less than 10 Grids) not counted in,magnification. Very large (>60 Microns) or rare species (less than 1 cell in less than 10 Grids) not counted in,magnification. Very large (>60 Microns) or rare species (less than 1 cell in less than 10 Grids) not counted in
+this scan.,,,
+(2),"At 600X magnification, twenty random fields will be counted for taxa","At 600X magnification, twenty random fields will be counted for taxa",">=3 and 
+    "
+"diameter. No colonies, trichomes or filaments counted. Again all cells were indentified using the following","diameter. No colonies, trichomes or filaments counted. Again all cells were indentified using the following","diameter. No colonies, trichomes or filaments counted. Again all cells were indentified using the following","diameter. No colonies, trichomes or filaments counted. Again all cells were indentified using the following"
+"categories: CENTRIC DIATOM 
+    ","categories: CENTRIC DIATOM 
+    ","categories: CENTRIC DIATOM 
+    ","categories: CENTRIC DIATOM 
+    "
+"UNIDENTIFIED GREEN CELLS 3-5UM UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    ","UNIDENTIFIED GREEN CELLS 3-5UM UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    ","UNIDENTIFIED GREEN CELLS 3-5UM UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    ","UNIDENTIFIED GREEN CELLS 3-5UM UNIDENTIFIED MICROPHYTOFLAGELLATES 
+    "
+(3),"At 125X magnification, the entire chamber will be scanned for taxa which were not enumerated","At 125X magnification, the entire chamber will be scanned for taxa which were not enumerated","At 125X magnification, the entire chamber will be scanned for taxa which were not enumerated"
+at the other two magnifications.,,,
+> Chesapeake Bay Program Sample Analysis Method PP101,> Chesapeake Bay Program Sample Analysis Method PP101,> Chesapeake Bay Program Sample Analysis Method PP101,
+"Using a Millipore apparatus, a backing 0.45 um nuclepore filter was wetted with distilled water, was","Using a Millipore apparatus, a backing 0.45 um nuclepore filter was wetted with distilled water, was","Using a Millipore apparatus, a backing 0.45 um nuclepore filter was wetted with distilled water, was","Using a Millipore apparatus, a backing 0.45 um nuclepore filter was wetted with distilled water, was"
+placed on the Millipore stem.,"Then a 0.20 um nuclepore filer, previously stained in an irgalan black solution","Then a 0.20 um nuclepore filer, previously stained in an irgalan black solution","Then a 0.20 um nuclepore filer, previously stained in an irgalan black solution"
+was placed over the other filter. Two milliliters of the shaken water sample was added to the filter apparatus.,was placed over the other filter. Two milliliters of the shaken water sample was added to the filter apparatus.,was placed over the other filter. Two milliliters of the shaken water sample was added to the filter apparatus.,was placed over the other filter. Two milliliters of the shaken water sample was added to the filter apparatus.
+"Using a pump, and a maximum vacuum of ten centimeter for mercury, the sample was filtered until the","Using a pump, and a maximum vacuum of ten centimeter for mercury, the sample was filtered until the","Using a pump, and a maximum vacuum of ten centimeter for mercury, the sample was filtered until the","Using a pump, and a maximum vacuum of ten centimeter for mercury, the sample was filtered until the"
+meniscus disappears from the top of the filter. The 0.2 um,meniscus disappears from the top of the filter. The 0.2 um,nucleopore filter was,removed and placed
+immediately on a glass slide previously moistened by breath. A drop of immersion oil was placed at the,immediately on a glass slide previously moistened by breath. A drop of immersion oil was placed at the,immediately on a glass slide previously moistened by breath. A drop of immersion oil was placed at the,immediately on a glass slide previously moistened by breath. A drop of immersion oil was placed at the
+"center of the filter, then covered with a cover slip.","center of the filter, then covered with a cover slip.",The slide is examined immediately with a Zeiss Axioskop,The slide is examined immediately with a Zeiss Axioskop
+epifluorescenct microscope,equipped with a 100 watt mercury lamp and a 100X oil immersion objective.,equipped with a 100 watt mercury lamp and a 100X oil immersion objective.,equipped with a 100 watt mercury lamp and a 100X oil immersion objective.
+"The autotrophic picoplankton were counted using a ""green"" filter set (g546. FT580, LP590).","The autotrophic picoplankton were counted using a ""green"" filter set (g546. FT580, LP590).","The autotrophic picoplankton were counted using a ""green"" filter set (g546. FT580, LP590).",Count are
+made on replicate samples and averaged. A minimum of 200 cells and a minimum coverage of 20 field is,made on replicate samples and averaged. A minimum of 200 cells and a minimum coverage of 20 field is,made on replicate samples and averaged. A minimum of 200 cells and a minimum coverage of 20 field is,made on replicate samples and averaged. A minimum of 200 cells and a minimum coverage of 20 field is
+counted on each slide.,,,
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",,
+The following equation was used to convert raw counts to density for each taxon identified for both,The following equation was used to convert raw counts to density for each taxon identified for both,The following equation was used to convert raw counts to density for each taxon identified for both,The following equation was used to convert raw counts to density for each taxon identified for both
+phytoplankton and picoplankton:,,,
+(# cells/#fields counted)*constant*(1/concentration*volume),(# cells/#fields counted)*constant*(1/concentration*volume),(# cells/#fields counted)*constant*(1/concentration*volume),
+# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,,
+"The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw"
+data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,
+"# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS",
+>PARAMETER:,"COUNT (# of a Phytoplankton Taxon per liter),","COUNT (# of a Phytoplankton Taxon per liter),",
+,4,,01/03/11
+,VAPHDOC.doc,,
+"-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and"
+below the pycnocline.,"After the pycnocline has been determined at each station, two vertical series of","After the pycnocline has been determined at each station, two vertical series of","After the pycnocline has been determined at each station, two vertical series of"
+five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy
+"is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of"
+Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.
+-SAMPLE PRESERVATION: Lugol's solution,-SAMPLE PRESERVATION: Lugol's solution,,
+-SAMPLE STORAGE ENVIRONMENT: Room temperature,-SAMPLE STORAGE ENVIRONMENT: Room temperature,,
+-TIME IN STORAGE: 1 months,,,
+-LABORATORY TECHNIQUE WITH REFERENCES,-LABORATORY TECHNIQUE WITH REFERENCES,,
+"Marshall, H.G. and R.W. Alden. (1990) A comparison of phytoplankton","Marshall, H.G. and R.W. Alden. (1990) A comparison of phytoplankton",,
+assemblages and environmental relationships in three estuarine rivers,assemblages and environmental relationships in three estuarine rivers,,
+of the lower Chesapeake Bay.,"Estuaries, 13:287-300.",,
+"Marshall, H.G. (1994) Chesapeake Bay Phytoplankton: I. Composition.","Marshall, H.G. (1994) Chesapeake Bay Phytoplankton: I. Composition.",,
+Proceedings of the Biological Society of Washington. 107:573-585.,Proceedings of the Biological Society of Washington. 107:573-585.,,
+>PARAMETER:COUNT,(# Autotrophic Picoplankton per liter),,
+"-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and"
+below the pycnocline.,"After the pycnocline has been determined at each station, two vertical series of five","After the pycnocline has been determined at each station, two vertical series of five","After the pycnocline has been determined at each station, two vertical series of five"
+samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is
+"mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of"
+Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in
+a refrigerator for analysis.,,,
+-SAMPLE PRESERVATION: Glutaraldehyde solution,-SAMPLE PRESERVATION: Glutaraldehyde solution,,
+-SAMPLE STORAGE ENVIRONMENT: Refrigerator,-SAMPLE STORAGE ENVIRONMENT: Refrigerator,,
+-TIME IN STORAGE: one week,,,
+-LABORATORY TECHNIQUE WITH REFERENCES,-LABORATORY TECHNIQUE WITH REFERENCES,,
+"Davis, P.G. and J.McN. Sieburth (1982) Differentiation of phototrophic","Davis, P.G. and J.McN. Sieburth (1982) Differentiation of phototrophic",,
+and heterotrophic nanoplankton populations in marine waters by,and heterotrophic nanoplankton populations in marine waters by,,
+epifluorescence microscopy. Ann. Inst. Oceanography. 58:249-260.,epifluorescence microscopy. Ann. Inst. Oceanography. 58:249-260.,,
+"Marshall, H.G. (1995) Autotrophic picoplankton distribution and abundance","Marshall, H.G. (1995) Autotrophic picoplankton distribution and abundance",,
+"in the Chesapeake Bay, USA",Marine Nature 4:33-42.,,
+>PARAMETER: LATITUDE and LONGITUDE (in decimal degrees),>PARAMETER: LATITUDE and LONGITUDE (in decimal degrees),,
+"COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions"
+converted to NAD83 coordiantes in 2000.,converted to NAD83 coordiantes in 2000.,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling
+begins when boat reaches preprogrammed coordinates.,begins when boat reaches preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,
+>PARAMETER: P_DEPTH,,,
+COLLECTION METHODS: Hydrolab CTD,COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before
+plankton sampling.,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth
+between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column
+is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water
+column. The pycnocline is determined as follows:,column. The pycnocline is determined as follows:,,
+((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,,
+,5,01/03/11,01/03/11
+,,VAPHDOC.doc,VAPHDOC.doc,,
+"if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then","if Threshold is less than 500, then the station has no pycnocline, else if Threshold is greater than 500, then"
+the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the,the pycnocline depth is determined to be the first depth at which the conductivity change is greater than the
+threshold value.,,,,,
+Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,Units of measurement: Conductivity- uhhos/cm and Depth- meters,,
+>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),,,,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,to zooplankton tows. Salinity values are averaged over the layer of the water column and a zone is,
+"determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline"
+">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",">5.0-18 ppt (M), and Polyhaline >18-32 ppt (P).",,,
+>PARAMETER: TOTAL_DEPTH,>PARAMETER: TOTAL_DEPTH,,,,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to water collection.,,,,,
+>DATA ENTRY METHOD:,>DATA ENTRY METHOD:,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in,Phytoplankton and picoplankton counts are entered using a program written in
+BASIC.,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII format files are then converted into SAS datasets and used for statistical analyses .,ASCII
+format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,format data sets for submittal are exported from the SAS datasets.,,
+>DATA VERIFICATION:,>DATA VERIFICATION:,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match,Double-entry with comparison of two files in SAS. Re-entry until both copies match
+exactly.,,,,,
+# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,# SPECIES INHOUSE CODES AND SCIENTIFIC NAME,,
+The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,The in-house codes used by Old Dominion University are numeric.,,
+>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin,>INHOUSE SPECIES LIST: Old Dominion University in-house phytoplankton species codes and Latin
+Names are as follows:,,,,,
+SPEC_CODE,,SOURCE_LBL,27,Chaetoceros compressus,
+2,Amphiprora sp.,,28,Chaetoceros concavicornis,
+3,Amphora sp.,,29,Trachelomonas intermedia,
+4,Amphora proteoides,,30,Chaetoceros constrictus,
+5,Asterionellopsis glacialis,,31,Chaetoceros convolutus,
+6,Asterolampra marylandica,,32,Chaetoceros costatus,
+7,Asteromphalus sp.,,33,Chaetoceros curvisetus,
+8,Asteromphalus heptactis,,34,Chaetoceros danicus,
+9,Bacteriastrum comosum,,35,Chaetoceros debilis,
+10,Bacteriastrum delicatulum,,36,Chaetoceros decipiens,
+11,Bacteriastrum elongatum,,37,Chaetoceros densus,
+12,Bacteriastrum hyalinum,,38,Chaetoceros didymus,
+13,Odontella sp.,,39,Chaetoceros didymus var. protuberans,Chaetoceros didymus var. protuberans
+14,Odontella alternans,,40,Chaetoceros difficilis,
+15,Odontella aurita,,41,Chaetoceros gracilis,
+16,Odontella longicruris,,42,Chaetoceros laciniosus,
+17,Odontella sinensis,,43,Chaetoceros pelagicus,
+18,Cerataulina pelagica,,44,Chaetoceros pendulus,
+19,Nitzschia angularis var. affinis,,45,Chaetoceros peruvianus,
+20,Chaetoceros sp.,,46,Chaetoceros pseudocurvisetus,
+21,Chaetoceros affinis,,47,Chaetoceros radians,
+22,Chaetoceros affinis var. willei,,48,Chaetoceros socialis,
+23,Chaetoceros atlanticus,,49,Chlorella marina,
+24,Chaetoceros borealis,,50,Chaetoceros tetrastichon,
+25,Chaetoceros brevis,,51,Chaetoceros tortissimus,
+26,Chaetoceros coarctatus,,52,Climacodium sp.,
+,,6,,01/03/11,
+,VAPHDOC.doc,VAPHDOC.doc,
+53,Climacodium biconcavum,124,Chroomonas salina
+54,Climacodium frauenfeldianum,125,Cryptomonas pseudobaltica
+55,Cocconeis sp.,126,Merismopedia elegans
+56,Corethron sp.,127,Rhizosolenia hebetata
+57,Corethron criophilum,128,Rhizosolenia hebetata f. semispina
+58,Coscinodiscus sp.,129,Rhizosolenia imbricata
+59,Coscinodiscus centralis,130,Rhizosolenia rhombus
+60,Thalassiosira eccentrica,131,Rhizosolenia robusta
+61,Coscinodiscus granii,132,Rhizosolenia setigera
+62,Thalassiorsira leptopus,134,Rhizosolenia styliformis
+63,Coscinodiscus marginatus,135,Detonula pumila
+64,Coscinodiscus nitidus,136,Skeletonema costatum
+65,Coscinodiscus perforatus,137,Stephanopyxis sp.
+66,Coscinodiscus radiatus,138,Stephanopyxis palmeriana
+68,Chlorella salina,139,Striatella unipunctata
+69,Detonula confervacea,140,Surirella sp.
+70,Diatoma elongatum,141,Synedra ulna
+71,Diatoma hyemale,142,Thalassionema sp.
+72,Diploneis sp.,143,Thalassionema nitzschioides
+73,Diploneis bombus,144,Thalassiosira decipiens
+74,Ditylum brightwellii,145,Thalassiosira delicatula
+75,Eucampia cornuta,146,"Pennate Diatoms (Unid.) 
+    "
+76,Eucampia zodiacus,147,Thalassiosira gravida
+77,Fragilaria sp.,148,Pennate Diatoms (Unid.) > 20u apical axis
+78,Fragilaria crotonensis,149,Thalassiosira nordenskioeldii
+79,Gomphonema sp.,150,Thalassiosira rotula
+80,Grammatophora marina,151,Lioloma delicatulum
+81,Guinardia flaccida,152,Thalassiothrix frauenfeldii
+82,Gyrosigma sp.,153,Thalassiothrix mediterranea
+83,Hemiaulus hauckii,154,Tropidoneis sp.
+84,Hemiaulus membranaceus,155,Centric Diatoms (Unid.)
+85,Hemiaulus sinensis,156,Thalassiosira sp.
+86,Pyramimonas amylifer,157,Centric Diatoms (Unid.) 20u-100u diameter
+87,Lauderia annulata,158,Centric Diatoms (Unid.) > 100u diameter
+88,Leptocylindrus danicus,159,Dinoflagellates (Unid.)
+89,Leptocylindrus minimus,160,Navicula distans
+90,Licmophora abbreviata,161,Coscinodiscus rotula
+91,Licmophora paradoxa,163,Lauderia sp.
+92,Mastogloia sp.,164,Asterionella formosa
+93,Melosira sp.,165,Plagiogramma sp.
+94,Aulacoseira granulata,166,Aulacoseira distans
+95,Melosira hummii,167,Melosira arenaria
+96,Paralia sulcata,168,Thalassiosira aestivalis
+97,Navicula sp.,169,Dinophysis micropterygia
+98,Navicula membranacea,170,Ankistrodesmus convolutus
+99,Nitzschia sp.,171,Chaetoceros lorenzianus
+100,Cylindrotheca closterium,172,Dinoflagellate cysts (Unid.)
+101,Pseudo-nitzschia delicatissima,173,Phalacroma sp.
+102,Nitzschia longissima,174,Tetracyclus sp.
+103,Pyramimonas grossii,175,Stephanopyxis turris
+104,Pseudo-nitzschia pungens,176,Actinoptychus senarius
+105,Pseudo-nitzschia seriata,177,Coscinodiscus oculus iridis
+106,Plagiogrammopsis vanheurckii,178,Cocconeis clandestina
+107,Planktoniella sol,179,Rhizosolenia sp.
+108,Pleurosigma sp.,180,Biddulphia biduplphiana
+109,Pleurosigma angulatum,181,Grammatophora sp.
+110,Pleurosigma elongatum,182,Aulacoseira granulata var. angustissima
+111,Pleurosigma formosum,183,Oscillatoria sp.
+112,Rhizosolenia acuminata,184,Nitzschia frustulum
+113,Proboscla alata,185,Odontella rhombus f. trigona
+114,Proboscla alata f. curvirostris,186,Diploneis litoralis
+115,Proboscla alata f. gracillima,188,Achnanthes subsalsoides
+116,Proboscla alata f. indica,189,Glenodinium sp.
+117,Rhizosolenia bergonii,190,Grammatophora angulosa
+118,Psuedosoleia calcar-avis,191,Coscinodiscus obscurus
+119,Rhizosolenia castracanei,192,Tabellaria sp.
+120,Guinardia cylindrus,193,Achnanthes sp.
+121,Guinardia delicatula,194,Odontella aurita var. obtusa
+122,Pyramimonas plurioculata,195,Melosira nummuloides
+123,Dactyliosolen fragilissimus,196,Nitzschia angularis
+,7,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+197,Thalassiosira hyalina,269,Coscinodiscus gigas var. praetexta
+198,Achnanthes taeniata,270,Mastogloia rostrata
+199,Bacteriastrum sp.,271,Pleurosigma directum
+200,Protoperidinium hirobis,272,Amphiprora alata
+201,Gymnodinium dissimile,273,Hemidiscus cuneiformis
+202,Gyrodinium fusiforme,274,Tropidoneis lepidoptera
+203,Prorocentrum obtusum,275,Biddulphia tridentata
+204,Licmophora sp.,276,Triceratium reticulum
+205,Amphidinium lacustre,277,Campylodiscus limbatus
+206,Melosira moniliformis,278,Cyclotella meneghiniana
+207,Licmophora gracilis,279,Thalassiosira pseudonana
+208,Diploneis subcincta,280,Coscinodiscus gigas
+209,Chaetoceros teres,281,Coscinodiscus asteromphalus
+210,Nitzschia vitrea,283,Chaetoceros simplex
+211,Aulacoseira islandica,284,Chaetoceros diadema
+212,Dinophysis hastata,285,Cymatosira belgica
+213,Pleurosigma naviculaceum,286,Dactyliosolen antarcticus
+214,Achnanthes delicatula,287,Diploneis crabro
+215,Prorocentrum triestinum,288,Diploneis crabro var. pandura
+216,Anthosphaera robusta,289,Eunotia sp.
+217,Synedra sp.,290,Eunotia bidentula
+218,Cocconeis costata,291,Rhabdosphaera hispida
+219,Cocconeis distans,292,Podosira stelligera
+220,Gephyrocapsa caribbeanica,293,Rhizosolenia temperei
+221,Chaetoceros messanensis,294,Striatella interrupta
+222,Gephyrocapsa ericsonii,295,Synedra gaillonii
+223,Diatoma sp.,296,Synedra fulgens
+224,Toxarium undulatum,297,Crucigenia tetrapedia
+225,Ophiaster hydroideus,298,Synedra toxoneides
+226,Melosira islandica f. curvata,299,Synedra crystallina
+228,Acantheoca aculeata,300,Amphidinium sp.
+229,Odontella mobiliensis,301,Ceratium sp.
+230,Achnanthes lemmermannii,302,Ceratium arcticum
+231,Florisphaera profunda,303,Ceratium azoricum
+232,Fragilariopsis oceanica,304,Ceratium candelabrum
+233,Chaetoceros tenuissimus,305,Ceratium extensum
+234,Thalassiosira baltica,306,Ceratium furca
+235,Thalassiosira bioculata,307,Ceratium fusus
+236,Syracosphaera corolla,308,Ceratium lineatum
+237,Syracosphaera histrica,309,Ceratium longipes
+238,Odontella granulata,310,Ceratium macroceros
+239,Protoperidinium sub-curvipes,311,Ceratium massiliense
+240,Stephanopyxis nipponica,312,Ceratium minutum
+241,Protoperidinium mite,313,Ceratium pentagonum
+242,Grammatophora serpentina,314,Pediastrum duplex var. reticulatum
+243,Prorocentrum rotundatum,315,Ceratium tripos
+244,Prorocentrum ovum,316,Ornithocercus sp.
+245,Azpeitia tabularis,317,Nostoc sp.
+247,Fragilaria construens,318,Chaetoceros neapolitanus
+248,Chaetoceros subtilis,319,Skeletonema potamos
+249,Achnanthes longipes,320,Dinophysis sp.
+250,Prorocentrum cordatum,321,Dinophysis acuminata
+251,Chaetoceros wighamii,322,Dinophysis acuta
+252,Thalassiothrix longissima,323,Dinophysis arctica
+253,Rhaphoneis sp.,324,Dinophysis caudata
+254,Amphidinium operculatum,325,Dinophysis norvegica
+255,Leptocylindrus mediterraneus,326,Dinophysis ovum
+256,Fragilaria pinnata,327,Dinophysis punctata
+257,Chaetoceros similis,328,Dinophysis schuettii
+258,Bleakeleya notata,329,Agmenellum thermale
+259,Thalassiosira antarctica,330,Prorocentrum compressum
+260,Membraneis challengeri,331,Eutreptia sp.
+261,Cyclotella striata,332,Gonyaulax digitale
+262,Aulacoseira italica,333,Gonyaulax polygramma
+263,Coscinosira polychorda,334,Gonyaulax spinifera
+264,Melosira jurgensii,335,Gonyaulax triacantha
+265,Caloneis fusioides,336,Gonyaulax sp.
+266,Asteromphalus roperianus,337,Gymnodinium sp.
+267,Prorocentrum nanum,338,Gymnodinium costatum
+268,Licmophora flabellata,339,Gymnodinium rhomboides
+,8,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+340,Gymnodinium simplex,411,Gymnodinium splendens
+341,Gyrodinium sp.,412,Katodinium rotundatum
+342,Gyrodinium lacryma,413,Pavillardinium spinosa
+343,Noctiluca scintillans,414,Oxytoxum obliquum
+344,Fragilaria striatula,415,Ceratium setaceum
+345,Pediastrum biradiatum,416,Ceratium teres
+346,Oxytoxum gladiolus,417,Protoperidinium fimbriatum
+347,Oxytoxum milneri,418,Amphidinium turbo
+348,Oxytoxum reticulatum,419,Ceratium belone
+349,Oxytoxum scolopax,420,Diploneis smithii
+350,Oxytoxum sphaeroideum,421,Oxytoxum longiceps
+351,Oxytoxum variabile,422,Amphidinium steinii
+352,Dissodium asymmetricum,423,Prorocentrum aporum
+353,Pyrophacus sp.,424,Gymnodinium marinum
+354,Oblea rotunda,425,Pavillardinium sp.
+355,Protoperidinium sp.,426,Calciosolenia granii
+356,Protoperidinium breve,427,Pyrocystis fusiformis
+357,Protoperidinium cerasus,428,Green cells (
+358,Protoperidinium conicoides,429,Green cells (3-5 microns)
+359,Protoperidinium depressum,430,Green cells (5-10 microns)
+360,Protoperidinium leonis,431,Chlorella sp.
+361,Protoperidinium oceanicum,432,Oxytoxum belgicae
+362,Protoperidinium ovatum,433,Amphidinium sphenoides
+363,Protoperidinium pallidum,434,Mallomonas sp.
+364,Protoperidinium pellucidum,435,Calycomonas gracilis
+365,Protoperidinium pentagonum,436,Oxytoxum crassum
+366,Protoperidinium punctulatum,437,Protoperidinium claudicans
+367,Thalassiosira subtilis,438,Dinophysis parvula
+368,Crucigenia irregularis,439,Coscinodiscus nobilis
+369,Podolampas bipes,440,Amphidoma acuminata
+370,Podolampas elegans,441,Coscinodiscus subbulliens
+371,Podolampas palmipes,442,Prorocentrum lima
+372,Prorocentrum sp.,443,Ceratium horridum
+373,Prorocentrum dentatum,444,Glenodinium gymnodinium
+374,Prorocentrum micans,445,Oxytoxum laticeps
+375,Prorocentrum minimum,446,Actinoptychus splendens
+376,Prorocentrum rostratum,447,Heterocapsa triquetra
+377,Prorocentrum scutellum,448,Ceratium longinum
+378,Nitzschia gracillima,449,Ceratium trichoceros
+379,Coscinodiscus sublineatus,450,Odontella regia
+380,Anacystis sp.,451,Gonyaulax conjuncta
+381,Gymnodinium arcticum,452,Glenodinium danicum
+382,Ceratium tripos var. atlanticum,453,Gonyaulax longispina
+383,Dinophysis rotundata,454,Rhabdosphaera longistylis
+384,Dinophysis fortii,455,Navicula paleralis
+385,Oxytoxum sceptrum,456,Protoperidinium bipes
+386,Cladopyxis brachiolata,457,Amphora crassa
+387,Prorocentrum vaginulum,458,Cochlodinium sp.
+388,Gonyaulax polyedra,459,Oxytoxum gracile
+389,Ceratium arietinum,460,Heteromastix pyriformis
+390,Amphidinium schroederi,461,Protoperidinium pyriforme
+391,Amphidinium bipes,462,Scrippsiella trochoidea
+393,Protoperidinium conicum,463,Dinophysis lachmannii
+394,Triceratium acutum,464,Cystodinium sp.
+395,Podolampas sp.,465,Pyramimonas obovata
+396,Amphidinium globosum,466,Gymnodinium conicum
+397,Gonyaulax minima,467,Amphidinium ovoideum
+398,Oxytoxum mitra,468,Gymnodinium punctatum
+399,Oxytoxum diploconus,469,Amphidoma sp.
+400,Ceratium longirostrum,470,Oxytoxum globosum
+401,Gonyaulax birostris,471,Ceratocorys horrida
+402,Monodus sp.,472,Podolampas spinifera
+403,Oxytoxum constrictum,473,Prorocentrum gracile
+404,Dinophysis minuta,474,Protoperidinium globulum
+405,Protoperidinium brevipes,475,Amphidinium acutum
+406,Prorocentrum balticum,476,Gonyaulax diacantha
+407,Amphidinium latum,477,Pyrocystis lunula
+408,Bellerochea horologicalis,478,Protoperidinium granii
+409,Gonyaulax minuta,479,Amphidinium glaucum
+410,Heteraulacus polyedricus,480,Amphidinium wislouchi
+,9,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+481,Protoperidinium diabolum,551,Syracosphaera sp.
+482,Gonyaulax unicornis,552,Rhabdosphaera sp.
+483,Cochlodinium constrictum,553,Cyclotella atomus
+484,Diplopsalis lenticula,554,Amphora egregia var. interrupta
+485,Gyrodinium spirale,555,Pontosphaera sp.
+486,Protoperidinium nudum,556,Discosphaera sp.
+487,Gyrodinium undulans,557,Ceratium hirundinella
+488,Amphidinium crassum,558,Surirella cruciata
+489,Protoperidinium orbiculare,559,Hantzschia marina
+490,Protoperidinium steinii,560,Calycomonas wulffii
+491,Protoperidinium subinerme,561,Chrysococcus minutus
+492,Dinophysis sphaerica,562,Tribonema affine
+493,Protoperidinium excentricum,563,Tribonema monochloron
+494,Cladopyxis setifera,564,Heteromastix rotunda
+495,Dinophysis exigua,565,Pavlova salina
+496,Protoperidinium minutum,566,Tetraselmis maculata
+497,Protoperidinium oblongum,567,Pyramimonas micron
+498,Ceratium breve,568,Phacus curvicauda
+499,Protoperidinium abei,569,Phacus sp.
+500,Acanthoica sp.,570,Phacus longicauda
+501,Acanthoica acanthifera,571,Phacus lemmermanni
+502,Acanthoica acanthos,572,Euglena proxima
+503,Gonyaulax excavata,573,Euglena mutabilis var. mainxi
+504,Acanthoica quattrospina,574,Euglena pumila
+505,Anoplosolenia brasiliensis,575,Ceratium declinatum
+506,Chilomonas marina,576,Protoperidinium crassipes
+507,Anthosphaera sp.,577,Auliscus caelatus
+508,Anthosphaera quadriconu,578,Ochromonas caroliniana
+509,Chroomonas vectensis,579,Gyrodinium dominans
+510,Cryptomonas stigmatica,580,Tetraselmis gracilis
+511,Calciosolenia murrayi,581,Histoneis variabilis
+512,Calyptrosphaera sp.,582,Ornithocercus quadratus
+513,Prorocentrum cassubicum,583,Ornithocercus steinii
+514,Calyptrosphaera oblonga,584,Ornithocercus thumii
+515,Emiliania huxleyi,585,Oxytoxum coronatum
+516,Coccolithus pelagicus,586,Oxytoxum curvatum
+517,Hymenomonas carterae,587,Auliscus sculptus
+518,Cyclococcolithus fragilis,588,Ceratium ranipes
+519,Cyclococcolithus leptoporus,589,Protoperidinium nipponicum
+520,Discosphaera tubifer,590,Protoperidinium achromaticum
+521,Gephyrocapsa oceanica,591,Dinophysis tripos
+522,Halopappus adriaticus,592,Polykrikos kofoidii
+523,Pseudo-nitzschia subpacifica,593,Prorocentrum maximum
+524,Calciosolenia sp.,594,Podolampas curvatus
+525,Pyramimonas sp.,595,Pyrocystis fusiformis f. biconica
+526,Spirulina sp.,596,Pyrocystis robusta
+527,Michaelsarsia elegans,597,Pyrocystis pseudonoctiluca
+528,Desmidium sp.,598,Katodinium asymmetricum
+529,Dinophysis monacantha,599,Bacteriastrum hyalinum var. princeps
+530,Pontosphaera syracusana,600,Tetraselmis sp.
+531,Rhabdosphaera clavigera,601,Triceratium favus
+532,Chaetoceros rostratus,602,Tropidoneis seriata
+533,Rhabdosphaera stylifer,603,Chrysochromulina sp.
+534,Crucigenia sp.,604,Actinoptychus vulgaris
+535,Scyphosphaera apsteinii,605,Amphora acuta
+536,Umbellosphaera tenuis,606,Amphora binodis
+537,Staurastrum quadricuspidatum,607,Amphora grevilleana var. contracta
+538,Pyramimonas torta,608,Amphora coffeaeformis
+539,Triceratium formosum pentagonal,609,Amphora cuneata
+540,Syracosphaera mediterranea,610,Amphora terroris
+541,Syracosphaera molischii,611,Amphora obtusa
+542,Syracosphaera pirus,612,Amphora ostrearia
+543,Syracosphaera pulchra,613,Amphora ovalis
+544,Schizothrix tenerrima,614,Amphora peragalli
+545,Navicula directa,615,Amphora proteus
+546,Umbellosphaera irregularis,616,Amphora robusta
+547,Umbilicosphaera hulburtiana,617,Gyrosigma wansbeckii
+548,Coccolithophores (Unid.),618,Asterionellopsis kariana
+549,Katodinium sp.,619,Asteromphalus flabellatus
+550,Thalassiosira nana,620,Bacillaria paxillifer
+,10,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+621,Bacteriastrum furcatum Shadbolt,693,Amphiprora gigantea var. sulcata
+622,Caloneis staurophora,694,Licmophora paradoxa var. tincta
+623,Caloneis wardii,695,Navicula cuspidata var. ambigua
+624,Mastogloia braunii,696,Synedra superba
+625,Ochromonas sp.,698,Amphora laevis
+626,Chaetoceros diversus,699,Cocconeis scutellum
+627,Cocconeis molesta var. crucifera,700,Scenedesmus armatus
+628,Cocconeis pinnata,701,Dictyocha fibula
+629,Coscinodiscus apiculiferus,702,Scenedesmus dimorphus
+630,Coscinodiscus argus,703,Scenedesmus abundans
+631,Coscinodiscus granulosus,704,Dactylococcopsis raphidioides
+632,Stellarima microtrias,705,Dinophysis diegensis
+633,Fragilariopsis cylindrus,706,Distephanus speculum
+634,Cymatosira lorenziana,707,Asterionella sp.
+635,Glyphodesmis distans,708,Mesocena polymorpha
+636,Gyrosigma hippocampus,709,Silicoflagellates (Unid.)
+637,Mastogloia smithii,710,Chlorophyceans (Unid.)
+638,Melosira dubia,711,Crucigenia quadrata
+639,Navicula abrupta,712,Ceratium limulus
+640,Navicula annulata,713,Skeletonema sp.
+641,Navicula cancellata,714,Helicotheca tamesis
+642,Navicula clavata,715,Gomphosphaeria sp.
+643,Navicula forcipata,716,Melosira islandica var. helvetica
+644,Navicula inserata,717,Podosira sp.
+645,Navicula lundstroemii,718,Ebria tripartita
+646,Navicula opima,719,Stauroneis salina
+647,Navicula palpebralis,720,Synura sp.
+648,Navicula praetexta,721,Cerataulus radiatus
+649,Navicula pusilla,722,Asterionella notata
+650,Navicula transitans var. asymmetrica,723,Stauroneis sp.
+651,Nitzschia constricta,724,Syracosphaera prolongata
+652,Nitzschia distans,725,Trachelomonas acanthostoma
+653,Nitzschia lorenziana var. densistriata,726,Trachelomonas charkowiensis
+654,Nitzschia insignis,727,Trachelomonas hispida
+655,Nitzschia lorenziana var. incerta,728,Trachelomonas volvocina var. punctata
+657,Nitzschia panduriformis,729,Trachelomonas sp.
+658,Nitzschia sigma,730,Protoperidinium avellana
+659,Nitzschia sigma var. intercedens,731,Protoperidinium quarnerense
+660,Nitzschia sigma var. rigida,732,Protoperidinium roseum
+661,Nitzschia socialis,733,Dinophysis schroderi
+662,Meridion circulare,734,Dinophysis sacculus
+663,Pinnularia trevelyana,735,Cladopyxis sp.
+664,Pinnularia rectangulata,736,Protoperidinium thorianum
+665,Plagiogramma staurophorum,737,Gymnodinium variabile
+666,Pleurosigma aestuarii,738,Thalassiothrix sp.
+667,Pleurosigma hamuliferum,739,Gonyaulax fragilis
+668,Pleurosigma nicobaricum,740,Actinastrum sp.
+669,Pleurosigma normanii,741,Oxytoxum mediterraneum
+670,Pleurosigma obscurum,742,Amphidinium carterae
+671,Pleurosigma angulatum var. strigosa,743,Ceratium buceros var. tenue
+672,Hemiaulus indicus,744,Oxytoxum parvum
+673,Rhaphoneis amphiceros,745,Dinophysis dentata
+674,Delphineis surirella,746,Ceratium contortum karstenii
+675,Rhizosolenia formosa,747,Dinophysis pulchella
+676,Amphora marina,748,Hemiaulus sp.
+677,Nitzschia clausii,749,Protoperidinium divergens
+678,Scoliotropis latestriata,750,Amphisolenia sp.
+679,Stauroneis amphioxys,751,Ankistrodesmus sp.
+680,Stenopterobia anceps,752,Pyrophacus horologium
+681,Surirella pandura contracta,753,Ceratium gallicum
+682,Closterium sp.,754,Oxytoxum turbo
+683,Synedra robusta,755,Amphisolenia bidentata
+684,Amphora costata,756,Pavillardinium biconica
+686,Trinacria regina,757,Cladopyxis caryophyllum
+687,Diploneis constricta,758,Dinophysis baltica
+688,Mastogloia cocconeiformis,759,Gonyaulax monocantha
+689,Crucigenia apiculata,760,Triceratium sp.
+690,Coscinodiscus wailesii,761,Oxytoxum elegans
+691,Achnanthes fimbriata,762,Ceratium schroeteri
+692,Dimerogramma sp.,763,Chroococcus limneticus
+,11,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+764,Amphidinium acutissimum,835,Diplopeltopsis minor
+765,Gymnodinium pygmaeum,836,Thalassiosira oestrupii var. venrickae
+766,Nitzschia spathulata,837,Cyclotella glomerata
+767,Striatella sp.,838,Calycomonas sp.
+768,Gymnodinium grammaticum,839,Chrysophyceans (Unid.)
+769,Ceratium buceros,840,Cyclotella caspia
+770,Gymnodinium flavum,841,Oscillatoria trichomes
+771,Ceratium pulchellum f. semipulchellum,842,Amphidinium extensum
+772,Amphisolenia globifera,843,Tribonema sp.
+773,Actinastrum hantzschii,844,Chaetoceros neogracilis
+774,Gymnodinium coeruleum,845,Rhopalodia gibberula
+775,Gymnodinium danicans,846,Cryptomonas sp. 2
+776,Gyrodinium estuariale,847,Rhopalodia sp.
+777,Oxytoxum sp.,848,Gymnodinium sp. b
+778,Protoperidinium biconicum,849,Gyrosigma spenceri
+779,Protoperidinium brochii,850,Euglena sp.
+780,Protoperidinium grande,851,Eutreptia marina
+781,Gymnodinium nelsonii,852,Eutreptia viridis
+782,Protoperidinium pendunculatum,853,Calothrix sp.
+783,Protoperidinium solidicorne,854,Eutreptia lanowii
+784,Protoperidinium sphaericum,855,Euglena acus
+785,Amphidinium klebsii,856,Euglena agilis
+786,Amphidinium lanceolatum,857,Euglena ehrenbergii
+787,Ceratium carriense,858,Euglena deses
+788,Ceratium contortum,859,Euglena fusca
+789,Ceratium contrarium,860,Chilomonas sp.
+790,Ceratium digitatum,861,Chroomonas sp.
+791,Ceratium geniculatum,862,Cryptomonas sp.
+792,Ceratium kofoidii,863,Olisthodiscus luteus
+793,Ceratium pavillardii,864,Synedra acus
+794,Gonyaulax apiculata,865,Chroomonas amphioxeia
+795,Gonyaulax diegensis,866,Cryptomonas rostrella
+796,Gonyaulax monilata,867,Cladopyxis claytonii
+797,Gymnodinium breve,868,Oocystis sp.
+798,Protoperidinium globulus var. ovatum,869,Asterionella gracillima
+799,Gymnodinium situla,870,Oscillatoria limnetica
+800,Oscillatoria erythraea,871,Pediastrum sp.
+801,Lithodesmium sp.,872,Scenedesmus sp.
+802,Histoneis longicollis,873,Scenedesmus quadricauda
+803,Choanoflagellates (Unid.),874,Staurastrum manfeldtii var. flumenense
+804,"Micro-phytoflagellates (Unid.) 
+    ",875,Staurastrum leptocladum var. insigne
+805,Micro-phytoflagellates (Unid.) > 10 u,876,Scenedesmus acuminatus
+806,Richelia intracellularis,877,Staurastrum sp.
+807,Coscinodiscus concinnus,878,Crucigenia fenestrata
+808,Amphidinium longum,879,Kirchneriella sp.
+809,Anabaena sp.,880,Tetraedron minimum
+810,Spirulina subsala,881,Crucigenia crucifera
+811,Pyrocystis sp.,882,Pediastrum duplex
+812,Entophysalis deusta,883,Tetraedron trigonum var. gracile
+813,Anacystis cyanea,884,Kirchneriella lunaris
+814,Chroococcus turgidus,885,Tetrastrum staurogeniaeforme
+815,Blue Green Single Spheres (Unid.),886,Arthrodesmus sp.
+816,Blue Green Trichomes (Unid.),887,Chlorella vulgaris
+817,Agmenellum quadruplicatum,888,Chlorella saccharophilia var. ellipsoidea
+818,Gomphosphaeria aponina,889,Nannochloris atomus
+819,Johannesbaptistia pellucida,890,Enteromorpha intestinalis
+820,Nostoc commune,891,Monodus guttula
+821,Microcystis aeruginosa,892,Oedogonium sp.
+822,Synechococcus sp.,893,Tetraedron sp.
+823,Oscillatoria submembranacea,894,Tetraedron muticum
+824,Schizothrix calcicola,895,Chrysochromulina minor
+825,Nodularia harveyana,896,Ochromonas variabilis
+826,Oscillatoria lutea,897,Ochromonas minuscula
+827,Calothrix parietina,898,Chromulina parvula
+828,Microcystis sp.,899,Calycomonas ovalis
+829,Microcoleus lyngbyaceus,900,Pediastrum simplex
+830,Schizothrix arenaria,901,Cyclotella stylorum
+831,Chroococcus sp.,902,Diploneis obliqua
+833,Biddulphia reticulata,903,Diploneis suborbicularis
+834,Epiphytic diatoms,904,Gyrosigma balticum silimis
+,12,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+905,Mastogloia gibbosa,977,Chaetoceros muelleri
+906,Mastogloia pumila,978,Dinophysis doryphorum
+907,Tabellaria fenestrata,979,Oxytoxum tesselatum
+908,Navicula arenaria,980,Tribonema minus
+909,Rhabdonema arcuatum,981,Lemma minor
+910,Gyrosigma spenceri var. nodiferum,982,Campsopogan coerulus
+911,Gyrosigma macrum,983,Merismopedia sp.
+912,Dimerogramma minor,984,Pyrocystis hamulus
+914,Pronoctiluca sp.,985,Ornithocercus magnificus
+915,Gyrosigma fasciola,986,Arthrodesmus sublatus
+916,Pinnularia sp.,987,Scenedesmus bijuga
+917,Surirella ovalis,988,Ankistrodesmus falcatus
+918,Amphora arenaria,989,Ankistrodesmus falcatus var. acicularis
+919,Kirchneriella contorta,990,Tetraedron trigonum var. setigerum
+920,Cocconeis scutellum var. ornata,991,Chlamydomonas sp.
+921,Merismopedia punctata,992,Coscinodiscus cinctus
+922,Navicula maculata,993,Aulacodiscus sp.
+923,Nitzschia bilobata,994,Pseudotetraedron neglectum
+924,Nitzschia obtusa var. scalpelliformis,995,Porosira gracialis
+925,Pleurosigma strigosum,996,Tetraedron trigonium
+926,Staurastrum paradoxum,997,Schroederia setigera
+927,Amphora gigantea,998,Scenedesmus bijuga var. alternans
+928,Amphora szaboi,999,Staurastrum americanum
+929,Caloneis subsalina,1000,Staurastrum leptocladum
+930,Campylosira cymbelliformis,1001,Micractinium sp.
+931,Fragilaria capucina,1002,Synedra closterioides
+932,Fragilaria hyalina,1003,Cymbella tumida
+933,Navicula humerosa,1004,Dinobryon sp.
+934,Merismopedia tenuissima,1005,Gomphonema sphaerophorum
+935,Anabaena spiroides,1006,Nitzschia sp. I
+936,Nitzschia bilobata var. minor,1007,Berkeleya rutilans
+937,Nitzschia pacifica,1008,Surirella gemma
+938,Plagiogramma interruptum,1009,Hantzchia sp.
+939,Pleurosigma acutum,1010,Aphanocapsa sp.
+940,Pleurosigma delicatulum,1011,Coelosphaerium sp.
+941,Pleurosigma rigidum,1012,Dactylococcopsis sp.
+942,Synedra provincialis,1013,Eudorina sp.
+943,Euastrum sp.,1014,Pandorina sp.
+944,Navicula salinarum,1015,Coelastrum reticulatum
+945,Lithodesmium undulatum,1016,Coelastrum sp.
+946,Synedrosphenia gomphonema,1017,Micractinium pusillum
+947,Navicula rhombica,1018,Melosira varians
+948,Navicula laevissima,1019,Diploneis elliptica
+949,Navicula hennedyii,1020,Achnanthes clevei
+950,Lyngbya contorta,1021,Diploneis gruendleri
+951,Navicula atomus,1022,Frustulia sp.
+952,Navicula arvensis,1023,Rhabdonema sp.
+953,Navicula irrorata,1024,Botryoccus protuberans
+954,Navicula amphipleuroides,1025,Cosmarium costatum
+955,Cyclotella spp. > 30 um,1026,Cosmarium sp.
+956,Cyclotella caspia,1027,Dictyosphaerium planctonicum
+957,Epithemia argus,1028,Dictyosphaerium pulchellum
+958,Eunotia praerupta,1029,Kirchneriella obesa major
+959,Auricula insecta,1030,Micrasterias sp.
+960,Surirella striatula,1031,Pediastrum boryanum
+961,Surirella fastuosa,1032,Pediastrum duplex var. rotundatum
+962,Rhabdonema minutum,1033,Scenedesmus bernardii
+963,Pinnularia major,1034,Scenedesmus hystrix
+964,Stauroneis anceps var. hyalina,1035,Tetraedron lobulatum
+965,Nitzschia amphibia,1036,Anabaena confervoides
+967,Nitzschia proxima,1037,Chroococcus dispersus
+968,Nitzschia vermicularis,1038,Lyngbya limnetica
+969,Caloneis westii,1039,Merismopedia glauca
+970,Cymbella turgidula,1040,Microcystis incerta
+971,Gyrosigma balticum,1041,Oscillatoria tenuis
+972,Proboscia inermis,1042,Hemiselmis sp.
+973,Phormidium sp.,1043,Nephrochloris salina
+974,Neidium affine,1044,Olisthodiscus sp.
+975,Cymbella sp.,1045,Frustulia rhomboides
+976,Mastogloia apiculata,1046,Merismopedia elegans v. major
+,13,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+1047,Lyngbya sp.,1119,Tetraedron regulare var. incus
+1048,Nephrochloris sp.,1120,Marssoniella elegans
+1049,Schizothrix sp.,1121,Crucigenia lauterbornii
+1050,Rhabdoderma sp.,1122,Errerella bornhemiensis
+1051,Cyclotella spp.,1123,Chrysococcus tesselatus
+1052,Cyclotella spp. 10 - 30 um,1124,Botryoccus sp.
+1053,Rhabdoderma lineare,1125,Polydrieopsis spinulosa
+1054,Dactylococcopsis fascicularis,1126,Ankistrodesmus spiralis
+1055,Raphidiopsis curvata,1127,Pediastrum tetras
+1056,Rhabdoderma sigmoidea f. minor,1128,Panadorina morum
+1057,Amphiprora costata,1129,Microspora sp
+1058,Staurastrum grande,1130,Microphytoflagellate sp #2 (unid)
+1059,Nodularia sp.,1131,Aulacoseira herzogii
+1060,Tetraedron regulare,1132,Ceratium carolinianum
+1061,Gyrodinium aureolum,1133,Ceratium inflatum
+1062,Gonium sp.,1134,Merismopedia convoluta
+1063,Campylosira sp.,1135,Chlorophycean microphytoflagellates (unid.)
+1064,Tetraedron gracile,1136,Euglena elastica
+1065,Scenedesmus arcuatus,1137,Lagerheimia ciliata
+1066,Mougeotia sp.,1138,Kephyrion sp.
+1067,Tetraedron pentaedricum,1139,Caloneis lepidula
+1068,Lagerheimia citriformis,1140,Apedinella radians
+1069,Lagerheimia sp.,1141,Closteriopsis longissima
+1070,Chroococcus limneticus var elegans,1142,Pyrodinium bahamense
+1071,Quadrigula lacustris,1143,Coelastrum cambricum
+1072,Chroococcus prescottii,1144,Euglena spirogyra
+1073,Desmids (Unid.),1145,Pediastrum simplex var duodenarium
+1074,Pleodorina sp.,1146,Scenedesmus perforatus
+1075,Spirogyra sp.,1147,Phacus suecicus
+1076,Chlorophycean filaments,1149,Trachelomonas bulla
+1077,Dinobryon cylindricum,1150,Tetradesmus smithii
+1078,Rhizosolenia eriensis,1151,Spondylosium pygmaeum
+1080,Glenodinium armatum,1152,Nephrocytium agardhianum
+1081,Xanthidinium subhastiferum v. towerii,1153,Tetraedron limneticum
+1082,Pleurotaenium tridentulum,1154,Eunotia serra var. diadema
+1083,Micrasterias johnsonii,1155,Synura uvella
+1084,Lagerheima longiseta,1156,Micrasterias truncata
+1085,Oxyrrhis marina,1157,Dinobryon calciformis
+1086,Pleurotaenium sp.,1158,Dinobryon bavaricum
+1087,Quadrigula sp.,1159,Rhabdomonas spiralis
+1088,Aphanothece sp.,1160,Staurastrum paradoxum var. cingulum
+1089,Cryptomonad #1,1161,Licmophora tincta
+1090,Micrasterias radiata,1162,Zygnema sp.
+1091,Hyalotheca sp.,1163,Rhoicosphenia abbreviata
+1092,Chrysophycean microphytoflagellates (unid),1164,Lyngbya hieronymusii
+1093,Kephyrion ovale,1165,Caloneis sp
+1094,Arthrodesmus octocornis,1166,Euastrum abruptum
+1095,Desmidium grevellii,1167,Navicula peregrina
+1096,Elakatothrix gelatinosa,1168,Navicula cincta
+1098,Protoperidinium wisconsisense,1169,Navicula placenta
+1099,Gomphonema acuminatum,1170,Navicula eidrigeana
+1100,Tetrastrum sp.,1171,Navicula spectabilis
+1101,Selenastrum sp.,1172,Pinnularia legumen
+1102,Scenedesmus denticulatus,1173,Pinnularia gibba
+1103,Dictyosphaerium sp.,1174,Amphora exigua
+1104,Euglenoid (Unid.),1175,Cocconeis pediculus
+1105,Ceratium hirundinella form brachyceras,1176,Suriella spiralis
+1106,Gonatozygon brebissonii,1177,Tabellaria flocculosa
+1107,Franceia sp.,1178,Bellerochea malleus
+1108,Spondylosium planum,1179,Oocystis parva
+1109,Actinastrum hantzschii var. fluviatile,1180,Oocystis elliptica
+1110,Desmidium baileyi,1181,Botryococcus sudeticus
+1111,Cosmarium alpestre,1182,Pediastrum duplex gracilimum
+1112,Chaetosphaeridium globosum,1183,Closterium archerianum
+1113,Pleurotaenium nodulosum,1184,Chroococcus dispersus minor
+1114,Volvox tertius,1185,Aphanothece gelatinosa
+1115,Protoperidinium cinctum,1186,Gloeothece linearis composita
+1116,Glenodinium quadridens,1187,Phacus orbicularis
+1117,Xanthidinium sp.,1188,Actinocyclus normanii f. normanii
+1118,Micrasterias pinnatifida,1189,Stephanodiscus hantzschii
+,14,,01/03/11
+,VAPHDOC.doc,VAPHDOC.doc,
+1190,Cyclostephanos dubius,1262,Gloeocapsa aeruginosa
+1191,Ulothrix sp.,1263,Gloeothece sp.
+1192,Protoperidinium aciculiferum,1264,Oscillatoria lacustris
+1193,Gloecapsa sp.,1265,Oscillatoria limosa
+1194,Tetraedron hastatum,1267,Eunotia pectinalis
+1195,Epithemia sp.,1268,Nitzschia acicularis
+1196,Nephrocytium limneticum,1269,Surirella patella
+1197,Odontella rhombus,1270,Centritractus belanophorus
+1198,Rhopalodia gibba,1271,Chrysococcus rufescens
+1200,Closterium dianae,1272,Dinobryon divergens
+1201,Cosmarium turpinii,1273,Dinobryon sertularia
+1202,Cochlodinium heterolobatum,1274,Mallomonas caudata
+1203,Cochlodinium brandtii,1275,Mallomonas producta
+1204,Botryococcus braunii,1276,Mallomonas tonsurata
+1205,Gymnodinium neglectum,1277,Trachelomonas scabra var. longicollis
+1206,Palmodictyon varium,1278,Ophiocytium capitatum var. longispinum
+1207,Gymnodinium boguensis,1279,Synura adamsii
+1208,Pleurosigma salinarum,1280,Euglena mutabilis
+1209,Gymnodinium verruculosum,1281,Euglena virdis
+1210,Selenastrum minutum,1282,Leptocinclis ovum var. gracilicauda
+1211,Gymnodinium gracilentum,1283,Phacus latus
+1212,Pavlova homersandii,1284,Phacus monilatus
+1213,Oscillatoria subbrevis,1285,Phacus perkinensis
+1214,Isochrysis galbana,1286,Phacus triqueter
+1215,Aphanizomenon sp,1287,Strombomonas australica
+1216,Acanthosphaera zachariasi,1288,Trachelomonas acanthophora
+1217,Actinastrum hantzschii var. elongatum,1289,Trachelomonas armata var. longa
+1219,Ankistrodesmus falcatus var. mirabilis,1290,Trachelomonas globularis var. boyeri
+1220,Asterococcus limneticus,1291,Trachelomonas hispida var. coronata
+1221,Coelastrum microporum,1292,Trachelomonas planctonica var. oblonga
+1222,Eudorina elegans,1293,Trachelomonas raciborskii
+1223,Franceia ovalis,1294,Trachelomonas regulosa
+1224,Gonium pectorale,1295,Trachelomonas similis
+1225,Kirchneriella elongata,1296,Trachelomonas superba
+1226,Kirchneriella subsolitaria,1297,Trachelomonas superba var. duplex
+1227,Micractinium pusillum var. elegans,1298,Trachelomonas varians
+1228,Pleurocapsa minor,1299,Trachelomonas verrucosa
+1229,Quadrigula chodatii,1300,Trachelomonas volvocina
+1230,Rhizochrysis limnetica,1301,Gymnodinium fusum
+1231,Scenedesmus incrassatulus,1302,Peridinium aciculiferum
+1232,Selenastrum gracile,1303,Peridinium cinctum
+1233,Selenastrum westii,1304,Peridinium sp.
+1234,Spirogyra crassa,1305,Cryptomonas erosa
+1235,Quadrigula closterioides,1306,Cryptomonas erosa var. reflexa
+1236,Scenedesmus obliquus,1307,Cryptomonas massonii
+1237,Spirogyra tenuissima,1308,Cryptomonas ovata
+1238,Tetraedron arthrodesmiforme,1309,Cryptomonas phaseolus
+1239,Tetraedron cruciatum,1310,Cryptomonas rostrata
+1240,Tetraedron regulare var. torsum,1311,Rhodomonas minuta
+1241,Volvox aureus,1312,Dinobryon sociale
+1242,Arthrodesmus incus var. extensus,1313,Gleocapsa punctata
+1243,Closterium limeatum,1314,Pediastrum tetras var. tetraodon
+1244,Closterium pronum,1315,Cladophora sp
+1245,Closterium setaecum,1316,Pediastrum obtusum
+1246,Cosmarium cynthia,1317,Euglena polymorpha
+1247,Penium sp.,1318,Euglena convoluta
+1248,Pleurotaenium trabecula,1319,Cosmarium contractum
+1249,Staurastrum cingulum var. floridense,1320,Zygabikodinium lenticulatum
+1250,Staurastrum leptocladum var. cornumtum,1321,Peridinium pseudolaeve
+1251,Staurastrum pentacerum,1322,Gymnodinium cnecoides
+1252,Anabaena affinis,1323,Protoperidiunium decipiens
+1253,Anabaena aequalis,1324,Peridinium lomnickii var. splendida
+1254,Anabaena augstumalis var. marchica,1325,Aulacoseira sp
+1255,Anabaena limnetica,1326,Aulacoseira granulata var. curvata
+1256,Anabaena circinalis,1327,Cymbella affinis
+1257,Anabaena spiroides var. crassa,1328,Caloneis trinodis
+1258,Anabaena wisconsinense,1329,Cosmarium subreniforme
+1259,Aphanocapsa delicatssima,1330,Cosmarium tenue
+1260,Aphanocapsa grevillei,1331,Closterium parvulum
+1261,Aphanocapsa pulchra,1332,Arthrodesmus validus var. incrassatus
+,15,,01/03/11
+,,,VAPHDOC.doc,VAPHDOC.doc,
+1333,Gymnodinium uberrimum,,,1363,"Pennate diatoms 
+    "
+1334,Gymnodinium mitratum,,,1364,"Cryptomonas sp. 
+    "
+1335,Peridinium inconspicuum,,,1365,Aphanizomenon flos-aqua
+1336,Cocconeis flumiatilis,,,1366,Thalassiosira anguste-lineata
+1337,Gymnodinium impatiens,,,1367,Unid. Centric Diatom Diam 10-30 um
+1338,Cosmarium ornatum,,,1368,Unid. Centric Diatom Diam 31-60 um
+1339,Cylindrosperum doryphorum,,,1369,Unid. Centric Diatom Diam >60 um
+1340,Hyalotheca dissiliens var. tatrica,Hyalotheca dissiliens var. tatrica,,1370,Unid. Pennate Diatom Length 10-30 um
+1341,Spirulina laxa,,,1371,Unid. Pennate Diatom Length 31-60 um
+1342,Spirulina major,,,1372,Unid. Pennate Diatom Length >60 um
+1343,Hydrodictyon reticulatum,,,1373,Caloneis lewisii
+1344,Treubaria setigerum,,,1374,Encyonema silesiacum
+1345,epiphytic flagellates (unid),,,1375,Navicula elegans
+1346,Microcoleus sp.,,,1376,Navicula phyllepta
+1347,Stigeoclonium glomeratum,,,1377,Navicula lyra
+1349,Blue Green Trichome B (unid),,,1378,Navicula spicula
+1350,Lepocinclis sphagnophila,,,1379,Suriella Splendida
+1351,Carteria cordiformis,,,1380,Surirella Crumena
+1352,Microspora quadrata,,,1381,Tabularia fasciculate
+1353,Hormidium Klebsii,,,1382,Hydrodictyon
+1354,Oocystis Borgei,,,1383,Nitzschia frustulum perpulsilla
+1355,Pleurotaenium subcoronulatum var. detum,Pleurotaenium subcoronulatum var. detum,Pleurotaenium subcoronulatum var. detum,1384,Scenedesmus opoliensis
+1356,Peridinium gatunense,,,1385,Scenedesmus brasiliensis
+1357,Dictyocha Siderea,,,1386,Guinardia striata
+1358,Navicula septentrionalis,,,1387,Aphanizomenon issatschenkoi
+1359,Characium limneticum,,,1388,Blue Green Trichome cell
+1360,"Centric diatom 
+    ",,,1389,Blue Green Trichome B cell
+1361,Centric diatom 10-20um,,,1390,Alexandrium monilatum
+1362,"Pennate diatoms 
+    ",,,,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,,
+>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES
+Name,Type,Width,Variable Description,Variable Description,
+SOURCE,Text,10,Data Collection Agency,Data Collection Agency,
+SAMPLE_TYPE,Text,2,Sample Collection Type,Sample Collection Type,
+CRUISE,Text,6,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number
+STATION,Text,15,Sampling Station,Sampling Station,
+SAMPLE_DATE,Date/Time,8,Sampling,Date (YYYYMMDD),
+LAYER,Text,3,Layer of Water Column in Which SampleWas Taken,Layer of Water Column in Which SampleWas Taken,Layer of Water Column in Which SampleWas Taken
+SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+TSN,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,Text,45,Species Latin Name,Species Latin Name,
+SIZE,Text,30,Cell Size Groupings when taken,Cell Size Groupings when taken,
+METHOD,Text,8,Chesapeake Bay Program Sample Analysis Code,Chesapeake Bay Program Sample Analysis Code,Chesapeake Bay Program Sample Analysis Code
+PARAMETER,Text,15,Sampling Parameter Name,Sampling Parameter Name,
+VALUE,Number,8,Sampling Parameter Value,Sampling Parameter Value,
+UNITS,Text,15,Sampling Parameter Reporting Units,Sampling Parameter Reporting Units,Sampling Parameter Reporting Units
+NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+SPEC_CODE,Text,14,In House Species Code,In House Species Code,
+SER_NUM,Text,12,Sample Serial Number,Sample Serial Number,
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD)
+> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,
+Name,Type,Width,Variable Description,Variable Description,
+SOURCE,Text,10,Data Collection Agency,Data Collection Agency,
+SAMPLE_TYPE,Text,2,Collection Type,Collection Type,
+CRUISE,Text,6,Chesapeake Bay Program cruise number,Chesapeake Bay Program cruise number,Chesapeake Bay Program cruise number
+SAMPLE_DATE,Date/Time,8,Sampling date,Sampling date,(YYYYMMDD)
+LATITUDE,Number,8,Latitude in decimal degrees,Latitude in decimal degrees,
+,,,16,,01/03/11
+,,,,,VAPHDOC.doc,
+LONGITUDE,,Number,Number,8,Longitude in decimal degrees,
+P_DEPTH,,Number,Number,4,Composite Sample Cut Off Depth,
+R_DATE,,Date/Time,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,,Text,,2,Salinty zone,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,Number,8,Total Volume of Sample,
+UNITS,,Text,,15,Reporting Units of Sample Volume,
+STATION,,Text,,15,Sampling Station,
+TOTAL_DEPTH,TOTAL_DEPTH,Number,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,SAMPLE_TIME,Date/Time,Date/Time,8,Sample Collection Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,,Type,,Width,Variable Definitions,
+BASIN,,Text,,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,,Text,,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,,Text,,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,,Text,,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,,Text,,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,COUNTY_CITY,Text,,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,,,Designation,
+LL_DATUM,,Text,,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,,Text,,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,,Text,,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,
+> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,
+File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,,,
+Name,Type,,Width,Variable Descriptions,Variable Descriptions,
+SPEC_CODE,Text,,14,Source In-House Species Codes,Source In-House Species Codes,
+SOURCE,Text,,6,Data Source Identifier,Data Source Identifier,
+DATA_TYPE,Text,,2,Data Type Identifier Code,Data Type Identifier Code,
+SOURCE_LBL,Text,,45,Source Species Latin Name,Source Species Latin Name,
+LBL,Text,,45,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name
+TSN,Text,,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+R_DATE,Date/Time,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+VOLUME,Number,Number,8,Cell Biomass Estimator,Cell Biomass Estimator,
+SIZE,Text,,30,Taxa Size-Fraction Identifier,Taxa Size-Fraction Identifier,
+LIFE_STG,Text,,3,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code
+# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,
+See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for
+full listing.,,,,,,
+>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,,,
+BE Benthic,,,,,,
+FL,Fluorescence,,,,,
+MI,Microzooplankton,,,,,
+MZ Mesozooplankton,MZ Mesozooplankton,,,,,
+PD Primary Production,PD Primary Production,PD Primary Production,,,,
+PH Phytoplankton,PH Phytoplankton,,,,,
+PP Picoplankton,PP Picoplankton,,,,,
+,,,,,17,01/03/11
+,VAPHDOC.doc,
+>SOURCE:,Data Collection Agency,
+ODU - Old Dominion University,,
+>SAMPLE_TYPE: Collection Type,,
+"C - Field Composite Sample, sample composed of subsamples from multiple depths","C - Field Composite Sample, sample composed of subsamples from multiple depths","C - Field Composite Sample, sample composed of subsamples from multiple depths"
+>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,
+See 2000 USERS GUIDE for complete listing of CBP cruise numbers,See 2000 USERS GUIDE for complete listing of CBP cruise numbers,
+>GMETHOD:,Sampling Gear Code,
+07 - unspecified plankton pump,,
+>LAYER: Layer of Water Column in which Sample was Taken,>LAYER: Layer of Water Column in which Sample was Taken,
+AP- Above Pycnocline,,
+BP- Below Pycnocline,,
+WC- Whole Water Column,,
+">NODCCODE: National Oceanographic Data Center Species Code, Version 8.",">NODCCODE: National Oceanographic Data Center Species Code, Version 8.",">NODCCODE: National Oceanographic Data Center Species Code, Version 8."
+NOTE:,"For current listing of Chesapeake Bay species and their codes, see The 1997 Chesapeake Bay","For current listing of Chesapeake Bay species and their codes, see The 1997 Chesapeake Bay"
+Basin Species list. Organisms with out current NODC Codes have been assigned partial NODC codes,Basin Species list. Organisms with out current NODC Codes have been assigned partial NODC codes,Basin Species list. Organisms with out current NODC Codes have been assigned partial NODC codes
+containing alphabetic where no code has been assigned.,containing alphabetic where no code has been assigned.,
+>SALZONE: Salinity zone,,
+F - Tidal fresh (0 - 0.5 ppt),,
+O - Oligohaline (0.5 - 5.0 ppt),,
+M - Mesohaline (5.0 - 18.0 ppt),,
+P - Polyhaline (>18.0 ppt),,
+"*E- An F,O,M, or P followed by an E indicate an estimated salinity range","*E- An F,O,M, or P followed by an E indicate an estimated salinity range",
+based on salinity data collected within a week of the biological,based on salinity data collected within a week of the biological,
+sampling event. Used only when no actual salinity data available.,sampling event. Used only when no actual salinity data available.,
+>BASIN: Chesapeake Bay Program Basin Designations,>BASIN: Chesapeake Bay Program Basin Designations,
+,BAY- Chesapeake Bay,
+,ELZ- Elizabeth River,
+,JAM- James River,
+,YRK- York River,
+,RAP- Rappahanock River,
+>TSN: IT IS Taxon Serial Numbers,,
+Note for current listing of Chesapeake Bay Program Species and their codes; see 1998 Bay Basins Species,Note for current listing of Chesapeake Bay Program Species and their codes; see 1998 Bay Basins Species,Note for current listing of Chesapeake Bay Program Species and their codes; see 1998 Bay Basins Species
+List. Organisms without current serial numbers have ALL been assigned TSN of BAYXXXX,List. Organisms without current serial numbers have ALL been assigned TSN of BAYXXXX,List. Organisms without current serial numbers have ALL been assigned TSN of BAYXXXX
+> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,
+CBSEG_1998,DESCRIPTION,
+CB6PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB7PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB8PH,CHESAPEAKE BAY-POLYHALINE REGION,
+JMSOH,JAMES RIVER-OLIGOHALINE REGION,
+JMSPH,JAMES RIVER-POLYHALINE REGION,
+JMSTF,JAMES RIVER-TIDAL FRESH REGION,
+MOBPH,MOBJACK BAY-POLYHALINE REGION,
+PMKOH,PAMUNKEY RIVER-OLIGOHALINE REGION,
+PMKTF,PAMUNKEY RIVER-TIDAL FRESH REGION,
+,18,01/03/11
+,,,VAPHDOC.doc,
+CBSEG_1998,CBSEG_1998,DESCRIPTION,DESCRIPTION,
+RPPMH,RPPMH,RAPPAHANNOCK RIVER-MESOHALINE REGION,RAPPAHANNOCK RIVER-MESOHALINE REGION,
+RPPOH,RPPOH,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,
+SBEMH,SBEMH,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION
+YRKMH,YRKMH,YORK RIVER-MESOHALINE REGION,YORK RIVER-MESOHALINE REGION,
+>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,
+FIPS,STATE COUNTY,STATE COUNTY,,
+51095,VA,JAMES CITY,,
+51097,VA,KING AND QUEEN,,
+51103,VA,LANCASTER,,
+51127,VA,NEW KENT,,
+51131,VA,NORTHAMPTON,,
+51149,VA,PRINCE GEORGE,,
+51159,VA,RICHMOND,,
+51199,VA,YORK,,
+51550,VA,CHESAPEAKE CITY,,
+51650,VA,HAMPTON,,
+51740,VA,PORTSMOUTH,,
+51810,VA,VIRGINIA BEACH,,
+>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,,
+HUC8,,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,
+02050306,02050306,LOWER SUSQUEHANNA,LOWER SUSQUEHANNA,
+02080101,02080101,LOWER CHESAPEAKE BAY,LOWER CHESAPEAKE BAY,
+02080104,02080104,LOWER RAPPAHANNOCK,LOWER RAPPAHANNOCK,
+02080106,02080106,PAMUNKEY,,
+02080107,02080107,YORK,,
+02080206,02080206,LOWER JAMES,,
+02080208,02080208,HAMPTON ROADS,,
+>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation
+,PP101,,,
+,PH102,,,
+,PH103,,,
+>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,
+PARAMETER,PARAMETER,UNITS,,
+COUNT,COUNT,NUMBER/LITER,,
+# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,
+Variable,Variable,Valid Range,,
+SAMPLE_DATE,SAMPLE_DATE,19850101-20031231,19850101-20031231,
+COUNT,COUNT,3172 - 102224636,3172 - 102224636,
+MAXDEPTH,MAXDEPTH,0.5 - 32.0,,
+R_DATE,R_DATE,19950301-20041231,19950301-20041231,
+SAMPLE_NUMBER,SAMPLE_NUMBER,1-2,,
+LATITUDE,LATITUDE,"See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths."
+LONGITUDE,LONGITUDE,"See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths."
+P_DEPTH,P_DEPTH,"0.5-
+    Note this is a composite cut off not pycnocline depth!
+    ",Note this is a composite cut off not pycnocline depth!,Note this is a composite cut off not pycnocline depth!
+,,,19,01/03/11
+,,,,VAPHDOC.doc,
+R_DATE,,19950301-19991230,19950301-19991230,,
+SAMVOL_L,,12-200,,,
+TOTAL_DEPTH,,1.8-33,,,
+SAMPLE_TIME,,"0651-1935, 00:00 INDICATES MISSING TIME","0651-1935, 00:00 INDICATES MISSING TIME","0651-1935, 00:00 INDICATES MISSING TIME",
+# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,,,
+THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE
+PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,HOWEVER
+IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT,IF YOU HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT
+CHANGES TO BE AWARE OF.,CHANGES TO BE AWARE OF.,CHANGES TO BE AWARE OF.,,,
+CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY,CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY,CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY,CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY,CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY,CELL BIOMASS CAN BE ESTIMATED FROM THE CELL VOLUMES PROVIDED IN THE TAXON KEY
+FILE.,THESE MEASUREMENTS ARE THE AVERAGE CELL VOLUMES BASED ON,THESE MEASUREMENTS ARE THE AVERAGE CELL VOLUMES BASED ON,THESE MEASUREMENTS ARE THE AVERAGE CELL VOLUMES BASED ON,THESE MEASUREMENTS ARE THE AVERAGE CELL VOLUMES BASED ON,
+MEASUREMENT MADE BY THE PRINCIPLE INVESTIGATORS.,MEASUREMENT MADE BY THE PRINCIPLE INVESTIGATORS.,MEASUREMENT MADE BY THE PRINCIPLE INVESTIGATORS.,MEASUREMENT MADE BY THE PRINCIPLE INVESTIGATORS.,MEASUREMENT MADE BY THE PRINCIPLE INVESTIGATORS.,
+6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in,6/30/1996- All plankton data was resubmitted to the Chesapeake Bay Program office due to discrepancies in
+sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and,sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and,sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and,sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and,sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and,sampling dates between synchronously collected samples. Sampling dates were corrected to field logs and
+resubmitted to the Data Center. Please do not use data with an R_DATE prior to 06/01/96.,resubmitted to the Data Center. Please do not use data with an R_DATE prior to 06/01/96.,resubmitted to the Data Center. Please do not use data with an R_DATE prior to 06/01/96.,resubmitted to the Data Center. Please do not use data with an R_DATE prior to 06/01/96.,resubmitted to the Data Center. Please do not use data with an R_DATE prior to 06/01/96.,
+8/31/1995-,GMETHOD,was changed to,7.,Code 7 refers to an unspecified plankton pump.,For an
+"extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management","extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management","extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management","extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management","extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management","extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources Data management"
+"plan, 1989.",This is a change from GMETHOD code in previous versions of the data set. This does not,This is a change from GMETHOD code in previous versions of the data set. This does not,This is a change from GMETHOD code in previous versions of the data set. This does not,This is a change from GMETHOD code in previous versions of the data set. This does not,This is a change from GMETHOD code in previous versions of the data set. This does not
+represent a change in actual sampling gear.,represent a change in actual sampling gear.,represent a change in actual sampling gear.,represent a change in actual sampling gear.,,
+8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/1993- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic
+Data Center accepted spelling.,Data Center accepted spelling.,Data Center accepted spelling.,,,
+8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.,8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.,8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.,8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.,8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.,8/31/1995- CRUISE NUMBERS - BAY012-BAY211 were supplied by the Chesapeake Bay Program office.
+See the Guide to Living Resources Data Sets for complete listing of Cruise periods.,See the Guide to Living Resources Data Sets for complete listing of Cruise periods.,See the Guide to Living Resources Data Sets for complete listing of Cruise periods.,See the Guide to Living Resources Data Sets for complete listing of Cruise periods.,See the Guide to Living Resources Data Sets for complete listing of Cruise periods.,
+8/31/1995- SER_NUM,Old Dominion University does not use a serial number system,Old Dominion University does not use a serial number system,Old Dominion University does not use a serial number system,Old Dominion University does not use a serial number system,for phytoplankton
+sample tracking so this variable is not available,sample tracking so this variable is not available,sample tracking so this variable is not available,sample tracking so this variable is not available,sample tracking so this variable is not available,
+8/31/1995- P_DEPTH,">0.5-
+    Note this is a composite sample cut off depth.
+    This depth is not the
+    ",">0.5-
+    Note this is a composite sample cut off depth.
+    This depth is not the
+    ",Note this is a composite sample cut off depth.,Note this is a composite sample cut off depth.,This depth is not the
+pycnocline depth!,,,,,
+SUMMER 1997 -,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based
+on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from Water
+Quality Hydrographic data collected concurrently with the mesozooplankton. If,Quality Hydrographic data collected concurrently with the mesozooplankton. If,Quality Hydrographic data collected concurrently with the mesozooplankton. If,Quality Hydrographic data collected concurrently with the mesozooplankton. If,Quality Hydrographic data collected concurrently with the mesozooplankton. If,data was not available for
+the of sampling but was collected within a,the of sampling but was collected within a,the of sampling but was collected within a,"one week window of sampling date, the water quality data was","one week window of sampling date, the water quality data was","one week window of sampling date, the water quality data was"
+used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.
+02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/1998- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked
+against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be
+"delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be"
+confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes,confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes,confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes,confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes,confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes,confirmed. Salinity zones will be filled in when the corresponding Water Quality monitoring data becomes
+available.,,,,,
+01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there,01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there,01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there,01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there,01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there,01/01/1999- Due to the 1998 CBP Living Resources split sampling program it was determined that the there
+was a nomenclature difference between laboratories in Maryland and Virginia.,was a nomenclature difference between laboratories in Maryland and Virginia.,was a nomenclature difference between laboratories in Maryland and Virginia.,was a nomenclature difference between laboratories in Maryland and Virginia.,was a nomenclature difference between laboratories in Maryland and Virginia.,The species Merismopedia
+(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a,(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a,(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a,(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a,(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a,(VA species name) and Agmenellum (MD species name) were determined to be synonymous. After a
+literature review both states agreed to use the genera designation Merismopedia. Please contact the Living,literature review both states agreed to use the genera designation Merismopedia. Please contact the Living,literature review both states agreed to use the genera designation Merismopedia. Please contact the Living,literature review both states agreed to use the genera designation Merismopedia. Please contact the Living,literature review both states agreed to use the genera designation Merismopedia. Please contact the Living,literature review both states agreed to use the genera designation Merismopedia. Please contact the Living
+resources data manager for details.,resources data manager for details.,resources data manager for details.,,,
+01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,
+,,,,20,01/03/11
+,,,VAPHDOC.doc,,
+August 2002: ODU purchased new inverted plankton microscopes changing their mid- and high,August 2002: ODU purchased new inverted plankton microscopes changing their mid- and high,August 2002: ODU purchased new inverted plankton microscopes changing their mid- and high,August 2002: ODU purchased new inverted plankton microscopes changing their mid- and high,August 2002: ODU purchased new inverted plankton microscopes changing their mid- and high,
+"magnification from 315/500X to 300/600X, with magnification constants adjusted accordingly.","magnification from 315/500X to 300/600X, with magnification constants adjusted accordingly.","magnification from 315/500X to 300/600X, with magnification constants adjusted accordingly.","magnification from 315/500X to 300/600X, with magnification constants adjusted accordingly.","magnification from 315/500X to 300/600X, with magnification constants adjusted accordingly.",
+Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues
+between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the
+Chesapeake Bay Quality Assurance Program at:,Chesapeake Bay Quality Assurance Program at:,Chesapeake Bay Quality Assurance Program at:,Chesapeake Bay Quality Assurance Program at:,,
+http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,,
+08/11/2005.,"Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change."
+"This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at"
+the altered location had the station name changed to LE5.5-W in August 2005.,the altered location had the station name changed to LE5.5-W in August 2005.,the altered location had the station name changed to LE5.5-W in August 2005.,the altered location had the station name changed to LE5.5-W in August 2005.,,
+01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant,01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant,01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant,01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant,01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant,01/01/2005- All data enumerated using new uniform bay wide counting technique. There will be a significant
+increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of,increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of,increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of,increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of,increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of,increase in the number of taxa identified in Maryland samples counted after 1/1/2005. Please be aware of
+this potential source of step trend in the data.,this potential source of step trend in the data.,this potential source of step trend in the data.,,,
+04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton,04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton,04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton,04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton,04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton,04/14/2006-Missing Data Report for July-Dec 2005 Data. 1) October 2005- Phytoplankton and picoplankton
+samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and,samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and,samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and,samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and,samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and,samples not collected at station CB6.4 due to inclement weather. 2) December 2005- Phytoplankton and
+"picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions.","picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions.","picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions.","picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions.","picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions.","picoplankton samples not collected at stations CB6.1, CB7.3e, CB7.4, LE3.6 due to boat malfunctions."
+3)August 2005- Phytoplankton sample WE4.2 BP sample leaked.,3)August 2005- Phytoplankton sample WE4.2 BP sample leaked.,3)August 2005- Phytoplankton sample WE4.2 BP sample leaked.,3)August 2005- Phytoplankton sample WE4.2 BP sample leaked.,Autotrophic picoplankton count:,
+"324,099,200 cells/liter. 4)October 2005- Picoplankton sample TF4.2 sample leaked.","324,099,200 cells/liter. 4)October 2005- Picoplankton sample TF4.2 sample leaked.","324,099,200 cells/liter. 4)October 2005- Picoplankton sample TF4.2 sample leaked.","324,099,200 cells/liter. 4)October 2005- Picoplankton sample TF4.2 sample leaked.",,
+"11/04/2008- In March 2008, CB6.1, CB6.4, LE3.6, and WE4.2 were not collected due to weather.","11/04/2008- In March 2008, CB6.1, CB6.4, LE3.6, and WE4.2 were not collected due to weather.","11/04/2008- In March 2008, CB6.1, CB6.4, LE3.6, and WE4.2 were not collected due to weather.","11/04/2008- In March 2008, CB6.1, CB6.4, LE3.6, and WE4.2 were not collected due to weather.","11/04/2008- In March 2008, CB6.1, CB6.4, LE3.6, and WE4.2 were not collected due to weather.",This
+"means that the above and below phytoplankton and picoplankton samples, as well as the productivity were","means that the above and below phytoplankton and picoplankton samples, as well as the productivity were","means that the above and below phytoplankton and picoplankton samples, as well as the productivity were","means that the above and below phytoplankton and picoplankton samples, as well as the productivity were","means that the above and below phytoplankton and picoplankton samples, as well as the productivity were","means that the above and below phytoplankton and picoplankton samples, as well as the productivity were"
+not collected.,"Also the March LE5.5W was collected on April 1, 2008, due to rescheduling from the same","Also the March LE5.5W was collected on April 1, 2008, due to rescheduling from the same","Also the March LE5.5W was collected on April 1, 2008, due to rescheduling from the same","Also the March LE5.5W was collected on April 1, 2008, due to rescheduling from the same","Also the March LE5.5W was collected on April 1, 2008, due to rescheduling from the same"
+foul weather.,"During the RET5.2 collection in May, there was a problem with the sampling pump, and the","During the RET5.2 collection in May, there was a problem with the sampling pump, and the","During the RET5.2 collection in May, there was a problem with the sampling pump, and the","During the RET5.2 collection in May, there was a problem with the sampling pump, and the","During the RET5.2 collection in May, there was a problem with the sampling pump, and the"
+BP samples could not be collected.,BP samples could not be collected.,BP samples could not be collected.,,,
+10/18/2010-,.,During the period,from January–June 2010 there were no collections made in January or,from January–June 2010 there were no collections made in January or,from January–June 2010 there were no collections made in January or
+February due to budget/contract issues.,February due to budget/contract issues.,February due to budget/contract issues.,There were also four stations that were not collected in May.,There were also four stations that were not collected in May.,There were also four stations that were not collected in May.
+"TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling","TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling","TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling","TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling","TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling","TF4.2 was not collected due to boat problems, RET4.3 was not collected due to staffing/scheduling"
+"problems, and CB6.1 and LE3.6 were not collected due to foul weather.","problems, and CB6.1 and LE3.6 were not collected due to foul weather.","problems, and CB6.1 and LE3.6 were not collected due to foul weather.","problems, and CB6.1 and LE3.6 were not collected due to foul weather.",,
+01/03/2011-,From July 2010 on wardt here will be,From July 2010 on wardt here will be,From July 2010 on wardt here will be,"no BP collections made in the tributary stations (RET3.1,","no BP collections made in the tributary stations (RET3.1,"
+"RET4.3, RET5.2, SBE5, TF3.3, TF4.2, TF5.5).","RET4.3, RET5.2, SBE5, TF3.3, TF4.2, TF5.5).","RET4.3, RET5.2, SBE5, TF3.3, TF4.2, TF5.5).","AP stations and collection protocols remain constant, as do","AP stations and collection protocols remain constant, as do","AP stations and collection protocols remain constant, as do"
+samples collected at the BAY stations.,samples collected at the BAY stations.,samples collected at the BAY stations.,There were also two stations that were not collected due to foul,There were also two stations that were not collected due to foul,There were also two stations that were not collected due to foul
+weather.,"RET4.3 was not collected in August, and RET5.2 was not collected in September.","RET4.3 was not collected in August, and RET5.2 was not collected in September.","RET4.3 was not collected in August, and RET5.2 was not collected in September.","RET4.3 was not collected in August, and RET5.2 was not collected in September.",
+# KEY WORDS (EXCLUDING VARIABLE NAMES),# KEY WORDS (EXCLUDING VARIABLE NAMES),# KEY WORDS (EXCLUDING VARIABLE NAMES),# KEY WORDS (EXCLUDING VARIABLE NAMES),,
+Phytoplankton species,Phytoplankton species,Phytoplankton species,,,
+Phytoplankton Counts,Phytoplankton Counts,Phytoplankton Counts,,,
+Phytoplankton Densities,Phytoplankton Densities,Phytoplankton Densities,,,
+Phytoplankton Monitoring,Phytoplankton Monitoring,Phytoplankton Monitoring,,,
+,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,
+,,PHYTOPLANKTON DATA DICTIONARY,PHYTOPLANKTON DATA DICTIONARY,,
+,,,21,01/03/11,

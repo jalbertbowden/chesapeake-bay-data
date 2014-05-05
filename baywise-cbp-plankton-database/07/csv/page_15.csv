@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 15 of 21”,Name: “Table 1 of 1 on page 15 of 21”,Name: “Table 1 of 1 on page 15 of 21”,Name: “Table 1 of 1 on page 15 of 21”,Name: “Table 1 of 1 on page 15 of 21”
+Table: 15,Table: 15,Table: 15,Table: 15,Table: 15
+,,,,
+LIFE_STG,LIFE_STG,Text,3,Chesapeake Bay Program Life Stage Code
+#,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,
+See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring
+Data,,,,
+for full listing.,for full listing.,,,
+>MISSING SAMPLING_TIME VALUES: Missing values have been replaced with 00:00,>MISSING SAMPLING_TIME VALUES: Missing values have been replaced with 00:00,>MISSING SAMPLING_TIME VALUES: Missing values have been replaced with 00:00,>MISSING SAMPLING_TIME VALUES: Missing values have been replaced with 00:00,>MISSING SAMPLING_TIME VALUES: Missing values have been replaced with 00:00
+>SOURCE:,>SOURCE:,Data Collection Agency,Data Collection Agency,
+,ODU - Old Dominion University,ODU - Old Dominion University,,
+>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,
+>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,
+,"C - Composite Field Sample, Sample made of sub-sample from multiple depths.","C - Composite Field Sample, Sample made of sub-sample from multiple depths.","C - Composite Field Sample, Sample made of sub-sample from multiple depths.","C - Composite Field Sample, Sample made of sub-sample from multiple depths."
+>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,
+,ODU - Old Dominion University,ODU - Old Dominion University,,
+">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species"
+names,,and codes listed above,,
+>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,See THE 2000 USERS GUIDE for
+complete listing of CBP cruise numbers,complete listing of CBP cruise numbers,complete listing of CBP cruise numbers,complete listing of CBP cruise numbers,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,
+BE,,Benthic,,
+FL,,Fluorescence,,
+MI,,Microzooplankton,,
+MZ,,Mesozooplankton,,
+PD,,Primary Production,,
+PH,,Phytoplankton,,
+PP,,Picoplankton,,
+>GMETHOD:,>GMETHOD:,Sampling Gear Code,Sampling Gear Code,
+,76 -,202 micron mesh Bongo net with 50 cm opening,202 micron mesh Bongo net with 50 cm opening,
+>LAYER: Layer of Water Column in which Sample was Taken,>LAYER: Layer of Water Column in which Sample was Taken,>LAYER: Layer of Water Column in which Sample was Taken,>LAYER: Layer of Water Column in which Sample was Taken,
+,AP- Above Pycnocline,AP- Above Pycnocline,,
+,BP- Below Pycnocline,BP- Below Pycnocline,,
+,WC- Whole Water Column,WC- Whole Water Column,,
+NOTE: Definition of Pycnocline provided in Virginia Phytoplankton Event File documentation,NOTE: Definition of Pycnocline provided in Virginia Phytoplankton Event File documentation,NOTE: Definition of Pycnocline provided in Virginia Phytoplankton Event File documentation,NOTE: Definition of Pycnocline provided in Virginia Phytoplankton Event File documentation,NOTE: Definition of Pycnocline provided in Virginia Phytoplankton Event File documentation
+>LIFE_STAGE,>LIFE_STAGE,- Chesapeake Bay Program Life Stage Code,- Chesapeake Bay Program Life Stage Code,
+,00 EGG,,,
+,11 NAUPLII,,,
+,12 COPEPODITE,12 COPEPODITE,,
+,31 ZOEA,,,
+,33 MEGALOPS,33 MEGALOPS,,
+,92 POST LARVAE,92 POST LARVAE,,
+,97 LARVAE,,,
+,98 ADULT,,,
+,,,15,01/31/07

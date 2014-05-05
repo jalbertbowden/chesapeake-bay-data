@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”,Name: “Table 1 of 1 on page 13 of 21”
+Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13
+,,,,,,
+SPEC_CODE,TSN,SOURCE_LBL,,SPEC_CODE,TSN,SOURCE_LBL
+661,0082696,PHYLUM ARTHROPODA,,813,0082708,CLASS ARACHOIDNEA
+701,0058348,Keratella sp.,,9999,BAY0292 Unknown Beads,BAY0292 Unknown Beads
+702,0058440,Brachionus havanensis,,,,
+# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,,
+> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,,
+Name,,Type,Width,Variable Definitions:,Variable Definitions:,
+SOURCE,SOURCE,Text,10,Data Collection Agency,Data Collection Agency,
+STATION,STATION,Text,15,Sampling Station,Sampling Station,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),
+LAYER,LAYER,Text,3,Layer in Water Column Which Composite,Layer in Water Column Which Composite,Layer in Water Column Which Composite
+,,Sample was,,,,
+,,,,Taken,,
+SAMPLE_NUMBER,SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,GMETHOD,Text,3,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code
+TSN,,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,LATIN_NAME,Text,45,Species Latin Name,Species Latin Name,
+LIFE_STAGE,LIFE_STAGE,Text,50,Life stage of individual- Chesapeake Bay,Life stage of individual- Chesapeake Bay,Life stage of individual- Chesapeake Bay
+Program Life,Program Life,,,,,
+,,,,Stage Code,,
+METHOD,METHOD,Text,8,Parameter Method Analysis Code,Parameter Method Analysis Code,
+PARAMETER,PARAMETER,Text,10,Parameter,,
+VALUE,VALUE,Number,8,Parameter Value,Parameter Value,
+UNITS,UNITS,Text,15,Parameter Reporting Units.,Parameter Reporting Units.,
+NODCCODE,NODCCODE,Text,12,NODC Species Code,NODC Species Code,
+SPEC_CODE,SPEC_CODE,Text,14,Source Species Taxon Code,Source Species Taxon Code,
+R_DATE,R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD)
+> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,,
+Name,,Type,Width,Variable Description,Variable Description,
+DATA_TYPE,DATA_TYPE,Text,2,CBP Data Type Code,CBP Data Type Code,
+SOURCE,SOURCE,Text,10,Data Collection agency,Data Collection agency,
+SAMPLE_TYPE,SAMPLE_TYPE,Text,2,Collection type,,
+LAYER,LAYER,Text,3,Layer in water column from which sample was,Layer in water column from which sample was,Layer in water column from which sample was
+Taken,Taken,,,,,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),Sample date (YYYYMMDD),
+LATITUDE,LATITUDE,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,LONGITUDE,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,P_DEPTH,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,R_DATE,Date/Time,8,Data version date (YYYYMMDD),Data version date (YYYYMMDD),
+SALZONE,SALZONE,Text,2,Salinity Zone,,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,8,Total Volume of Sample,Total Volume of Sample,
+UNITS,UNITS,Text,15,Units for Sample Volume,Units for Sample Volume,
+STATION,STATION,Text,15,Sampling Station,Sampling Station,
+TOTAL_DEPTH,TOTAL_DEPTH,Number,4,Total Station Depth (meters),Total Station Depth (meters),
+SAMPLE_TIME,SAMPLE_TIME,Date/Time,8,Sampling Time (HHMM),Sampling Time (HHMM),
+>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,
+Name,,Type,Width,Variable Description:,Variable Description:,
+,,,13,,,01/31/07

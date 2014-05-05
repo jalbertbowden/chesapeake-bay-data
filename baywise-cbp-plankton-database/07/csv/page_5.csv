@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 5 of 21”,Name: “Table 1 of 1 on page 5 of 21”,Name: “Table 1 of 1 on page 5 of 21”
+Table: 5,Table: 5,Table: 5
+,,
+The sample volume is calculated using the following equation:,The sample volume is calculated using the following equation:,
+SAMPLE VOLUME= DISTANCE*AREA,,
+,Where AREA + 0.18776 square meters.,
+>ZOOPLANKTON DENSITY,,
+-For Variance Stabilization techniques MZ102A an MZ102B,-For Variance Stabilization techniques MZ102A an MZ102B,
+Densities are first calculated for each size class and then a total density is calculated.,Densities are first calculated for each size class and then a total density is calculated.,The size classes
+range from 200 to 2000 microns and represent the sieve sizes used to separate organisms into categories,range from 200 to 2000 microns and represent the sieve sizes used to separate organisms into categories,range from 200 to 2000 microns and represent the sieve sizes used to separate organisms into categories
+prior to identification and enumeration.,,
+SC2000= ((2**SC2000S)*SC2000C)/VOL,,
+SC850,= ((2**SC850S)*SC850C)/VOL,
+SC600,= ((2**SC600S)*SC600C)/VOL,
+SC300,= ((2**SC300S)*SC300C)/VOL,
+SC200,= ((2**SC2000S)*SC200C)/VOL,
+*SC75,= ((2**SC75S)*SC75C)/VOL,
+T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,T_DENS= SC2000+SC850+SC600+SC300+SC200+SC75,
+*SC75- for samples collected after March 1998,*SC75- for samples collected after March 1998,
+SC= Density of size class N,,
+SCS= Number of splits for size class N,,
+SCC= Number counted in split for size class N,SCC= Number counted in split for size class N,
+-For Henson Stemple technique MZ103,,
+The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,
+,DENSITY = A * (B/(C * FVOL_M3)),
+Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,
+,A = number of individuals counted in the sub sample,
+,B = volume in milliliters of sample from which sub samples are taken,
+,C = sub sample volume in milliliters,
+,FVOL_M3 = volume of water filtered by the bongo nets in cubic meters,
+# MONITORING VARIABLE QA\QC PLAN FOR PROJECT,# MONITORING VARIABLE QA\QC PLAN FOR PROJECT,
+"The principal investigator and laboratory chief for quality assurance routinely check the taxon identifications,","The principal investigator and laboratory chief for quality assurance routinely check the taxon identifications,","The principal investigator and laboratory chief for quality assurance routinely check the taxon identifications,"
+raw data sheets and other stages of the collection and analysis procedures. See EPA Quality assurance,raw data sheets and other stages of the collection and analysis procedures. See EPA Quality assurance,raw data sheets and other stages of the collection and analysis procedures. See EPA Quality assurance
+plan for extensive details on http://www.chesapeakebay.net.,plan for extensive details on http://www.chesapeakebay.net.,
+#,"VARIABLE NAMES, MEASUREMENT UNITS, AND DESCRIPTIONS",
+">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as",">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as",">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as"
+"Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free","Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free","Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free"
+Dry Weight as Grams per Sample),,
+-COLLECTION METHODS:,,
+NOTE: BIOMASS DETERMINATIONS WERE DISCONTINUED IN 1996-DATA AVAILIBLE BY REQUEST.,NOTE: BIOMASS DETERMINATIONS WERE DISCONTINUED IN 1996-DATA AVAILIBLE BY REQUEST.,NOTE: BIOMASS DETERMINATIONS WERE DISCONTINUED IN 1996-DATA AVAILIBLE BY REQUEST.
+Two stepped oblique; replicate tows with paired bongo nets are taken at each station through the entire,Two stepped oblique; replicate tows with paired bongo nets are taken at each station through the entire,Two stepped oblique; replicate tows with paired bongo nets are taken at each station through the entire
+water column.,Steps are taken in 1-4 meter increments depending on total station depth.,There are always
+5 step levels per station.,Tows last between 5 to 10 minutes depending on zooplankton abundance.,One of
+"the paired nets is used for taxonomic purposes (counting), the other for biomass measurements.","the paired nets is used for taxonomic purposes (counting), the other for biomass measurements.",
+-SAMPLE PRESERVATIVES: N/A,,
+-SAMPLE STORAGE ENVIRONMENT: N/A,,
+,5,01/31/07

@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”,Name: “Table 1 of 1 on page 12 of 16”
+Table: 12,Table: 12,Table: 12,Table: 12
+,,,
+,,MDMIDOC.doc,
+>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,
+>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,,
+,C - Composite,,
+>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,,
+"MSU - Morgan State University Estuarine Research Center, formerly the Academy of Natural Sciences,","MSU - Morgan State University Estuarine Research Center, formerly the Academy of Natural Sciences,","MSU - Morgan State University Estuarine Research Center, formerly the Academy of Natural Sciences,","MSU - Morgan State University Estuarine Research Center, formerly the Academy of Natural Sciences,"
+Benedict Estuarine Research Laboratory,Benedict Estuarine Research Laboratory,,
+">SPEC_CODE: In house Species codes or MSUCODE,",">SPEC_CODE: In house Species codes or MSUCODE,",">SPEC_CODE: In house Species codes or MSUCODE,",
+See In House species names and codes listed above,See In House species names and codes listed above,,
+>GMETHOD:,>GMETHOD:,Sampling Gear Code,
+,08 - unspecified plankton Net,,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,
+BE Benthic,BE Benthic,,
+FL Fluorescence,FL Fluorescence,,
+MI,Microzooplankton,,
+MZ Mesozooplankton,MZ Mesozooplankton,,
+PD Primary Production,PD Primary Production,,
+PH Phytoplankton,PH Phytoplankton,,
+PP Picoplankton,PP Picoplankton,,
+>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,
+,AP- Above Pycnocline,,
+,BP- Below Pycnocline,,
+,WC- Whole Water Column,,
+>LIFE_STAGE DESCRIPTION - Chesapeake Bay Program Life Stage Code,>LIFE_STAGE DESCRIPTION - Chesapeake Bay Program Life Stage Code,>LIFE_STAGE DESCRIPTION - Chesapeake Bay Program Life Stage Code,
+11,NAUPLII,99,NOT APPLICABLE
+12,COPEPODITE,100,"20:49UM LENGTH 
+    "
+52,SPECIES A,101,20:49UM LENGTH
+53,SPECIES B,102,20:49UM LENGHT 50:99UM WIDTH
+54,SPECIES C,103,20:49UM LENGHT 20:49UM WIDTH CUP
+58,SPECIES A-FULL,104,20:49UM LENGHT 20:49UM WIDTH CONE
+59,SPECIES A-EMPTY,105,20:49UM LENGHT 20:49UM WIDTH
+60,SPECIES B-FULL,106,20:49UM LENGTH >20UM WIDTH
+61,SPECIES B-EMPTY,107,>200UM LENGTH
+62,SPECIES C-FULL,108,"20:49UM LENGHT 
+    "
+63,SPECIES C-EMPTY,109,"50:99UM LENGTH 
+    "
+82,LARGE,110,100:199UM LENGTH >20UM WIDTH
+83,LARGE-FULL,111,>20UM WIDTH
+84,LARGE-EMPTY,112,"
+    "
+85,FULL,113,"
+    "
+86,EMPTY,114,"
+    "
+87,MEDIUM,115,"
+    "
+88,SMALL,116,"
+    "
+97,LARVAE,117,"20:49UM LENGHT 
+    "
+98,ADULT,118,50:99UM LENGTH EMPTY
+,,12,03/11/09

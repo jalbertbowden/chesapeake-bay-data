@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 8 of 24”,Name: “Table 1 of 1 on page 8 of 24”,Name: “Table 1 of 1 on page 8 of 24”
+Table: 8,Table: 8,Table: 8
+,,
+,MDMZDOC.doc,
+(Milliliters per Cubic Meter),,
+SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of Zooplankton,SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of Zooplankton,
+(Milliliters per Cubic Meter),,
+Where,,
+SETVOL = Settled Volume of zooplankton and detritus (ml/sample),SETVOL = Settled Volume of zooplankton and detritus (ml/sample),
+SETVOLZ = Settled Volume of Zooplankton (ml/sample),SETVOLZ = Settled Volume of Zooplankton (ml/sample),
+BEROEVOL = Volume of Beroe (ml/sample),BEROEVOL = Volume of Beroe (ml/sample),
+CNIDAVOL = Cnidaria Volume (ml/sample) ###,CNIDAVOL = Cnidaria Volume (ml/sample) ###,
+CTENOVOL = Ctenophore Volume (ml/sample) ###,CTENOVOL = Ctenophore Volume (ml/sample) ###,
+HYDRAVOL = Volume of Hydromedusae (ml/sample),HYDRAVOL = Volume of Hydromedusae (ml/sample),
+JELLYVOL = Volume of Jellyfish (#/sample),JELLYVOL = Volume of Jellyfish (#/sample),
+MNEMVOL = Volume of Mnemiopsis (ml/sample),MNEMVOL = Volume of Mnemiopsis (ml/sample),
+"FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as",
+,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999
+,And the rotor constant = 26.873,
+### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN REPORTING,### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN REPORTING,
+"In cases where field samples contained large amounts of detritus or algae, the biovolume and biomass","In cases where field samples contained large amounts of detritus or algae, the biovolume and biomass","In cases where field samples contained large amounts of detritus or algae, the biovolume and biomass"
+could not be determined directly. The settled volumes were estimated by regressing total dry weight versus,could not be determined directly. The settled volumes were estimated by regressing total dry weight versus,could not be determined directly. The settled volumes were estimated by regressing total dry weight versus
+biovolume in detritus free samples.,,
+The regression to estimate biovolume is as follows:,The regression to estimate biovolume is as follows:,
+Y=24.96(X),,
+Where,,
+Y= Settled biovolume in milliliters,,
+X= Total sample dry weight in grams.,,
+# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,
+Quality assurance/quality control procedures have been implemented for field and laboratory aspects of the,Quality assurance/quality control procedures have been implemented for field and laboratory aspects of the,Quality assurance/quality control procedures have been implemented for field and laboratory aspects of the
+program.,"In brief, some of these procedures include:",
+- Maintenance of nets to minimize clogging and to ensure maximum filtration efficiency,- Maintenance of nets to minimize clogging and to ensure maximum filtration efficiency,
+"- Maintenance, replacement and/or calibration of flow meters","- Maintenance, replacement and/or calibration of flow meters",
+- Net tow of standard time at different depths,- Net tow of standard time at different depths,
+- Rejection of tows should flow meter readings fall outside of pre-established number of revolutions,- Rejection of tows should flow meter readings fall outside of pre-established number of revolutions,- Rejection of tows should flow meter readings fall outside of pre-established number of revolutions
+- Appropriate preservation of taxonomic samples,- Appropriate preservation of taxonomic samples,
+"- Redundancy in availability of gear, equipment, and expendables to allow for most efficient utilization of field","- Redundancy in availability of gear, equipment, and expendables to allow for most efficient utilization of field","- Redundancy in availability of gear, equipment, and expendables to allow for most efficient utilization of field"
+time,,
+- Reprocess of 10% of the taxonomic samples for both total counts and identifications.,- Reprocess of 10% of the taxonomic samples for both total counts and identifications.,Should sample fail
+"QC protocol, samples sorted by technician are reprocessed.","QC protocol, samples sorted by technician are reprocessed.",
+- Verification of all field and laboratory sheets by laboratory supervisor,- Verification of all field and laboratory sheets by laboratory supervisor,
+- Verification of all data entered into computer sheets by laboratory supervisor,- Verification of all data entered into computer sheets by laboratory supervisor,
+"- Computerized checks on variable ranges, incorrect taxonomic codes, stations, etc.","- Computerized checks on variable ranges, incorrect taxonomic codes, stations, etc.",
+"# VARIABLE NAMES, MEASUREMENT UNITS, AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS, AND DESCRIPTIONS",
+">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as",">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as",">PARAMETER: ASH_WT (Total Ash Weight as Milligrams per Cubic Meter), ASHWT (Total Ash Weight as"
+"Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free","Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free","Grams per Sample), ASH_FRWT (Ash Free Dry Weight as Milligrams per Cubic Meter), AFDW (Ash Free"
+Dry Weight as Grams per Sample),,
+-COLLECTION METHODS: Two stepped oblique; replicate tows with paired bongo nets are taken at each,-COLLECTION METHODS: Two stepped oblique; replicate tows with paired bongo nets are taken at each,-COLLECTION METHODS: Two stepped oblique; replicate tows with paired bongo nets are taken at each
+station through the entire water column.,Steps are taken in 1-4 meter increments depending on total station,Steps are taken in 1-4 meter increments depending on total station
+,3,

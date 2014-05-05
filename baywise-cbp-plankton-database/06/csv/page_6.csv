@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”,Name: “Table 1 of 1 on page 6 of 24”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,
+,,MDMZDOC.doc,MDMZDOC.doc,,,
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",,,
+> Taxonomic Determination Formulas,> Taxonomic Determination Formulas,,,,,
+The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,The following equation is used to convert raw counts to density for each taxon identified:,
+DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),,,,,
+Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,,,,
+A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,,,
+B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,,
+C = subsample volume in milliliters,C = subsample volume in milliliters,,,,,
+FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,,,
+meters,"= (3.14*(r**2)) * (Y*(26,873/999,999))","= (3.14*(r**2)) * (Y*(26,873/999,999))",,,,
+Where,,,,,,
+r = radius of the bongo net,r = radius of the bongo net,,,,,
+Y = flow meter count (i.e. difference between beginning count and end count),Y = flow meter count (i.e. difference between beginning count and end count),Y = flow meter count (i.e. difference between beginning count and end count),Y = flow meter count (i.e. difference between beginning count and end count),Y = flow meter count (i.e. difference between beginning count and end count),Y = flow meter count (i.e. difference between beginning count and end count),
+"26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions","26,873 = a rotor constant equal to the standard distance traveled in meters for 999,999 revolutions"
+,Of the flow meter,,,,,
+"999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter",,
+>Biomass Determination Formulas,>Biomass Determination Formulas,,,,,
+AFDW = DRYWT - ASHWT,AFDW = DRYWT - ASHWT,,,,,
+DRY_WT = DRYWT*1000 / FVOL_M3,DRY_WT = DRYWT*1000 / FVOL_M3,,,,,
+ASH_WT = ASHWT * 1000 / FVOL_M3,ASH_WT = ASHWT * 1000 / FVOL_M3,,,,,
+ASH_FRWT = AFDW*1000 / FVOL_M3,ASH_FRWT = AFDW*1000 / FVOL_M3,,,,,
+Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter (Calculated Value),
+DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),,
+ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated Value),
+ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),,
+ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value),ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter (Calculated Value)
+AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),
+"FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as",(,,
+3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,
+And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),,,
+Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.,Dry weights of taxa used for estimation of zooplankton biomass in detritus contaminated samples.
+SPECIES,LIFE_STAGE,WEIGHT,SPECIES,,LIFE_STAGE,WEIGHT
+,,(ug),,,,(ug)
+Cyclops biscuspidatus,adult,12.6,Acartia tonsa,,adult,12.3
+Cyclops biscuspidatus,copepodite,8.4,Acartia tonsa,,copepodite,4.6
+Cyclops vernalis,adult,9.6,Centropages furcatus,Centropages furcatus,adult,15.4
+Cyclops vernalis,copepodite,4,Centropages furcatus,Centropages furcatus,copepodite,6.4
+Eucyclops agilis,adult,2.8,Centropages hamatus,Centropages hamatus,adult,15.4
+Eucyclops agilis,copepodite,1.1,Centropages hamatus,Centropages hamatus,copepodite,6.4
+Halicyclops magnaceps,,2.8,Diaptomus sp.,,adult,20.9
+Mesocyclops edax,adult,7.2,Diaptomus sp.,,copepodite,9.4
+Mesocyclops edax,copepodite,3.7,Eurytemora affinis,,adult,10
+Oithona colcarva,adult,2.7,Eurytemora affinis,,copepodite,5.5
+Oithona colcarva,copepodite,1.7,Pseudodiaptomus coronatus,Pseudodiaptomus coronatus,adult,9.9
+Paracyclops fibriatus,adult,3.5,Pseudodiaptomus coronatus,Pseudodiaptomus coronatus,copepodite,4.6
+Paracyclops fibriatus,copepodite,1.5,Temora turbiniata,,adult,15.4
+Acartia hudsonica,adult,12.3,Temora turbiniata,,copepodite,6.4
+Acartia hudsonica,copepodite,4.6,Alona affinis,,,1.1
+,,6,,,,

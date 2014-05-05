@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”,Name: “Table 1 of 1 on page 17 of 21”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,,,
+,,,,,VAPHDOC.doc,
+LONGITUDE,,Number,Number,8,Longitude in decimal degrees,
+P_DEPTH,,Number,Number,4,Composite Sample Cut Off Depth,
+R_DATE,,Date/Time,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,,Text,,2,Salinty zone,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,Number,8,Total Volume of Sample,
+UNITS,,Text,,15,Reporting Units of Sample Volume,
+STATION,,Text,,15,Sampling Station,
+TOTAL_DEPTH,TOTAL_DEPTH,Number,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,SAMPLE_TIME,Date/Time,Date/Time,8,Sample Collection Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,,Type,,Width,Variable Definitions,
+BASIN,,Text,,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,,Text,,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,,Text,,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,,Text,,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,,Text,,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,COUNTY_CITY,Text,,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,,,Designation,
+LL_DATUM,,Text,,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,,Text,,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,,Text,,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLES NAMES AND DESCRIPTIONS FOR SPECIES KEY,
+> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,> PHYTOPLANKTON AND PICOPLANKTON SPECIES KEY,
+File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,File of name format: VAPHKYyy.TXT,,,
+Name,Type,,Width,Variable Descriptions,Variable Descriptions,
+SPEC_CODE,Text,,14,Source In-House Species Codes,Source In-House Species Codes,
+SOURCE,Text,,6,Data Source Identifier,Data Source Identifier,
+DATA_TYPE,Text,,2,Data Type Identifier Code,Data Type Identifier Code,
+SOURCE_LBL,Text,,45,Source Species Latin Name,Source Species Latin Name,
+LBL,Text,,45,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name
+TSN,Text,,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+R_DATE,Date/Time,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+VOLUME,Number,Number,8,Cell Biomass Estimator,Cell Biomass Estimator,
+SIZE,Text,,30,Taxa Size-Fraction Identifier,Taxa Size-Fraction Identifier,
+LIFE_STG,Text,,3,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code
+# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,
+See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for
+full listing.,,,,,,
+>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,>MISSING VALUES: Missing Sampling Times have been replaced with 00:00.,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,,,
+BE Benthic,,,,,,
+FL,Fluorescence,,,,,
+MI,Microzooplankton,,,,,
+MZ Mesozooplankton,MZ Mesozooplankton,,,,,
+PD Primary Production,PD Primary Production,PD Primary Production,,,,
+PH Phytoplankton,PH Phytoplankton,,,,,
+PP Picoplankton,PP Picoplankton,,,,,
+,,,,,17,01/03/11

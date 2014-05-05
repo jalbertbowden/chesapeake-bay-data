@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 20 of 24”,Name: “Table 1 of 1 on page 20 of 24”,Name: “Table 1 of 1 on page 20 of 24”,Name: “Table 1 of 1 on page 20 of 24”
+Table: 20,Table: 20,Table: 20,Table: 20
+,,,
+,,MDMZDOC.doc,
+MET4.2,ET4.2,,
+MWT5.1,WT5.1,,
+MLE2.2,LE2.2,,
+MET5.1,ET5.1,,
+MET5.2,ET5.2,,
+MEE3.1,EE3.1,,
+XEA1840,TF2.4,,
+MET5.0,ET5.0,,
+XED9490,TF1.6,,
+"10/31/95 - As part of the serial number correction problem of 07/31/95, two serial numbers were erroneously","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial numbers were erroneously","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial numbers were erroneously","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial numbers were erroneously"
+changed.,The result was three serial numbers assigned twice. This was corrected in the data sets by,The result was three serial numbers assigned twice. This was corrected in the data sets by,The result was three serial numbers assigned twice. This was corrected in the data sets by
+changing serial numbers as follow:,changing serial numbers as follow:,,
+Serial Number,Sample date,Serial Number reassigned,
+CZMPX86034B,12/03/86,No Change,
+CZMPX86035A,12/03/86,No Change,
+CZMPX86035B,12/03/87,No Change,
+CZMPX86034B,06/08/87,CZMPX87034B,
+CZMPX86035A,06/08/87,CZMPX87035A,
+CZMPX86035B,06/08/87,CZMPX87035B,
+There were no changes to actual data values.,There were no changes to actual data values.,There were no changes to actual data values.,
+07/31/95 -,In several cases the sample serial number had been assigned to sampling events on two,In several cases the sample serial number had been assigned to sampling events on two,In several cases the sample serial number had been assigned to sampling events on two
+different dates. As part of the data,different dates. As part of the data,corrections made on 05/19/95 a number of sample SER_NUM's were,corrections made on 05/19/95 a number of sample SER_NUM's were
+changed as follows:,,,
+OLD SER_NUM,NEW SER_NUM,SAMPLE DATE,
+CZM85TN004A,CZM85TN012A,05/12/85,
+CZM85TN004B,CZM85TN012B,05/12/85,
+CZM85CO018A,CZM85CO024A,10/19/85,
+CZM85CO018B,CZM85CO024B,10/19/85,
+CZM86PT025A,CZM86PT034A,10/14/86,
+CZM86PT025B,CZM86PT034B,10/14/86,
+CZM86PT026A,CZM86PT036A,10/14/86,
+CZM86PT026B,CZM86PT036B,10/14/86,
+5/31/95 -,GMETHOD was changed to 75.,Code 75 refers 202 micrometer mesh Bongo net with 0.2 meter,Code 75 refers 202 micrometer mesh Bongo net with 0.2 meter
+opening.,"For an extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources","For an extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources","For an extensive gear code list see Table 17, PAGE F-9 APPENDIX F, of the Living Resources"
+"Data Management Plan, 1989.","Data Management Plan, 1989.",This is a change from GMETHOD code in previous versions of the data set.,This is a change from GMETHOD code in previous versions of the data set.
+This does not represent a change in actual sampling gear.,This does not represent a change in actual sampling gear.,This does not represent a change in actual sampling gear.,
+5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the National Oceanographic,5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the National Oceanographic,5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the National Oceanographic,5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the National Oceanographic
+Data Center (NODC) accepted spelling.,Data Center (NODC) accepted spelling.,,
+05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the mesozooplankton monitoring,05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the mesozooplankton monitoring,05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the mesozooplankton monitoring,05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the mesozooplankton monitoring
+data during routine QA/QC checks at the CBP Data Center.,data during routine QA/QC checks at the CBP Data Center.,data during routine QA/QC checks at the CBP Data Center.,Versar confirmed the duplicate records and
+made corrections to the affected files.,made corrections to the affected files.,These corrections affected the entire 1984-1994 TAXON data sets,These corrections affected the entire 1984-1994 TAXON data sets
+"and the EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.","and the EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.","and the EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.",The CBPO Data Center
+recommends discontinuing use of mesozooplankton TAXON data sets without R_DATES or with R_DATE,recommends discontinuing use of mesozooplankton TAXON data sets without R_DATES or with R_DATE,recommends discontinuing use of mesozooplankton TAXON data sets without R_DATES or with R_DATE,recommends discontinuing use of mesozooplankton TAXON data sets without R_DATES or with R_DATE
+prior to 07/01/95.,,,
+05/05/95 -,The VERSAR BAY CRUISE NUMBERS deviate from the standard CBPO CRUISE numbers.,The VERSAR BAY CRUISE NUMBERS deviate from the standard CBPO CRUISE numbers.,The VERSAR BAY CRUISE NUMBERS deviate from the standard CBPO CRUISE numbers.
+The Academy of Natural Sciences (ANS) has requested and was granted permission to match Bay Cruise,The Academy of Natural Sciences (ANS) has requested and was granted permission to match Bay Cruise,The Academy of Natural Sciences (ANS) has requested and was granted permission to match Bay Cruise,The Academy of Natural Sciences (ANS) has requested and was granted permission to match Bay Cruise
+,,15,

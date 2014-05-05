@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 6 of 22”,Name: “Table 1 of 1 on page 6 of 22”,Name: “Table 1 of 1 on page 6 of 22”,Name: “Table 1 of 1 on page 6 of 22”,Name: “Table 1 of 1 on page 6 of 22”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,
+,,MDPHDOC.doc,,
+-TIME IN STORAGE:,None,,,
+-LAB TECHNIQUES WITH REFERENCES:,-LAB TECHNIQUES WITH REFERENCES:,Station positions in data set are approximations of actual,Station positions in data set are approximations of actual,Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling
+begins when boat reaches pre-programmed coordinates.,begins when boat reaches pre-programmed coordinates.,begins when boat reaches pre-programmed coordinates.,Loran-C is accurate to ± 1500 ft.,The actual
+Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,
+>PARAMETER: LAYER (Layer of Water Column in which Sample was Taken),>PARAMETER: LAYER (Layer of Water Column in which Sample was Taken),>PARAMETER: LAYER (Layer of Water Column in which Sample was Taken),,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before
+plankton sampling.,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth
+between upper (AP) and lower (BP) LAYERS.,between upper (AP) and lower (BP) LAYERS.,The pycnocline is determined to be the depth at which the,The pycnocline is determined to be the depth at which the,The pycnocline is determined to be the depth at which the
+greatest conductivity change is observed.,greatest conductivity change is observed.,The minimum threshold change is 1000 umhos/cm.,The minimum threshold change is 1000 umhos/cm.,WC is the
+entire water column from surface to bottom without regards to P_DEPTH.,entire water column from surface to bottom without regards to P_DEPTH.,entire water column from surface to bottom without regards to P_DEPTH.,TOTAL_DEPTH is based on a,TOTAL_DEPTH is based on a
+ten-year average of Maryland Department of the Environment Water Quality Hydrographic data collected,ten-year average of Maryland Department of the Environment Water Quality Hydrographic data collected,ten-year average of Maryland Department of the Environment Water Quality Hydrographic data collected,ten-year average of Maryland Department of the Environment Water Quality Hydrographic data collected,ten-year average of Maryland Department of the Environment Water Quality Hydrographic data collected
+concurrently with the plankton samples.,concurrently with the plankton samples.,,,
+>PARAMETER: P_DEPTH (Depth 0.5 Meters Above the Pycnocline),>PARAMETER: P_DEPTH (Depth 0.5 Meters Above the Pycnocline),>PARAMETER: P_DEPTH (Depth 0.5 Meters Above the Pycnocline),,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before
+plankton sampling.,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth,P_DEPTH is set at 0.5 meters above the pycnocline and is used as the cutoff depth
+between upper (AP) and lower (BP) LAYERS.,between upper (AP) and lower (BP) LAYERS.,The pycnocline is determined to be the depth at which the,The pycnocline is determined to be the depth at which the,The pycnocline is determined to be the depth at which the
+greatest conductivity change is observed.,greatest conductivity change is observed.,The minimum threshold change is 1000 umhos/cm.,The minimum threshold change is 1000 umhos/cm.,WC is the
+entire water column from surface to bottom without regards to P_DEPTH.,entire water column from surface to bottom without regards to P_DEPTH.,entire water column from surface to bottom without regards to P_DEPTH.,TDEPTH is based on a ten,TDEPTH is based on a ten
+year average of Maryland Department of the Environment Water Quality Hydrographic data collected,year average of Maryland Department of the Environment Water Quality Hydrographic data collected,year average of Maryland Department of the Environment Water Quality Hydrographic data collected,year average of Maryland Department of the Environment Water Quality Hydrographic data collected,year average of Maryland Department of the Environment Water Quality Hydrographic data collected
+concurrently with the plankton samples.,concurrently with the plankton samples.,,,
+>PARAMETER: SALZONE (Salinity Zone),>PARAMETER: SALZONE (Salinity Zone),,,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are"
+measured prior to the phytoplankton sample collections.,measured prior to the phytoplankton sample collections.,measured prior to the phytoplankton sample collections.,Salinity values are averaged for above P_DEPTH,Salinity values are averaged for above P_DEPTH
+and below P_DEPTH and salinity classifications are determined. If sample is a whole water column,and below P_DEPTH and salinity classifications are determined. If sample is a whole water column,and below P_DEPTH and salinity classifications are determined. If sample is a whole water column,and below P_DEPTH and salinity classifications are determined. If sample is a whole water column,and below P_DEPTH and salinity classifications are determined. If sample is a whole water column
+"sample, then salinity is averaged over the entire water column. P_DEPTH is","sample, then salinity is averaged over the entire water column. P_DEPTH is","sample, then salinity is averaged over the entire water column. P_DEPTH is",set at 0.5 meters above the,set at 0.5 meters above the
+pycnocline.,"Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt(O). Mesohaline","Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt(O). Mesohaline","Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt(O). Mesohaline","Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt(O). Mesohaline"
+>5.0 - 18.0 ppt (M) And Polyhaline >18.0 ppt (P).,>5.0 - 18.0 ppt (M) And Polyhaline >18.0 ppt (P).,>5.0 - 18.0 ppt (M) And Polyhaline >18.0 ppt (P).,,
+>PARAMETER: TOTAL_DEPTH (Total Depth in meters),>PARAMETER: TOTAL_DEPTH (Total Depth in meters),>PARAMETER: TOTAL_DEPTH (Total Depth in meters),,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and total depth are"
+measured prior to the phytoplankton sample collections.,measured prior to the phytoplankton sample collections.,measured prior to the phytoplankton sample collections.,,
+>DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces data sheet and,>DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces data sheet and,>DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces data sheet and,>DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces data sheet and,>DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces data sheet and
+data file. Field data is Key punched from field data sheets.,data file. Field data is Key punched from field data sheets.,data file. Field data is Key punched from field data sheets.,,
+>DATA VERIFICATION: Visual inspection and computer verification program.,>DATA VERIFICATION: Visual inspection and computer verification program.,>DATA VERIFICATION: Visual inspection and computer verification program.,,
+,,6,1/22/2010,1/22/2010

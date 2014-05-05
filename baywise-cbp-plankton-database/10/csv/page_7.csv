@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,
+,,,,MDPDDOC.doc,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,8,Total Volume of Sample,
+UNITS,,Text,15,Units for Sample Volume,
+STATION,,Text,15,Sampling Station,
+TOTAL_DEPTH,TOTAL_DEPTH,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,SAMPLE_TIME,Date/Time,8,Sampling Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,,Type,Width,Variable Definitions,
+BASIN,,Text,20,Chesapeake Bay Basin Designation,
+HUC8,,Text,8,USGS Eight Digit Hydrologic Unit Code,
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,,Text,50,USGS Cataloging Unit Code Description,
+FIPS,,Text,5,Federal Information Processing Code,
+STATE,,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,COUNTY_CITY,Text,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,,Designation,
+LL_DATUM,,Text,5,Latitude and Longitude Geographic Datum,
+CBSEG_1998,,Text,6,1998 Chesapeake Bay Segment Designation,
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,,Text,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+# VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,# VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,
+Not Applicable for this Data Set.,Not Applicable for this Data Set.,Not Applicable for this Data Set.,,,
+# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,
+See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring,Data for
+full listings.,,,,,
+> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,
+> SOURCE: Data Collecting Agency,> SOURCE: Data Collecting Agency,> SOURCE: Data Collecting Agency,,,
+"MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research","MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research","MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research","MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research","MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research","MSU- Morgan State University, formerly the Academy of Natural Sciences, Benedict Estuarine Research"
+Laboratory,,,,,
+> QUALIFIER: Detection Limit Codes,> QUALIFIER: Detection Limit Codes,> QUALIFIER: Detection Limit Codes,,,
+#,Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),
+"
+    ",Less than the detection limit of the method,Less than the detection limit of the method,Less than the detection limit of the method,Less than the detection limit of the method,
+>0,Greater than zero,Greater than zero,,,
+J,Estimated value,Estimated value,,,
+N,Not detected,,,,
+NA,Not recorded/not applicable/parameter value acceptable,Not recorded/not applicable/parameter value acceptable,Not recorded/not applicable/parameter value acceptable,Not recorded/not applicable/parameter value acceptable,
+> METHOD: Analysis Method Code,> METHOD: Analysis Method Code,> METHOD: Analysis Method Code,,,
+PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS,PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS,PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS,PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS,PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS,PD101- See ONLINE DOCUMENTATION AND QUALITY ASSURANCE PLANS FOR DETAILS
+> SAMPLE_TYPE: Sample Collection Type,> SAMPLE_TYPE: Sample Collection Type,> SAMPLE_TYPE: Sample Collection Type,> SAMPLE_TYPE: Sample Collection Type,,
+C- Composite Sample,C- Composite Sample,C- Composite Sample,,,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,,
+BE,Benthic,,,,
+FL,Fluorescence,Fluorescence,,,
+MI,Microzooplankton,Microzooplankton,,,
+MZ,Mesozooplankton,Mesozooplankton,,,
+PD,Primary Production,Primary Production,,,
+,,,,7,11/06/08

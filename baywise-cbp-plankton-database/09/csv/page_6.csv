@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,,,,
+,,,VAMIDOC.doc,VAMIDOC.doc,VAMIDOC.doc,,
+Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,
+Are as follows:,Are as follows:,,,,,,
+SPEC_CODE,TSN,SOURCE_LBL,SOURCE_LBL,,SPEC_CODE,TSN,SOURCE_LBL
+1,0085257,COPEPOD NAUPLII,,,ODU_2,0085257,COPEPOD NAUPLII
+2,0089589,BARNACLE NAUPLII,,,ODU_20,0058399,NOTHOLCA ACUMINATA
+3,0058239,ROTIFERS,,,ODU_21,0058398,NOTHOLCA STRIATA
+4,0046620,TINTINNIDS,,,ODU_22,0059273,POLYARTHRA DOLICHOPTERA
+5,0046594,OLIGOTRICHS,,,ODU_23,0059291,PLOESOMA HUDSONI
+6,0064358,POLYCHAETE LARVAE,POLYCHAETE LARVAE,,ODU_24,0059283,PLOESOMA TRUNCTATUM
+7,0043848,SARCODINIA,,,ODU_25,0059277,POLYARTHRA VULGARIS
+8,0083832,Cladocerans,,,ODU_26,0059256,SYNCHAETA BALTICA
+9,,OTHER,,,ODU_27,BAY0263 SYNCHAETA CURVATA,BAY0263 SYNCHAETA CURVATA
+ODU_1,0083832,CLADOCERANS,,,ODU_28,BAY0288 SYNCHAETA FENNICA,BAY0288 SYNCHAETA FENNICA
+ODU_10,0058454,BRACHIONUS CAUDATUS,BRACHIONUS CAUDATUS,,ODU_3,0046594,OLIGOTRICHS
+ODU_11,0058435,BRACHIONUS PLICATILIS,BRACHIONUS PLICATILIS,,ODU_30,0059075,TRICHCERCA MARINA
+ODU_12,0058443,BRACHIONUS PTERODINOIDES,BRACHIONUS PTERODINOIDES,BRACHIONUS PTERODINOIDES,ODU_31,0043848,SARCODINIA
+ODU_13,0059072,BIRGEA ENANTIAN,,,ODU_32,0089589,BARNACLE NAUPLII
+ODU_14,0059426,FILINIA LONGISETA,,,ODU_4,0064358,POLYCHAETE LARVAE
+ODU_15,0059354,HEXATHRA FENNICA,HEXATHRA FENNICA,,ODU_5,0058239,ROTIFERS
+ODU_16,0059253,HARRINGIA ROUSSELETI,HARRINGIA ROUSSELETI,,ODU_6,0046620,TINTINNIDS
+ODU_17,0058360,KERATELLA COCHLEARIS,KERATELLA COCHLEARIS,,ODU_7,0059240,ASPLANCHNA PRIODONTATA
+ODU_18,0058486,KELLICOTTIA LONGISPINA,KELLICOTTIA LONGISPINA,,ODU_8,0058445,BRACHIONUS ANGULARIS
+ODU_19,0058352,KERATELLA QUADRATA,KERATELLA QUADRATA,,ODU_9,0058438,BRACHIONUS CALYCIFLORUS
+# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,,
+Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/
+>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,
+Name,,Type,Width,Variable Definitions:,Variable Definitions:,,
+SOURCE,,Text,10,Data Collection Agency,Data Collection Agency,Data Collection Agency,
+STATION,,Text,15,Sampling Station,Sampling Station,,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),
+LAYER,,Text,3,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was
+,,,,Taken,Taken,,
+SAMPLE_NUMBER,SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,GMETHOD,Text,3,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code
+TSN,,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,LATIN_NAME,Text,45,Species Latin Name,Species Latin Name,,
+LIFE_STAGE,LIFE_STAGE,Text,50,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life
+,,,,Stage Code,Stage Code,,
+METHOD,,Text,8,Parameter Method Analysis Code,Parameter Method Analysis Code,Parameter Method Analysis Code,
+PARAMETER,PARAMETER,Text,10,Parameter,Parameter,,
+VALUE,,Number,8,Parameter Value,Parameter Value,,
+UNITS,,Text,15,Parameter Reporting Units.,Parameter Reporting Units.,Parameter Reporting Units.,
+NODCCODE,NODCCODE,Text,12,NODC Species Code,NODC Species Code,NODC Species Code,
+SPEC_CODE,SPEC_CODE,Text,14,Source Species Taxon Code,Source Species Taxon Code,Source Species Taxon Code,
+R_DATE,,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+,,,,6,,,08/15/05

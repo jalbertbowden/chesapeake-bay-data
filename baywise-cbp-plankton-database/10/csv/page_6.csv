@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,
+,,,MDPDDOC.doc,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to water collection. Salinity values are averaged over water column above the P_DEPTH and a zone is,to water collection. Salinity values are averaged over water column above the P_DEPTH and a zone is,to water collection. Salinity values are averaged over water column above the P_DEPTH and a zone is,to water collection. Salinity values are averaged over water column above the P_DEPTH and a zone is,to water collection. Salinity values are averaged over water column above the P_DEPTH and a zone is
+"determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt(O). Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt(O). Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt(O). Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt(O). Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt(O). Mesohaline"
+>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,,
+>PARAMETER: TOTAL_DEPTH(Total station depth in meters),>PARAMETER: TOTAL_DEPTH(Total station depth in meters),>PARAMETER: TOTAL_DEPTH(Total station depth in meters),>PARAMETER: TOTAL_DEPTH(Total station depth in meters),
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth is recorded prior"
+to water collection.,,,,
+>DATA ENTRY METHOD: Key to disk,>DATA ENTRY METHOD: Key to disk,,,
+>DATA VERIFICATION: Visual comparison and parameter checking programs,>DATA VERIFICATION: Visual comparison and parameter checking programs,>DATA VERIFICATION: Visual comparison and parameter checking programs,>DATA VERIFICATION: Visual comparison and parameter checking programs,
+# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,
+Not Applicable in this data set.,Not Applicable in this data set.,,,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on:,http://www.chesapeakebay.net,http://www.chesapeakebay.net,http://www.chesapeakebay.net,
+>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,
+Files of name format:VAPDCFyy.TXT,Files of name format:VAPDCFyy.TXT,,,
+Name,Type,Width,Variable Definition,
+SOURCE,Text,10,Data Collection agency,
+SAMPLE_TYPE,Text,2,Collection type,
+STATION,Text,15,Sampling Station,
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_NUMBER,Number,4,Replicate number,
+GMETHOD,Text,3,Chesapeake Bay Program gear method,Chesapeake Bay Program gear method
+CARBFIX,Number,8,Carbon Fixation Value,
+UNITS,Text,15,Carbon Fixation Reporting Units,
+QUALIFIER,Text,7,Detection Limit Qualifiers,
+METHOD,Text,8,Chesapeake Bay Program Analytical Method Code,Chesapeake Bay Program Analytical Method Code
+CHLA,Number,8,Chlorophyll a (ug/l),
+ASMRATIO,Number,8,Production efficiency (ug-c/l/hr),
+SER_NUM,Text,12,Sample serial number,
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,
+Name,Type,Width,Variable Description,
+DATA_TYPE,Text,2,CBP Data Type Code,
+SOURCE,Text,10,Data Collection agency,
+SAMPLE_TYPE,Text,2,Collection type,
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),
+LATITUDE,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,Text,2,Salinity Zone,
+,,,6,11/06/08

@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 18 of 22”,Name: “Table 1 of 1 on page 18 of 22”,Name: “Table 1 of 1 on page 18 of 22”,Name: “Table 1 of 1 on page 18 of 22”,Name: “Table 1 of 1 on page 18 of 22”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,
+,,,MDPHDOC.doc,
+#VARIABLE NAMES AND DESCRIPTIONS FOR TAXONOMIC SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR TAXONOMIC SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR TAXONOMIC SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR TAXONOMIC SPECIES KEY,
+These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current
+National Oceanographic Data Center taxonomic codes and spellings. Web address:,National Oceanographic Data Center taxonomic codes and spellings. Web address:,National Oceanographic Data Center taxonomic codes and spellings. Web address:,National Oceanographic Data Center taxonomic codes and spellings. Web address:,National Oceanographic Data Center taxonomic codes and spellings. Web address:
+http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,
+File of name format: MDPHKYyy.TXT,File of name format: MDPHKYyy.TXT,File of name format: MDPHKYyy.TXT,File of name format: MDPHKYyy.TXT,
+Field,Type,Width,Variable Definition,
+ANSCODE,Text,14,Academy of Natural Sciences Species Code,
+ANS_LBL,Text,45,Academy of Natural Sciences Species Latin Name,Academy of Natural Sciences Species Latin Name
+LBL,Text,45,National Oceanographic Data Center Species Latin Name with Size Class,National Oceanographic Data Center Species Latin Name with Size Class
+,,,Information if Collected,
+NODC_LBL,Text,45,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name
+NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+TSN,Text,7,National Oceanographic Data Center Taxon Serial Number,National Oceanographic Data Center Taxon Serial Number
+R_DATE,Text,8,Version date of data (YYYYMMDD),
+# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,
+See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Data for full listing.,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Data for full listing.,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Data for full listing.,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Data for full listing.,See 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Data for full listing.
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,
+BE Benthic,,,,
+FL,Fluorescence,,,
+MI,Microzooplankton,,,
+MZ Mesozooplankton,MZ Mesozooplankton,,,
+PD Primary Production,PD Primary Production,PD Primary Production,,
+PH Phytoplankton,PH Phytoplankton,,,
+PP Picoplankton,PP Picoplankton,,,
+>SOURCE: Data Collecting Agency,>SOURCE: Data Collecting Agency,>SOURCE: Data Collecting Agency,>SOURCE: Data Collecting Agency,
+"MSU - Academy of Natural Sciences, Benedict Estuarine Research Laboratory","MSU - Academy of Natural Sciences, Benedict Estuarine Research Laboratory","MSU - Academy of Natural Sciences, Benedict Estuarine Research Laboratory","MSU - Academy of Natural Sciences, Benedict Estuarine Research Laboratory",
+>SAMPLE_TYPE: Collection Type,>SAMPLE_TYPE: Collection Type,>SAMPLE_TYPE: Collection Type,>SAMPLE_TYPE: Collection Type,
+C - Composite Sample,C - Composite Sample,C - Composite Sample,,
+>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,
+For a complete listing of CBP cruise numbers please see,For a complete listing of CBP cruise numbers please see,For a complete listing of CBP cruise numbers please see,For a complete listing of CBP cruise numbers please see,2000 Users Guide to Biological and Living
+Resources Data.,Resources Data.,,,
+>GMETHOD: Sampling Gear Code,>GMETHOD: Sampling Gear Code,>GMETHOD: Sampling Gear Code,>GMETHOD: Sampling Gear Code,
+7 - unspecified plankton pump,7 - unspecified plankton pump,7 - unspecified plankton pump,7 - unspecified plankton pump,
+>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,
+AP - Above Pycnocline,AP - Above Pycnocline,AP - Above Pycnocline,,
+BP - Below Pycnocline,BP - Below Pycnocline,BP - Below Pycnocline,,
+WC - Whole Water Column,WC - Whole Water Column,WC - Whole Water Column,,
+>NODCCODE: National Oceanographic Data Center Species Code Based on NODC Version 8.,>NODCCODE: National Oceanographic Data Center Species Code Based on NODC Version 8.,>NODCCODE: National Oceanographic Data Center Species Code Based on NODC Version 8.,>NODCCODE: National Oceanographic Data Center Species Code Based on NODC Version 8.,>NODCCODE: National Oceanographic Data Center Species Code Based on NODC Version 8.
+>SALZONE: Salinity zone,>SALZONE: Salinity zone,>SALZONE: Salinity zone,,
+F - Tidal fresh (0 - 0.5 ppt),F - Tidal fresh (0 - 0.5 ppt),F - Tidal fresh (0 - 0.5 ppt),,
+O - Oligohaline (>0.5 - 5.0 ppt),O - Oligohaline (>0.5 - 5.0 ppt),O - Oligohaline (>0.5 - 5.0 ppt),O - Oligohaline (>0.5 - 5.0 ppt),
+M - Mesohaline (>5.0 - 18.0 ppt),M - Mesohaline (>5.0 - 18.0 ppt),M - Mesohaline (>5.0 - 18.0 ppt),M - Mesohaline (>5.0 - 18.0 ppt),
+P - Polyhaline (>18.0 ppt),P - Polyhaline (>18.0 ppt),P - Polyhaline (>18.0 ppt),,
+"*E- An F,O,M, or P followed by an E indicates an estimated salinity range","*E- An F,O,M, or P followed by an E indicates an estimated salinity range","*E- An F,O,M, or P followed by an E indicates an estimated salinity range","*E- An F,O,M, or P followed by an E indicates an estimated salinity range",
+,,,18,1/22/2010

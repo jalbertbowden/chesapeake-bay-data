@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 4 of 11”,Name: “Table 1 of 1 on page 4 of 11”,Name: “Table 1 of 1 on page 4 of 11”,Name: “Table 1 of 1 on page 4 of 11”
+Table: 4,Table: 4,Table: 4,Table: 4
+,,,
+,VAMIDOC.doc,VAMIDOC.doc,
+"# FORMULAS, CALCULATIONS AND CONVERSIONS","# FORMULAS, CALCULATIONS AND CONVERSIONS",,
+The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:
+GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,
+SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),
+DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION)
+,/TOTAL VOLUME OF COMPOSITE SAMPLE,/TOTAL VOLUME OF COMPOSITE SAMPLE,
+WHERE,,,
+RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,
+CONCENTRATION=CONCENTRATION FACTOR,CONCENTRATION=CONCENTRATION FACTOR,{283.286},
+# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,,
+"The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw"
+data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,
+"# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS",
+>PARAMETER: COUNT (Density Microzooplankton taxa per liter),>PARAMETER: COUNT (Density Microzooplankton taxa per liter),>PARAMETER: COUNT (Density Microzooplankton taxa per liter),
+-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to
+"assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates"
+"(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay"
+and 4 tributaries using a hose attached to a pump to collect water a specific depth.,and 4 tributaries using a hose attached to a pump to collect water a specific depth.,and 4 tributaries using a hose attached to a pump to collect water a specific depth.,Two composite water
+"samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two"
+"carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).","carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).","carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).",10 ml of Lugol's
+"solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport"
+to the laboratory.,,,
+>SAMPLE PRESERVATIVE: Lugol's Solution,,,
+>SAMPLE STORAGE ENVIORONMENT: Room Temperature,>SAMPLE STORAGE ENVIORONMENT: Room Temperature,>SAMPLE STORAGE ENVIORONMENT: Room Temperature,
+>TIME IN STORAGE: 1-2 Weeks,,,
+-LAB TECHNIQUES WITH REFERENCES:,,,
+"Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the","Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the","Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the",
+"Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant","Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant","Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant",
+"Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania","Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania","Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania",
+"Academy of Science, Easton, Pa., pp.217-269.","Academy of Science, Easton, Pa., pp.217-269.",,
+"Park, G.S. and H.G. Marshall. 1993.",Microzooplankton in the lower Chesapeake,Microzooplankton in the lower Chesapeake,
+"Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.","Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.","Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.",
+>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees)
+"COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present"
+Note: All positions in data sets have been converted to NAD83 coordinates.,Note: All positions in data sets have been converted to NAD83 coordinates.,Note: All positions in data sets have been converted to NAD83 coordinates.,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling
+begins when boat reaches preprogrammed coordinates.,begins when boat reaches preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+Loran/GPS coordinates for each sampling event are not currently recorded in data set.,Loran/GPS coordinates for each sampling event are not currently recorded in data set.,Loran/GPS coordinates for each sampling event are not currently recorded in data set.,
+>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),
+COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,,,
+,4,,08/15/05

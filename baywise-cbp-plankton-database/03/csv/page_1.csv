@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 1 of 22”,Name: “Table 1 of 1 on page 1 of 22”,Name: “Table 1 of 1 on page 1 of 22”
+Table: 1,Table: 1,Table: 1
+,,
+,MDPHDOC.doc,
+,MARYLAND CHESAPEAKE BAY PROGRAM,MARYLAND CHESAPEAKE BAY PROGRAM
+,PHYTOPLANKTON AND PICOPLANKTON MONITORING,PHYTOPLANKTON AND PICOPLANKTON MONITORING
+,SURVEY DATA DICTIONARY,SURVEY DATA DICTIONARY
+Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component,Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component,Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component
+,- Phytoplankton Taxonomic Composition Data Dictionary,
+,- Phytoplankton Event Data Dictionary,
+,- Picoplankton Abundance Data Dictionary,
+,- Picoplankton Event Data Dictionary,
+NOTE,,
+1) THIS DICTIONARY WAS REVISED ON 01/22/2010 AND SUPERSEDES ALL OTHER CBP,1) THIS DICTIONARY WAS REVISED ON 01/22/2010 AND SUPERSEDES ALL OTHER CBP,1) THIS DICTIONARY WAS REVISED ON 01/22/2010 AND SUPERSEDES ALL OTHER CBP
+DICTIONARIES FOR THE MARYLAND PHYTOPLANKTON DATA.,DICTIONARIES FOR THE MARYLAND PHYTOPLANKTON DATA.,
+2) THIS PROGRAM WAS CONDUCTED BY THE ACADEMY OF NATURAL SCIENCES (ANS) FROM,2) THIS PROGRAM WAS CONDUCTED BY THE ACADEMY OF NATURAL SCIENCES (ANS) FROM,2) THIS PROGRAM WAS CONDUCTED BY THE ACADEMY OF NATURAL SCIENCES (ANS) FROM
+AUGUST 1984 THROUGH AUGUST 2004.,MORGAN STATE UNIVERSITY (MSU) TOOK OVER THE,MORGAN STATE UNIVERSITY (MSU) TOOK OVER THE
+"ANS LABORATORY IN SEPTEMBER, 2004, BUT THE PROGRAM AND PERSONNEL REMAINED THE","ANS LABORATORY IN SEPTEMBER, 2004, BUT THE PROGRAM AND PERSONNEL REMAINED THE","ANS LABORATORY IN SEPTEMBER, 2004, BUT THE PROGRAM AND PERSONNEL REMAINED THE"
+SAME.,,
+3) THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009,3) THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009,3) THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009
+"The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program, has monitored"
+phytoplankton species abundances in the Maryland Chesapeake Bay mainstem and tributaries since August,phytoplankton species abundances in the Maryland Chesapeake Bay mainstem and tributaries since August,phytoplankton species abundances in the Maryland Chesapeake Bay mainstem and tributaries since August
+1984.,The program is designed to give comprehensive spatial and temporal information on phytoplankton.,The program is designed to give comprehensive spatial and temporal information on phytoplankton.
+"Sampling is performed in conjunction with the Maryland C14 primary production, fluorometry, and water","Sampling is performed in conjunction with the Maryland C14 primary production, fluorometry, and water","Sampling is performed in conjunction with the Maryland C14 primary production, fluorometry, and water"
+quality monitoring programs.,,
+# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES
+The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data
+# PROJECT TITLE,,
+Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component,Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component,Maryland Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Component
+# CURRENT PRINCIPAL INVESTIGATORS,# CURRENT PRINCIPAL INVESTIGATORS,
+THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009; THE FOLLOWING WERE THE
+INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.
+">PROGRAM MANAGER: Bruce Michaels, Renee Kahrr, Maryland Department of Natural Resources",">PROGRAM MANAGER: Bruce Michaels, Renee Kahrr, Maryland Department of Natural Resources",">PROGRAM MANAGER: Bruce Michaels, Renee Kahrr, Maryland Department of Natural Resources"
+">PRINCIPAL INVESTIGATORS: Richard V. Lacouture, Morgan State University Estuarine Research",">PRINCIPAL INVESTIGATORS: Richard V. Lacouture, Morgan State University Estuarine Research",">PRINCIPAL INVESTIGATORS: Richard V. Lacouture, Morgan State University Estuarine Research"
+Laboratory.,,
+>TECHNICAL STAFF: Data collected by staff of Morgan State University Estuarine Research Laboratory.,>TECHNICAL STAFF: Data collected by staff of Morgan State University Estuarine Research Laboratory.,>TECHNICAL STAFF: Data collected by staff of Morgan State University Estuarine Research Laboratory.
+Counts performed by Ann-Marie Hartsig and R. V. Lacouture of Morgan State University Estuarine Research,Counts performed by Ann-Marie Hartsig and R. V. Lacouture of Morgan State University Estuarine Research,Counts performed by Ann-Marie Hartsig and R. V. Lacouture of Morgan State University Estuarine Research
+Laboratory.,,
+>STATISTICIAN:,"Elgin Perry-C/o Morgan State University Estuarine Research Laboratory,","Elgin Perry-C/o Morgan State University Estuarine Research Laboratory,"
+">PROGRAMMER/ANALYST: T. D. Wohlford, Morgan State University Estuarine Research Laboratory.",">PROGRAMMER/ANALYST: T. D. Wohlford, Morgan State University Estuarine Research Laboratory.",">PROGRAMMER/ANALYST: T. D. Wohlford, Morgan State University Estuarine Research Laboratory."
+">DATA COORDINATOR: T. D. Wohlford, Morgan State University Estuarine Research Laboratory.",">DATA COORDINATOR: T. D. Wohlford, Morgan State University Estuarine Research Laboratory.",">DATA COORDINATOR: T. D. Wohlford, Morgan State University Estuarine Research Laboratory."
+,1,1/22/2010

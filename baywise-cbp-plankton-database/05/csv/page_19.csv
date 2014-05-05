@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 19 of 21”,Name: “Table 1 of 1 on page 19 of 21”,Name: “Table 1 of 1 on page 19 of 21”,Name: “Table 1 of 1 on page 19 of 21”,Name: “Table 1 of 1 on page 19 of 21”
+Table: 19,Table: 19,Table: 19,Table: 19,Table: 19
+,,,,
+,,,VAPHDOC.doc,
+CBSEG_1998,CBSEG_1998,DESCRIPTION,DESCRIPTION,
+RPPMH,RPPMH,RAPPAHANNOCK RIVER-MESOHALINE REGION,RAPPAHANNOCK RIVER-MESOHALINE REGION,
+RPPOH,RPPOH,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,
+SBEMH,SBEMH,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION
+YRKMH,YRKMH,YORK RIVER-MESOHALINE REGION,YORK RIVER-MESOHALINE REGION,
+>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,
+FIPS,STATE COUNTY,STATE COUNTY,,
+51095,VA,JAMES CITY,,
+51097,VA,KING AND QUEEN,,
+51103,VA,LANCASTER,,
+51127,VA,NEW KENT,,
+51131,VA,NORTHAMPTON,,
+51149,VA,PRINCE GEORGE,,
+51159,VA,RICHMOND,,
+51199,VA,YORK,,
+51550,VA,CHESAPEAKE CITY,,
+51650,VA,HAMPTON,,
+51740,VA,PORTSMOUTH,,
+51810,VA,VIRGINIA BEACH,,
+>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,,
+HUC8,,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,
+02050306,02050306,LOWER SUSQUEHANNA,LOWER SUSQUEHANNA,
+02080101,02080101,LOWER CHESAPEAKE BAY,LOWER CHESAPEAKE BAY,
+02080104,02080104,LOWER RAPPAHANNOCK,LOWER RAPPAHANNOCK,
+02080106,02080106,PAMUNKEY,,
+02080107,02080107,YORK,,
+02080206,02080206,LOWER JAMES,,
+02080208,02080208,HAMPTON ROADS,,
+>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation
+,PP101,,,
+,PH102,,,
+,PH103,,,
+>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,
+PARAMETER,PARAMETER,UNITS,,
+COUNT,COUNT,NUMBER/LITER,,
+# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,
+Variable,Variable,Valid Range,,
+SAMPLE_DATE,SAMPLE_DATE,19850101-20031231,19850101-20031231,
+COUNT,COUNT,3172 - 102224636,3172 - 102224636,
+MAXDEPTH,MAXDEPTH,0.5 - 32.0,,
+R_DATE,R_DATE,19950301-20041231,19950301-20041231,
+SAMPLE_NUMBER,SAMPLE_NUMBER,1-2,,
+LATITUDE,LATITUDE,"See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths."
+LONGITUDE,LONGITUDE,"See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths.","See Station Names, Latitudes, Longitudes and Depths."
+P_DEPTH,P_DEPTH,"0.5-
+    Note this is a composite cut off not pycnocline depth!
+    ",Note this is a composite cut off not pycnocline depth!,Note this is a composite cut off not pycnocline depth!
+,,,19,01/03/11

@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”,Name: “Table 1 of 1 on page 10 of 11”
+Table: 10,Table: 10,Table: 10,Table: 10
+,,,
+,VAMIDOC.doc,,
+>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,,
+PARAMETER,UNITS,,
+COUNT,NUMBER/LITER,,
+# NUMERIC VARIABLE NAMES - WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE NAMES - WARNING AND ERROR BOUNDS,,
+Variable,Value Range,,
+FVOL_M3,"-99999, 0000-999999",,
+LATITUDE,See section STATION NAMES AND DESCRIPTIONS,,
+LONGITUDE,See section STATION NAMES AND DESCRIPTIONS,,
+MAXDEPTH,0.5 - 32.0,,
+P_DEPTH,"-99.9, 1-10",,
+PARAMETER,COUNT,,
+R_DATE,19950101-20021231,,
+R_DATE,19950301-20021001,,
+SAMPLE_NUMBER,"1,2",,
+SAMPLE_TIME,06:00-21:00 missing times denoted by 00:00,,
+SAMPLING_DATE,19930101-20021001,,
+TOTAL_DEPTH,0.5 - 32.0,,
+VALUE,0.05-10000.00,,
+# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,,
+THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,
+PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,HOWEVER IF YOU,HOWEVER IF YOU
+HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO
+BE AWARE OF.,,,
+8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic
+Data Center accepted spelling.,Data Center accepted spelling.,,
+8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following
+"stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2."
+"From September to the present, all stations in the current list were included in the sampling regime.","From September to the present, all stations in the current list were included in the sampling regime.","From September to the present, all stations in the current list were included in the sampling regime.",During
+1993 species counts were made only for large groups (SPECCODE 1 to 6).,1993 species counts were made only for large groups (SPECCODE 1 to 6).,"As a result, only density values","As a result, only density values"
+for these 6 groups are included in the data set for 1993.,for these 6 groups are included in the data set for 1993.,"During 1994, counts were made for Rotifers to the","During 1994, counts were made for Rotifers to the"
+lowest possible taxonomic level and the data set structure reflects this change.,lowest possible taxonomic level and the data set structure reflects this change.,The Rotifer spp. NAME and,The Rotifer spp. NAME and
+SPECCODE are total abundance of all rotifers.,SPECCODE are total abundance of all rotifers.,,
+The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the
+Guide to Living Resources Data Sets for complete listing of Cruise periods.,Guide to Living Resources Data Sets for complete listing of Cruise periods.,,
+8/31/95- SER_NUM,Old Dominion University does not use a serial number system for sample tracking so,Old Dominion University does not use a serial number system for sample tracking so,Old Dominion University does not use a serial number system for sample tracking so
+this variable is not available,,,
+SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data
+based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from
+Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available
+"for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was"
+used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.
+02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked
+against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be
+"delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be",
+confirmed.,,,
+,10,08/15/05,

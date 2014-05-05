@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 5 of 21”,Name: “Table 1 of 1 on page 5 of 21”,Name: “Table 1 of 1 on page 5 of 21”,Name: “Table 1 of 1 on page 5 of 21”
+Table: 5,Table: 5,Table: 5,Table: 5
+,,,
+,VAPHDOC.doc,,
+"-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and"
+below the pycnocline.,"After the pycnocline has been determined at each station, two vertical series of","After the pycnocline has been determined at each station, two vertical series of","After the pycnocline has been determined at each station, two vertical series of"
+five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy,five samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy
+"is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of","is mixed, then a 500 milliliter sample is taken from each carboy, and is preserved with five milliliters of"
+Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.,Lugol's solution. The pre-labeled sample bottles are transported back to the laboratory for analysis.
+-SAMPLE PRESERVATION: Lugol's solution,-SAMPLE PRESERVATION: Lugol's solution,,
+-SAMPLE STORAGE ENVIRONMENT: Room temperature,-SAMPLE STORAGE ENVIRONMENT: Room temperature,,
+-TIME IN STORAGE: 1 months,,,
+-LABORATORY TECHNIQUE WITH REFERENCES,-LABORATORY TECHNIQUE WITH REFERENCES,,
+"Marshall, H.G. and R.W. Alden. (1990) A comparison of phytoplankton","Marshall, H.G. and R.W. Alden. (1990) A comparison of phytoplankton",,
+assemblages and environmental relationships in three estuarine rivers,assemblages and environmental relationships in three estuarine rivers,,
+of the lower Chesapeake Bay.,"Estuaries, 13:287-300.",,
+"Marshall, H.G. (1994) Chesapeake Bay Phytoplankton: I. Composition.","Marshall, H.G. (1994) Chesapeake Bay Phytoplankton: I. Composition.",,
+Proceedings of the Biological Society of Washington. 107:573-585.,Proceedings of the Biological Society of Washington. 107:573-585.,,
+>PARAMETER:COUNT,(# Autotrophic Picoplankton per liter),,
+"-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and","-COLLECTION METHODS: At each station, composite phytoplankton samples are taken from above and"
+below the pycnocline.,"After the pycnocline has been determined at each station, two vertical series of five","After the pycnocline has been determined at each station, two vertical series of five","After the pycnocline has been determined at each station, two vertical series of five"
+samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is,samples equidistance apart depths ate taken between the pycnocline and bottom. Water in each carboy is
+"mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of","mixed, then a 125 milliliter sample is taken from each carboy, and is preserved with two milliliters of"
+Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in,Glutaraldehyde solution. The pre-labeled sample bottles are transported back to the laboratory and placed in
+a refrigerator for analysis.,,,
+-SAMPLE PRESERVATION: Glutaraldehyde solution,-SAMPLE PRESERVATION: Glutaraldehyde solution,,
+-SAMPLE STORAGE ENVIRONMENT: Refrigerator,-SAMPLE STORAGE ENVIRONMENT: Refrigerator,,
+-TIME IN STORAGE: one week,,,
+-LABORATORY TECHNIQUE WITH REFERENCES,-LABORATORY TECHNIQUE WITH REFERENCES,,
+"Davis, P.G. and J.McN. Sieburth (1982) Differentiation of phototrophic","Davis, P.G. and J.McN. Sieburth (1982) Differentiation of phototrophic",,
+and heterotrophic nanoplankton populations in marine waters by,and heterotrophic nanoplankton populations in marine waters by,,
+epifluorescence microscopy. Ann. Inst. Oceanography. 58:249-260.,epifluorescence microscopy. Ann. Inst. Oceanography. 58:249-260.,,
+"Marshall, H.G. (1995) Autotrophic picoplankton distribution and abundance","Marshall, H.G. (1995) Autotrophic picoplankton distribution and abundance",,
+"in the Chesapeake Bay, USA",Marine Nature 4:33-42.,,
+>PARAMETER: LATITUDE and LONGITUDE (in decimal degrees),>PARAMETER: LATITUDE and LONGITUDE (in decimal degrees),,
+"COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions","COLLECTION METHODS: LORAN-C, NAD27 before July 1995; GPS, NAD83 After July 1995. All postions"
+converted to NAD83 coordiantes in 2000.,converted to NAD83 coordiantes in 2000.,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C or GPS receiver and sampling
+begins when boat reaches preprogrammed coordinates.,begins when boat reaches preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,Loran or GPS coordinates for each sampling event are not currently recorded in data set.,
+>PARAMETER: P_DEPTH,,,
+COLLECTION METHODS: Hydrolab CTD,COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before,-LAB TECHNIQUES WITH REFERENCES: Water column conductivity is recorded immediately before
+plankton sampling.,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth,P_DEPTH is set at 0.5 meters above the Pycnocline and is used at the cutoff depth
+between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column,between upper and lower water column composite samples. If a station has no pycnocline the water column
+is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water,is divided in to thirds by total depth and the top third of the water column is treated as the upper water
+column. The pycnocline is determined as follows:,column. The pycnocline is determined as follows:,,
+((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,,
+,5,01/03/11,01/03/11

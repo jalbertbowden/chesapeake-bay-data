@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”,Name: “Table 1 of 1 on page 11 of 16”
+Table: 11,Table: 11,Table: 11,Table: 11,Table: 11,Table: 11
+,,,,,
+,,,,MDMIDOC.doc,
+Name,Type,,Width,Variable Description,
+DATA_TYPE,Text,,2,CBP Data Type Code,
+SOURCE,Text,,10,Data Collection agency,
+SAMPLE_TYPE,Text,,2,Collection type,
+LAYER,Text,,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,Date/Time,Date/Time,8,Sample date (YYYYMMDD),
+LATITUDE,Number,Number,8,Latitude in Decimal Degrees (NAD83),
+LONGITUDE,Number,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,Date/Time,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,Text,,2,Salinity Zone,
+SAMPLE_VOLUME,Number,Number,8,Total Volume of Sample,
+UNITS,Text,,15,Units for Sample Volume,
+STATION,Text,,15,Sampling Station,
+TOTAL_DEPTH,Number,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,Date/Time,Date/Time,8,Sampling Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,Type,,Width,Variable Definitions,
+BASIN,Text,,20,Chesapeake Bay Basin Designation,
+HUC8,Text,,8,USGS Eight Digit Hydrologic Unit Code,
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,Text,,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,,5,Federal Information Processing Code,
+STATE,Text,,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,,Designation,
+LL_DATUM,Text,,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,Text,,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,,
+,Text,,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,
+These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current,These tables cross references Academy of Natural Sciences species codes and spellings with current
+National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on,National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on,National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on,National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on,National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on,National Oceanographic Data Center taxonomic codes and ITIS TSN codes. Structure for data files on
+http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,,,,
+Name,Type,Width,Variable Descriptions,Variable Descriptions,
+SPEC_CODE,Text,14,Source In-House Species Codes,Source In-House Species Codes,
+SOURCE,Text,6,Data Source Identifier,Data Source Identifier,
+DATA_TYPE,Text,2,Data Type Identifier Code,Data Type Identifier Code,
+SOURCE_LBL,Text,45,Source Species Latin Name,Source Species Latin Name,
+LBL,Text,45,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name
+TSN,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+VOLUME,Number,8,Cell Biomass Estimator,Cell Biomass Estimator,
+SIZE,Text,30,Taxa Size-Fraction Identifier,Taxa Size-Fraction Identifier,
+LIFE_STG,Text,3,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code,
+# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,# REFERENCE CODES IN DATA FILES AND TAXONOMIC KEY,
+See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full,See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full,See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full,See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full,See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full,See the 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Data for full
+listing.,,,,,
+>MISSING VALUES: Missing SAMPLING_TIME values have been replaced with 00:00.,>MISSING VALUES: Missing SAMPLING_TIME values have been replaced with 00:00.,>MISSING VALUES: Missing SAMPLING_TIME values have been replaced with 00:00.,>MISSING VALUES: Missing SAMPLING_TIME values have been replaced with 00:00.,>MISSING VALUES: Missing SAMPLING_TIME values have been replaced with 00:00.,
+,,,,11,03/11/09

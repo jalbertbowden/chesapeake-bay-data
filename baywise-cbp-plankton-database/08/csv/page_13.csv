@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”,Name: “Table 1 of 1 on page 13 of 16”
+Table: 13,Table: 13,Table: 13,Table: 13
+,,,
+,,MDMIDOC.doc,
+,,126,SPECIES C 100:199UM LENGHT 20:49UM WIDTH
+119,SPECIES C 100:199UM LENGHT 100:199UM WIDTH,127,50:99UM LENGTH
+120,SPECIES B 50:99UM LENGHT 50:99UM WIDTH,128,50:99UM LENGHT 50:99UM WIDTH CUP
+121,SPECIES B 50:99UM LENGHT 20:49UM WIDTH,129,50:99UM LENGHT 50:99UM WIDTH CONE
+122,PARVULA GRP FULL,130,50:99UM LENGHT 20:49UM WIDTH CUP
+123,PARVULA GRP,131,50:99UM LENGHT 20:49UM WIDTH CONE
+124,20:49UM LENGTH FULL,132,50:99UM LENGHT >20UM WIDTH
+125,BEROIDEA GRP,,
+See On-Line Living Resources Data Documentation for full listing,See On-Line Living Resources Data Documentation for full listing,See On-Line Living Resources Data Documentation for full listing,See On-Line Living Resources Data Documentation for full listing
+>SALZONE: Salinity Zone,>SALZONE: Salinity Zone,,
+F,Fresh (0 TO 0.5 PPT),,
+O,Oligohaline (>0.5 TO 5.0 PPT),,
+M,Mesohaline,(>5.0 TO 18.0 PPT),
+P,Polyhaline,(> 18.0 PPT),
+N,No salinity data available to,,
+,establish salinity zone at time of sampling.,,
+E,Any valid salinity code followed by an E indicates,,
+,an estimated salinity range based on salinity data,,
+,collected within 7 days of the biological sampling event.,,
+,Used only when no simultaneously collected salinity data available.,Used only when no simultaneously collected salinity data available.,
+>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.
+"Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see"
+http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial
+NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.
+>BASIN: Chesapeake Bay Tributary Designation,>BASIN: Chesapeake Bay Tributary Designation,,
+BAY - Chesapeake Bay,BAY - Chesapeake Bay,,
+CHS - Chester River,CHS - Chester River,,
+PAX - Patuxent River,PAX - Patuxent River,,
+BAL - Baltimore Harbor,BAL - Baltimore Harbor,,
+CHP - Choptank River,CHP - Choptank River,,
+POT - Potomac River,POT - Potomac River,,
+TAN - Tangier River,TAN - Tangier River,,
+">TSN: Interagency Taxonomic Identification System, Taxon Serial Numbers Note for current listing of",">TSN: Interagency Taxonomic Identification System, Taxon Serial Numbers Note for current listing of",">TSN: Interagency Taxonomic Identification System, Taxon Serial Numbers Note for current listing of",">TSN: Interagency Taxonomic Identification System, Taxon Serial Numbers Note for current listing of"
+"Chesapeake Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms","Chesapeake Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms","Chesapeake Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms","Chesapeake Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms"
+without current serial numbers have ALL been assigned TSN of BAYXXXX.,without current serial numbers have ALL been assigned TSN of BAYXXXX.,without current serial numbers have ALL been assigned TSN of BAYXXXX.,without current serial numbers have ALL been assigned TSN of BAYXXXX.
+> CBSEG_2003: Chesapeake Bay Program Monitoring Segment,> CBSEG_2003: Chesapeake Bay Program Monitoring Segment,> CBSEG_2003: Chesapeake Bay Program Monitoring Segment,
+CB1TF,CHESAPEAKE BAY-TIDAL FRESH REGION,PATMH,PATAPSCO RIVER-MESOHALINE REGION
+CB2OH,CHESAPEAKE BAY-OLIGOHALINE REGION,PAXMH,PATUXENT RIVER-MESOHALINE REGION
+CB3MH,CHESAPEAKE BAY-MESOHALINE REGION,PAXOH,PATUXENT RIVER-OLIGOHALINE REGION
+CB4MH,CHESAPEAKE BAY-MESOHALINE REGION,PAXTF,PATUXENT RIVER-TIDAL FRESH REGION
+CB5MH,CHESAPEAKE BAY-MESOHALINE REGION,POTMH,POTOMAC RIVER-MESOHALINE REGION
+CHOMH2 CHOPTANK RIVER-MESOHALINE REGION 2,CHOMH2 CHOPTANK RIVER-MESOHALINE REGION 2,POTOH,POTOMAC RIVER-OLIGOHALINE REGION
+CHOOH,CHOPTANK RIVER-OLIGOHALINE REGION,POTTF,POTOMAC RIVER-TIDAL FRESH REGION
+CHSMH,CHESTER RIVER-MESOHALINE REGION,TANMH,TANGIER SOUND-MESOHALINE REGION
+,,13,03/11/09

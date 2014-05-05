@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 11 of 24”,Name: “Table 1 of 1 on page 11 of 24”,Name: “Table 1 of 1 on page 11 of 24”
+Table: 11,Table: 11,Table: 11
+,,
+,MDMZDOC.doc,
+minimum threshold change is 1000 umhos/cm.,TDEPTH for each station is based on a ten-year average of,TDEPTH for each station is based on a ten-year average of
+Maryland Department of the Environment Water Quality Hydrographic data collected concurrently with the,Maryland Department of the Environment Water Quality Hydrographic data collected concurrently with the,Maryland Department of the Environment Water Quality Hydrographic data collected concurrently with the
+plankton samples.,,
+>PARAMETER: PDEPTH (Composite Sample Cut-Off Depth in meters),>PARAMETER: PDEPTH (Composite Sample Cut-Off Depth in meters),
+-COLLECTION METHODS: None,,
+-SAMPLE PRESERVATIVES: None,,
+-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,
+-LAB TECHNIQUES WITH REFERENCES: Parameter not relevant with whole water column samples.,-LAB TECHNIQUES WITH REFERENCES: Parameter not relevant with whole water column samples.,-LAB TECHNIQUES WITH REFERENCES: Parameter not relevant with whole water column samples.
+>PARAMETER: SALZONE (Salinity Zone),,
+-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,,
+-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,
+-LAB TECHNIQUES WITH REFERENCES: Water column salinity is measured concurrently with,-LAB TECHNIQUES WITH REFERENCES: Water column salinity is measured concurrently with,-LAB TECHNIQUES WITH REFERENCES: Water column salinity is measured concurrently with
+zooplankton tows.,Salinity values are averaged for the entire water column and a salinity classification is,Salinity values are averaged for the entire water column and a salinity classification is
+determined.,"Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt (O). Mesohaline","Salinity classes are as follows: Fresh 0 - 0.5 ppt (F), Oligohaline >0.5 - 5.0 ppt (O). Mesohaline"
+>5.0 - 18.0 ppt (M) and Polyhaline >18.0 ppt (P).,>5.0 - 18.0 ppt (M) and Polyhaline >18.0 ppt (P).,
+">PARAMETER: SET_VOL (Settled Volume of all Zooplankton and Detritus in Milliliters per Cubic Meter),",">PARAMETER: SET_VOL (Settled Volume of all Zooplankton and Detritus in Milliliters per Cubic Meter),",">PARAMETER: SET_VOL (Settled Volume of all Zooplankton and Detritus in Milliliters per Cubic Meter),"
+"SET_VOLZ (Settled Volume of Zooplankton in Milliliters per Cubic Meter), SETVOL (Settled Volume in","SET_VOLZ (Settled Volume of Zooplankton in Milliliters per Cubic Meter), SETVOL (Settled Volume in","SET_VOLZ (Settled Volume of Zooplankton in Milliliters per Cubic Meter), SETVOL (Settled Volume in"
+"Milliliters per Sample),",SETVOLZ (Settled Volume of Zooplankton in Milliliters per Sample),
+"-COLLECTION METHODS: Stepped oblique bongo net tow, over the entire water column; two replicate","-COLLECTION METHODS: Stepped oblique bongo net tow, over the entire water column; two replicate","-COLLECTION METHODS: Stepped oblique bongo net tow, over the entire water column; two replicate"
+tows are taken at each station. Steps are taken in 1-4 meter increments depending on total station depth.,tows are taken at each station. Steps are taken in 1-4 meter increments depending on total station depth.,tows are taken at each station. Steps are taken in 1-4 meter increments depending on total station depth.
+There are always 5 step levels per station. Tows last between 5 to 10 minutes depending on zooplankton,There are always 5 step levels per station. Tows last between 5 to 10 minutes depending on zooplankton,There are always 5 step levels per station. Tows last between 5 to 10 minutes depending on zooplankton
+abundance.,"One of the paired nets is used for taxonomic purposes (counting), the other for biomass","One of the paired nets is used for taxonomic purposes (counting), the other for biomass"
+measurements. The net for biovolume is randomly selected.,measurements. The net for biovolume is randomly selected.,
+-SAMPLE PRESERVATIVES: Formalin,,
+-SAMPLE STORAGE ENVIRONMENT: Room temperature,-SAMPLE STORAGE ENVIRONMENT: Room temperature,
+-TIME IN STORAGE: 2 to 4 days,,
+-LAB TECHNIQUES WITH REFERENCES:,,
+-Chesapeake Bay Program Analytical Method-BV101,-Chesapeake Bay Program Analytical Method-BV101,
+Settled volumes are measured from the correlative count sample for each biomass sample.,Settled volumes are measured from the correlative count sample for each biomass sample.,Samples are
+poured into Imhoff cones and left undisturbed for 2 - 4 days as plankton settles to the bottom of the cone.,poured into Imhoff cones and left undisturbed for 2 - 4 days as plankton settles to the bottom of the cone.,poured into Imhoff cones and left undisturbed for 2 - 4 days as plankton settles to the bottom of the cone.
+"After settling time, the reading (top of settled material) is recorded in the lab notebook.","After settling time, the reading (top of settled material) is recorded in the lab notebook.",
+SETVOL and SETVOLZ- Values will be equivalent in samples lacking detritus,SETVOL and SETVOLZ- Values will be equivalent in samples lacking detritus,
+"In samples where significant detritus was observed, biovolume values were determined by a regression","In samples where significant detritus was observed, biovolume values were determined by a regression","In samples where significant detritus was observed, biovolume values were determined by a regression"
+correction. The correction factor calculated volume based on an average volume observed for each,correction. The correction factor calculated volume based on an average volume observed for each,correction. The correction factor calculated volume based on an average volume observed for each
+"organism counted in the taxon sample, individual species volumes were then summed to estimate total","organism counted in the taxon sample, individual species volumes were then summed to estimate total","organism counted in the taxon sample, individual species volumes were then summed to estimate total"
+SETVOLZ and SET_VOLZ. This procedure was used for all samples where species biomass was also,SETVOLZ and SET_VOLZ. This procedure was used for all samples where species biomass was also,SETVOLZ and SET_VOLZ. This procedure was used for all samples where species biomass was also
+estimated by regression correction.,,
+>PARAMETER: TOTAL_DEPTH (Total Station Depth in meters),>PARAMETER: TOTAL_DEPTH (Total Station Depth in meters),
+-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,,
+-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,,
+-LAB TECHNIQUES WITH REFERENCES: Total water column depth is measured concurrently with,-LAB TECHNIQUES WITH REFERENCES: Total water column depth is measured concurrently with,-LAB TECHNIQUES WITH REFERENCES: Total water column depth is measured concurrently with
+zooplankton tows.,Depth values after 1993 are average station depth based on a ten-year mean station,Depth values after 1993 are average station depth based on a ten-year mean station
+depth. Prior to 1993 actual station depth was recorded.,depth. Prior to 1993 actual station depth was recorded.,
+>DATA ENTRY METHOD: Keyed to disk,,
+>DATA VERIFICATION: Visual inspection,,
+,6,

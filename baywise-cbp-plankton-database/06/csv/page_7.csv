@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 7 of 24”,Name: “Table 1 of 1 on page 7 of 24”,Name: “Table 1 of 1 on page 7 of 24”,Name: “Table 1 of 1 on page 7 of 24”,Name: “Table 1 of 1 on page 7 of 24”,Name: “Table 1 of 1 on page 7 of 24”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,
+,,,MDMZDOC.doc,,
+SPECIES,LIFE_STAGE,WEIGHT,SPECIES,LIFE_STAGE,WEIGHT
+,,(ug),,,(ug)
+Alona costata,,1.1,Argulus sp.,,56.6
+Alona spp.,,1.1,Branchyurian,,45.2
+Alonella sp.,,1,Corophium lacustre,,347.8
+Bosmina longirostris,,2.3,Gammarus fasciatus,,120.2
+Camptocercus rectirostris,,2,Leptocheirus plumulosus,,120.2
+Chydorus sp.,,1.1,Monoculodes edwardsi,,61
+Daphnia retrocurva,,3.1,Mysid,,303.6
+Diaphanosona leuchtenbergia,num,2.7,Palaemonetes sp.,,136.1
+Eubosmina coregoni,,2.3,Ampelisca abdita,,347.8
+Eubosminia longspina,,2.3,Barnacle,nauplii,2.9
+Ilyocryptus spinifer,,1.1,Copepod,nauplii,0.1
+Ilyocryptus sp.,,1.1,Chaoborus sp.,,143.5
+Leptodora kindtii,,36.6,Chironomid,larvae,109
+Monia,,1.4,Dipterian,larvae,542.5
+Monia micrura,,1.4,Harpacticoida,larvae,4.7
+Podon polyphemoides,,1,Hydracarina sp.,,1
+Scapholeberis kingi,,8.3,Ostracod,,1
+Sida crystallina,,8,Polychaete,larvae,9.2
+Monospilus dispar,,2.3,Sagitta sp.,,36.3
+Evadne sp.,,1,,,
+Species excluded from biomass estimates:,Species excluded from biomass estimates:,Species excluded from biomass estimates:,,,
+Aemaceae,,,All fish larvae,,
+Alteutha depressa,,,Anisoptera,,
+Arachnida,,,Brachyuran,,
+Ceriodaphinia lacustria,,,Ceriodaphinia quadrangula,,
+Coleptera,,,Collembola,,
+Corixidae,,,Cyathura polita,,
+Cyclops varicans,,,Ectocyclops phaleratus,,
+Ephemeroptera,,,Ergasilus sp.,,
+Eubosmina sp.,,,Euceramus praelongus,,
+Eucyclops speratus,,,Flat Worm,,
+Gastropoda,,,Hemiptera,,
+Hirudinea,,,Isopoda,,
+Labidocera aestiva,,,Lathonura rectirostris,,
+Latona setifera,,,Leydigia quadrangularis,,
+Lucifer faxoni,,,Macrocyclops abdidus,,
+Macrothrix laticornus,,,Mollusca,,
+Oligochaete,,,Oxyurosilus smithi,,
+Paracaprella tenuis,,,Parathemisto compressa,,
+Piscicolidae,,,Saphirella sp.,,
+Trichopthera,,,Tropocyclops prasinus,,
+Tubellaria,,,,,
+The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry,The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry,The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry,The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry,The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry,The regression to estimate ash-free dry weight in detritus contaminated samples based on sum of dry
+weights for all taxa is as follows:,weights for all taxa is as follows:,,,,
+Y= 0.783(X) - 0.013,,,,,
+Where:,,,,,
+Y= Ash -free dry weight in grams,Y= Ash -free dry weight in grams,,,,
+X= Total dry weight in grams,X= Total dry weight in grams,,,,
+> Biovolume Determination Formulas,> Biovolume Determination Formulas,> Biovolume Determination Formulas,,,
+SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous Zooplankton and Detritus
+,,,2,,

@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 17 of 24”,Name: “Table 1 of 1 on page 17 of 24”,Name: “Table 1 of 1 on page 17 of 24”,Name: “Table 1 of 1 on page 17 of 24”
+Table: 17,Table: 17,Table: 17,Table: 17
+,,,
+,,MDMZDOC.doc,
+>NODCCODE:,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code,NOTE: For current listing of
+"Chesapeake Bay species and their codes,","Chesapeake Bay species and their codes,",see 1998 Chesapeake Bay Basin Species List,see 1998 Chesapeake Bay Basin Species List
+>SALZONE: Salinity zone,>SALZONE: Salinity zone,,
+F - Tidal fresh (0 - 0.5 ppt),F - Tidal fresh (0 - 0.5 ppt),,
+O - Oligohaline (>0.5 - 5.0 ppt),O - Oligohaline (>0.5 - 5.0 ppt),,
+M - Mesohaline (>5.0 - 18.0 ppt),M - Mesohaline (>5.0 - 18.0 ppt),,
+P - Polyhaline (>18.0 ppt),P - Polyhaline (>18.0 ppt),,
+N - Not Available,N - Not Available,,
+"*E- an F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data collected","*E- an F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data collected","*E- an F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data collected","*E- an F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data collected"
+within a week of the biological,within a week of the biological,sampling event. Used only when no actual salinity data available.,sampling event. Used only when no actual salinity data available.
+"> STATION: See STATION NAME, LATITUDE, LONGITUDE, TOTAL DEPTH section for details","> STATION: See STATION NAME, LATITUDE, LONGITUDE, TOTAL DEPTH section for details","> STATION: See STATION NAME, LATITUDE, LONGITUDE, TOTAL DEPTH section for details","> STATION: See STATION NAME, LATITUDE, LONGITUDE, TOTAL DEPTH section for details"
+>TSN: ITIS Taxon Serial Number NOTE:,>TSN: ITIS Taxon Serial Number NOTE:,"For current listing of Chesapeake Bay species and their codes,","For current listing of Chesapeake Bay species and their codes,"
+"see The Chesapeake Bay Basin Species List, 1998.","see The Chesapeake Bay Basin Species List, 1998.","see The Chesapeake Bay Basin Species List, 1998.",
+>BASIN: Chesapeake Bay Program Tributary Designation,>BASIN: Chesapeake Bay Program Tributary Designation,>BASIN: Chesapeake Bay Program Tributary Designation,
+CODE,Description,,
+BAY - Chesapeake Bay,BAY - Chesapeake Bay,,
+CHS - Chester River,CHS - Chester River,,
+PAX - Patuxent River,PAX - Patuxent River,,
+BAL - Baltimore Harbor,BAL - Baltimore Harbor,,
+CHP - Choptank River,CHP - Choptank River,,
+POT - Potomac River,POT - Potomac River,,
+TAN - Tangier River,TAN - Tangier River,,
+>METHOD: Chesapeake Bay Program Method Codes,>METHOD: Chesapeake Bay Program Method Codes,>METHOD: Chesapeake Bay Program Method Codes,
+METHOD,DESCRIPTION,,
+BM101,VERSAR MESOZOOPLANKTON BIOMASS- July 1984 to SEPT 2002,VERSAR MESOZOOPLANKTON BIOMASS- July 1984 to SEPT 2002,VERSAR MESOZOOPLANKTON BIOMASS- July 1984 to SEPT 2002
+BM101B,VERSAR MESOZOOPLANKTON BIOMASS- January 1998 to SEPT 2002,VERSAR MESOZOOPLANKTON BIOMASS- January 1998 to SEPT 2002,VERSAR MESOZOOPLANKTON BIOMASS- January 1998 to SEPT 2002
+BV101,VERSAR MESOZOOPLANKTON SETTLED VOLUMES,VERSAR MESOZOOPLANKTON SETTLED VOLUMES,
+JF101,VERSAR JELLYFISH COUNT METHOD- JULY 1984 TO JULY 87,VERSAR JELLYFISH COUNT METHOD- JULY 1984 TO JULY 87,VERSAR JELLYFISH COUNT METHOD- JULY 1984 TO JULY 87
+JF102,VERSAR JELLYFISH COUNT METHOD- JULY 87 TO Present,VERSAR JELLYFISH COUNT METHOD- JULY 87 TO Present,VERSAR JELLYFISH COUNT METHOD- JULY 87 TO Present
+MZ101C,VERSAR MESOZOOPLANKTON METHOD- January 1998 to Present,VERSAR MESOZOOPLANKTON METHOD- January 1998 to Present,VERSAR MESOZOOPLANKTON METHOD- January 1998 to Present
+MZ101A,VERSAR MESOZOOPLANKTON METHOD- July 1984 to January 1990,VERSAR MESOZOOPLANKTON METHOD- July 1984 to January 1990,VERSAR MESOZOOPLANKTON METHOD- July 1984 to January 1990
+MZ101B,VERSAR MESOZOOPLANKTON METHOD- January 1990 to Present,VERSAR MESOZOOPLANKTON METHOD- January 1990 to Present,VERSAR MESOZOOPLANKTON METHOD- January 1990 to Present
+>PARAMETER AND UNITS: Parameter descriptions and reporting units,>PARAMETER AND UNITS: Parameter descriptions and reporting units,>PARAMETER AND UNITS: Parameter descriptions and reporting units,>PARAMETER AND UNITS: Parameter descriptions and reporting units
+PARAMETER,DESCRIPTION and UNITS,,
+COUNT,Number of Zooplankton (#/meter cubed),,
+BEROE,Number of Beroe (#/sample),,
+BEROEVOL,Volume of Beroe (ml/sample),,
+CNIDA,Number of Cnidarians (#/sample),,
+CNIDAVOL,Cnidaria Volume (ml/sample),,
+CTENOS,Number of Ctenophores (#/sample),,
+CTENOVOL,Ctenophore Volume (ml/sample),,
+HYDRA,Number of Hydromedusae (#/sample),,
+HYDRAVOL,Volume of Hydromedusae(ml/sample),,
+JELLY,Jellyfish Volume (ml/sample),,
+JELLYVOL,Number of Jellyfish (#/sample),,
+MNEMIOP,Number of Mnemiopsis (#/sample),,
+MNEMVOL,Volume of Mnemiopsis (ml/sample),,
+ASH_FRWT,Ash Free Dry Weight (mg/m**3),,
+ASH_WT,Total Ash Weight (mg/m**3),,
+ASHFREWT,Ash Free Dry Weight (g/sample),,
+ASHWT,Total Ash Weight (g/sample),,
+DRY_WT,Total Dry Weight (mg/m**3),,
+,,12,

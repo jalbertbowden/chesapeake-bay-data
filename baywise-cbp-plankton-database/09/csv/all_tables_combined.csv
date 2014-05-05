@@ -1,0 +1,500 @@
+,VAMIDOC.doc,,
+,VIRGINIA CHESAPEAKE BAY PROGRAM,VIRGINIA CHESAPEAKE BAY PROGRAM,VIRGINIA CHESAPEAKE BAY PROGRAM
+MICROZOOPLANKTON MONITORING SURVEY DATA,MICROZOOPLANKTON MONITORING SURVEY DATA,MICROZOOPLANKTON MONITORING SURVEY DATA,MICROZOOPLANKTON MONITORING SURVEY DATA
+,DICTIONARY,,
+Virginia Chesapeake Bay Water Quality Monitoring Program: Microzooplankton Component,Virginia Chesapeake Bay Water Quality Monitoring Program: Microzooplankton Component,Virginia Chesapeake Bay Water Quality Monitoring Program: Microzooplankton Component,Virginia Chesapeake Bay Water Quality Monitoring Program: Microzooplankton Component
+- Taxonomic Data Dictionary,,,
+- Event Data Dictionary,,,
+NOTE,,,
+1) THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002,1) THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002,1) THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002,
+2) THIS DICTIONARY WAS REVISED ON 15 AUGUST 2005 AND SUPERSEDES ALL OTHER,2) THIS DICTIONARY WAS REVISED ON 15 AUGUST 2005 AND SUPERSEDES ALL OTHER,2) THIS DICTIONARY WAS REVISED ON 15 AUGUST 2005 AND SUPERSEDES ALL OTHER,2) THIS DICTIONARY WAS REVISED ON 15 AUGUST 2005 AND SUPERSEDES ALL OTHER
+DICTIONARIES FOR THE VIRGINIA MICROZOOPLANKTON MONITORING DATA,DICTIONARIES FOR THE VIRGINIA MICROZOOPLANKTON MONITORING DATA,DICTIONARIES FOR THE VIRGINIA MICROZOOPLANKTON MONITORING DATA,
+"The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The Commonwealth of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored"
+plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries,plankton species abundance and composition in the Virginia Chesapeake Bay mainstem and tributaries
+since 1985.,This program is designed to give comprehensive spatial and temporal information on,This program is designed to give comprehensive spatial and temporal information on,This program is designed to give comprehensive spatial and temporal information on
+composition of the microzooplankton in the water column. The Microzooplankton in this survey refers to,composition of the microzooplankton in the water column. The Microzooplankton in this survey refers to,composition of the microzooplankton in the water column. The Microzooplankton in this survey refers to,composition of the microzooplankton in the water column. The Microzooplankton in this survey refers to
+"copepod nauplii, rotifers, and some protozoans.",Sampling is performed in conjunction with the Virginia,Sampling is performed in conjunction with the Virginia,Sampling is performed in conjunction with the Virginia
+phytoplankton and water quality monitoring programs,phytoplankton and water quality monitoring programs,,
+# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES:,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES:,# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES:,
+The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 User's Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data
+# PROJECT TITLE,,,
+Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Microzooplankton Study,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Microzooplankton Study,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Microzooplankton Study,Chesapeake Bay Monitoring Program: Lower Chesapeake Bay Microzooplankton Study
+# CURRENT PRINCIPAL INVESTIGATORS,,,
+THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 31 DECEMBER 2002; THE FOLLOWING WERE THE
+INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.
+">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality",">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality",">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality",">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality"
+">PRINICIPAL INVESTIGATORS: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old Dominion",">PRINICIPAL INVESTIGATORS: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old Dominion",">PRINICIPAL INVESTIGATORS: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old Dominion",">PRINICIPAL INVESTIGATORS: Dan Dauer, Kenneth Carpenter, Harold Marshall, Old Dominion"
+University.,,,
+">TECHNICAL STAFF: Field collection, sample analysis and data file verification by selected gradate",">TECHNICAL STAFF: Field collection, sample analysis and data file verification by selected gradate",">TECHNICAL STAFF: Field collection, sample analysis and data file verification by selected gradate",">TECHNICAL STAFF: Field collection, sample analysis and data file verification by selected gradate"
+"students of R. Birdsong and K. Carpenter, Old Dominion University.","students of R. Birdsong and K. Carpenter, Old Dominion University.",Sample analysis,(since 1993) by
+"G.Park, A. Logalbo, K. Kowalski and F. Crock. Data Files verified by M. Lane, G. Mateja, A.Gover or","G.Park, A. Logalbo, K. Kowalski and F. Crock. Data Files verified by M. Lane, G. Mateja, A.Gover or","G.Park, A. Logalbo, K. Kowalski and F. Crock. Data Files verified by M. Lane, G. Mateja, A.Gover or","G.Park, A. Logalbo, K. Kowalski and F. Crock. Data Files verified by M. Lane, G. Mateja, A.Gover or"
+F.Crock,,,
+">PROGRAMMER/ANALYST: Michael Lane, Old Dominion University, Applied Marine Research Laboratory",">PROGRAMMER/ANALYST: Michael Lane, Old Dominion University, Applied Marine Research Laboratory",">PROGRAMMER/ANALYST: Michael Lane, Old Dominion University, Applied Marine Research Laboratory",">PROGRAMMER/ANALYST: Michael Lane, Old Dominion University, Applied Marine Research Laboratory"
+">DATA COORDINATOR: Cory Christman, Old Dominion University, Applied Marine Research Laboratory",">DATA COORDINATOR: Cory Christman, Old Dominion University, Applied Marine Research Laboratory",">DATA COORDINATOR: Cory Christman, Old Dominion University, Applied Marine Research Laboratory",">DATA COORDINATOR: Cory Christman, Old Dominion University, Applied Marine Research Laboratory"
+">PREVIOUS PRINCIPAL INVESTIGATORS: Raymond Birdsong, Old Dominion University (Deceased)",">PREVIOUS PRINCIPAL INVESTIGATORS: Raymond Birdsong, Old Dominion University (Deceased)",">PREVIOUS PRINCIPAL INVESTIGATORS: Raymond Birdsong, Old Dominion University (Deceased)",">PREVIOUS PRINCIPAL INVESTIGATORS: Raymond Birdsong, Old Dominion University (Deceased)"
+# CURRENT FUNDING AGENCIES,,,
+Not Applicable,,,
+# PROJECT COST,,,
+Not Applicable,,,
+,1,,08/15/05
+,,VAMIDOC.doc,
+# QA/QC OFFICER,,,
+Not Applicable,,,
+# POINT OF CONTACT,,,
+Jacqueline Johnson,,,
+Living Resources Data Manager,Living Resources Data Manager,,
+US EPA Chesapeake Bay Program Office,US EPA Chesapeake Bay Program Office,,
+"410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109",,
+"Annapolis, MD 21403",,,
+1-800-968-7229 X729,,,
+1-410-267-5729,,,
+E-Mail JJOHNSON@CHESAPEAKEBAY.NET,E-Mail JJOHNSON@CHESAPEAKEBAY.NET,,
+# LOCATION OF STUDY,,,
+Lower Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Lower Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,Lower Chesapeake Bay and its Tidal Tributaries in the Commonwealth of Virginia,
+# DATE INTERVALS,,,
+10/01/1993 – 10/01/2002,,,
+# ABSTRACT,,,
+The initial objective of this study is to determine the seasonal composition and abundance of the,The initial objective of this study is to determine the seasonal composition and abundance of the,The initial objective of this study is to determine the seasonal composition and abundance of the,The initial objective of this study is to determine the seasonal composition and abundance of the
+microzooplankton in the lower Chesapeake Bay and 4 major tributaries. This category includes zooplankton,microzooplankton in the lower Chesapeake Bay and 4 major tributaries. This category includes zooplankton,microzooplankton in the lower Chesapeake Bay and 4 major tributaries. This category includes zooplankton,microzooplankton in the lower Chesapeake Bay and 4 major tributaries. This category includes zooplankton
+less than 200 microns in size.,The first year of the research represented a preliminary study limited to 10,The first year of the research represented a preliminary study limited to 10,The first year of the research represented a preliminary study limited to 10
+"Stations (Park and Marshall, 1994).","Stations (Park and Marshall, 1994).","After the first year, the program was expanded to sample 14 stations.","After the first year, the program was expanded to sample 14 stations."
+Emphasis is on the temporal and spatial distribution and composition patterns of the major microzooplankton,Emphasis is on the temporal and spatial distribution and composition patterns of the major microzooplankton,Emphasis is on the temporal and spatial distribution and composition patterns of the major microzooplankton,Emphasis is on the temporal and spatial distribution and composition patterns of the major microzooplankton
+"categories, and their relationships to water quality variables and other plankton components.","categories, and their relationships to water quality variables and other plankton components.","categories, and their relationships to water quality variables and other plankton components.",These
+"microzooplankton include copepod nauplii, barnacle nauplii, rotifers, loricated and non-loricated ciliates,","microzooplankton include copepod nauplii, barnacle nauplii, rotifers, loricated and non-loricated ciliates,","microzooplankton include copepod nauplii, barnacle nauplii, rotifers, loricated and non-loricated ciliates,","microzooplankton include copepod nauplii, barnacle nauplii, rotifers, loricated and non-loricated ciliates,"
+"polychaete larvae, cladocerans, sarcodinids, and others.","polychaete larvae, cladocerans, sarcodinids, and others.","polychaete larvae, cladocerans, sarcodinids, and others.",Note due to contract changes starting in January
+"1996, station LE5.5 had a coordinate change. This station move was not documented until August 2005.","1996, station LE5.5 had a coordinate change. This station move was not documented until August 2005.","1996, station LE5.5 had a coordinate change. This station move was not documented until August 2005.","1996, station LE5.5 had a coordinate change. This station move was not documented until August 2005."
+"Due to this station relocation, all data collected at the altered location had the station name changed to","Due to this station relocation, all data collected at the altered location had the station name changed to","Due to this station relocation, all data collected at the altered location had the station name changed to","Due to this station relocation, all data collected at the altered location had the station name changed to"
+LE5.5-W in August 2005.,,,
+# STATION NAMES AND DESCRIPTIONS,# STATION NAMES AND DESCRIPTIONS,,
+CB6.1,"Main Channel, Mid-Bay",,
+CB6.4,"Main Channel, Mid-Bay",,
+CB7.3E,"Eastern Shore Channel, Southern End","Eastern Shore Channel, Southern End",
+CB7.4,"Baltimore Channel, Bay Mouth",,
+LE3.6,Off Mouth of Rappahannock River,,
+WE4.2,Off Mouth of York River,,
+LE5.5,Off Mouth of James River,,
+LE5.5-W,Off Mouth of James River,,
+SBE2,South Branch Elizabeth River,,
+SBE5,"South Branch Elizabeth River, Off VEPCO","South Branch Elizabeth River, Off VEPCO",
+TF3.3,"Rappahannock River, Buoy N40",,
+RET3.1,"Rappahannock River, N Buoy R10",,
+TF4.2,"Pamunkey River, Off White House",,
+RET4.3,"York River, Buoy C57",,
+TF5.5,"James River, Red Buoy 107",,
+RET5.2,"James River, Off Swann's Point",,
+,,2,08/15/05
+,,,,VAMIDOC.doc,,
+"# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH","# STATION NAMES, LATITUDE (decimal degrees), LONGITUDE (decimal degrees), TOTAL DEPTH"
+"(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and","(meters), LATITUDE (degrees, minutes and decimal seconds), AND LONGITUDE (degrees, minutes and"
+decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The,decimal seconds). The station positions represent target values. The actual position in the field will vary. The
+positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.,positions below are used by CBPO to coordinate data. All positions are provided as NAD83 coordinates.
+STATION LATITUDE LONGITUDE T_DEPTH LATITUDE (dms),STATION LATITUDE LONGITUDE T_DEPTH LATITUDE (dms),STATION LATITUDE LONGITUDE T_DEPTH LATITUDE (dms),STATION LATITUDE LONGITUDE T_DEPTH LATITUDE (dms),STATION LATITUDE LONGITUDE T_DEPTH LATITUDE (dms),LONGITUDE (dms),
+CB6.1,37.59,-76.16,13.1,"37 35' 18""","-77 50' 15""",
+CB6.4,37.24,-76.21,10.5,"37 14' 11""","-77 47' 30""",
+CB7.3E,37.23,-76.05,17.8,"37 13' 43""","-77 56' 45""",
+CB7.4,37.00,-76.02,13.8,"36 59' 44""","-77 58' 45""",
+LE3.6,37.60,-76.29,9.8,"37 35' 48""","-77 42' 54""",
+LE5.5,37.00,-76.31,21.4,"36 59' 48""","-76 18’ 12""",
+LE5.5-W,36.99,-76.31,6.0,36 59’ 56”,-76 18’ 49”,
+RET3.1,37.92,-76.82,5.8,"37 55' 12.488""","-77 10' 43.138""",
+RET4.3,37.51,-76.79,5.2,"37 30' 24.522""","-77 12' 43.14""",
+RET5.2,37.21,-76.79,8.3,"37 12' 36.533""","-77 12' 25.145""",
+SBE2,36.81,-76.31,13.0,"36 48' 45.533""","-77 41' 39.212""",
+SBE5,36.77,-76.30,10.0,"36 46' 11.534""","-77 42' 14.215""",
+TF3.3,38.02,-76.91,6.6,"38 1' 7.481""","-77 5' 31.122""",
+TF4.2,37.58,-77.02,6.4,"37 34' 47.52""","-78 58' 42.113""",
+TF5.5,37.31,-77.23,9.0,"37 18' 46.534""","-78 46' 2.087""",
+WE4.2,37.24,-76.39,14.1,"37 14' 30""","-77 36' 48""",
+Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of,Average Station depths are based on a ten-year average (1985-1995) of Virginia Department of
+Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.,Environmental Quality; water quality hydrographic data collected concurrently with the zooplankton samples.
+# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,
+"The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,","The zooplankton field chief is the custodian for all samples collected, and verifies proper labeling of bottles,"
+"complete field data entries, preservative used and transport to the laboratory.","complete field data entries, preservative used and transport to the laboratory.","complete field data entries, preservative used and transport to the laboratory.","complete field data entries, preservative used and transport to the laboratory.","complete field data entries, preservative used and transport to the laboratory.","complete field data entries, preservative used and transport to the laboratory.",He also supervises the
+availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample,availability of field equipment. Samples are turned over to the laboratory chief who oversees the sample
+"processing, analysis and recording of the raw data.","processing, analysis and recording of the raw data.","processing, analysis and recording of the raw data.","processing, analysis and recording of the raw data.","processing, analysis and recording of the raw data.",,
+#BIOLOGICAL ENUMERATION TECHNIQUES,#BIOLOGICAL ENUMERATION TECHNIQUES,#BIOLOGICAL ENUMERATION TECHNIQUES,#BIOLOGICAL ENUMERATION TECHNIQUES,,,
+>Chesapeake Bay Program Laboratory Method Code MI102,>Chesapeake Bay Program Laboratory Method Code MI102,>Chesapeake Bay Program Laboratory Method Code MI102,>Chesapeake Bay Program Laboratory Method Code MI102,>Chesapeake Bay Program Laboratory Method Code MI102,,
+Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated,Each 1-liter sample was allowed to settle for 72 hours and carefully siphoned down to a 300 ml concentrated
+"sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250","sample, which were then combined. A two-step settling and siphoning steps followed to produce first a 250"
+"ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron","ml concentrate, which was next concentrated to 100 ml. This concentrate was sieved through 73 micron"
+"mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a","mesh net to trap microzooplankton >73 microns which were washed into a beaker, then placed into a"
+settling chamber #1 for examination and counts.,settling chamber #1 for examination and counts.,settling chamber #1 for examination and counts.,settling chamber #1 for examination and counts.,The filtrate was mixed and 3 5ml aliquots are removed and,The filtrate was mixed and 3 5ml aliquots are removed and,The filtrate was mixed and 3 5ml aliquots are removed and
+"placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25","placed in settling chamber #2, with a buffered formalin solution (20%) added to bring the total volume to 25"
+ml.,"After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber","After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber","After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber","After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber","After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber","After 5 minutes of settling, 15 ml of the upper concentrate is removed and placed in settling chamber"
+"#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.","#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.","#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.","#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.","#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.","#3. The settling chambers were allowed to settle for 24 hours, and then counts were made.",The entire
+bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2,bottom surface of the settling chambers were scanned at 100x for chamber #1 and at 200x for chamber #2
+and #3 using an inverted plankton microscope.,and #3 using an inverted plankton microscope.,and #3 using an inverted plankton microscope.,and #3 using an inverted plankton microscope.,Chamber #1 provides counts for the larger,Chamber #1 provides counts for the larger,
+"microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in","microzooplankton (>73 microns), Chamber #2 for Microzooplankton groups between 40 and 73 microns in"
+"size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    ","size, and Chamber #3 for small ciliates 
+    "
+>Additional Preservative: Buffered Formalin,>Additional Preservative: Buffered Formalin,>Additional Preservative: Buffered Formalin,>Additional Preservative: Buffered Formalin,,,
+,,,,3,,08/15/05
+,VAMIDOC.doc,VAMIDOC.doc,
+"# FORMULAS, CALCULATIONS AND CONVERSIONS","# FORMULAS, CALCULATIONS AND CONVERSIONS",,
+The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:
+GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,GROUP 2 OR THREE ARE MULTIPLIED BY 10 IN MAINSTEM AND 20 IN TRIBS,
+SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),SUM OF GROUP 1+(2* MULTIPLIER)+(3* MULTIPLIER),
+DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION),DEN_L = DENSITY PER VOLUME ((RAWCOUNT/MILLILITERS OFSAMPLE)*CONCENTRATION)
+,/TOTAL VOLUME OF COMPOSITE SAMPLE,/TOTAL VOLUME OF COMPOSITE SAMPLE,
+WHERE,,,
+RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,RAW COUNT= NUMBER OF ORGANISMS COUNTED IN A CHAMBER,
+CONCENTRATION=CONCENTRATION FACTOR,CONCENTRATION=CONCENTRATION FACTOR,{283.286},
+# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,,
+"The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw","The principal investigator and laboratory chief for quality assurance routinely check taxon identifications, raw"
+data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,data sheets and other stages of the collection and analysis procedures.,
+"# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS",
+>PARAMETER: COUNT (Density Microzooplankton taxa per liter),>PARAMETER: COUNT (Density Microzooplankton taxa per liter),>PARAMETER: COUNT (Density Microzooplankton taxa per liter),
+-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to,-COLLECTION METHODS: The use of whole water samples over net collections is the protocol followed to
+"assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates","assure adequate abundance estimates of the smaller micro- zooplankton components, e.g. smaller ciliates"
+"(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay","(Brownlee and Jacobs, 1987). Monthly whole water samples are collected at 14 stations in the lower Bay"
+and 4 tributaries using a hose attached to a pump to collect water a specific depth.,and 4 tributaries using a hose attached to a pump to collect water a specific depth.,and 4 tributaries using a hose attached to a pump to collect water a specific depth.,Two composite water
+"samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two","samples, each totaling 15 l, are taken from 5 equidistant depths above the pycnocline and collected in two"
+"carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).","carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).","carboys. Each carboy is thoroughly mixed, and 1 l is taken from each (samples A and B).",10 ml of Lugol's
+"solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport","solution are added to each sample, and these samples are then placed in a storage container for transport"
+to the laboratory.,,,
+>SAMPLE PRESERVATIVE: Lugol's Solution,,,
+>SAMPLE STORAGE ENVIORONMENT: Room Temperature,>SAMPLE STORAGE ENVIORONMENT: Room Temperature,>SAMPLE STORAGE ENVIORONMENT: Room Temperature,
+>TIME IN STORAGE: 1-2 Weeks,,,
+-LAB TECHNIQUES WITH REFERENCES:,,,
+"Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the","Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the","Brownlee, D.C and F. Jacobs. 1987. Mesozooplankton and microzooplankton in the",
+"Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant","Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant","Chesapeake Bay. In: S. Majumdar, L. Hall, and H. Austin (eds.) Contaminant",
+"Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania","Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania","Problems and Management of Living Chesapeake Bay Resources, The Pennsylvania",
+"Academy of Science, Easton, Pa., pp.217-269.","Academy of Science, Easton, Pa., pp.217-269.",,
+"Park, G.S. and H.G. Marshall. 1993.",Microzooplankton in the lower Chesapeake,Microzooplankton in the lower Chesapeake,
+"Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.","Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.","Bay, and the tidal Elizabeth, James, and York Rivers. Va.J.Sci. 44:329-340.",
+>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees),>PARAMETER: LATITUDE (Latitude in decimal degrees) LONGITUDE (Longitude in decimal degrees)
+"COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present","COLLECTION METHODS: LORAN-C, NAD27-before July 1995; GPS, NAD83 July 1985 to present"
+Note: All positions in data sets have been converted to NAD83 coordinates.,Note: All positions in data sets have been converted to NAD83 coordinates.,Note: All positions in data sets have been converted to NAD83 coordinates.,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling,Station latitudes and longitudes are input into a Loran-C/ GPS receiver and sampling
+begins when boat reaches preprogrammed coordinates.,begins when boat reaches preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+Loran/GPS coordinates for each sampling event are not currently recorded in data set.,Loran/GPS coordinates for each sampling event are not currently recorded in data set.,Loran/GPS coordinates for each sampling event are not currently recorded in data set.,
+>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),>PARAMETER: P_DEPTH (Composite Sample Cut-off Depth),
+COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,,,
+,4,,08/15/05
+,,VAMIDOC.doc,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior"
+to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water column for,to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water column for,to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water column for,to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water column for
+composite samples. If a station has no pycnocline the water column is divided in to thirds by total depth and,composite samples. If a station has no pycnocline the water column is divided in to thirds by total depth and,composite samples. If a station has no pycnocline the water column is divided in to thirds by total depth and,composite samples. If a station has no pycnocline the water column is divided in to thirds by total depth and
+the top third of the water column is treated as the upper water column.,the top third of the water column is treated as the upper water column.,the top third of the water column is treated as the upper water column.,the top third of the water column is treated as the upper water column.
+The pycnocline is determined as follows:,The pycnocline is determined as follows:,The pycnocline is determined as follows:,
+((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold
+"If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the"
+water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.
+"If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the"
+conductivity change is greater than the threshold value.,conductivity change is greater than the threshold value.,conductivity change is greater than the threshold value.,
+Units of measurement:,,,
+Conductivity- uhhos/cm,,,
+Depth- meters,,,
+Prior to 1997 this depth was not recorded in the datasets and is reported as missing.,Prior to 1997 this depth was not recorded in the datasets and is reported as missing.,Prior to 1997 this depth was not recorded in the datasets and is reported as missing.,Prior to 1997 this depth was not recorded in the datasets and is reported as missing.
+">PARAMETER: SALZONE (Salinity zone),",">PARAMETER: SALZONE (Salinity zone),",">PARAMETER: SALZONE (Salinity zone),",
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior"
+to zooplankton sampling. Salinity values are averaged over the upper third of the water column and a salinity,to zooplankton sampling. Salinity values are averaged over the upper third of the water column and a salinity,to zooplankton sampling. Salinity values are averaged over the upper third of the water column and a salinity,to zooplankton sampling. Salinity values are averaged over the upper third of the water column and a salinity
+zone is determined. Salinity Ranges are as follows:,zone is determined. Salinity Ranges are as follows:,zone is determined. Salinity Ranges are as follows:,"Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O),"
+"Mesohaline >5.0-18 ppt (M) and Polyhaline >18 ppt (P). Prior to 1997, P_depth was not recorded in the","Mesohaline >5.0-18 ppt (M) and Polyhaline >18 ppt (P). Prior to 1997, P_depth was not recorded in the","Mesohaline >5.0-18 ppt (M) and Polyhaline >18 ppt (P). Prior to 1997, P_depth was not recorded in the","Mesohaline >5.0-18 ppt (M) and Polyhaline >18 ppt (P). Prior to 1997, P_depth was not recorded in the"
+datasets.,Therefore salinity zones were determined by averaging salinity values from the upper third of the,Therefore salinity zones were determined by averaging salinity values from the upper third of the,Therefore salinity zones were determined by averaging salinity values from the upper third of the
+water column.,,,
+>PARAMETER: TOTAL_DEPTH (Total Depth in meters),>PARAMETER: TOTAL_DEPTH (Total Depth in meters),>PARAMETER: TOTAL_DEPTH (Total Depth in meters),
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded prior"
+to zooplankton sampling.,,,
+>DATA ENTRY METHOD: From 1989 to 2000- Microzooplankton counts were entered and calculated in a,>DATA ENTRY METHOD: From 1989 to 2000- Microzooplankton counts were entered and calculated in a,>DATA ENTRY METHOD: From 1989 to 2000- Microzooplankton counts were entered and calculated in a,>DATA ENTRY METHOD: From 1989 to 2000- Microzooplankton counts were entered and calculated in a
+QUATTRO spread sheet directly from the bench sheets by the principle investigator and output as ASCII,QUATTRO spread sheet directly from the bench sheets by the principle investigator and output as ASCII,QUATTRO spread sheet directly from the bench sheets by the principle investigator and output as ASCII,QUATTRO spread sheet directly from the bench sheets by the principle investigator and output as ASCII
+files.,These files were then compared.,Data keypunched to microcomputer and/or mainframe terminal.,Data keypunched to microcomputer and/or mainframe terminal.
+From 2000-2002- Microzooplankton counts were entered and calculated in a FOXPRO Database system,From 2000-2002- Microzooplankton counts were entered and calculated in a FOXPRO Database system,From 2000-2002- Microzooplankton counts were entered and calculated in a FOXPRO Database system,From 2000-2002- Microzooplankton counts were entered and calculated in a FOXPRO Database system
+directly from the bench sheets by the principle investigator and output as ASCII files.,directly from the bench sheets by the principle investigator and output as ASCII files.,directly from the bench sheets by the principle investigator and output as ASCII files.,directly from the bench sheets by the principle investigator and output as ASCII files.
+>DATA VERIFICATION:,From 1989 to 2001-Double-entry with comparison of two files in SAS. Re-entry,From 1989 to 2001-Double-entry with comparison of two files in SAS. Re-entry,From 1989 to 2001-Double-entry with comparison of two files in SAS. Re-entry
+until both copies match exactly. From 2000-2002-Bench sheets were double entered into FOXPRO,until both copies match exactly. From 2000-2002-Bench sheets were double entered into FOXPRO,until both copies match exactly. From 2000-2002-Bench sheets were double entered into FOXPRO,until both copies match exactly. From 2000-2002-Bench sheets were double entered into FOXPRO
+Database system and re-entered until copies matched bench sheets.,Database system and re-entered until copies matched bench sheets.,Database system and re-entered until copies matched bench sheets.,
+# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,# SPECIES INHOUSE CODE AND SCIENTIFIC NAME,
+Old Dominion University uses in-house numeric codes for species identification.,Old Dominion University uses in-house numeric codes for species identification.,Old Dominion University uses in-house numeric codes for species identification.,Old Dominion University uses in-house numeric codes for species identification.
+> INHOUSE SPECIES LIST,> INHOUSE SPECIES LIST,,
+PLEASE SEE THE IMPORTANT DATA REVISIONS SECTION BELOW THERE HAVE BEEN CHANGES,PLEASE SEE THE IMPORTANT DATA REVISIONS SECTION BELOW THERE HAVE BEEN CHANGES,PLEASE SEE THE IMPORTANT DATA REVISIONS SECTION BELOW THERE HAVE BEEN CHANGES,PLEASE SEE THE IMPORTANT DATA REVISIONS SECTION BELOW THERE HAVE BEEN CHANGES
+OVER THE PERIOD OF DATA RECORD IN THE USAGE OF INHOUSE SPECIES CODES.,OVER THE PERIOD OF DATA RECORD IN THE USAGE OF INHOUSE SPECIES CODES.,OVER THE PERIOD OF DATA RECORD IN THE USAGE OF INHOUSE SPECIES CODES.,OVER THE PERIOD OF DATA RECORD IN THE USAGE OF INHOUSE SPECIES CODES.
+,,5,08/15/05
+,,,VAMIDOC.doc,VAMIDOC.doc,VAMIDOC.doc,,
+Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,Old Dominion University in-house microzooplankton species codes and Latin Names,
+Are as follows:,Are as follows:,,,,,,
+SPEC_CODE,TSN,SOURCE_LBL,SOURCE_LBL,,SPEC_CODE,TSN,SOURCE_LBL
+1,0085257,COPEPOD NAUPLII,,,ODU_2,0085257,COPEPOD NAUPLII
+2,0089589,BARNACLE NAUPLII,,,ODU_20,0058399,NOTHOLCA ACUMINATA
+3,0058239,ROTIFERS,,,ODU_21,0058398,NOTHOLCA STRIATA
+4,0046620,TINTINNIDS,,,ODU_22,0059273,POLYARTHRA DOLICHOPTERA
+5,0046594,OLIGOTRICHS,,,ODU_23,0059291,PLOESOMA HUDSONI
+6,0064358,POLYCHAETE LARVAE,POLYCHAETE LARVAE,,ODU_24,0059283,PLOESOMA TRUNCTATUM
+7,0043848,SARCODINIA,,,ODU_25,0059277,POLYARTHRA VULGARIS
+8,0083832,Cladocerans,,,ODU_26,0059256,SYNCHAETA BALTICA
+9,,OTHER,,,ODU_27,BAY0263 SYNCHAETA CURVATA,BAY0263 SYNCHAETA CURVATA
+ODU_1,0083832,CLADOCERANS,,,ODU_28,BAY0288 SYNCHAETA FENNICA,BAY0288 SYNCHAETA FENNICA
+ODU_10,0058454,BRACHIONUS CAUDATUS,BRACHIONUS CAUDATUS,,ODU_3,0046594,OLIGOTRICHS
+ODU_11,0058435,BRACHIONUS PLICATILIS,BRACHIONUS PLICATILIS,,ODU_30,0059075,TRICHCERCA MARINA
+ODU_12,0058443,BRACHIONUS PTERODINOIDES,BRACHIONUS PTERODINOIDES,BRACHIONUS PTERODINOIDES,ODU_31,0043848,SARCODINIA
+ODU_13,0059072,BIRGEA ENANTIAN,,,ODU_32,0089589,BARNACLE NAUPLII
+ODU_14,0059426,FILINIA LONGISETA,,,ODU_4,0064358,POLYCHAETE LARVAE
+ODU_15,0059354,HEXATHRA FENNICA,HEXATHRA FENNICA,,ODU_5,0058239,ROTIFERS
+ODU_16,0059253,HARRINGIA ROUSSELETI,HARRINGIA ROUSSELETI,,ODU_6,0046620,TINTINNIDS
+ODU_17,0058360,KERATELLA COCHLEARIS,KERATELLA COCHLEARIS,,ODU_7,0059240,ASPLANCHNA PRIODONTATA
+ODU_18,0058486,KELLICOTTIA LONGISPINA,KELLICOTTIA LONGISPINA,,ODU_8,0058445,BRACHIONUS ANGULARIS
+ODU_19,0058352,KERATELLA QUADRATA,KERATELLA QUADRATA,,ODU_9,0058438,BRACHIONUS CALYCIFLORUS
+# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,# VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILE,,
+Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/
+>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,>MICROZOOPLANKTON SPECIES ABUNDANCE AND COMPOSITON FILES,
+Name,,Type,Width,Variable Definitions:,Variable Definitions:,,
+SOURCE,,Text,10,Data Collection Agency,Data Collection Agency,Data Collection Agency,
+STATION,,Text,15,Sampling Station,Sampling Station,,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),
+LAYER,,Text,3,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was
+,,,,Taken,Taken,,
+SAMPLE_NUMBER,SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,GMETHOD,Text,3,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code
+TSN,,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,LATIN_NAME,Text,45,Species Latin Name,Species Latin Name,,
+LIFE_STAGE,LIFE_STAGE,Text,50,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life
+,,,,Stage Code,Stage Code,,
+METHOD,,Text,8,Parameter Method Analysis Code,Parameter Method Analysis Code,Parameter Method Analysis Code,
+PARAMETER,PARAMETER,Text,10,Parameter,Parameter,,
+VALUE,,Number,8,Parameter Value,Parameter Value,,
+UNITS,,Text,15,Parameter Reporting Units.,Parameter Reporting Units.,Parameter Reporting Units.,
+NODCCODE,NODCCODE,Text,12,NODC Species Code,NODC Species Code,NODC Species Code,
+SPEC_CODE,SPEC_CODE,Text,14,Source Species Taxon Code,Source Species Taxon Code,Source Species Taxon Code,
+R_DATE,,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+,,,,6,,,08/15/05
+,,,VAMIDOC.doc,VAMIDOC.doc,
+> MICROZOOPLANKTON SURVEY SAMPLING EVENT FILES,> MICROZOOPLANKTON SURVEY SAMPLING EVENT FILES,> MICROZOOPLANKTON SURVEY SAMPLING EVENT FILES,> MICROZOOPLANKTON SURVEY SAMPLING EVENT FILES,> MICROZOOPLANKTON SURVEY SAMPLING EVENT FILES,
+Name,Type,,Width,Variable Description,
+DATA_TYPE,Text,,2,CBP Data Type Code,
+SOURCE,Text,,10,Data Collection agency,
+SAMPLE_TYPE,Text,,2,Collection type,
+LAYER,Text,,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,Date/Time,Date/Time,8,Sample date (YYYYMMDD),
+LATITUDE,Number,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,Date/Time,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,Text,,2,Salinity Zone,
+SAMPLE_VOLUME,Number,Number,8,Total Volume of Sample,
+UNITS,Text,,15,Units for Sample Volume,
+STATION,Text,,15,Sampling Station,
+TOTAL_DEPTH,Number,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,Date/Time,Date/Time,8,Sampling Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,Type,,Width,Variable Definitions,
+BASIN,Text,,20,Chesapeake Bay Basin Designation,
+HUC8,Text,,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,Text,,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,,5,Federal Information Processing Code,
+STATE,Text,,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,,Designation,
+LL_DATUM,Text,,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,Text,,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,Text,,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,
+Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/,Structure for data files on: ftp.chesapeakebay.net/pub/ or http://www.chesapeakebay.net/
+File of name format: VAMIKYyy.TXT,File of name format: VAMIKYyy.TXT,File of name format: VAMIKYyy.TXT,,,
+Name,Type,Width,Variable Descriptions,Variable Descriptions,
+SPEC_CODE,Text,14,Source In-House Species Codes,Source In-House Species Codes,
+SOURCE,Text,6,Data Source Identifier,Data Source Identifier,
+DATA_TYPE,Text,2,Data Type Identifier Code,Data Type Identifier Code,
+SOURCE_LBL,Text,45,Source Species Latin Name,Source Species Latin Name,
+LBL,Text,45,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name,National Oceanographic Data Center Species Latin Name
+TSN,Text,7,ITIS Talon Serial Number,ITIS Talon Serial Number,
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+VOLUME,Number,8,Cell Biomass Estimator,Cell Biomass Estimator,
+SIZE,Text,30,Taxa Size-Fraction Identifier,Taxa Size-Fraction Identifier,
+LIFE_STG,Text,3,Chesapeake Bay Program Life Stage Code,Chesapeake Bay Program Life Stage Code,
+,,,,7,08/15/05
+,,,VAMIDOC.doc,
+#,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,REFERENCE CODES IN DATA FILE AND TAXONOMIC KEY,
+See The 2000 Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for full,See The 2000 Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for full,See The 2000 Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for full,See The 2000 Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for full,See The 2000 Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data for full
+listing of acceptable codes.,listing of acceptable codes.,listing of acceptable codes.,listing of acceptable codes.,
+>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,
+>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,>SAMPLE_TYPE: Sample Collection Type,
+,C - Composite,C - Composite,,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,
+BE,BE,Benthic,Benthic,
+FL,FL,Fluorescence,Fluorescence,
+MI,MI,Microzooplankton,Microzooplankton,
+MZ,MZ,Mesozooplankton,Mesozooplankton,
+PD,PD,Primary Production,Primary Production,
+PH,PH,Phytoplankton,Phytoplankton,
+PP,PP,Picoplankton,Picoplankton,
+>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,>SOURCE: Data Collection Agency,
+,ODU - Old Dominion University,ODU - Old Dominion University,ODU - Old Dominion University,
+">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species names and",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species names and",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species names and",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species names and",">SPEC_CODE: In house Species codes or ODUCODE, See Old Dominion University species names and"
+codes listed above,codes listed above,codes listed above,,
+>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,>CRUISE: Chesapeake Bay Program Cruise Number,
+>GMETHOD:,>GMETHOD:,Sampling Gear Code,Sampling Gear Code,
+,07 - unspecified plankton pump,07 - unspecified plankton pump,07 - unspecified plankton pump,
+>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,>LAYER: Layer of Water Column in which Sample was taken,
+,AP- Above Pycnocline,AP- Above Pycnocline,AP- Above Pycnocline,
+,BP- Below Pycnocline,BP- Below Pycnocline,BP- Below Pycnocline,
+,WC- Whole Water Column,WC- Whole Water Column,WC- Whole Water Column,
+>LIFE_STG DESCRIPTION - Chesapeake Bay Program Life Stage Code,>LIFE_STG DESCRIPTION - Chesapeake Bay Program Life Stage Code,>LIFE_STG DESCRIPTION - Chesapeake Bay Program Life Stage Code,>LIFE_STG DESCRIPTION - Chesapeake Bay Program Life Stage Code,
+,11,NAUPLII,,
+,93,JUVENILE,,
+,97,LARVAE,,
+,98,ADULT,,
+>SALZONE: Salinity Zone,>SALZONE: Salinity Zone,>SALZONE: Salinity Zone,>SALZONE: Salinity Zone,
+,F - Fresh (0 TO 0.5 PPT),F - Fresh (0 TO 0.5 PPT),F - Fresh (0 TO 0.5 PPT),
+,O - Oligohaline (>0.5 TO 5.0 PPT),O - Oligohaline (>0.5 TO 5.0 PPT),O - Oligohaline (>0.5 TO 5.0 PPT),
+,M - Mesohaline,M - Mesohaline,(>5.0 TO 18.0 PPT),
+,P - Polyhaline,P - Polyhaline,(> 18.0 PPT),
+,"*E- An F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data","*E- An F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data","*E- An F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data","*E- An F, O, M, or P followed by an E indicates an estimated salinity range based on salinity data"
+collected within 7 days of the biological sampling event. Used only when no actual salinity data available.,collected within 7 days of the biological sampling event. Used only when no actual salinity data available.,collected within 7 days of the biological sampling event. Used only when no actual salinity data available.,collected within 7 days of the biological sampling event. Used only when no actual salinity data available.,collected within 7 days of the biological sampling event. Used only when no actual salinity data available.
+>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.,>NODCCODE and LATIN NAME: National Oceanographic Data Center Species Codes Version 8.
+"Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see","Note for current listing of Chesapeake Bay Program Species and their codes, see"
+Http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,Http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,Http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,Http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial,Http://ftp.chesapeakebay.net/species/. Organisms with out current NODC Codes have been assigned partial
+NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.,NODC codes containing alphabetic where no code has been assigned.,
+>BASIN: Chesapeake Bay Tributary Designation,>BASIN: Chesapeake Bay Tributary Designation,>BASIN: Chesapeake Bay Tributary Designation,>BASIN: Chesapeake Bay Tributary Designation,
+,,,8,08/15/05
+,,VAMIDOC.doc,
+BAY- Chesapeake Bay,BAY- Chesapeake Bay,,
+ELZ- Elizabeth River,ELZ- Elizabeth River,,
+JAM- James River,JAM- James River,,
+YRK- York River,YRK- York River,,
+RAP- Rappahanock River,RAP- Rappahanock River,,
+>TSN: National Oceanographic Data Center Taxon Serial Numbers Note for current listing of Chesapeake,>TSN: National Oceanographic Data Center Taxon Serial Numbers Note for current listing of Chesapeake,>TSN: National Oceanographic Data Center Taxon Serial Numbers Note for current listing of Chesapeake,>TSN: National Oceanographic Data Center Taxon Serial Numbers Note for current listing of Chesapeake
+"Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms without current","Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms without current","Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms without current","Bay Program Species and their codes, see http://ftp.chesapeakebay.net/species/. Organisms without current"
+serial numbers have ALL been assigned TSN of BAYXXXX.,serial numbers have ALL been assigned TSN of BAYXXXX.,serial numbers have ALL been assigned TSN of BAYXXXX.,
+> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,
+CBSEG_1998,CBSEG_1998,DESCRIPTION,
+CB6PH,CB6PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB7PH,CB7PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB8PH,CB8PH,CHESAPEAKE BAY-POLYHALINE REGION,
+JMSOH,JMSOH,JAMES RIVER-OLIGOHALINE REGION,
+JMSPH,JMSPH,JAMES RIVER-POLYHALINE REGION,
+JMSTF,JMSTF,JAMES RIVER-TIDAL FRESH REGION,
+MOBPH,MOBPH,MOBJACK BAY-POLYHALINE REGION,
+PMKTF,PMKTF,PAMUNKEY RIVER-TIDAL FRESH REGION,
+RPPMH,RPPMH,RAPPAHANNOCK RIVER-MESOHALINE REGION,
+RPPOH,RPPOH,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,
+SBEMH,SBEMH,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,
+YRKMH,YRKMH,YORK RIVER-MESOHALINE REGION,
+>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,
+FIPS,STATE COUNTY,,
+51095,VA,JAMES CITY,
+51097,VA,KING AND QUEEN,
+51103,VA,LANCASTER,
+51127,VA,NEW KENT,
+51131,VA,NORTHAMPTON,
+51149,VA,PRINCE GEORGE,
+51159,VA,RICHMOND,
+51199,VA,YORK,
+51550,VA,CHESAPEAKE CITY,
+51650,VA,HAMPTON,
+51740,VA,PORTSMOUTH,
+51810,VA,VIRGINIA BEACH,
+>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,
+HUC8,,CATALOGING_UNIT_DESCRIPTION,
+02080101,02080101,LOWER CHESAPEAKE BAY,
+02080104,02080104,LOWER RAPPAHANNOCK,
+02080106,02080106,PAMUNKEY,
+02080107,02080107,YORK,
+02080206,02080206,LOWER JAMES,
+02080208,02080208,HAMPTON ROADS,
+>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,>METHOD: Chesapeake Bay Program Lab Method Code Designation,
+,MI102,,
+,,9,08/15/05
+,VAMIDOC.doc,,
+>PARAMETER and UNIT: Measured Parameter and reporting units.,>PARAMETER and UNIT: Measured Parameter and reporting units.,,
+PARAMETER,UNITS,,
+COUNT,NUMBER/LITER,,
+# NUMERIC VARIABLE NAMES - WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE NAMES - WARNING AND ERROR BOUNDS,,
+Variable,Value Range,,
+FVOL_M3,"-99999, 0000-999999",,
+LATITUDE,See section STATION NAMES AND DESCRIPTIONS,,
+LONGITUDE,See section STATION NAMES AND DESCRIPTIONS,,
+MAXDEPTH,0.5 - 32.0,,
+P_DEPTH,"-99.9, 1-10",,
+PARAMETER,COUNT,,
+R_DATE,19950101-20021231,,
+R_DATE,19950301-20021001,,
+SAMPLE_NUMBER,"1,2",,
+SAMPLE_TIME,06:00-21:00 missing times denoted by 00:00,,
+SAMPLING_DATE,19930101-20021001,,
+TOTAL_DEPTH,0.5 - 32.0,,
+VALUE,0.05-10000.00,,
+# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,,
+THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS IS,
+PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE.,HOWEVER IF YOU,HOWEVER IF YOU
+HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES TO
+BE AWARE OF.,,,
+8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic,8/31/95- LBL all Latin Names and spelling for names have been corrected to the National Oceanographic
+Data Center accepted spelling.,Data Center accepted spelling.,,
+8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following,8/31/95 Sampling from January 1993 thorough September 1993 was conducted only at the following
+"stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2.","stations: CB6.1, CB6.4, CB7.4, LE3.6, WE4.2, LE5.5, SBE2, SBE5, TF4.2, RET4.3, TF5.5, and RET5.2."
+"From September to the present, all stations in the current list were included in the sampling regime.","From September to the present, all stations in the current list were included in the sampling regime.","From September to the present, all stations in the current list were included in the sampling regime.",During
+1993 species counts were made only for large groups (SPECCODE 1 to 6).,1993 species counts were made only for large groups (SPECCODE 1 to 6).,"As a result, only density values","As a result, only density values"
+for these 6 groups are included in the data set for 1993.,for these 6 groups are included in the data set for 1993.,"During 1994, counts were made for Rotifers to the","During 1994, counts were made for Rotifers to the"
+lowest possible taxonomic level and the data set structure reflects this change.,lowest possible taxonomic level and the data set structure reflects this change.,The Rotifer spp. NAME and,The Rotifer spp. NAME and
+SPECCODE are total abundance of all rotifers.,SPECCODE are total abundance of all rotifers.,,
+The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the,The Chesapeake Bay Program office supplied 8/31/95- CRUISE NUMBERS -BAY171 - BAY211. See the
+Guide to Living Resources Data Sets for complete listing of Cruise periods.,Guide to Living Resources Data Sets for complete listing of Cruise periods.,,
+8/31/95- SER_NUM,Old Dominion University does not use a serial number system for sample tracking so,Old Dominion University does not use a serial number system for sample tracking so,Old Dominion University does not use a serial number system for sample tracking so
+this variable is not available,,,
+SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data,SUMMER 1997 - The Living Resources Data manager supplied salinity zones to the zooplankton Data
+based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,based on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from
+Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not available
+"for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was","for the of sampling but was collected within a one week window of sampling date, the water quality data was"
+used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.,used to determine a salinity zone. However the salinity zone is marked with an E to denote being estimated.
+02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1997 data are provisional. They have not yet been checked
+against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1997 Virginia Tributary water quality data will not be
+"delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 1998. After delivery of the water quality data, salinity zones will be",
+confirmed.,,,
+,10,08/15/05,
+,VAMIDOC.doc,,
+07/01/1998- Analysis of the data as part of the CBP Zooplankton Indicator Program revealed a double,07/01/1998- Analysis of the data as part of the CBP Zooplankton Indicator Program revealed a double,07/01/1998- Analysis of the data as part of the CBP Zooplankton Indicator Program revealed a double,
+counting rotifers in the 1994 data set rotifers were identified once as a group and then individually as,counting rotifers in the 1994 data set rotifers were identified once as a group and then individually as,counting rotifers in the 1994 data set rotifers were identified once as a group and then individually as,
+species. Therefore all individual species counts were removed.,species. Therefore all individual species counts were removed.,,
+"01/01/2000- As part of a migration to a FOXPRO database management system, the species coding system","01/01/2000- As part of a migration to a FOXPRO database management system, the species coding system","01/01/2000- As part of a migration to a FOXPRO database management system, the species coding system","01/01/2000- As part of a migration to a FOXPRO database management system, the species coding system"
+changed.,Old codes were changed to the form ODU_## to clearly denote them from the new species list.,Old codes were changed to the form ODU_## to clearly denote them from the new species list.,It
+is recommended that only data from the online data system or ASCII files generated after October 2002 be,is recommended that only data from the online data system or ASCII files generated after October 2002 be,is recommended that only data from the online data system or ASCII files generated after October 2002 be,is recommended that only data from the online data system or ASCII files generated after October 2002 be
+used for analysis.,,,
+04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables abnormally high counts,04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables abnormally high counts,04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables abnormally high counts,04/21/2000- Analysis of data noticed that in July-December 1999 data deliverables abnormally high counts
+of Oligotrichs were found at numerous stations.,It is unclear whether this increase due to natural,It is unclear whether this increase due to natural,
+phenomena or some kind of taxonomist bias due to the introduction of new personnel.,phenomena or some kind of taxonomist bias due to the introduction of new personnel.,phenomena or some kind of taxonomist bias due to the introduction of new personnel.,
+03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton genus Ceratium were,03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton genus Ceratium were,03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton genus Ceratium were,03/27/2002- Annual Split Sample studies revealed that the members of phytoplankton genus Ceratium were
+being mistaken as rotifers in routine and split sample counts. Phytoplankton samples with high Ceratium,being mistaken as rotifers in routine and split sample counts. Phytoplankton samples with high Ceratium,being mistaken as rotifers in routine and split sample counts. Phytoplankton samples with high Ceratium,
+counts were identified and the corresponding microzooplankton samples were recounted and resubmitted,counts were identified and the corresponding microzooplankton samples were recounted and resubmitted,counts were identified and the corresponding microzooplankton samples were recounted and resubmitted,
+from the time period between July 1999-December 2001.,from the time period between July 1999-December 2001.,ODU taxonomists were also noted finding high,
+counts of Oligotrichs in split samples where Maryland personnel did not find these. No explanation for this,counts of Oligotrichs in split samples where Maryland personnel did not find these. No explanation for this,counts of Oligotrichs in split samples where Maryland personnel did not find these. No explanation for this,
+has been determined to date.,,,
+WINTER 2002- This monitoring program was terminated. The data record ends in October of 2002.,WINTER 2002- This monitoring program was terminated. The data record ends in October of 2002.,WINTER 2002- This monitoring program was terminated. The data record ends in October of 2002.,
+Winter 2002- For extensive details in regards to quality assurance issues,Winter 2002- For extensive details in regards to quality assurance issues,and data comparability issues,
+between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,
+Chesapeake Bay Quality Assurance Program at:,Chesapeake Bay Quality Assurance Program at:,,
+http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,,
+08/11/2005.,"Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change.","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate change."
+"This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at","This station move was not documented until August 2005. Due to this station relocation, all data collected at"
+the altered location had the station name changed to LE5.5-W in August 2005.,the altered location had the station name changed to LE5.5-W in August 2005.,,
+#KEY WORDS (EXCLUDING VARIABLE NAMES),#KEY WORDS (EXCLUDING VARIABLE NAMES),,
+Microzooplankton Counts,,,
+Microzooplankton Densities,,,
+Microzooplankton Monitoring,,,
+Microzooplankton Taxon,,,
+,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,
+,MICROZOOPLANKTON,,
+,MONITORING DATA DICTIONARY,,
+,11,08/15/05,

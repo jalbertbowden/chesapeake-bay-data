@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”
+Table: 15,Table: 15,Table: 15,Table: 15
+,,,
+,,,MDMZDOC.doc
+STATION,Text,15,Sampling Station
+TOTAL_DEPTH,Number,4,Total Station Depth (meters)
+SAMPLE_TIME,Date/Time,8,Sampling Time (HHMM)
+>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES,>MESOZOOPLANKTON BIOVOLUME AND JELLY FISH SURVEY FILES
+Name,Type,Width,Variable Description:
+SOURCE,Text,10,Data Collection Agency
+CRUISE,Text,6,Chesapeake Bay Program Cruise Number
+STATION,Text,15,Sampling Station
+SAMPLE_DATE,Date/Time,8,Sampling Date (YYYYMMDD)
+LAYER,Text,3,Layer in Water Column in Which Sample was Taken
+SAMPLE_NUMBER,Number,4,Replicate Number
+GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code
+TSN,Text,7,Taxon Serial Number
+LATIN_NAME,Text,45,Species Latin Name
+LIFE_STAGE,Text,50,Chesapeake Bay Program Life Stage Description
+METHOD,Text,8,Chesapeake Bay Program Analytical Analysis Method
+,,,Code
+PARAMETER,Text,10,Reporting Parameter
+VALUE,Number,8,Parameter Value
+UNITS,Text,15,Parameter Reporting Units
+NODCCODE,Text,12,National Oceanographic Data Center Species Code
+SPEC_CODE,Text,14,Agency Species Code
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD)
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:
+Name,Type,Width,Variable Definitions
+BASIN,Text,20,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City or County
+,,,Designation
+LL_DATUM,Text,5,Latitude and Longitude Geographic Datum
+CBSEG_1998,Text,6,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,
+,Text,50,1998 Chesapeake Bay Segment Designation Description
+#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY,#VARIABLE NAMES AND DESCRIPTIONS FOR SPECIES KEY
+Structure for data files on :,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/
+Name,Type,Width,Variable Descriptions
+SPEC_CODE,Text,14,Source In-House Species Codes
+SOURCE,Text,6,Data Source Identifier
+DATA_TYPE,Text,2,Data Type Identifier Code
+SOURCE_LBL,Text,45,Source Species Latin Name
+LBL,Text,45,National Oceanographic Data Center Species Latin Name
+TSN,Text,7,ITIS Taxon Serial Number
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD)
+VOLUME,Number,8,Cell Biomass Estimator
+SIZE,Text,30,Taxa Size-Fraction Identifier
+LIFE_STG,Text,3,Chesapeake Bay Program Life Stage Code
+,,,10

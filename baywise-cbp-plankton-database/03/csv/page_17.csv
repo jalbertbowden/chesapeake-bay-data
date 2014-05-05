@@ -1,0 +1,58 @@
+Name: “Table 1 of 1 on page 17 of 22”,Name: “Table 1 of 1 on page 17 of 22”,Name: “Table 1 of 1 on page 17 of 22”,Name: “Table 1 of 1 on page 17 of 22”,Name: “Table 1 of 1 on page 17 of 22”,Name: “Table 1 of 1 on page 17 of 22”
+Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16
+,,,,,
+,,,MDPHDOC.doc,MDPHDOC.doc,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on: http://www.chesapeakebay.net,Structure for data files on: http://www.chesapeakebay.net,Structure for data files on: http://www.chesapeakebay.net,Structure for data files on: http://www.chesapeakebay.net,Structure for data files on: http://www.chesapeakebay.net,
+>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON AND PICOPLANKTON ABUNDANCE AND COMPOSITON FILES
+Field,Name,Type,Width,Variable Descriptions,
+SOURCE,SOURCE,Text,10,Data Collection Agency,Data Collection Agency
+SAMPLE_TYPE,SAMPLE_TYPE,Text,2,Sample Collection Type,Sample Collection Type
+CRUISE,CRUISE,Text,6,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number
+STATION,STATION,Text,15,Sampling Station,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling,Date (YYYYMMDD)
+LAYER,LAYER,Text,3,Layer of Water Column in Which Sample Was Taken,Layer of Water Column in Which Sample Was Taken
+SAMPLE_NUMBER,SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number
+GMETHOD,GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+TSN,,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number
+LATIN_NAME,LATIN_NAME,Text,45,Species Latin Name,
+SIZE,,Text,30,Cell Size Groupings when taken,Cell Size Groupings when taken
+METHOD,METHOD,Text,8,Chesapeake Bay Program Sample Analysis Code,Chesapeake Bay Program Sample Analysis Code
+PARAMETER,PARAMETER,Text,15,Sampling Parameter Name,Sampling Parameter Name
+VALUE,VALUE,Number,8,Sampling Parameter Value,Sampling Parameter Value
+UNITS,UNITS,Text,15,Sampling Parameter Reporting Units,Sampling Parameter Reporting Units
+NODCCODE,NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+SPEC_CODE,SPEC_CODE,Text,14,In House Species Code,In House Species Code
+SER_NUM,SER_NUM,Text,12,Sample Serial Number,Sample Serial Number
+R_DATE,R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD)
+>PHYTOPLANKTON SAMPLING EVENT FILES,>PHYTOPLANKTON SAMPLING EVENT FILES,>PHYTOPLANKTON SAMPLING EVENT FILES,>PHYTOPLANKTON SAMPLING EVENT FILES,,
+Field,Name,Type,Width,Variable Description:,
+SOURCE,SOURCE,Text,10,Data Collection Agency,Data Collection Agency
+SAMPLE_TYPE,SAMPLE_TYPE,Text,2,Collection Type,
+CRUISE,CRUISE,Text,6,Chesapeake Bay Program cruise number,Chesapeake Bay Program cruise number
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling date,(YYYYMMDD)
+LATITUDE,LATITUDE,Number,8,Latitude in decimal degrees,Latitude in decimal degrees
+LONGITUDE,LONGITUDE,Number,8,Longitude in decimal degrees,Longitude in decimal degrees
+P_DEPTH,P_DEPTH,Number,4,Composite Sample Cut Off Depth,Composite Sample Cut Off Depth
+R_DATE,R_DATE,Date/Time,8,Data version date (YYYYMMDD),Data version date (YYYYMMDD)
+SALZONE,SALZONE,Text,2,Salinity zone,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,8,Total Volume of Sample,Total Volume of Sample
+UNITS,UNITS,Text,15,Reporting Units of Sample Volume,Reporting Units of Sample Volume
+STATION,STATION,Text,15,Sampling Station,
+TOTAL_DEPTH,TOTAL_DEPTH,Number,4,Total Station Depth (meters),Total Station Depth (meters)
+SAMPLE_TIME,SAMPLE_TIME,Date/Time,8,Sample Collection Time (HHMM),Sample Collection Time (HHMM)
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,Name,Type,Width,Variable Definitions,
+BASIN,BASIN,Text,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,COUNTY_CITY,Text,30,Federal Information Processing Code City/County,Federal Information Processing Code City/County
+,,,,Designation,
+LL_DATUM,LL_DATUM,Text,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,CBSEG_1998,Text,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,,Text,50,1998 Chesapeake Bay Segment Designation Description,1998 Chesapeake Bay Segment Designation Description
+,,,,17,1/22/2010

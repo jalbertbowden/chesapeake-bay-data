@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”,Name: “Table 1 of 1 on page 14 of 24”
+Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14
+,,,,,,
+,,,,MDMZDOC.doc,,
+SPEC_CODE,SOURCE_LBL,SOURCE_LBL,TSN,SPEC_CODE,SOURCE_LBL,TSN
+T755,INVALID SEE T981,INVALID SEE T981,0084195,T84,MICROPOGON UNDULATUS,0169284
+T760,POLYCHAETE LARVAE,POLYCHAETE LARVAE,0064358,T871,GASTROPOD LARVAE,0069459
+T765,UNID. CRAB ZOEA,UNID. CRAB ZOEA,0095599,T875,HYDROID,0048740
+T775,PODON POLYPHEMOIDES,PODON POLYPHEMOIDES,0083967,T895,TATIGRADE,0155166
+T776,BOSMINA SP.,BOSMINA SP.,0083936,T90,GOBIOSOMA BOSCI,0171789
+T778,ILYOCRYPTUS SP.,ILYOCRYPTUS SP.,0084132,T967,GAMMARUS,0093773
+T779,LEYDIGIA QUADRANGULARIS,LEYDIGIA QUADRANGULARIS,0084026,T97,PSEUDOPLEURONECTES,0172905
+T782,DIPTERAN LARVAE,DIPTERAN LARVAE,0118831,,AMERICANUS,
+T787,CHIRONOMID LARVAE,CHIRONOMID LARVAE,0127917,T974,OLIGOCHAETA,0068422
+T788,FLAT WORM,FLAT WORM,0053963,T978,MOLLUSCA,0069458
+T804,BRACHIONUS,BRACHIONUS,0058434,T980,CLADOCERA,0083832
+T820,MYSID,,0089856,T981,OSTRACODA,0084195
+T833,COLEOPTERA,COLEOPTERA,0109216,T982,BAETIDAE,0100755
+T834,CORIXIDAE,,0103364,,,
+# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,# VARIABLES NAMES AND DESCRIPTIONS FOR DATA FILES,,
+Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,Structure for data files in: ftp.chesapeakebay.net or http://www.chesapeakebay.net/,
+> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,> MESOZOOPLANKTON TAXONOMIC RECORDS,,,
+Name,,Type,Width,Variable Definitions:,,
+SOURCE,,Text,10,Data Collection Agency,Data Collection Agency,
+STATION,,Text,15,Sampling Station,,
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sampling date (YYYYMMDD),Sampling date (YYYYMMDD),
+LAYER,,Text,3,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was,Layer in Water Column Which Composite Sample was
+,,,,Taken,,
+SAMPLE_NUMBER,SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,GMETHOD,Text,3,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code,Chesapeake Bay Program Sampling Gear Code
+TSN,,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,LATIN_NAME,Text,45,Species Latin Name,,
+LIFE_STAGE,LIFE_STAGE,Text,50,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life,Life stage of individual- Chesapeake Bay Program Life
+,,,,Stage Code,,
+METHOD,,Text,8,Parameter Method Analysis Code,Parameter Method Analysis Code,
+PARAMETER,PARAMETER,Text,10,Parameter,,
+VALUE,,Number,8,Parameter Value,,
+UNITS,,Text,15,Parameter Reporting Units.,Parameter Reporting Units.,
+NODCCODE,NODCCODE,Text,12,NODC Species Code,NODC Species Code,
+SPEC_CODE,SPEC_CODE,Text,14,Source Species Taxon Code,Source Species Taxon Code,
+R_DATE,,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),
+> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,> MESOZOOPLANKTON SAMPLING EVENT RECORDS,,
+Name,,Type,Width,Variable Description,,
+DATA_TYPE,DATA_TYPE,Text,2,CBP Data Type Code,CBP Data Type Code,
+SOURCE,,Text,10,Data Collection agency,Data Collection agency,
+SAMPLE_TYPE,SAMPLE_TYPE,Text,2,Collection type,,
+LAYER,,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),Sample date (YYYYMMDD),
+LATITUDE,,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83),
+LONGITUDE,LONGITUDE,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83),
+P_DEPTH,,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters),
+R_DATE,,Date/Time,8,Data version date (YYYYMMDD),Data version date (YYYYMMDD),
+SALZONE,,Text,2,Salinity Zone,,
+SAMPLE_VOLUME,SAMPLE_VOLUME,Number,8,Total Volume of Sample,Total Volume of Sample,
+UNITS,,Text,15,Units for Sample Volume,Units for Sample Volume,
+,,,,9,,

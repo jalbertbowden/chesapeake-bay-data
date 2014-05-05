@@ -1,0 +1,68 @@
+Name: “Table 1 of 1 on page 16 of 21”,Name: “Table 1 of 1 on page 16 of 21”,Name: “Table 1 of 1 on page 16 of 21”,Name: “Table 1 of 1 on page 16 of 21”,Name: “Table 1 of 1 on page 16 of 21”,Name: “Table 1 of 1 on page 16 of 21”
+Table: 16,Table: 16,Table: 16,Table: 16,Table: 16,Table: 16
+,,,,,
+,,,VAPHDOC.doc,VAPHDOC.doc,
+1333,Gymnodinium uberrimum,,,1363,"Pennate diatoms 
+    "
+1334,Gymnodinium mitratum,,,1364,"Cryptomonas sp. 
+    "
+1335,Peridinium inconspicuum,,,1365,Aphanizomenon flos-aqua
+1336,Cocconeis flumiatilis,,,1366,Thalassiosira anguste-lineata
+1337,Gymnodinium impatiens,,,1367,Unid. Centric Diatom Diam 10-30 um
+1338,Cosmarium ornatum,,,1368,Unid. Centric Diatom Diam 31-60 um
+1339,Cylindrosperum doryphorum,,,1369,Unid. Centric Diatom Diam >60 um
+1340,Hyalotheca dissiliens var. tatrica,Hyalotheca dissiliens var. tatrica,,1370,Unid. Pennate Diatom Length 10-30 um
+1341,Spirulina laxa,,,1371,Unid. Pennate Diatom Length 31-60 um
+1342,Spirulina major,,,1372,Unid. Pennate Diatom Length >60 um
+1343,Hydrodictyon reticulatum,,,1373,Caloneis lewisii
+1344,Treubaria setigerum,,,1374,Encyonema silesiacum
+1345,epiphytic flagellates (unid),,,1375,Navicula elegans
+1346,Microcoleus sp.,,,1376,Navicula phyllepta
+1347,Stigeoclonium glomeratum,,,1377,Navicula lyra
+1349,Blue Green Trichome B (unid),,,1378,Navicula spicula
+1350,Lepocinclis sphagnophila,,,1379,Suriella Splendida
+1351,Carteria cordiformis,,,1380,Surirella Crumena
+1352,Microspora quadrata,,,1381,Tabularia fasciculate
+1353,Hormidium Klebsii,,,1382,Hydrodictyon
+1354,Oocystis Borgei,,,1383,Nitzschia frustulum perpulsilla
+1355,Pleurotaenium subcoronulatum var. detum,Pleurotaenium subcoronulatum var. detum,Pleurotaenium subcoronulatum var. detum,1384,Scenedesmus opoliensis
+1356,Peridinium gatunense,,,1385,Scenedesmus brasiliensis
+1357,Dictyocha Siderea,,,1386,Guinardia striata
+1358,Navicula septentrionalis,,,1387,Aphanizomenon issatschenkoi
+1359,Characium limneticum,,,1388,Blue Green Trichome cell
+1360,"Centric diatom 
+    ",,,1389,Blue Green Trichome B cell
+1361,Centric diatom 10-20um,,,1390,Alexandrium monilatum
+1362,"Pennate diatoms 
+    ",,,,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,Structure for data files on: http://www.chesapeakebay.net/,,
+>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES,>PHYTOPLANKTON OR PICOPLANKTON TAXONOMIC ABUNDANCE AND COMPOSITON FILES
+Name,Type,Width,Variable Description,Variable Description,
+SOURCE,Text,10,Data Collection Agency,Data Collection Agency,
+SAMPLE_TYPE,Text,2,Sample Collection Type,Sample Collection Type,
+CRUISE,Text,6,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number
+STATION,Text,15,Sampling Station,Sampling Station,
+SAMPLE_DATE,Date/Time,8,Sampling,Date (YYYYMMDD),
+LAYER,Text,3,Layer of Water Column in Which SampleWas Taken,Layer of Water Column in Which SampleWas Taken,Layer of Water Column in Which SampleWas Taken
+SAMPLE_NUMBER,Number,4,Sample Replicate Number,Sample Replicate Number,
+GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+TSN,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+LATIN_NAME,Text,45,Species Latin Name,Species Latin Name,
+SIZE,Text,30,Cell Size Groupings when taken,Cell Size Groupings when taken,
+METHOD,Text,8,Chesapeake Bay Program Sample Analysis Code,Chesapeake Bay Program Sample Analysis Code,Chesapeake Bay Program Sample Analysis Code
+PARAMETER,Text,15,Sampling Parameter Name,Sampling Parameter Name,
+VALUE,Number,8,Sampling Parameter Value,Sampling Parameter Value,
+UNITS,Text,15,Sampling Parameter Reporting Units,Sampling Parameter Reporting Units,Sampling Parameter Reporting Units
+NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+SPEC_CODE,Text,14,In House Species Code,In House Species Code,
+SER_NUM,Text,12,Sample Serial Number,Sample Serial Number,
+R_DATE,Date/Time,8,Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD),Version Date of Data (YYYYMMDD)
+> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,> PHYTOPLANKTON AND PICOPLANKTON SAMPLING EVENT FILES,
+Name,Type,Width,Variable Description,Variable Description,
+SOURCE,Text,10,Data Collection Agency,Data Collection Agency,
+SAMPLE_TYPE,Text,2,Collection Type,Collection Type,
+CRUISE,Text,6,Chesapeake Bay Program cruise number,Chesapeake Bay Program cruise number,Chesapeake Bay Program cruise number
+SAMPLE_DATE,Date/Time,8,Sampling date,Sampling date,(YYYYMMDD)
+LATITUDE,Number,8,Latitude in decimal degrees,Latitude in decimal degrees,
+,,,16,,01/03/11

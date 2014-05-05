@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”,Name: “Table 1 of 1 on page 15 of 24”
+Table: 15,Table: 15,Table: 15,Table: 15
+,,,
+,,,Page 15 of 24
+Altitude_Resolution: .1,Altitude_Resolution: .1,,
+Altitude_Distance_Units: meters,Altitude_Distance_Units: meters,,
+Altitude_Encoding_Method: Attribute Values,Altitude_Encoding_Method: Attribute Values,Altitude_Encoding_Method: Attribute Values,
+Depth_System_Definition:,Depth_System_Definition:,,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,Depth_Resolution: .1,,
+Depth_Distance_Units: meters,Depth_Distance_Units: meters,,
+Depth_Encoding_Method: Attribute Values,Depth_Encoding_Method: Attribute Values,Depth_Encoding_Method: Attribute Values,
+Back to Top,,,
+Entity_and_Attribute_Information:,,,
+Overview_Description:,,,
+Entity_and_Attribute_Overview:,Entity_and_Attribute_Overview:,,
+The following Station had their names changed to the standard Chesapeake Bay,The following Station had their names changed to the standard Chesapeake Bay,The following Station had their names changed to the standard Chesapeake Bay,The following Station had their names changed to the standard Chesapeake Bay
+Program station names in July 1998. Alternate names appearing in previous versions,Program station names in July 1998. Alternate names appearing in previous versions,Program station names in July 1998. Alternate names appearing in previous versions,Program station names in July 1998. Alternate names appearing in previous versions
+of the Living Resources Data Sets are as follows:,of the Living Resources Data Sets are as follows:,of the Living Resources Data Sets are as follows:,
+LR NAME,CBP NAME,,
+XDE5339,LE1.1,,
+XED4892,TF1.7,,
+PXT0402,TF1.5,,
+XEA6596,TF2.3,,
+XDA1177,RET2.2,,
+MET4.2,ET4.2,,
+MWT5.1,WT5.1,,
+MLE2.2,LE2.2,,
+MET5.1,ET5.1,,
+MET5.2,ET5.2,,
+MEE3.1,EE3.1,,
+XEA1840,TF2.4,,
+MET5.0,ET5.0,,
+XED9490,TF1.6,,
+"10/31/95 - As part of the serial number correction problem of 07/31/95, two serial","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial","10/31/95 - As part of the serial number correction problem of 07/31/95, two serial"
+numbers were erroneously changed.,numbers were erroneously changed.,The result was three serial numbers assigned,The result was three serial numbers assigned
+twice. This was corrected in the data sets by,twice. This was corrected in the data sets by,twice. This was corrected in the data sets by,
+changing serial numbers as follow:,changing serial numbers as follow:,,
+Serial Number,Sample date,Serial Number reassigned,
+CZMPX86034B,12/03/86,No Change,
+CZMPX86035A,12/03/86,No Change,
+CZMPX86035B,12/03/87,No Change,
+CZMPX86034B,06/08/87,CZMPX87034B,
+CZMPX86035A,06/08/87,CZMPX87035A,
+CZMPX86035B,06/08/87,CZMPX87035B,
+There were no changes to actual data values.,There were no changes to actual data values.,There were no changes to actual data values.,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,4/26/2012

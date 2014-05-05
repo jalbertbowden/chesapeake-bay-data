@@ -1,0 +1,617 @@
+,,,Page 1 of 13
+Maryland Chesapeake Bay Water Quality,Maryland Chesapeake Bay Water Quality,Maryland Chesapeake Bay Water Quality,
+Monitoring Program:Phytoplankton Primary,Monitoring Program:Phytoplankton Primary,Monitoring Program:Phytoplankton Primary,Monitoring Program:Phytoplankton Primary
+Production Component,Production Component,Production Component,
+Metadata:,,,
+z,Identification_Information,,
+z,Data_Quality_Information,,
+z,Spatial_Data_Organization_Information,Spatial_Data_Organization_Information,
+z,Spatial_Reference_Information,Spatial_Reference_Information,
+z,Entity_and_Attribute_Information,Entity_and_Attribute_Information,
+z,Distribution_Information,,
+z,Metadata_Reference_Information,Metadata_Reference_Information,
+Identification_Information:,Identification_Information:,,
+,,Citation:,
+,Citation_Information:,,
+,Originator: Richard Lacouture,Originator: Richard Lacouture,
+,Originator: Stella Sellner,Originator: Stella Sellner,
+,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory
+,Publication_Date: 20000101,Publication_Date: 20000101,
+,,Title:,
+,Maryland Chesapeake Bay Water Quality Monitoring Program:Phytoplankton,Maryland Chesapeake Bay Water Quality Monitoring Program:Phytoplankton,Maryland Chesapeake Bay Water Quality Monitoring Program:Phytoplankton
+,Primary Production Component,Primary Production Component,
+,Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, MD","Publication_Place: Annapolis, MD",
+,Publisher: US. EPA Chesapeake Bay Program Office,Publisher: US. EPA Chesapeake Bay Program Office,
+,Other_Citation_Details:,Other_Citation_Details:,
+,,none,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+,Larger_Work_Citation:,Larger_Work_Citation:,
+,Citation_Information:,Citation_Information:,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+,Publication_Date: 20080301,Publication_Date: 20080301,
+,,Title:,
+,,Chesapeake Bay Program Plankton Database,
+,Edition: Version 3.0,Edition: Version 3.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+,Publication_Information:,Publication_Information:,
+,,"Publication_Place: Annapolis, MD",
+,,Publisher: US EPA Chesapeake Bay Program,
+,Other_Citation_Details:,Other_Citation_Details:,
+,,None,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+,,Description:,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,Page 2 of 13
+Abstract:,,
+The overall phytoplankton monitoring program is designed to detect and monitor,The overall phytoplankton monitoring program is designed to detect and monitor,The overall phytoplankton monitoring program is designed to detect and monitor
+changes in plankton production in relation to changing water quality conditions in,changes in plankton production in relation to changing water quality conditions in,changes in plankton production in relation to changing water quality conditions in
+Chesapeake Bay. Phytoplankton are the dominant producers in the Chesapeake Bay,Chesapeake Bay. Phytoplankton are the dominant producers in the Chesapeake Bay,Chesapeake Bay. Phytoplankton are the dominant producers in the Chesapeake Bay
+and are the base of the food chain for many higher tropic levels.,and are the base of the food chain for many higher tropic levels.,Excessive blooms
+of plankton taxa are considered evidence of eutrophication in the bay and are known,of plankton taxa are considered evidence of eutrophication in the bay and are known,of plankton taxa are considered evidence of eutrophication in the bay and are known
+to degrade water quality and block light from submerged aquatic vegetation.,to degrade water quality and block light from submerged aquatic vegetation.,to degrade water quality and block light from submerged aquatic vegetation.
+Sampling is performed in conjunction with,Sampling is performed in conjunction with,"the Maryland phytoplankton,"
+"fluorometry, mesozooplankton,","microzooplankton, jellyfish and water quality","microzooplankton, jellyfish and water quality"
+monitoring programs.,Carbon fixation rates (C-14) were obtained from replicate,Carbon fixation rates (C-14) were obtained from replicate
+surface layer composite samples at 16 stations in the Maryland portion of the,surface layer composite samples at 16 stations in the Maryland portion of the,surface layer composite samples at 16 stations in the Maryland portion of the
+"Chesapeake Bay and its tributaries. Samples were collected 18 times over the year,","Chesapeake Bay and its tributaries. Samples were collected 18 times over the year,","Chesapeake Bay and its tributaries. Samples were collected 18 times over the year,"
+"with monthly samples in October through March, and biweekly samples in April","with monthly samples in October through March, and biweekly samples in April","with monthly samples in October through March, and biweekly samples in April"
+"through September. In January and February, the stations in the Choptank River and","through September. In January and February, the stations in the Choptank River and","through September. In January and February, the stations in the Choptank River and"
+"Baltimore Harbor are not sampled. After June, 1986 stations ET4.2 and EE3.1 were","Baltimore Harbor are not sampled. After June, 1986 stations ET4.2 and EE3.1 were","Baltimore Harbor are not sampled. After June, 1986 stations ET4.2 and EE3.1 were"
+no longer sampled.,"Beginning in January 1996, there was no sampling done in","Beginning in January 1996, there was no sampling done in"
+February,and November. Sampling was reduced to once a month in June and,and November. Sampling was reduced to once a month in June and
+September. Sampling at Station CB1.1 was discontinued entirely.,September. Sampling at Station CB1.1 was discontinued entirely.,September. Sampling at Station CB1.1 was discontinued entirely.
+Purpose:,,
+"The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program,","The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program,","The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program,"
+has monitored phytoplankton primary production in the Maryland mainstem and,has monitored phytoplankton primary production in the Maryland mainstem and,has monitored phytoplankton primary production in the Maryland mainstem and
+tributaries since August 1984. The program is designed to give comprehensive,tributaries since August 1984. The program is designed to give comprehensive,tributaries since August 1984. The program is designed to give comprehensive
+geographic and temporal information,on primary production.,Sampling is performed
+"in conjunction with the Maryland phytoplankton, fluorometry, mesozooplankton,","in conjunction with the Maryland phytoplankton, fluorometry, mesozooplankton,","in conjunction with the Maryland phytoplankton, fluorometry, mesozooplankton,"
+"microzooplankton, jellyfish and water quality monitoring programs.","microzooplankton, jellyfish and water quality monitoring programs.","microzooplankton, jellyfish and water quality monitoring programs."
+Supplemental_Information:,,
+STATION NAMES AND DESCRIPTIONS,STATION NAMES AND DESCRIPTIONS,
+CB1.1,"Mouth of Susquehanna River, main Bay",
+CB2.2,"West of Still Pond near Buoy R 34, main Bay",
+CB3.3C,"North of Bay Bridge, main Bay",
+"CB4.3C East of Dares Beach near Buoy R 64, main Bay","CB4.3C East of Dares Beach near Buoy R 64, main Bay",
+"CB5.2 East of Point No Point, main Bay","CB5.2 East of Point No Point, main Bay",
+"LE1.1 Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River","LE1.1 Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River","LE1.1 Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River"
+"TF1.7 East South East of Jacks Creek in mid channel, Patuxent River","TF1.7 East South East of Jacks Creek in mid channel, Patuxent River","TF1.7 East South East of Jacks Creek in mid channel, Patuxent River"
+"TF1.5 At Nottingham in mid channel, Patuxent River","TF1.5 At Nottingham in mid channel, Patuxent River",
+"TF2.3 Off Indianhead at Buoy N 54, Potomac River","TF2.3 Off Indianhead at Buoy N 54, Potomac River",
+"RET2.2 Off Maryland Point at Buoy 19, Potomac River","RET2.2 Off Maryland Point at Buoy 19, Potomac River",
+"LE2.2 Off Ragged Point at buoy BW 51B, Potomac River","LE2.2 Off Ragged Point at buoy BW 51B, Potomac River",
+"ET5.1 Downstream of confluence with Tuckahoe Creek, upper Choptank River","ET5.1 Downstream of confluence with Tuckahoe Creek, upper Choptank River","ET5.1 Downstream of confluence with Tuckahoe Creek, upper Choptank River"
+ET5.2,"Near Rt 50 bridge at Cambridge, lower Choptank River",
+WT5.1,"East of Hawkins Point at Buoy 5M, Patapsco River",(Baltimore Harbor)
+Time_Period_of_Content:,,
+Time_Period_Information:,,
+Range_of_Dates/Times:,,
+Beginning_Date: 19840701,,
+Beginning_Time: unknown,,
+Ending_Date: 20080630,,
+Ending_Time: unknown,,
+Currentness_Reference:,,
+ground condition,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 3 of 13
+Status:,
+Progress: Complete,
+Maintenance_and_Update_Frequency: None planned,
+Spatial_Domain:,
+Bounding_Coordinates:,
+West_Bounding_Coordinate: -77.2936,
+East_Bounding_Coordinate: -75.9222,
+North_Bounding_Coordinate: 39.4794,
+South_Bounding_Coordinate: 37.9947,
+Keywords:,
+Theme:,
+Theme_Keyword_Thesaurus: None,
+Theme_Keyword: Water,
+Theme_Keyword: Primary Production,
+Theme_Keyword: Water Quality,
+Theme_Keyword: Plankton,
+Place:,
+Place_Keyword_Thesaurus: None,
+Place_Keyword: Maryland,
+Place_Keyword: Chesapeake Bay,
+Place_Keyword: Potomac River,
+Place_Keyword: Patapsco River,
+Place_Keyword: Patuxent River,
+Place_Keyword: Chester River,
+Place_Keyword: Choptank River,
+Stratum:,
+Stratum_Keyword_Thesaurus: None,
+Stratum_Keyword: Water Column,
+Temporal:,
+Temporal_Keyword_Thesaurus: None,
+Temporal_Keyword: Bimonthly,
+Temporal_Keyword: Monthly,
+Access_Constraints: None,
+Use_Constraints:,
+Dataset credit required,
+Point_of_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,,Page 4 of 13
+Contact_Facsimile_Telephone: 410-267-5777,Contact_Facsimile_Telephone: 410-267-5777,,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,Contact Instructions:,,
+,unavailable,,
+Security_Information:,Security_Information:,,
+Security_Classification_System: None,Security_Classification_System: None,,
+Security_Classification: None,Security_Classification: None,,
+Security_Handling_Description: None,Security_Handling_Description: None,,
+Native_Data_Set_Environment:,Native_Data_Set_Environment:,,
+Relational Database,Relational Database,,
+Cross_Reference:,,,
+Citation_Information:,Citation_Information:,,
+Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,,
+Publication_Date: 20000101,Publication_Date: 20000101,,
+Publication_Time: Unknown,Publication_Time: Unknown,,
+,Title:,,
+,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living
+,Resources Data,,
+Edition: Version 1,Edition: Version 1,,
+Publication_Information:,Publication_Information:,,
+,"Publication_Place: Annapolis, MD",,
+,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,
+Other_Citation_Details:,Other_Citation_Details:,,
+,Unknown,,
+Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf
+,Back to Top,,
+Data_Quality_Information:,Data_Quality_Information:,,
+Attribute_Accuracy:,Attribute_Accuracy:,,
+Attribute_Accuracy_Report:,Attribute_Accuracy_Report:,,
+Primary production samples are collected by a member of the Benedict Estuarine,Primary production samples are collected by a member of the Benedict Estuarine,Primary production samples are collected by a member of the Benedict Estuarine,Primary production samples are collected by a member of the Benedict Estuarine
+Research Laboratory plankton section.,Research Laboratory plankton section.,"At the end of the sampling cruise, the samples","At the end of the sampling cruise, the samples"
+are transferred to the C14 laboratory staff.,are transferred to the C14 laboratory staff.,Production,and alkalinity measurements
+are made within twenty-four hours of,are made within twenty-four hours of,sample collection. All analysis run with,sample collection. All analysis run with
+standards and laboratory spikes as described in method references. Chlorophyll a,standards and laboratory spikes as described in method references. Chlorophyll a,standards and laboratory spikes as described in method references. Chlorophyll a,standards and laboratory spikes as described in method references. Chlorophyll a
+measurements are immediately frozen until analysis is performed.,measurements are immediately frozen until analysis is performed.,measurements are immediately frozen until analysis is performed.,All Chlorophyll
+samples are processed within 2 months of sample collection,samples are processed within 2 months of sample collection,samples are processed within 2 months of sample collection,
+Logical_Consistency_Report:,Logical_Consistency_Report:,,
+Not Applicable,Not Applicable,,
+Completeness_Report:,Completeness_Report:,,
+Visual inspection of field sheets and computer files and comparison to previous data.,Visual inspection of field sheets and computer files and comparison to previous data.,Visual inspection of field sheets and computer files and comparison to previous data.,Visual inspection of field sheets and computer files and comparison to previous data.
+Positional_Accuracy:,Positional_Accuracy:,,
+Horizontal_Positional_Accuracy:,Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,Horizontal_Positional_Accuracy_Report:,,
+,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+,Station latitudes and longitudes are input into a,Loran-C or GPS receiver and,Loran-C or GPS receiver and
+,sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,Loran-C is
+,accurate to +/- 1500 ft.,The actual Loran/ GPS coordinates for each sampling,The actual Loran/ GPS coordinates for each sampling
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,Page 5 of 13
+event are not currently recorded in data set.,event are not currently recorded in data set.,
+Vertical_Positional_Accuracy:,,
+Vertical_Positional_Accuracy_Report:,Vertical_Positional_Accuracy_Report:,
+Water column conductivity is recorded immediately before plankton sampling.,Water column conductivity is recorded immediately before plankton sampling.,Water column conductivity is recorded immediately before plankton sampling.
+P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff,P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff,P_Depth is set at 0.5 meters above the Pycnocline and is used at the cutoff
+depth between upper and lower water column composite samples. The,depth between upper and lower water column composite samples. The,depth between upper and lower water column composite samples. The
+pycnocline is determined to be the depth at which the greatest conductivity,pycnocline is determined to be the depth at which the greatest conductivity,pycnocline is determined to be the depth at which the greatest conductivity
+change is observed.,The minimum threshold change is 1000 uhhos/cm.,The minimum threshold change is 1000 uhhos/cm.
+Lineage:,,
+Source_Information:,,
+Source_Citation:,,
+Citation_Information:,,
+Originator: Richard Lacouture,Originator: Richard Lacouture,
+Originator: Stella Sellner,Originator: Stella Sellner,
+Publication_Date: 20000101,Publication_Date: 20000101,
+Publication_Time: Unknown,Publication_Time: Unknown,
+Title:,,
+,Maryland Chesapeake Bay Water Quality Monitoring,Maryland Chesapeake Bay Water Quality Monitoring
+,Program:Mainstem and Tributary Living Resource Component,Program:Mainstem and Tributary Living Resource Component
+Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, Maryland USA",
+,Publisher: US EPA Chesapeake Bay Program,
+Other_Citation_Details:,Other_Citation_Details:,
+,Unknown,
+Online_Linkage: http://www.chesapeakebay.net,Online_Linkage: http://www.chesapeakebay.net,
+Larger_Work_Citation:,Larger_Work_Citation:,
+,Citation_Information:,
+,Originator: Jacqueline Johnson,
+,Publication_Date: 20080301,
+,Title:,
+,Chesapeake Bay Program Plankton Database,Chesapeake Bay Program Plankton Database
+,Edition: Version 3.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database
+,Publication_Information:,
+,"Publication_Place: Annapolis, MD",
+,Publisher: US EPA Chesapeake Bay Program,Publisher: US EPA Chesapeake Bay Program
+,Other_Citation_Details:,
+,None,
+,Online_Linkage: www.chesapeakebay.net,
+Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,
+Source_Time_Period_of_Content:,Source_Time_Period_of_Content:,
+Time_Period_Information:,Time_Period_Information:,
+Range_of_Dates/Times:,Range_of_Dates/Times:,
+,Beginning_Date: 19840701,
+,Beginning_Time: unknown,
+,Ending_Date: 20080630,
+,Ending_Time: unknown,
+Source_Currentness_Reference:,Source_Currentness_Reference:,
+ground condition,,
+Source_Citation_Abbreviation:,Source_Citation_Abbreviation:,
+None,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 6 of 13
+Source_Contribution:,
+None,
+Process_Step:,
+Process_Description:,
+Chesapeake Bay Program Analytical Method Code- PD101,
+"At each station, two surface composite samples (15-l) composite samples(15-l)","At each station, two surface composite samples (15-l) composite samples(15-l)"
+"(5 depths above the pycnocline, five below the pycnocline) are collected using","(5 depths above the pycnocline, five below the pycnocline) are collected using"
+a small diaphragm pump and hose.,"Once collected, 500-ml subsamples from"
+"the surface layer are pooled, yielding one sample from the surface mixed layer.","the surface layer are pooled, yielding one sample from the surface mixed layer."
+The samples for primary production are taken from the replicate surface,The samples for primary production are taken from the replicate surface
+composite carboys (15-l) which have been previously subsampled for the,composite carboys (15-l) which have been previously subsampled for the
+phytoplankton species composition samples.,There is a period of 0.5-6 h
+between the time that the samples are collected and when they are processed.,between the time that the samples are collected and when they are processed.
+"On the Patuxent River and mainstem Chesapeake Bay cruises, the carboys are","On the Patuxent River and mainstem Chesapeake Bay cruises, the carboys are"
+kept in a flow-through box at ambient water temperature and light conditions.,kept in a flow-through box at ambient water temperature and light conditions.
+"For the other stations, the carboys are kept in the shade at ambient air",
+"temperatures until being processed. At the end of a sampling day, four 100 ml","temperatures until being processed. At the end of a sampling day, four 100 ml"
+sub samples per station are decanted from the two surface-layer composite,sub samples per station are decanted from the two surface-layer composite
+samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles (or,samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles (or
+"polycarbonate bottles after July, 1989), one for time-zero C-14 blank (t0), one","polycarbonate bottles after July, 1989), one for time-zero C-14 blank (t0), one"
+"for alkalinity determination, and one from each composite for C-14 incubation.","for alkalinity determination, and one from each composite for C-14 incubation."
+The two incubation samples per station are placed in a constant light incubator,The two incubation samples per station are placed in a constant light incubator
+(>250 uE per sq m per sec) receiving running water from the study area for,(>250 uE per sq m per sec) receiving running water from the study area for
+temperature control for an acclimation period >0.5 h.,Then 1-2 uCi labeled
+NaHCO3 is added and samples are returned to the incubator for >1 h.,After
+"incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter,","incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter,"
+rinsed with filtered sample water and fumed over concentrated HCl.,Fifteen ml
+"of t0 sample is similarly filtered and fumed, immediately following the addition","of t0 sample is similarly filtered and fumed, immediately following the addition"
+of the radioisotope. The filters are placed in scintillation vials and stored in a,of the radioisotope. The filters are placed in scintillation vials and stored in a
+freezer.,Scintillation cocktail (Aquasol 8/84 - 10/94 and Cytoscint 10/94 -
+present) is added to the scintillation vials and the samples are run on a Packard,present) is added to the scintillation vials and the samples are run on a Packard
+Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench,Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench
+standards and serviced twice a year by the Packard technician.,
+Field stock solutions of radiolabel NaHCO3 are obtained from mixing,Field stock solutions of radiolabel NaHCO3 are obtained from mixing
+portions of 25 mCi C-14 NaCO3 stock solutions with pH of 10-10.2 deionized,portions of 25 mCi C-14 NaCO3 stock solutions with pH of 10-10.2 deionized
+water.,"Final field stock activities approximate 2 uCi C-14 per ml, determined"
+from liquid scintillation counting of field stocks in phenethylamine and,from liquid scintillation counting of field stocks in phenethylamine and
+Biofluor.,Field stock activities for each dilution are then recorded in a
+laboratory log and are assigned a date interval corresponding to the period that,laboratory log and are assigned a date interval corresponding to the period that
+the field stock is employed in the program.,Because of problems with
+determinations of initial field stock activities for the time interval May 1993 -,determinations of initial field stock activities for the time interval May 1993 -
+"March 1994, activity of the field NaHCO3 stock was determined from the","March 1994, activity of the field NaHCO3 stock was determined from the"
+mean of six previous field NaHCO3 stocks mixed from the same 25,
+mCi stock solution.,
+Total alkalinity is calculated in the following manner:,Initial pH is determined
+followed by the addition of 0.2 ml aliquot of 0.025N HCL until pH 3.8-4.2.,followed by the addition of 0.2 ml aliquot of 0.025N HCL until pH 3.8-4.2.
+"Thereafter, pH is recorded for five cumulative additions of 0.025N HCL. Total","Thereafter, pH is recorded for five cumulative additions of 0.025N HCL. Total"
+alkalinity is derived from intercept produced from the linear regression of MLs,alkalinity is derived from intercept produced from the linear regression of MLs
+of acid vs 10-pH.,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,,,,Page 7 of 13
+Chlophyll a is determined from grab samples where a volume between 100-500,Chlophyll a is determined from grab samples where a volume between 100-500,Chlophyll a is determined from grab samples where a volume between 100-500,Chlophyll a is determined from grab samples where a volume between 100-500,Chlophyll a is determined from grab samples where a volume between 100-500,Chlophyll a is determined from grab samples where a volume between 100-500
+"ml is filtered at 
+    ","ml is filtered at 
+    ","ml is filtered at 
+    ","ml is filtered at 
+    ","ml is filtered at 
+    ","ml is filtered at 
+    "
+10 drops of MgCO3 added just prior to completion of filtration.,10 drops of MgCO3 added just prior to completion of filtration.,10 drops of MgCO3 added just prior to completion of filtration.,10 drops of MgCO3 added just prior to completion of filtration.,10 drops of MgCO3 added just prior to completion of filtration.,
+Spectrophotometric analysis of these grab samples is performed with a Milton,Spectrophotometric analysis of these grab samples is performed with a Milton,Spectrophotometric analysis of these grab samples is performed with a Milton,Spectrophotometric analysis of these grab samples is performed with a Milton,Spectrophotometric analysis of these grab samples is performed with a Milton,Spectrophotometric analysis of these grab samples is performed with a Milton
+Roy Spectronic 501.,Roy Spectronic 501.,Each sample is first read at an absorbance of 750 nm. to,Each sample is first read at an absorbance of 750 nm. to,Each sample is first read at an absorbance of 750 nm. to,Each sample is first read at an absorbance of 750 nm. to
+determine,turbidity and then read again at an absorbance of 665 nm.,turbidity and then read again at an absorbance of 665 nm.,turbidity and then read again at an absorbance of 665 nm.,turbidity and then read again at an absorbance of 665 nm.,Each
+sample,is then acidified with 3 drops of 2N HCl and reread at 665 nm and at,is then acidified with 3 drops of 2N HCl and reread at 665 nm and at,is then acidified with 3 drops of 2N HCl and reread at 665 nm and at,is then acidified with 3 drops of 2N HCl and reread at 665 nm and at,is then acidified with 3 drops of 2N HCl and reread at 665 nm and at
+750 nm.,Final chlorophyll a concentrations are then calculated using the,Final chlorophyll a concentrations are then calculated using the,Final chlorophyll a concentrations are then calculated using the,Final chlorophyll a concentrations are then calculated using the,
+"formula outlined in Strickland and Parsons, Standard Methods for Seawater","formula outlined in Strickland and Parsons, Standard Methods for Seawater","formula outlined in Strickland and Parsons, Standard Methods for Seawater","formula outlined in Strickland and Parsons, Standard Methods for Seawater","formula outlined in Strickland and Parsons, Standard Methods for Seawater","formula outlined in Strickland and Parsons, Standard Methods for Seawater"
+Analysis.,"Beginning in March, 1999, a new technique for determining chl a","Beginning in March, 1999, a new technique for determining chl a","Beginning in March, 1999, a new technique for determining chl a","Beginning in March, 1999, a new technique for determining chl a","Beginning in March, 1999, a new technique for determining chl a"
+was initiated.,The new procedure is as follows:,The new procedure is as follows:,The new procedure is as follows:,The spectrophotometer is,The spectrophotometer is
+zeroed with the blank at 750nm.,zeroed with the blank at 750nm.,zeroed with the blank at 750nm.,Each sample is read at this wavelength and,Each sample is read at this wavelength and,Each sample is read at this wavelength and
+the value is recorded in the data book.,the value is recorded in the data book.,the value is recorded in the data book.,the value is recorded in the data book.,The spectrophotometer is then changed,The spectrophotometer is then changed
+to a wavelength of 665nm and,to a wavelength of 665nm and,rezeroed.,rezeroed.,"Then, the above process is repeated.","Then, the above process is repeated."
+"After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to","After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to","After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to","After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to","After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to","After the initial reading at 665nm is recorded, 2 drops of 1N HCl is added to"
+each sample.,The spectrophotometer is then changed to a wavelength of,The spectrophotometer is then changed to a wavelength of,The spectrophotometer is then changed to a wavelength of,The spectrophotometer is then changed to a wavelength of,
+664nm and rezeroed.,664nm and rezeroed.,The samples are then read again at 664nm and 750nm.,The samples are then read again at 664nm and 750nm.,The samples are then read again at 664nm and 750nm.,The samples are then read again at 664nm and 750nm.
+"After this process is complete, the samples are removed from the cuvettes and","After this process is complete, the samples are removed from the cuvettes and","After this process is complete, the samples are removed from the cuvettes and","After this process is complete, the samples are removed from the cuvettes and","After this process is complete, the samples are removed from the cuvettes and","After this process is complete, the samples are removed from the cuvettes and"
+each cuvette is rinsed with 90% acetone 3 times before being filled again.,each cuvette is rinsed with 90% acetone 3 times before being filled again.,each cuvette is rinsed with 90% acetone 3 times before being filled again.,each cuvette is rinsed with 90% acetone 3 times before being filled again.,each cuvette is rinsed with 90% acetone 3 times before being filled again.,All
+values that have been recorded in the data book are entered into a spreadsheet,values that have been recorded in the data book are entered into a spreadsheet,values that have been recorded in the data book are entered into a spreadsheet,values that have been recorded in the data book are entered into a spreadsheet,values that have been recorded in the data book are entered into a spreadsheet,values that have been recorded in the data book are entered into a spreadsheet
+that contains the formula for calculating chlorophyll concentration.,that contains the formula for calculating chlorophyll concentration.,that contains the formula for calculating chlorophyll concentration.,that contains the formula for calculating chlorophyll concentration.,that contains the formula for calculating chlorophyll concentration.,
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",
+*Calculation of Clorophylla,*Calculation of Clorophylla,,,,
+chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * ve,chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * ve,chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * ve,chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * ve,chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * ve,
+,,Vf * l,,,
+,where ve = volume of extracted sample,where ve = volume of extracted sample,where ve = volume of extracted sample,where ve = volume of extracted sample,
+,and,Vf = volume filtered,Vf = volume filtered,,
+*Calculation of Total alkalinity (mg CaCO3/L),*Calculation of Total alkalinity (mg CaCO3/L),*Calculation of Total alkalinity (mg CaCO3/L),*Calculation of Total alkalinity (mg CaCO3/L),,
+,,,,(2 B - C) X N X 50 000,
+,,CaCO3/L,=,,
+,,,,mL sample,
+where:,,,,,
+"B = mL titrant to first recorded pH,","B = mL titrant to first recorded pH,","B = mL titrant to first recorded pH,","B = mL titrant to first recorded pH,",,
+"C = total mL titrant to reach pH 0.3 unit lower, and","C = total mL titrant to reach pH 0.3 unit lower, and","C = total mL titrant to reach pH 0.3 unit lower, and","C = total mL titrant to reach pH 0.3 unit lower, and","C = total mL titrant to reach pH 0.3 unit lower, and",
+N = normality of acid.,N = normality of acid.,,,,
+*Calculation of Carbon Fixation,*Calculation of Carbon Fixation,*Calculation of Carbon Fixation,,,
+The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in,The following equations were used to determine the rate of carbon fixation in
+ug/l/hr.,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in,Note that the raw data used in these calculations are not presented in
+the associated data set. Only the resulting carbon fixation rate is included.,the associated data set. Only the resulting carbon fixation rate is included.,the associated data set. Only the resulting carbon fixation rate is included.,the associated data set. Only the resulting carbon fixation rate is included.,the associated data set. Only the resulting carbon fixation rate is included.,
+1) CARBALK = 12000 * (Total Alkalinity),1) CARBALK = 12000 * (Total Alkalinity),1) CARBALK = 12000 * (Total Alkalinity),1) CARBALK = 12000 * (Total Alkalinity),,
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK
+*,,,,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 8 of 13
+1.05 / DPMSP * (ETIME-BTIME),
+Where,
+CARBFIX = Carbon fixation rate in ug C/l/hr,
+IVOL = Volume incubated,
+FVOL = Volume filtered,
+DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample
+DPMT0 = Disintegrations per minute from corresponding un-incubated,DPMT0 = Disintegrations per minute from corresponding un-incubated
+(time zero - t0) sample,
+DPMSP = Total disintegrations per minute for C-14 spike,
+BTIME = Beginning time of incubation (h),
+ETIME = Ending time of incubation (h),
+CARBALK = Total inorganic carbonate from 1),
+*Calculation of Assimilation Ratio,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to
+rounding the CARBFIX value,
+Where,
+ASMRATIO = Assimilation ratio,
+CARBFIX = Carbon fixation in ug C/l/h from 2),
+CHLA = Chlorophyll a in ug/l,
+Process_Date: ongoing,
+Process_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+Basin,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+Manager,
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+Contact Instructions:,
+unavailable,
+Process_Step:,
+Process_Description:,
+Metadata imported.,
+Source_Used_Citation_Abbreviation:,
+C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml261.tmp,
+Process_Date: 20081110,
+Process_Time: 11230400,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 9 of 13
+Back to Top,
+Spatial_Data_Organization_Information:,
+Indirect_Spatial_Reference_Method:,
+Chesapeake Bay and Its Tidal Tribuaries in the State of Maryland,
+Direct_Spatial_Reference_Method: Point,
+Point_and_Vector_Object_Information:,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,
+Spatial_Reference_Information:,
+Horizontal_Coordinate_System_Definition:,
+Geographic:,
+Latitude_Resolution: 30,
+Longitude_Resolution: 30,
+Geographic_Coordinate_Units: Decimal degrees,
+Geodetic_Model:,
+Horizontal_Datum_Name: North American Horizontal Datum of 1983,
+Ellipsoid_Name: Geodedic Reference System 80,
+Semi-major_Axis: 6378206.4,
+Denominator_of_Flattening_Ratio: 294.98,
+Vertical_Coordinate_System_Definition:,
+Depth_System_Definition:,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,
+Depth_Distance_Units: meters,
+Depth_Encoding_Method: Attribute values,
+Back to Top,
+Entity_and_Attribute_Information:,
+Overview_Description:,
+Entity_and_Attribute_Overview:,
+Maryland Water Quality Monitoring Program:Primary Monitoring Component,Maryland Water Quality Monitoring Program:Primary Monitoring Component
+Project Documentation,
+ftp.chesapeakebay.net/pub/Living_Resources/plank/prod/mdpddoc.pdf,
+Entity_and_Attribute_Detail_Citation:,
+5/31/95- CRUISE NUMBERS - BAY004 - BAY211 were supplied by the,5/31/95- CRUISE NUMBERS - BAY004 - BAY211 were supplied by the
+Chesapeake Bay Program office and modified by Amy Imirie and Elgin Perry to,Chesapeake Bay Program office and modified by Amy Imirie and Elgin Perry to
+reflect true start and end dates with corresponding MSUP trip numbers.,This
+prevents the occurrence of two sampling events for one station during a Bay Cruise,prevents the occurrence of two sampling events for one station during a Bay Cruise
+period.,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,Page 10 of 13
+5/31/95-,G_METHOD was changed to,"7- refers to the methods Table 17, Appendix"
+"F of the Living Resources Data management plan, 1989.","F of the Living Resources Data management plan, 1989.",This is a change in
+"reporting of GMETHOD in previous versions of the data set, not a change in","reporting of GMETHOD in previous versions of the data set, not a change in","reporting of GMETHOD in previous versions of the data set, not a change in"
+collection method,,
+"5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED","5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED","5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED"
+"AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS","AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS","AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS"
+A NUMERIC FIELD,,
+5 - combined 1 & 3 (top sample),,
+6 - combined 2 & 4 (bottom sample),,
+7 - whole water column,,
+"5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical","5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical","5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical"
+"profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as","profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as","profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as"
+we subtracted the blank of the dissolved fraction twice from each sample.,we subtracted the blank of the dissolved fraction twice from each sample.,This
+mistake was realized and those data have been corrected as of the 4/15/95 data,mistake was realized and those data have been corrected as of the 4/15/95 data,mistake was realized and those data have been corrected as of the 4/15/95 data
+submittal.,The implication of this mistake was also reflected in the productivity data,The implication of this mistake was also reflected in the productivity data
+set since assimilation ratios are calculated as part of this program. Discontinue use of,set since assimilation ratios are calculated as part of this program. Discontinue use of,set since assimilation ratios are calculated as part of this program. Discontinue use of
+all data with an R_Date prior to 05/31/95.,all data with an R_Date prior to 05/31/95.,
+SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data
+provided by the Maryland Department of the Environment. Values were derived from,provided by the Maryland Department of the Environment. Values were derived from,provided by the Maryland Department of the Environment. Values were derived from
+Water Quality Hydrographic data collected concurrently with the plankton when ever,Water Quality Hydrographic data collected concurrently with the plankton when ever,Water Quality Hydrographic data collected concurrently with the plankton when ever
+possible. If data was not available for the of sampling but was collected within a one,possible. If data was not available for the of sampling but was collected within a one,possible. If data was not available for the of sampling but was collected within a one
+"week window of sampling date, the water quality data was used to determine a","week window of sampling date, the water quality data was used to determine a","week window of sampling date, the water quality data was used to determine a"
+salinity zone. However the salinity zone is marked with an E to denote being,salinity zone. However the salinity zone is marked with an E to denote being,salinity zone. However the salinity zone is marked with an E to denote being
+estimated.,,
+01/01/98 - 1997 Primary Production monitoring data is being released without,01/01/98 - 1997 Primary Production monitoring data is being released without,01/01/98 - 1997 Primary Production monitoring data is being released without
+salinity zones. Salinity zones will be filled in when the corresponding Water Quality,salinity zones. Salinity zones will be filled in when the corresponding Water Quality,salinity zones. Salinity zones will be filled in when the corresponding Water Quality
+monitoring data becomes available.,,
+01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.
+"Summer 2003- It was determined Maryland and Virginia production measurements,","Summer 2003- It was determined Maryland and Virginia production measurements,","Summer 2003- It was determined Maryland and Virginia production measurements,"
+should analyzed separately due shipboard methodology differences.,should analyzed separately due shipboard methodology differences.,The current
+Maryland protocol holds productivity samples at near-ambient temperatures and,Maryland protocol holds productivity samples at near-ambient temperatures and,Maryland protocol holds productivity samples at near-ambient temperatures and
+shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating,shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating,shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating
+to relatively high light levels on shipboard and samples may experience above-,to relatively high light levels on shipboard and samples may experience above-,to relatively high light levels on shipboard and samples may experience above-
+"ambient temperatures before they are placed in light-saturated, temperature-controlled","ambient temperatures before they are placed in light-saturated, temperature-controlled","ambient temperatures before they are placed in light-saturated, temperature-controlled"
+incubation chambers in the laboratory.,The current Virginia protocol maintains,The current Virginia protocol maintains
+productivity samples in a closed cooler on ice prior to being sent to the laboratory for,productivity samples in a closed cooler on ice prior to being sent to the laboratory for,productivity samples in a closed cooler on ice prior to being sent to the laboratory for
+analysis.,Virginia's samples experience below-ambient temperatures in all seasons,Virginia's samples experience below-ambient temperatures in all seasons
+"but winter, and are acclimated to low light when they are placed in the incubation","but winter, and are acclimated to low light when they are placed in the incubation","but winter, and are acclimated to low light when they are placed in the incubation"
+chambers.,,
+Winter 2002- For extensive details in regards to quality assurance issues and data,Winter 2002- For extensive details in regards to quality assurance issues and data,Winter 2002- For extensive details in regards to quality assurance issues and data
+comparability issues between Maryland and Virginia Programs please see the CBP,comparability issues between Maryland and Virginia Programs please see the CBP,comparability issues between Maryland and Virginia Programs please see the CBP
+Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance
+Program at:,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 11 of 13
+http://www.chesapeakebay.net/qualityassurance.htm,
+09/01/2004- This program was conducted by the Academy of Natural Sciences,09/01/2004- This program was conducted by the Academy of Natural Sciences
+(ANS) from August 1984 through August 2004.,Morgan State University (MSU)
+"took over the MSU laboratory in September, 2004, but the program and personnel","took over the MSU laboratory in September, 2004, but the program and personnel"
+remained the same. All data previously codes with the data source as ANS,remained the same. All data previously codes with the data source as ANS
+was updated to MSU.,
+"06/10/2005- In June 2005, productivity measures were temporarily stopped because","06/10/2005- In June 2005, productivity measures were temporarily stopped because"
+of isotope licensing issues with MSU and the state of Maryland.,
+12/13/2006- MSU regains isotope licensing and resumes productivity measurements.,12/13/2006- MSU regains isotope licensing and resumes productivity measurements.
+"07/30/2007-Between late July, 2007 and November, 2007, productivity data was not","07/30/2007-Between late July, 2007 and November, 2007, productivity data was not"
+analyzed due to equipment issues.,
+11/06/2008-The productivity data from 01/01/2008-06/30/2008 were based on,11/06/2008-The productivity data from 01/01/2008-06/30/2008 were based on
+samples which were stored for 1-6 months because of problems with the liquid,samples which were stored for 1-6 months because of problems with the liquid
+scintillation counter.,
+11/06/2008- Primary production measurement were not made at stations the,11/06/2008- Primary production measurement were not made at stations the
+following stations:,
+"CB1.1 and LE2.2 in March 2008, LE1.1, TF1.7, TF1.5 in April 2008 and WT5.1 in","CB1.1 and LE2.2 in March 2008, LE1.1, TF1.7, TF1.5 in April 2008 and WT5.1 in"
+May 2008,
+Back to Top,
+Distribution_Information:,
+Distributor:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Distribution_Liability:,
+"I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other","I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other"
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,,Page 12 of 13
+agencies and institutions as specified by the Chesapeake Bay Program Office as data,agencies and institutions as specified by the Chesapeake Bay Program Office as data,agencies and institutions as specified by the Chesapeake Bay Program Office as data
+"providers. I agree to credit the data originators in any publications, reports or presentations","providers. I agree to credit the data originators in any publications, reports or presentations","providers. I agree to credit the data originators in any publications, reports or presentations"
+"generated from this data. I also accept that, although these data have been processed","generated from this data. I also accept that, although these data have been processed","generated from this data. I also accept that, although these data have been processed"
+"successfully on a computer system at the Chesapeake Bay Program, no warranty expressed","successfully on a computer system at the Chesapeake Bay Program, no warranty expressed","successfully on a computer system at the Chesapeake Bay Program, no warranty expressed"
+or implied is made regarding the accuracy or utility of the data on any other system or for,or implied is made regarding the accuracy or utility of the data on any other system or for,or implied is made regarding the accuracy or utility of the data on any other system or for
+"general or scientific purposes, nor shall the act of distribution constitute any such warranty.","general or scientific purposes, nor shall the act of distribution constitute any such warranty.","general or scientific purposes, nor shall the act of distribution constitute any such warranty."
+This disclaimer applies both to individual use of the data and aggregate use with other data.,This disclaimer applies both to individual use of the data and aggregate use with other data.,This disclaimer applies both to individual use of the data and aggregate use with other data.
+It is strongly recommended that careful attention be paid to the contents of the data,It is strongly recommended that careful attention be paid to the contents of the data,It is strongly recommended that careful attention be paid to the contents of the data
+documentation file associated with these data. The Chesapeake Bay Program shall not be,documentation file associated with these data. The Chesapeake Bay Program shall not be,documentation file associated with these data. The Chesapeake Bay Program shall not be
+held liable for improper or incorrect use of the data described and/or contained herein.,held liable for improper or incorrect use of the data described and/or contained herein.,held liable for improper or incorrect use of the data described and/or contained herein.
+Standard_Order_Process:,,
+,Digital_Form:,
+Digital_Transfer_Information:,Digital_Transfer_Information:,
+,Format_Name: ASCII,
+Digital_Transfer_Option:,Digital_Transfer_Option:,
+,Online_Option:,
+,Computer_Contact_Information:,
+,Network_Address:,
+,,Network_Resource_Name: http:www.chesapeakebay.net
+,Offline_Option:,
+,Offline_Media: CD-ROM,
+,Recording_Format: ISO 9660,
+,Compatibility_Information:,
+,None,
+,Fees: None,
+,Ordering_Instructions:,
+All requests for data on media must be made in writing,All requests for data on media must be made in writing,
+Turnaround: 5 Working Days,Turnaround: 5 Working Days,
+Custom_Order_Process:,,
+,None,
+Technical_Prerequisites:,,
+,None,
+Available_Time_Period:,,
+Time_Period_Information:,Time_Period_Information:,
+Range_of_Dates/Times:,Range_of_Dates/Times:,
+,Beginning_Date: 19840701,
+,Beginning_Time: unknown,
+,Ending_Date: 20000101,
+,Ending_Time: unknown,
+,Back to Top,
+Metadata_Reference_Information:,,
+Metadata_Date: 20000310,,
+Metadata_Contact:,,
+,Contact_Information:,
+Contact_Person_Primary:,Contact_Person_Primary:,
+,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012
+,Page 13 of 13
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Metadata_Standard_Name: NBII Content Standard for National Biological Information,
+Infrastructure Metadata,
+Metadata_Standard_Version: FGDC-STD-001-1998,
+Metadata_Access_Constraints: None,
+Metadata_Use_Constraints:,
+None,
+Metadata_Security_Information:,
+Metadata_Security_Classification_System: None,
+Metadata_Security_Classification: Unclassified,
+Metadata_Security_Handling_Description:,
+None,
+Back to Top,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012

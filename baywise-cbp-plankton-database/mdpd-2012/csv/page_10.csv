@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”,Name: “Table 1 of 1 on page 10 of 13”
+Table: 10,Table: 10,Table: 10
+,,
+,,Page 10 of 13
+5/31/95-,G_METHOD was changed to,"7- refers to the methods Table 17, Appendix"
+"F of the Living Resources Data management plan, 1989.","F of the Living Resources Data management plan, 1989.",This is a change in
+"reporting of GMETHOD in previous versions of the data set, not a change in","reporting of GMETHOD in previous versions of the data set, not a change in","reporting of GMETHOD in previous versions of the data set, not a change in"
+collection method,,
+"5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED","5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED","5/31/95- SAMPLE_NUMBER - NOTE: 5,6,7 WERE PREVIOUSLY REPORTED"
+"AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS","AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS","AS T,B,W CHANGE IN designation was NECESSARY BECAUSE REP_NUM IS"
+A NUMERIC FIELD,,
+5 - combined 1 & 3 (top sample),,
+6 - combined 2 & 4 (bottom sample),,
+7 - whole water column,,
+"5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical","5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical","5/31/95 CARBFIX - For the period 1991-1993, the chlorophyll data in the vertical"
+"profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as","profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as","profiles from the tributaries (Potomac, Choptank, and Patapsco) was miscalculated as"
+we subtracted the blank of the dissolved fraction twice from each sample.,we subtracted the blank of the dissolved fraction twice from each sample.,This
+mistake was realized and those data have been corrected as of the 4/15/95 data,mistake was realized and those data have been corrected as of the 4/15/95 data,mistake was realized and those data have been corrected as of the 4/15/95 data
+submittal.,The implication of this mistake was also reflected in the productivity data,The implication of this mistake was also reflected in the productivity data
+set since assimilation ratios are calculated as part of this program. Discontinue use of,set since assimilation ratios are calculated as part of this program. Discontinue use of,set since assimilation ratios are calculated as part of this program. Discontinue use of
+all data with an R_Date prior to 05/31/95.,all data with an R_Date prior to 05/31/95.,
+SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data,SUMMER 1997 - ICPRB Staff calculated Salinity zones from water quality data
+provided by the Maryland Department of the Environment. Values were derived from,provided by the Maryland Department of the Environment. Values were derived from,provided by the Maryland Department of the Environment. Values were derived from
+Water Quality Hydrographic data collected concurrently with the plankton when ever,Water Quality Hydrographic data collected concurrently with the plankton when ever,Water Quality Hydrographic data collected concurrently with the plankton when ever
+possible. If data was not available for the of sampling but was collected within a one,possible. If data was not available for the of sampling but was collected within a one,possible. If data was not available for the of sampling but was collected within a one
+"week window of sampling date, the water quality data was used to determine a","week window of sampling date, the water quality data was used to determine a","week window of sampling date, the water quality data was used to determine a"
+salinity zone. However the salinity zone is marked with an E to denote being,salinity zone. However the salinity zone is marked with an E to denote being,salinity zone. However the salinity zone is marked with an E to denote being
+estimated.,,
+01/01/98 - 1997 Primary Production monitoring data is being released without,01/01/98 - 1997 Primary Production monitoring data is being released without,01/01/98 - 1997 Primary Production monitoring data is being released without
+salinity zones. Salinity zones will be filled in when the corresponding Water Quality,salinity zones. Salinity zones will be filled in when the corresponding Water Quality,salinity zones. Salinity zones will be filled in when the corresponding Water Quality
+monitoring data becomes available.,,
+01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.
+"Summer 2003- It was determined Maryland and Virginia production measurements,","Summer 2003- It was determined Maryland and Virginia production measurements,","Summer 2003- It was determined Maryland and Virginia production measurements,"
+should analyzed separately due shipboard methodology differences.,should analyzed separately due shipboard methodology differences.,The current
+Maryland protocol holds productivity samples at near-ambient temperatures and,Maryland protocol holds productivity samples at near-ambient temperatures and,Maryland protocol holds productivity samples at near-ambient temperatures and
+shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating,shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating,shipboard light conditions for 0.5 - 6 hours. Thus samples able to begin acclimating
+to relatively high light levels on shipboard and samples may experience above-,to relatively high light levels on shipboard and samples may experience above-,to relatively high light levels on shipboard and samples may experience above-
+"ambient temperatures before they are placed in light-saturated, temperature-controlled","ambient temperatures before they are placed in light-saturated, temperature-controlled","ambient temperatures before they are placed in light-saturated, temperature-controlled"
+incubation chambers in the laboratory.,The current Virginia protocol maintains,The current Virginia protocol maintains
+productivity samples in a closed cooler on ice prior to being sent to the laboratory for,productivity samples in a closed cooler on ice prior to being sent to the laboratory for,productivity samples in a closed cooler on ice prior to being sent to the laboratory for
+analysis.,Virginia's samples experience below-ambient temperatures in all seasons,Virginia's samples experience below-ambient temperatures in all seasons
+"but winter, and are acclimated to low light when they are placed in the incubation","but winter, and are acclimated to low light when they are placed in the incubation","but winter, and are acclimated to low light when they are placed in the incubation"
+chambers.,,
+Winter 2002- For extensive details in regards to quality assurance issues and data,Winter 2002- For extensive details in regards to quality assurance issues and data,Winter 2002- For extensive details in regards to quality assurance issues and data
+comparability issues between Maryland and Virginia Programs please see the CBP,comparability issues between Maryland and Virginia Programs please see the CBP,comparability issues between Maryland and Virginia Programs please see the CBP
+Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance,Phytoplankton Split sample portion of the Chesapeake Bay Quality Assurance
+Program at:,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012

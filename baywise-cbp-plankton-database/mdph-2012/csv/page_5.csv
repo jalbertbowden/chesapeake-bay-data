@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”,Name: “Table 1 of 1 on page 5 of 11”
+Table: 5,Table: 5,Table: 5,Table: 5
+,,,
+,,,Page 5 of 11
+Attribute_Accuracy_Report:,Attribute_Accuracy_Report:,,
+Random sample recounts of previously counted phytoplankton samples are,Random sample recounts of previously counted phytoplankton samples are,Random sample recounts of previously counted phytoplankton samples are,Random sample recounts of previously counted phytoplankton samples are
+undertaken in order to determine counting error.,undertaken in order to determine counting error.,One in every 20 samples is blindly,One in every 20 samples is blindly
+selected and recounted with the C.V. between total counts in the two samples,selected and recounted with the C.V. between total counts in the two samples,selected and recounted with the C.V. between total counts in the two samples,selected and recounted with the C.V. between total counts in the two samples
+recorded and stored at the laboratory.,recorded and stored at the laboratory.,,
+Logical_Consistency_Report:,,,
+Not Applicable,,,
+Completeness_Report:,,,
+DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces,DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces,DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces,DATA ENTRY METHOD: Computerized phytoplankton counting automatically produces
+data sheet and data file. Field data is Key punched from field data sheets.,data sheet and data file. Field data is Key punched from field data sheets.,data sheet and data file. Field data is Key punched from field data sheets.,
+DATA VERIFICATION: Visual inspection and computer verification program.,DATA VERIFICATION: Visual inspection and computer verification program.,DATA VERIFICATION: Visual inspection and computer verification program.,DATA VERIFICATION: Visual inspection and computer verification program.
+Positional_Accuracy:,,,
+Horizontal_Positional_Accuracy:,Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,Horizontal_Positional_Accuracy_Report:,,
+Station positions (Latitudes and Longitudes) in data set are approximations of,Station positions (Latitudes and Longitudes) in data set are approximations of,Station positions (Latitudes and Longitudes) in data set are approximations of,Station positions (Latitudes and Longitudes) in data set are approximations of
+actual positions in the field.,actual positions in the field.,Station latitudes and longitudes are input into a,Station latitudes and longitudes are input into a
+Loran-C or GPS receiver and sampling begins when boat reaches,Loran-C or GPS receiver and sampling begins when boat reaches,Loran-C or GPS receiver and sampling begins when boat reaches,
+preprogrammed coordinates.,preprogrammed coordinates.,Loran-C is accurate to +/- 1500 ft.,The actual
+Loran/ GPS coordinates for each sampling event are not currently recorded in,Loran/ GPS coordinates for each sampling event are not currently recorded in,Loran/ GPS coordinates for each sampling event are not currently recorded in,Loran/ GPS coordinates for each sampling event are not currently recorded in
+,data set.,,
+Vertical_Positional_Accuracy:,Vertical_Positional_Accuracy:,,
+Quantitative_Vertical_Positional_Accuracy_Assessment:,Quantitative_Vertical_Positional_Accuracy_Assessment:,Quantitative_Vertical_Positional_Accuracy_Assessment:,
+Vertical_Positional_Accuracy_Value: P_Depth,Vertical_Positional_Accuracy_Value: P_Depth,Vertical_Positional_Accuracy_Value: P_Depth,
+Vertical_Positional_Accuracy_Explanation:,Vertical_Positional_Accuracy_Explanation:,Vertical_Positional_Accuracy_Explanation:,
+Composite Sample Cut off Depth,Composite Sample Cut off Depth,in Water column conductivity is,in Water column conductivity is
+recorded immediately,recorded immediately,before plankton sampling.,Conductivity is usually
+determined using a Hydrolab CTD. P_Depth is set at 0.5 meters above,determined using a Hydrolab CTD. P_Depth is set at 0.5 meters above,determined using a Hydrolab CTD. P_Depth is set at 0.5 meters above,determined using a Hydrolab CTD. P_Depth is set at 0.5 meters above
+the Pycnocline and is used at the cutoff depth between upper and lower,the Pycnocline and is used at the cutoff depth between upper and lower,the Pycnocline and is used at the cutoff depth between upper and lower,the Pycnocline and is used at the cutoff depth between upper and lower
+water column composite samples. The pycnocline is determined to be the,water column composite samples. The pycnocline is determined to be the,water column composite samples. The pycnocline is determined to be the,water column composite samples. The pycnocline is determined to be the
+depth at which the greatest conductivity change is observed.,depth at which the greatest conductivity change is observed.,depth at which the greatest conductivity change is observed.,The
+minimum threshold change is 1000 uhhos/cm.,minimum threshold change is 1000 uhhos/cm.,minimum threshold change is 1000 uhhos/cm.,
+,Lineage:,,
+Source_Information:,,,
+,Source_Citation:,,
+Citation_Information:,Citation_Information:,,
+Originator: Richard Lacouture,Originator: Richard Lacouture,,
+Originator: Stella Sellner,Originator: Stella Sellner,,
+Publication_Date: 20000101,Publication_Date: 20000101,,
+Publication_Time: Unknown,Publication_Time: Unknown,,
+,Title:,,
+,Maryland Chesapeake Bay Water Quality Monitoring,Maryland Chesapeake Bay Water Quality Monitoring,
+,Program:Mainstem and Tributary Living Resource Component,Program:Mainstem and Tributary Living Resource Component,Program:Mainstem and Tributary Living Resource Component
+Publication_Information:,Publication_Information:,,
+,"Publication_Place: Annapolis, Maryland USA","Publication_Place: Annapolis, Maryland USA",
+,Publisher: US EPA Chesapeake Bay Program,Publisher: US EPA Chesapeake Bay Program,
+Other_Citation_Details:,Other_Citation_Details:,,
+,Unknown,,
+Online_Linkage: http://www.chesapeakebay.net,Online_Linkage: http://www.chesapeakebay.net,Online_Linkage: http://www.chesapeakebay.net,
+Larger_Work_Citation:,Larger_Work_Citation:,,
+,Citation_Information:,,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata12.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata12.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata12.htm,4/26/2012

@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 8 of 13”,Name: “Table 1 of 1 on page 8 of 13”
+Table: 8,Table: 8
+,
+,Page 8 of 13
+1.05 / DPMSP * (ETIME-BTIME),
+Where,
+CARBFIX = Carbon fixation rate in ug C/l/hr,
+IVOL = Volume incubated,
+FVOL = Volume filtered,
+DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample
+DPMT0 = Disintegrations per minute from corresponding un-incubated,DPMT0 = Disintegrations per minute from corresponding un-incubated
+(time zero - t0) sample,
+DPMSP = Total disintegrations per minute for C-14 spike,
+BTIME = Beginning time of incubation (h),
+ETIME = Ending time of incubation (h),
+CARBALK = Total inorganic carbonate from 1),
+*Calculation of Assimilation Ratio,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to
+rounding the CARBFIX value,
+Where,
+ASMRATIO = Assimilation ratio,
+CARBFIX = Carbon fixation in ug C/l/h from 2),
+CHLA = Chlorophyll a in ug/l,
+Process_Date: ongoing,
+Process_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+Basin,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+Manager,
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday
+Contact Instructions:,
+unavailable,
+Process_Step:,
+Process_Description:,
+Metadata imported.,
+Source_Used_Citation_Abbreviation:,
+C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml261.tmp,
+Process_Date: 20081110,
+Process_Time: 11230400,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012

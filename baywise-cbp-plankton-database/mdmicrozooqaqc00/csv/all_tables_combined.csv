@@ -1,0 +1,1364 @@
+Quality Assurance Documentation Plan for the
+Microzooplankton Component of the
+Chesapeake Bay Water Quality Monitoring Program
+Prepared by :
+Richard V. Lacouture and Stella G. Sellner
+The Academy of Natural Sciences Estuarine Research Center
+10545 Mackall Road
+"St. Leonard, MD 20685"
+410-586-9700
+26 June 2000
+,,,,Table of Contents,
+Section,Section,,,,Page
+I.,Summary,Summary,,,1
+II.,Project Objective,Project Objective,,,1
+III.,Field Sampling,Field Sampling,,,1
+,A.,Net samples,,,2
+,B.,Whole Water Samples,Whole Water Samples,,2
+,C.,Zebra Mussel Samples,Zebra Mussel Samples,,3
+IV.,Laboratory Methods,Laboratory Methods,Laboratory Methods,,
+,A.,Net Samples,,,3
+,B.,Whole Water Samples,Whole Water Samples,,4
+,C.,Zebra Mussel Samples,Zebra Mussel Samples,,4
+V.,QA/QC,QA/QC,,,4
+VI.,Split Samples,Split Samples,,,4
+VII.,Deliverables,Deliverables,,,5
+VIII.,Literature Cited,Literature Cited,,,5
+IX.,Data Deliverable Information,Data Deliverable Information,Data Deliverable Information,,
+,A.,"Formulas, Calculations and Conversions","Formulas, Calculations and Conversions","Formulas, Calculations and Conversions",5
+,B.,"Species Inhouse Code, Reference Code and Scientific Name","Species Inhouse Code, Reference Code and Scientific Name","Species Inhouse Code, Reference Code and Scientific Name",6
+,C.,Numerical Variable Names,Numerical Variable Names,Numerical Variable Names,13
+,D.,"Station Names, Numbers and Descriptions","Station Names, Numbers and Descriptions","Station Names, Numbers and Descriptions",14
+,E.,"Station Names, Latitudes, Longitudes and Total Depths","Station Names, Latitudes, Longitudes and Total Depths","Station Names, Latitudes, Longitudes and Total Depths",15
+,F.,Data Entry Method,Data Entry Method,,16
+,G.,Data Verification,Data Verification,,16
+,F.,"Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions",16
+X.,Appendix,Appendix,,,18
+,A.,Figures:,,,
+,,Figure 1.,Map of Station Sites,Map of Station Sites,
+,B.,Tables:,,,
+,,Table 1.,Total Sample Number for Microzooplankton for ANSERC,Total Sample Number for Microzooplankton for ANSERC,
+,,,Plankton,Program.,
+,C.,Examples of,Laboratory Data Sheets with Original Counts and Recount.,Laboratory Data Sheets with Original Counts and Recount.,
+,D.,Microzooplankton Data Dictionary,Microzooplankton Data Dictionary,Microzooplankton Data Dictionary,
+Summary,,,
+,The Plankton component of the Chesapeake Bay Water Quality Monitoring Program has,The Plankton component of the Chesapeake Bay Water Quality Monitoring Program has,The Plankton component of the Chesapeake Bay Water Quality Monitoring Program has
+been conducted by the Academy of Natural Sciences’ Estuarine Research Center (ANSERC),been conducted by the Academy of Natural Sciences’ Estuarine Research Center (ANSERC),been conducted by the Academy of Natural Sciences’ Estuarine Research Center (ANSERC),been conducted by the Academy of Natural Sciences’ Estuarine Research Center (ANSERC)
+"since August, 1984.","since August, 1984.",The Academy's plankton component includes several elements:,
+"microzooplankton and, in two separate quality assurance plans, phytoplankton and horizontal","microzooplankton and, in two separate quality assurance plans, phytoplankton and horizontal","microzooplankton and, in two separate quality assurance plans, phytoplankton and horizontal","microzooplankton and, in two separate quality assurance plans, phytoplankton and horizontal"
+distributions of chlorophyll a in the upper Potomac River.,distributions of chlorophyll a in the upper Potomac River.,distributions of chlorophyll a in the upper Potomac River.,The 2000 microzooplankton study is
+designed to include measurements of the dominant microzooplankton in various layers of the,designed to include measurements of the dominant microzooplankton in various layers of the,designed to include measurements of the dominant microzooplankton in various layers of the,designed to include measurements of the dominant microzooplankton in various layers of the
+water column and in various size fractions at sampling stations in the Maryland portion of,water column and in various size fractions at sampling stations in the Maryland portion of,water column and in various size fractions at sampling stations in the Maryland portion of,water column and in various size fractions at sampling stations in the Maryland portion of
+Chesapeake Bay and its tributaries (Figure 1).,Chesapeake Bay and its tributaries (Figure 1).,Techniques for microzooplankton collections and,Techniques for microzooplankton collections and
+analyses are described below.,analyses are described below.,,
+Project Objective,Project Objective,,
+,The objective of this component of the Chesapeake Bay Water Quality Monitoring,The objective of this component of the Chesapeake Bay Water Quality Monitoring,The objective of this component of the Chesapeake Bay Water Quality Monitoring
+Program is to characterize and enumerate the microzooplankton community of the Bay and its,Program is to characterize and enumerate the microzooplankton community of the Bay and its,Program is to characterize and enumerate the microzooplankton community of the Bay and its,Program is to characterize and enumerate the microzooplankton community of the Bay and its
+tributaries.,The specific parameters measured include qualitative aspects of the,The specific parameters measured include qualitative aspects of the,
+microzooplankton communities (species composition) and quantitative measures (species,microzooplankton communities (species composition) and quantitative measures (species,microzooplankton communities (species composition) and quantitative measures (species,microzooplankton communities (species composition) and quantitative measures (species
+abundance).,"From the species abundance data, microzooplankton biomass or the amount of","From the species abundance data, microzooplankton biomass or the amount of","From the species abundance data, microzooplankton biomass or the amount of"
+"carbon in the system which comes from this plankton component, can be calculated.","carbon in the system which comes from this plankton component, can be calculated.","carbon in the system which comes from this plankton component, can be calculated.",The
+microzooplankton are the small animals in the plankton that measure between 20 and 200 μm in,microzooplankton are the small animals in the plankton that measure between 20 and 200 μm in,microzooplankton are the small animals in the plankton that measure between 20 and 200 μm in,microzooplankton are the small animals in the plankton that measure between 20 and 200 μm in
+size.,This portion of the plankton is important in linking phytoplankton to the higher trophic,This portion of the plankton is important in linking phytoplankton to the higher trophic,This portion of the plankton is important in linking phytoplankton to the higher trophic
+levels in the food web.,levels in the food web.,"As part of the plankton community, the microzooplankton, along with","As part of the plankton community, the microzooplankton, along with"
+"the phytoplankton, are extremely important because they should be the first communities within","the phytoplankton, are extremely important because they should be the first communities within","the phytoplankton, are extremely important because they should be the first communities within","the phytoplankton, are extremely important because they should be the first communities within"
+the biota to respond to changes in nutrient loads.,the biota to respond to changes in nutrient loads.,These responses at the base of the food web,These responses at the base of the food web
+could ultimately affect the food availability to higher organisms such as larval stages of fish and,could ultimately affect the food availability to higher organisms such as larval stages of fish and,could ultimately affect the food availability to higher organisms such as larval stages of fish and,could ultimately affect the food availability to higher organisms such as larval stages of fish and
+shellfish.,The Maryland microzooplankton program data are conceivably comparable to the data,The Maryland microzooplankton program data are conceivably comparable to the data,The Maryland microzooplankton program data are conceivably comparable to the data
+collected by the Virginia microzooplankton component of the Monitoring Program. The,collected by the Virginia microzooplankton component of the Monitoring Program. The,collected by the Virginia microzooplankton component of the Monitoring Program. The,collected by the Virginia microzooplankton component of the Monitoring Program. The
+"Maryland microzooplankton are also used in the larval striped bass food availability index,","Maryland microzooplankton are also used in the larval striped bass food availability index,","Maryland microzooplankton are also used in the larval striped bass food availability index,","Maryland microzooplankton are also used in the larval striped bass food availability index,"
+"devised by Versar, Inc.","devised by Versar, Inc.",,
+Field Sampling,Field Sampling,,
+,Samples are collected at 13 stations over the Maryland portion of the Chesapeake Bay,Samples are collected at 13 stations over the Maryland portion of the Chesapeake Bay,Samples are collected at 13 stations over the Maryland portion of the Chesapeake Bay
+"and the Patuxent, Potomac, Choptank and Patapsco Rivers in conjunction with sampling","and the Patuxent, Potomac, Choptank and Patapsco Rivers in conjunction with sampling","and the Patuxent, Potomac, Choptank and Patapsco Rivers in conjunction with sampling","and the Patuxent, Potomac, Choptank and Patapsco Rivers in conjunction with sampling"
+"programs by MDDNR and Versar, Inc. staff","programs by MDDNR and Versar, Inc. staff",(Figure 1).,"From April - June, four additional fish"
+spawning stations are sampled as part of the fish larval food availability analysis.,spawning stations are sampled as part of the fish larval food availability analysis.,spawning stations are sampled as part of the fish larval food availability analysis.,
+,Net Samples,,
+,"From January-June, microzooplankton samples are collected with a strategy","From January-June, microzooplankton samples are collected with a strategy",
+,,1,
+designed to maximize sampling during the peak period of fish spawning.,designed to maximize sampling during the peak period of fish spawning.,designed to maximize sampling during the peak period of fish spawning.,"Temporally, this",
+translates into a concentrated sampling effort from late-April through mid-June (Table 1).,translates into a concentrated sampling effort from late-April through mid-June (Table 1).,translates into a concentrated sampling effort from late-April through mid-June (Table 1).,translates into a concentrated sampling effort from late-April through mid-June (Table 1).,
+"Spatially, this means the addition of four secondary sampling stations, CB2.1, TF2.4, TF1.6 and","Spatially, this means the addition of four secondary sampling stations, CB2.1, TF2.4, TF1.6 and","Spatially, this means the addition of four secondary sampling stations, CB2.1, TF2.4, TF1.6 and","Spatially, this means the addition of four secondary sampling stations, CB2.1, TF2.4, TF1.6 and","Spatially, this means the addition of four secondary sampling stations, CB2.1, TF2.4, TF1.6 and"
+ET5.0A which are,located in,historically prolific fish spawning areas (Figure 1).,,
+One sampling occurs in the Patuxent River in either January or February.,One sampling occurs in the Patuxent River in either January or February.,One sampling occurs in the Patuxent River in either January or February.,The thirteen primary,The thirteen primary
+"plankton stations are sampled in March, while all seventeen sites are sampled once a month","plankton stations are sampled in March, while all seventeen sites are sampled once a month","plankton stations are sampled in March, while all seventeen sites are sampled once a month","plankton stations are sampled in March, while all seventeen sites are sampled once a month","plankton stations are sampled in March, while all seventeen sites are sampled once a month"
+"during April-June, with the tidal-fresh, oligohaline and secondary stations sampled on a second","during April-June, with the tidal-fresh, oligohaline and secondary stations sampled on a second","during April-June, with the tidal-fresh, oligohaline and secondary stations sampled on a second","during April-June, with the tidal-fresh, oligohaline and secondary stations sampled on a second","during April-June, with the tidal-fresh, oligohaline and secondary stations sampled on a second"
+occasion in April and May.,The stations which are sampled bi-monthly during this period are:,The stations which are sampled bi-monthly during this period are:,The stations which are sampled bi-monthly during this period are:,The stations which are sampled bi-monthly during this period are:
+"TF2.3, TF1.5, ET5.1, RET2.2, TF1.7, CB2.2, TF2.4, TF1.6, ET5.0A and CB2.1.","TF2.3, TF1.5, ET5.1, RET2.2, TF1.7, CB2.2, TF2.4, TF1.6, ET5.0A and CB2.1.","TF2.3, TF1.5, ET5.1, RET2.2, TF1.7, CB2.2, TF2.4, TF1.6, ET5.0A and CB2.1.",From July-,From July-
+"December, microzooplankton samples are collected monthly (except for during November","December, microzooplankton samples are collected monthly (except for during November","December, microzooplankton samples are collected monthly (except for during November","December, microzooplankton samples are collected monthly (except for during November",when
+no field sampling takes place) at 13 primary stations in the monitoring program.,no field sampling takes place) at 13 primary stations in the monitoring program.,no field sampling takes place) at 13 primary stations in the monitoring program.,,
+"At stratified mesohaline stations (CB3.3C, CB4.3C, CB5.2, LE1.1,","At stratified mesohaline stations (CB3.3C, CB4.3C, CB5.2, LE1.1,","At stratified mesohaline stations (CB3.3C, CB4.3C, CB5.2, LE1.1,","LE2.2, ET5.2 and",
+"WT5.1), and tidal fresh Potomac station TF2.3, water from 5 depths above the pycnocline are","WT5.1), and tidal fresh Potomac station TF2.3, water from 5 depths above the pycnocline are","WT5.1), and tidal fresh Potomac station TF2.3, water from 5 depths above the pycnocline are","WT5.1), and tidal fresh Potomac station TF2.3, water from 5 depths above the pycnocline are","WT5.1), and tidal fresh Potomac station TF2.3, water from 5 depths above the pycnocline are"
+sampled.,At the stations typified by shallow depths and/or generally homogeneous water,At the stations typified by shallow depths and/or generally homogeneous water,At the stations typified by shallow depths and/or generally homogeneous water,
+"columns ( CB2.1, CB2.2, TF1.5, TF1.6, TF1.7, TF2.4, RET2.2, ET5.0A and ET5.1, ), water is","columns ( CB2.1, CB2.2, TF1.5, TF1.6, TF1.7, TF2.4, RET2.2, ET5.0A and ET5.1, ), water is","columns ( CB2.1, CB2.2, TF1.5, TF1.6, TF1.7, TF2.4, RET2.2, ET5.0A and ET5.1, ), water is","columns ( CB2.1, CB2.2, TF1.5, TF1.6, TF1.7, TF2.4, RET2.2, ET5.0A and ET5.1, ), water is","columns ( CB2.1, CB2.2, TF1.5, TF1.6, TF1.7, TF2.4, RET2.2, ET5.0A and ET5.1, ), water is"
+pumped from each of 10 depths over the entire water column into the nets.,pumped from each of 10 depths over the entire water column into the nets.,pumped from each of 10 depths over the entire water column into the nets.,,
+Samples are collected using a small diaphragm pump and hose connected to a sampling,Samples are collected using a small diaphragm pump and hose connected to a sampling,Samples are collected using a small diaphragm pump and hose connected to a sampling,Samples are collected using a small diaphragm pump and hose connected to a sampling,Samples are collected using a small diaphragm pump and hose connected to a sampling
+missile.,Water is pumped from depth through a 44 μm mesh net.,Water is pumped from depth through a 44 μm mesh net.,,
+All samples collected in 44 μm mesh nets are decanted into a jar containing,All samples collected in 44 μm mesh nets are decanted into a jar containing,All samples collected in 44 μm mesh nets are decanted into a jar containing,,
+buffered formaldehyde (final concentration of 2%) and transferred to the laboratory.,buffered formaldehyde (final concentration of 2%) and transferred to the laboratory.,buffered formaldehyde (final concentration of 2%) and transferred to the laboratory.,Field,
+collections,result in 162 samples (including QA/QC samples) enumerated,result in 162 samples (including QA/QC samples) enumerated,(Table 1).,
+"In the laboratory, the dominant taxa (greater than 44μm in size) in each sample are","In the laboratory, the dominant taxa (greater than 44μm in size) in each sample are","In the laboratory, the dominant taxa (greater than 44μm in size) in each sample are","In the laboratory, the dominant taxa (greater than 44μm in size) in each sample are",
+identified and enumerated using a Leitz Laborlux compound microscope and a total,identified and enumerated using a Leitz Laborlux compound microscope and a total,identified and enumerated using a Leitz Laborlux compound microscope and a total,,
+magnification of 100x.,"Counting continues until at least 250 individuals have been enumerated,","Counting continues until at least 250 individuals have been enumerated,","Counting continues until at least 250 individuals have been enumerated,","Counting continues until at least 250 individuals have been enumerated,"
+"yielding a counting error of 10-15% (Venrick, 1978).","yielding a counting error of 10-15% (Venrick, 1978).","yielding a counting error of 10-15% (Venrick, 1978).",Meroplankton and mesozooplankton forms,Meroplankton and mesozooplankton forms
+are also noted.,,,,
+Whole Water Samples,Whole Water Samples,,,
+The ciliates are an important component of the microzooplankton assemblage in,The ciliates are an important component of the microzooplankton assemblage in,The ciliates are an important component of the microzooplankton assemblage in,The ciliates are an important component of the microzooplankton assemblage in,
+Chesapeake Bay.,The net sampling is an inappropriate means of identifying and quantifying this,The net sampling is an inappropriate means of identifying and quantifying this,The net sampling is an inappropriate means of identifying and quantifying this,The net sampling is an inappropriate means of identifying and quantifying this
+"important taxonomic group because of their size (often 
+    ","important taxonomic group because of their size (often 
+    ","important taxonomic group because of their size (often 
+    ","important taxonomic group because of their size (often 
+    ",
+"Therefore, beginning in March, 1998, whole water microzooplankton samples are taken at the","Therefore, beginning in March, 1998, whole water microzooplankton samples are taken at the","Therefore, beginning in March, 1998, whole water microzooplankton samples are taken at the","Therefore, beginning in March, 1998, whole water microzooplankton samples are taken at the","Therefore, beginning in March, 1998, whole water microzooplankton samples are taken at the"
+"mesohaline stations between March - September, in order to quantify the ciliates.","mesohaline stations between March - September, in order to quantify the ciliates.","mesohaline stations between March - September, in order to quantify the ciliates.",The,
+"mesohaline stations samples are CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, AND ET5.2.","mesohaline stations samples are CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, AND ET5.2.","mesohaline stations samples are CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, AND ET5.2.","mesohaline stations samples are CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, AND ET5.2.",
+"Beginning in March, 2000 samples are also taken at the tidal fresh stations TF2.3 and TF1.5.","Beginning in March, 2000 samples are also taken at the tidal fresh stations TF2.3 and TF1.5.","Beginning in March, 2000 samples are also taken at the tidal fresh stations TF2.3 and TF1.5.","Beginning in March, 2000 samples are also taken at the tidal fresh stations TF2.3 and TF1.5.","Beginning in March, 2000 samples are also taken at the tidal fresh stations TF2.3 and TF1.5."
+Samples are decanted from the replicate carboys that are collected at five discrete depths above,Samples are decanted from the replicate carboys that are collected at five discrete depths above,Samples are decanted from the replicate carboys that are collected at five discrete depths above,Samples are decanted from the replicate carboys that are collected at five discrete depths above,Samples are decanted from the replicate carboys that are collected at five discrete depths above
+the pycnocline.,The whole water microzooplankton samples are preserved with acid Lugol’s,The whole water microzooplankton samples are preserved with acid Lugol’s,The whole water microzooplankton samples are preserved with acid Lugol’s,The whole water microzooplankton samples are preserved with acid Lugol’s
+solution to a final concentration of 2 %.,solution to a final concentration of 2 %.,Field collections will result in 42 samples and 2 QA/QC,Field collections will result in 42 samples and 2 QA/QC,Field collections will result in 42 samples and 2 QA/QC
+,,2,,
+samples,(Table 1).,,
+"In the laboratory, subsamples are added to settling chambers","In the laboratory, subsamples are added to settling chambers","In the laboratory, subsamples are added to settling chambers",and examined on a Leitz
+Diavert inverted microscope at 200X magnification.,Diavert inverted microscope at 200X magnification.,Diavert inverted microscope at 200X magnification.,A minimum of 100 individual cells or the
+individuals in 2 settling chambers are enumerated.,individuals in 2 settling chambers are enumerated.,individuals in 2 settling chambers are enumerated.,Tintinnids are identified to the lowest
+possible taxonomic level based on lorica shape.,possible taxonomic level based on lorica shape.,The soft-bodied ciliates are identified to the,The soft-bodied ciliates are identified to the
+"lowest possible taxonomic level, based on","lowest possible taxonomic level, based on",morphology and size.,
+Zebra Mussel Samples,Zebra Mussel Samples,,
+Water samples from CB1.1 are concentrated in a 44 μm mesh net for,Water samples from CB1.1 are concentrated in a 44 μm mesh net for,Water samples from CB1.1 are concentrated in a 44 μm mesh net for,
+enumerating and identifying juvenile zebra mussels.,enumerating and identifying juvenile zebra mussels.,enumerating and identifying juvenile zebra mussels.,Samples are collected once in April and
+September and bimonthly in May - August.,September and bimonthly in May - August.,One preserved and one viable sample (kept cool on,One preserved and one viable sample (kept cool on
+ice) is returned to the laboratory.,ice) is returned to the laboratory.,"The live sample is scanned, using a polarized filter, within 24 h","The live sample is scanned, using a polarized filter, within 24 h"
+for identification of planktonic zebra mussel veliger larvae.,for identification of planktonic zebra mussel veliger larvae.,for identification of planktonic zebra mussel veliger larvae.,
+Laboratory Methods,Laboratory Methods,,
+Net Samples,Net Samples,,
+Each sample is gently mixed and a 1 ml aliquot removed with a Stempel pipet and put,Each sample is gently mixed and a 1 ml aliquot removed with a Stempel pipet and put,Each sample is gently mixed and a 1 ml aliquot removed with a Stempel pipet and put,Each sample is gently mixed and a 1 ml aliquot removed with a Stempel pipet and put
+into a Sedgwick-Rafter cell for enumeration with a compound microscope at 100X,into a Sedgwick-Rafter cell for enumeration with a compound microscope at 100X,into a Sedgwick-Rafter cell for enumeration with a compound microscope at 100X,into a Sedgwick-Rafter cell for enumeration with a compound microscope at 100X
+magnification.,"Beginning with samples collected in April, 1986, a small drop of concentrated","Beginning with samples collected in April, 1986, a small drop of concentrated","Beginning with samples collected in April, 1986, a small drop of concentrated"
+Rose Bengal stain is added to the cell prior to addition of the sample.,Rose Bengal stain is added to the cell prior to addition of the sample.,Rose Bengal stain is added to the cell prior to addition of the sample.,The sample is allowed to
+set for 10 minutes before counting.,set for 10 minutes before counting.,At least one chamber (1 ml) is counted for,each sample and
+"if the total count does not reach 250 organisms, subsequent 1 ml aliquots are also enumerated","if the total count does not reach 250 organisms, subsequent 1 ml aliquots are also enumerated","if the total count does not reach 250 organisms, subsequent 1 ml aliquots are also enumerated","if the total count does not reach 250 organisms, subsequent 1 ml aliquots are also enumerated"
+until a count of 250 or more organisms is obtained or 3 ml are examined.,until a count of 250 or more organisms is obtained or 3 ml are examined.,until a count of 250 or more organisms is obtained or 3 ml are examined.,If a certain organism is
+"abundant (more than 60 per chamber), it is not counted in the subsequent 1 ml aliquots for a","abundant (more than 60 per chamber), it is not counted in the subsequent 1 ml aliquots for a","abundant (more than 60 per chamber), it is not counted in the subsequent 1 ml aliquots for a","abundant (more than 60 per chamber), it is not counted in the subsequent 1 ml aliquots for a"
+given sample.,"For extremely abundant taxa, less than one ml could be counted.","For extremely abundant taxa, less than one ml could be counted.",A count
+program which generates normalized counts of numbers per liter for individual species as well as,program which generates normalized counts of numbers per liter for individual species as well as,program which generates normalized counts of numbers per liter for individual species as well as,program which generates normalized counts of numbers per liter for individual species as well as
+"groups (see section on formulas, calculations and conversions for more information) is used. The","groups (see section on formulas, calculations and conversions for more information) is used. The","groups (see section on formulas, calculations and conversions for more information) is used. The","groups (see section on formulas, calculations and conversions for more information) is used. The"
+NODC taxonomic codes are used for the taxa that are enumerated.,NODC taxonomic codes are used for the taxa that are enumerated.,NODC taxonomic codes are used for the taxa that are enumerated.,Microzooplankton smaller
+than 44 μm are noted on the original data sheet but not enumerated since estimates are not,than 44 μm are noted on the original data sheet but not enumerated since estimates are not,than 44 μm are noted on the original data sheet but not enumerated since estimates are not,than 44 μm are noted on the original data sheet but not enumerated since estimates are not
+quantitative.,,,
+Whole Water Samples,Whole Water Samples,,
+"In the lab, 5-25 ml are subsampled from the sample jar for settling. This amount depends","In the lab, 5-25 ml are subsampled from the sample jar for settling. This amount depends","In the lab, 5-25 ml are subsampled from the sample jar for settling. This amount depends","In the lab, 5-25 ml are subsampled from the sample jar for settling. This amount depends"
+on how much detritus and plankton are in the sample.,on how much detritus and plankton are in the sample.,on how much detritus and plankton are in the sample.,"If 25 ml are used, the bottle is shaken"
+gently (slowly inverted 5 times) and 25 ml poured into a graduated cylinder.,gently (slowly inverted 5 times) and 25 ml poured into a graduated cylinder.,gently (slowly inverted 5 times) and 25 ml poured into a graduated cylinder.,This is put into a 50
+ml settling chamber and the graduated cylinder rinsed 3X.,ml settling chamber and the graduated cylinder rinsed 3X.,ml settling chamber and the graduated cylinder rinsed 3X.,The sample is allowed to settle 48 h
+before being counted.,before being counted.,"If less than 25 ml aliquots are used, these are poured into 25 ml settling","If less than 25 ml aliquots are used, these are poured into 25 ml settling"
+,,3,
+chambers which settle for 24 hr before counting.,chambers which settle for 24 hr before counting.,,
+"To count, the entire chamber is examined at 200X with an inverted microscope to obtain","To count, the entire chamber is examined at 200X with an inverted microscope to obtain","To count, the entire chamber is examined at 200X with an inverted microscope to obtain","To count, the entire chamber is examined at 200X with an inverted microscope to obtain"
+a minimum count of 100 organisms.,"If 100 organisms are not counted, another subsample is","If 100 organisms are not counted, another subsample is","If 100 organisms are not counted, another subsample is"
+settled.,Any organism that is abundant in the first aliquot (more than 60) is not counted.,Any organism that is abundant in the first aliquot (more than 60) is not counted.,The
+count program used for the net samples (see above) is currently being adapted for use with whole,count program used for the net samples (see above) is currently being adapted for use with whole,count program used for the net samples (see above) is currently being adapted for use with whole,count program used for the net samples (see above) is currently being adapted for use with whole
+water counts.,,,
+Zebra Mussel Samples,,,
+"Upon returning to the lab, the viable zebra mussel sample is placed in the refrigerator.","Upon returning to the lab, the viable zebra mussel sample is placed in the refrigerator.","Upon returning to the lab, the viable zebra mussel sample is placed in the refrigerator.","Upon returning to the lab, the viable zebra mussel sample is placed in the refrigerator."
+"Prior to examination for the presence of zebra mussel veliger larvae, the sample is concentrated","Prior to examination for the presence of zebra mussel veliger larvae, the sample is concentrated","Prior to examination for the presence of zebra mussel veliger larvae, the sample is concentrated","Prior to examination for the presence of zebra mussel veliger larvae, the sample is concentrated"
+on a 44μm mesh screen and subsamples of the concentrate are rinsed into a petri dish with,on a 44μm mesh screen and subsamples of the concentrate are rinsed into a petri dish with,on a 44μm mesh screen and subsamples of the concentrate are rinsed into a petri dish with,on a 44μm mesh screen and subsamples of the concentrate are rinsed into a petri dish with
+filtered station water.,A dissecting microscope with polarizing filters is used to screen the entire,A dissecting microscope with polarizing filters is used to screen the entire,A dissecting microscope with polarizing filters is used to screen the entire
+sample for the presence of veliger larvae.,"If the fixed sample is to be examined, the sample is","If the fixed sample is to be examined, the sample is","If the fixed sample is to be examined, the sample is"
+allowed to settle for 24 h,and the supernatant is drawn off.,and the supernatant is drawn off.,The sample is then examined using
+the net sample procedure except 5 separate 1 ml samples are scanned for the larvae.,the net sample procedure except 5 separate 1 ml samples are scanned for the larvae.,the net sample procedure except 5 separate 1 ml samples are scanned for the larvae.,The
+presence of zebra mussel larvae will be immediately reported to Renee Karrh at MDDNR.,presence of zebra mussel larvae will be immediately reported to Renee Karrh at MDDNR.,presence of zebra mussel larvae will be immediately reported to Renee Karrh at MDDNR.,presence of zebra mussel larvae will be immediately reported to Renee Karrh at MDDNR.
+QA/QC,,,
+Random sample recounts of previously counted microzooplankton samples are,Random sample recounts of previously counted microzooplankton samples are,Random sample recounts of previously counted microzooplankton samples are,
+undertaken in order to determine counting error.,undertaken in order to determine counting error.,One sample/20 samples is blindly,
+selected and recounted.,The recount total cell density must fall within 10 % of the total for the,The recount total cell density must fall within 10 % of the total for the,The recount total cell density must fall within 10 % of the total for the
+original count or the sample is counted again until 2 samples’ total densities are within 10 % of,original count or the sample is counted again until 2 samples’ total densities are within 10 % of,original count or the sample is counted again until 2 samples’ total densities are within 10 % of,original count or the sample is counted again until 2 samples’ total densities are within 10 % of
+one another.,The recount and original sample data sheets are stored in a binder in the microscope,The recount and original sample data sheets are stored in a binder in the microscope,The recount and original sample data sheets are stored in a binder in the microscope
+laboratory at ANSERC.,,,
+Split Samples,,,
+Three split samples are taken to compare the techniques used for counting by ANSERC,Three split samples are taken to compare the techniques used for counting by ANSERC,Three split samples are taken to compare the techniques used for counting by ANSERC,Three split samples are taken to compare the techniques used for counting by ANSERC
+and ODU taxonomists.,Net and whole water samples are taken (described above) at the selected,Net and whole water samples are taken (described above) at the selected,Net and whole water samples are taken (described above) at the selected
+stations to be counted by ANSERC.,From the same carboys that the whole water samples for,From the same carboys that the whole water samples for,From the same carboys that the whole water samples for
+"ANSERC are taken, 2 one liter samples are taken to be sent to ODU.","ANSERC are taken, 2 one liter samples are taken to be sent to ODU.","ANSERC are taken, 2 one liter samples are taken to be sent to ODU.",These are preserved in acid
+Lugol’s solution for a final concentration of 1%.,Lugol’s solution for a final concentration of 1%.,The sample bottle lids are taped and each,The sample bottle lids are taped and each
+bottle is put in a separate plastic bag.,The bottles are then packed in a box and are hand carried,The bottles are then packed in a box and are hand carried,The bottles are then packed in a box and are hand carried
+or shipped second day air to ODU.,,,
+Deliverables,,,
+"Microzooplankton data are delivered to MDDNR in two ways,","Microzooplankton data are delivered to MDDNR in two ways,","Microzooplankton data are delivered to MDDNR in two ways,","electronically by April 15,"
+"and October 15,","and in reports due May 15,",and November 15. The data analyzed for these two,and November 15. The data analyzed for these two
+"deliverables cover the period July-December, and January-June, respectively.","deliverables cover the period July-December, and January-June, respectively.","deliverables cover the period July-December, and January-June, respectively.",
+,,4,
+Literature Cited,,,,,
+"Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.",1993.,Vertical distribution of
+planktonic rotifers in a karstic meromictic lake.,planktonic rotifers in a karstic meromictic lake.,planktonic rotifers in a karstic meromictic lake.,Hydrobiologia 255/256:381-388.,Hydrobiologia 255/256:381-388.,
+"Brownlee, D. C. and F. Jacobs.","Brownlee, D. C. and F. Jacobs.",1987.,Mesozooplankton and microzooplankton in the,Mesozooplankton and microzooplankton in the,
+Chesapeake Bay.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,Edited by S.
+"K. Majumdar, L. W. Hall and H. M. Austin.","K. Majumdar, L. W. Hall and H. M. Austin.","K. Majumdar, L. W. Hall and H. M. Austin.",The Pennsylvania Academy of Sciences.,The Pennsylvania Academy of Sciences.,(Pages
+245-263),,,,,
+"Dolan, J. R.",1989.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,PhD
+Dissertation.,"University of Maryland, College Park, MD.","University of Maryland, College Park, MD.","University of Maryland, College Park, MD.",(Pages 20-21),
+"Stoecker, D. K., D. J. Gifford and M. Putt.","Stoecker, D. K., D. J. Gifford and M. Putt.","Stoecker, D. K., D. J. Gifford and M. Putt.",1994. Preservation of marine planktonic ciliates:,1994. Preservation of marine planktonic ciliates:,1994. Preservation of marine planktonic ciliates:
+losses and cell shrinkage during fixation.,losses and cell shrinkage during fixation.,losses and cell shrinkage during fixation.,Mar. Ecol. Prog. Ser. 110:293-299.,Mar. Ecol. Prog. Ser. 110:293-299.,
+"Venrick, E.L. 1978.","Venrick, E.L. 1978.",How many cells to count?,"Pages 167-180 in A. Sournia (ed.),","Pages 167-180 in A. Sournia (ed.),",
+Phytoplankton manual.,Phytoplankton manual.,"UNESCO, Paris.",,,
+Data Deliverable Information:,Data Deliverable Information:,,,,
+"Formulas, Calculations and Conversions","Formulas, Calculations and Conversions","Formulas, Calculations and Conversions",,,
+The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon
+identified:,,,,,
+DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL
+where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,,
+,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,
+,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn
+,down in the lab,,,,
+,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,
+The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each
+taxon identified:,,,,,
+DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,where 1.02 is the dilution,where 1.02 is the dilution
+,factor because of the addition of Lugol’s solution.,factor because of the addition of Lugol’s solution.,factor because of the addition of Lugol’s solution.,,
+,where RAWCNT= raw count of the organism,where RAWCNT= raw count of the organism,where RAWCNT= raw count of the organism,,
+,,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber
+,,,5,,
+,#/L=abundance of the organism in numbers per liter,#/L=abundance of the organism in numbers per liter,
+"Species Inhouse Code, Reference Code, and Scientific Name","Species Inhouse Code, Reference Code, and Scientific Name","Species Inhouse Code, Reference Code, and Scientific Name",
+The inhouse code is the same as the reference code with the addition of an inhouse,The inhouse code is the same as the reference code with the addition of an inhouse,The inhouse code is the same as the reference code with the addition of an inhouse,
+modifier in column 13.,modifier in column 13.,The modifier in the 13th column has different meanings depending on the,The modifier in the 13th column has different meanings depending on the
+taxa being considered.,taxa being considered.,"For larger organisms, a one in this column indicates that the organism is","For larger organisms, a one in this column indicates that the organism is"
+in its larval or naupliar stage.,in its larval or naupliar stage.,For smaller microzooplankton such as rotifers and non-loricate,For smaller microzooplankton such as rotifers and non-loricate
+"ciliates, this modifier may indicate a size category within a taxon.","ciliates, this modifier may indicate a size category within a taxon.","ciliates, this modifier may indicate a size category within a taxon.",The NODC Code does not
+distinguish between life history stages.,distinguish between life history stages.,"For tintinninds (3540...) a 0,1,2 (or 3, 4, 5) in the 13th","For tintinninds (3540...) a 0,1,2 (or 3, 4, 5) in the 13th"
+"column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the"
+"lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.","lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.","lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.",For
+"an undescribed species, the code is given down to the lowest possible taxonomic level, the","an undescribed species, the code is given down to the lowest possible taxonomic level, the","an undescribed species, the code is given down to the lowest possible taxonomic level, the",
+unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.
+Brachionus A = 4506010400010).,Brachionus A = 4506010400010).,,
+Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are
+included in the species list.,included in the species list.,The microzooplankton less than 44μm are noted and recorded as,The microzooplankton less than 44μm are noted and recorded as
+"either rare, common, abundant or dominant.","either rare, common, abundant or dominant.","either rare, common, abundant or dominant.",
+NODC Code with in-house modifications (13th column) and scientific name:,NODC Code with in-house modifications (13th column) and scientific name:,NODC Code with in-house modifications (13th column) and scientific name:,
+DIGIT,REPRESENTS,,
+------,----------,,
+1-2,Phylum,,
+3-4,Class and Order,,
+5-6,Family,,
+7-8,Genus,,
+9-10,Species,,
+11-12 Subspecies,11-12 Subspecies,,
+13,Special in-house modifier,"(for explanation , refer to data dictionary)",
+CODE,SPECIES,,
+0000000000001,UNIDED LARVAE,,
+0000000000002,UNIDED TROCHOPHORE LARVAE,UNIDED TROCHOPHORE LARVAE,
+3438000000000,SARCODINA-UNIDED SARCODINID,SARCODINA-UNIDED SARCODINID,
+3442010000000,DIFFLUGIIDAE,,
+,,6,
+3442010100000,DIFFLUGIA SPP.
+3442010201000,LESQUEREUSIA GIBBOSA
+3442020100000,ARCELLA SP.
+3442030000000,CENTROPYXIDAE
+3442030100000,CENTROPYXIS SP.
+3442030101000,CENTROPYXIS ACULEATA
+3442040000000,PARAQUADRULIDAE
+3442040200000,QUADRULELLA SP.
+3442050000000,HYALOSPHENIIDAE-TESTATED AMOEBA
+3445020000000,EUGLYPHA SP.
+3445040000000,CYPHODERIIDAE
+3445040100000,CYPHODERIA SP.
+3448000000000,FORAMINIFERIDA
+3512000000000,CILIOPHORA-UNIDED CILIATE
+3516000000000,HAPTORIDA
+3516010100000,DIDINIUM SP.
+3516010202000,MESODINIUM RUBRUM
+3516020000001,TRACHELOCERCIDAE-LARGE
+3517000000001,CYRTOPHORIDA-LARGE
+3530000000001,PERITRICHIDA-LARGE
+3531000000000,SESSILINA-UNIDED SESSILINE PERITRICH
+3532000000000,MOBILINA-UNIDED MOBILINE PERITRICH
+3533000000000,SUCTORIA-UNIDED SUCTORIAN
+3534010100000,ACINETA SP.
+3534030700000,STAUROPHRYA SP.
+3534040100000,EPHELOTA SP.
+3537000000000,HETEROTRICHINA-UNIDED HETEROTRICH
+3539000000000,OLIGOTRICHINA-UNIDED OLIGOTRICH
+3539020100000,STENTOR SP.
+3539030000000,STROMBIDIDAE
+3539030100000,STROMBIDIUM SP.
+3539030200000,TONTONIA SP.
+3540000000000,TINTINNINA-UNIDED TINTINNID
+3540010100050,TINTINNIDIUM SP.-LARGE
+3540010100051,TINTINNIDIUM SP.-LARGE-FULL
+3540010100052,TINTINNIDIUM SP.-LARGE-EMPTY
+3540020100000,TINTINNOPSIS SP.
+3540020100001,TINTINNOPSIS SP.-FULL
+3540020100002,TINTINNOPSIS SP.-EMPTY
+3540020100030,TINTINNOPSIS SUBACUTA-HUGE
+3540020100031,TINTINNOPSIS SUBACUTA-HUGE-FULL
+3540020100032,TINTINNOPSIS SUBACUTA-HUGE-EMPTY
+3540020100050,TINTINNOPSIS SP. A
+,7
+3540020100051,TINTINNOPSIS SP. A-FULL
+3540020100052,TINTINNOPSIS SP. A-EMPTY
+3540020105000,TINTINNOPSIS DADAYI
+3540020105001,TINTINNOPSIS DADAYI-FULL
+3540020105002,TINTINNOPSIS DADAYI-EMPTY
+3540020123000,TINTINNOPSIS FIMBRIATA
+3540020123001,TINTINNOPSIS FIMBRIATA-FULL
+3540020123002,TINTINNOPSIS FIMBRIATA-EMPTY
+3540020123003,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP
+3540020123004,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP-FULL
+3540020123005,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP-EMPTY
+3540020129000,TINTINNOPSIS RADIX
+3540020129001,TINTINNOPSIS RADIX-FULL
+3540020129002,TINTINNOPSIS RADIX-EMPTY
+3540020133000,TINTINNOPSIS SUBACUTA
+3540020133001,TINTINNOPSIS SUBACUTA-FULL
+3540020133002,TINTINNOPSIS SUBACUTA-EMPTY
+3540020136000,TINTINNOPSIS MEUNIERI
+3540020136001,TINTINNOPSIS MEUNIERI-FULL
+3540020136002,TINTINNOPSIS MEUNIERI-EMPTY
+3540020137000,TINTINNOPSIS KARAJACENSIS
+3540020137001,TINTINNOPSIS KARAJACENSIS-FULL
+3540020137002,TINTINNOPSIS KARAJACENSIS-EMPTY
+3540020138000,TINTINNOPSIS NITIDA
+3540020138001,TINTINNOPSIS NITIDA-FULL
+3540020138002,TINTINNOPSIS NITIDA-EMPTY
+3540030100010,STENOSEMELLA SP.A
+3540030100011,STENOSEMELLA SP.A-FULL
+3540030100012,STENOSEMELLA SP.A-EMPTY
+3540050100020,METACYLIS SP. B
+3540050100021,METACYLIS SP. B-FULL
+3540050100022,METACYLIS SP. B-EMPTY
+3540050100030,METACYLIS SP. C
+3540050100031,METACYLIS SP. C-FULL
+3540050100032,METACYLIS SP. C-EMPTY
+3540050400000,CLIMACOCYLIS SP.
+3540050400001,CLIMACOCYLIS SP.-FULL
+3540050400002,CLIMACOCYLIS SP.-EMPTY
+3540050501000,STYLICAUDA PLATENSIS
+3540050501001,STYLICAUDA PLATENSIS-FULL
+3540050501002,STYLICAUDA PLATENSIS-EMPTY
+3540070100000,FAVELLA SP.
+3540070100001,FAVELLA SP.-FULL
+,8
+3540070100002,FAVELLA SP.-EMPTY
+3540130100010,EUTINTINNUS SP.A
+3540130100011,EUTINTINNUS SP.A-FULL
+3540130100012,EUTINTINNUS SP.A-EMPTY
+3543000000000,HYPOTRICHIDA
+3545010000000,EUPLOTIDAE
+3545010100001,EUPLOTES SPP.-LARGE
+3545010100020,EUPLOTES SP. A
+3545010100030,EUPLOTES SP. B
+4400000000000,GASTROTRICHA
+4500000000000,ROTIFERA-UNIDED ROTIFER
+4500000000010,ROTIFER A
+4500000000020,ROTIFER B
+4500000000030,ROTIFER C
+4500000000040,ROTIFER D
+4500000000050,ROTIFER E
+4500000000060,ROTIFER F
+4504000000000,BDELLOIDA-UNIDED BDELLOID ROTIFER
+4504020100000,ROTARIA SP.
+4504020103000,ROTARIA CITRINUS
+4504020104000,ROTARIA NEPTUNIA
+4504020300000,MACROTRACHELA SP.
+4506010100000,KERATELLA SP.
+4506010100010,KERATELLA SP. A
+4506010102000,KERATELLA QUADRATA
+4506010103000,KERATELLA COCHLEARIS
+4506010103020,KERATELLA COCHLEARIS COCHLEARIS
+4506010103030,KERATELLA COCHLEARIS HISPIDA
+4506010103040,KERATELLA COCHLEARIS MICRACANTHA
+4506010103050,KERATELLA COCHLEARIS ROBUSTA
+4506010103060,KERATELLA COCHLEARIS TECTA
+4506010104000,KERATELLA CRASSA
+4506010105000,KERATELLA EARLINAE
+4506010106000,KERATELLA VALGA
+4506010200000,NOTHOLCA SP.
+4506010203000,NOTHOLCA ACUMINATA
+4506010300000,COLURELLA SP.
+4506010400000,BRACHIONUS SP.
+4506010400010,BRACHIONUS SP. A
+4506010400020,BRACHIONUS SP. B
+4506010401000,BRACHIONUS PLICATILIS
+4506010402000,BRACHIONUS CALYCIFLORUS
+4506010403000,BRACHIONUS HAVANAENSIS
+,9
+4506010404000,BRACHIONUS PTERODINOIDES
+4506010405000,BRACHIONUS URCEOLARIS
+4506010406000,BRACHIONUS ANGULARIS
+4506010407000,BRACHIONUS BIDENTATA
+4506010408000,BRACHIONUS BUDAPESTINENSIS
+4506010409000,BRACHIONUS CAUDATUS
+4506010410000,BRACHIONUS DIVERSICORNIS
+4506010411000,BRACHIONUS QUADRIDENTATUS
+4506010412000,BRACHIONUS RUBENS
+4506010413000,BRACHIONUS VARIABILIS
+4506010500000,KELLICOTTIA SP.
+4506010501000,KELLICOTTIA LONGISPINA
+4506010502000,KELLICOTTIA BOSTONIENSIS
+4506010700000,LEPADELLA SP.
+4506010704000,LEPADELLA PATELLA
+4506010800000,ANURAEOPSIS SP.
+4506010801000,ANURAEOPSIS FISSA
+4506010900000,EPIPHANES SP.
+4506011000000,EUCHLANIS SP.
+4506011001000,EUCHLANIS DILATATA
+4506011100000,LOPHOCHARIS SP.
+4506011101000,LOPHOCHARIS SALPINA
+4506011200000,MACROCHAETUS SP.
+4506011300000,MYTILINA SP.
+4506011400000,PLATYIAS SP.
+4506011401000,PLATYIAS PATULUS
+4506011402000,PLATYIAS QUADRICORNIS
+4506011500000,TRICHOTRIA SP.
+4506011501000,TRICHOTRIA TETRACTIS
+4506020100000,LECANE SP.
+4506020200000,MONOSTYLA SP.
+4506020201000,MONOSTYLA BULLA
+4506020202000,MONOSTYLA CLOSTEROCERCA
+4506020203000,MONOSTYLA QUADRIDENTATA
+4506040100000,ENCENTRUM SP.
+4506040200000,PROALES SP.
+4506040300000,CEPHALODELLA SP.
+4506040302000,CEPHALODELLA GIBBA
+4506040400000,NOTOMMATA SP.
+4506040500000,MONOMMATA SP.
+4506040600000,EOSPHORA SP.
+4506070100000,TRICHOCERCA SP.
+4506070102000,TRICHOCERCA CYLINDRICA
+,10
+4506070103000,TRICHOCERCA LONGISETA
+4506070104000,TRICHOCERCA MULTICRINIS
+4506070105000,TRICHOCERCA SIMILIS
+4506080100000,ASCOMORPHA SP.
+4506080101000,ASCOMORPHA OVALIS
+4506080102000,ASCOMORPHA SALTANS
+4506080200000,GASTROPUS SP.
+4506080201000,GASTROPUS MINOR
+4506120100000,ASPLANCHNA SP.
+4506120101000,ASPLANCHNA BRIGHTWELLI
+4506120102000,ASPLANCHNA HERRICKI
+4506120103000,ASPLANCHNA PRIODONTA
+4506130200000,SYNCHAETA SP.
+4506130200001,SYNCHAETA SPP. L-LARGE
+4506130200002,SYNCHAETA SPP. M-MEDIUM
+4506130200003,SYNCHAETA SPP. S-SMALL
+4506130200010,SYNCHAETA BICORNIS
+4506130200020,SYNCHAETA BALTICA
+4506130204000,SYNCHAETA PECTINATA
+4506130206000,SYNCHAETA OBLONGA
+4506130207000,SYNCHAETA STYLATA
+4506130300000,POLYARTHRA SP.
+4506130302000,POLYARTHRA DISSIMULANS
+4506130303000,POLYARTHRA DOLICHOPTERA
+4506130304000,POLYARTHRA EURYPTERA
+4506130305000,POLYARTHRA MAJOR
+4506130306000,POLYARTHRA REMATA
+4506130307000,POLYARTHRA VULGARIS
+4506130400000,PLOESOMA SP.
+4506130401000,PLOESOMA HUDSONI
+4506130402000,PLOESOMA TRUNCATUM
+4507010100000,TESTUDINELLA SP.
+4507010101000,TESTUDINELLA PATINA
+4507020100000,HEXARTHRA SP.
+4507020101000,HEXARTHRA MIRA
+4507040100000,CONOCHILOIDES SP.
+4507040102000,CONOCHILOIDES DOSSUARIUS
+4507040103000,CONOCHILOIDES NATANS
+4507040200000,CONOCHILUS SP.
+4507040201000,CONOCHILUS HIPPOCREPIS
+4507040202000,CONOCHILUS UNICORNIS
+4507050100000,FILINIA SP.
+4507050101000,FILINIA LONGISETA
+,11
+4507050102000,FILINIA BRACHIATA
+4507050103000,FILINIA TERMINALIS
+4508010100000,COLLOTHECA SP.
+4508010101000,COLLOTHECA MUTABILIS
+4508010102000,COLLOTHECA PELAGICA
+4700000000000,NEMATODA
+5100000000001,GASTROPODA-LARVAE
+5500000000001,PELECYPODA-LARVAE
+5515370301000,DREISSENA POLYMORPHA
+5922000000000,ACARINA-MITE
+6117000000001,COPEPOD NAUPLII
+6117000000005,COPEPOD NAUPLII+PERITRICHS
+6118180100001,DIAPTOMUS -NAUPLII
+6118190200001,PSEUDODIAPTOMUS SP.-NAUPLII
+6118200200001,EURYTEMORA SP.-NAUPLII
+6118290100001,ACARTIA SP.-NAUPLII
+6119050200001,SCOTTOLANA SP.-NAUPLII
+6120080200001,CYCLOPS SP.-NAUPLII
+6120080300001,MESOCYCLOPS SP.-NAUPLII
+6120090100001,OITHONA SP.-NAUPLII
+6120260100001,HEMICYCLOPS SP.-NAUPLII
+7500000000000,TARTIGRADA
+Numerical Variable Names,
+VARIABLE,VALID
+,RANGE
+----------,-----------
+DATE,840802-971218
+TIME,0651-1935
+TDEPTH,1.8-33
+PDEPTH,0.5-22.0
+VOLPDEPT,2-20
+TOTVCOMP,12-200
+SER_NUM,01001-240039
+A_DEPTH1,0.2- 1.0
+A_DEPTH2,0.4- 5.0
+A_DEPTH3,0.5-10.0
+A_DEPTH4,0.5-15.0
+,12
+A_DEPTH5,0.5-21.5
+B_DEPTH1,1-22.5
+B_DEPTH2,1-25.0
+B_DEPTH3,1-27.0
+B_DEPTH4,1-29.0
+B_DEPTH5,1-32.0
+CONCENT,10-500
+MLSCNT,0.01-10
+RAWCT,1-9999
+DENSITYV,0.05-10000.00
+TDENSITY,1-999999.99
+# CHARACTER VARIABLES - VALID VALUES,# CHARACTER VARIABLES - VALID VALUES
+VARIABLE,VALID VALUES
+----------,-----------
+REPNUM,
+1,
+2,
+3,
+4,
+T,
+B,
+W,
+TRIB_COD,
+BAY,
+PAX,
+POT,
+PAT,
+CHS,
+CHP,
+SPECCODE,
+0000000000001-7500000000000,
+STATION,
+CB1.1,
+CB2.1,
+CB2.2,
+CB3.3C,
+CB4.3C,
+,13
+,CB5.2,
+,LE1.1,
+,TF1.7,
+,TF1.6,
+,TF1.5,
+,TF2.3,
+,TF2.4,
+,RET2.2,
+,LE2.2,
+,ET4.2,
+,ET5.1,
+,ET5.0A,
+,ET5.2,
+,EE3.1,
+,WT5.1,
+,"Station Names,",Numbers and Descriptions
+CB1.1,01,"Mouth of Susquehanna River, main Bay"
+CB2.1,02,"SW of Turkey Point, main Bay"
+CB2.2,03,"W of Still Pond near Buoy R 50, main Bay"
+CB3.3C 07,CB3.3C 07,"N of Bay Bridge, main Bay"
+CB4.3C 16,CB4.3C 16,"E of Dares Beach near Buoy R 78, main Bay"
+CB5.2,20,"E of Point No Point, main Bay"
+LE1.1 28,LE1.1 28,"Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River"
+TF1.7 30,TF1.7 30,"ESE of Jacks Creek in mid channel, Patuxent River"
+TF1.6 31,TF1.6 31,Midchannel off the wharf at Lower Marlboro
+TF1.5 32,TF1.5 32,"At Nottingham in mid channel, Patuxent River"
+TF2.3 35,TF2.3 35,"Off Indian Head at Buoy N 54, Potomac River"
+TF2.4 48,TF2.4 48,Buoy 44 between Possum Point and Moss Point
+RET2.2 34,RET2.2 34,"Off Maryland Point at Buoy 19, Potomac River"
+LE2.2,33,"Off Ragged Point at buoy BW 51B, Potomac River (Prior to October 1988 data"
+,,"tape, this station was designated XBE9541)"
+ET4.2,37,"South of Eastern Neck Island at Buoy 9, lower Chester River"
+ET5.1,38,"Downstream of confluence with Tuckahoe Creek, upper Choptank River"
+ET5.0A,49,Midchannel off the mouth of King's Creek
+ET5.2,39,"Near Rt 50 bridge at Cambridge, lower Choptank River"
+EE3.1,40,"North Tangier Sound North of Buoy R 16, main Bay"
+WT5.1,36,"East of Hawkins Point at Buoy 5M, Patapsco River (Baltimore Harbor)"
+,"Station names, Latitudes, Longitudes and Total Depths (meters)","Station names, Latitudes, Longitudes and Total Depths (meters)"
+,,14
+CB1.1,39-32.7,76-04.9,6.1
+CB2.1,39-26.4,76-01.5,6.2
+CB2.2,39-20.8,76-10.5,12.1
+CB3.3C 38-59.7,CB3.3C 38-59.7,76-21.6,23.7
+CB4.3C 38-33.4,CB4.3C 38-33.4,76-26.1,26.1
+CB5.2,38-08.2,76-13.7,30.1
+LE1.1 38-25.5,LE1.1 38-25.5,76-36.1,12.0
+TF1.7 38-35.0,TF1.7 38-35.0,76-40.7,3.0
+TF1.6 38-39.5,TF1.6 38-39.5,76-41.1,6.2
+TF1.5 38-42.7,TF1.5 38-42.7,76-42.2,10.3
+TF2.3 38-36.3,TF2.3 38-36.3,77-10.3,12.7
+TF2.4 38-31.5,TF2.4 38-31.5,77-16.6,9.0
+RET2.2 38-21.1,RET2.2 38-21.1,77-12.2,9.5
+LE2.2,38-09.6,76-35.8,11.0
+ET4.2,38-59,76-13,14.6
+ET5.1,38-48.4,75-54.4,5.3
+ET5.0A,38-46.5,75-58.1,11.0
+ET5.2,38-34.8,76-02.5,12.3
+EE3.1,38-12,75-58,13.7
+WT5.1,39-12.7,76-31.4,15.7
+,Data Entry Method,Data Entry Method,
+,"Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and","Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and","Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and"
+keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January
+"1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network."
+,Data Verification,Data Verification,
+,Visual inspection and computer verification program.,Visual inspection and computer verification program.,Visual inspection and computer verification program.
+,"Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions"
+ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM
+,,where yy is year of data set,where yy is year of data set
+,List of Variables,List of Variables,
+,,,15
+VARIABLE TYPE,VARIABLE TYPE,LENGTH,POSITION,POSITION,FORMAT,LABEL
+TRIB_COD CHAR,TRIB_COD CHAR,3,0,SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY)
+SER_NUM,NUM,8,3,SERIAL NUM. INCL.SAMPLING EFFORT NUM.,SERIAL NUM. INCL.SAMPLING EFFORT NUM.,SERIAL NUM. INCL.SAMPLING EFFORT NUM.
+STATION,CHAR,7,11,STATION NAME,STATION NAME,
+DATE,NUM,8,18,DATE7.,SAMPLE DATE,SAMPLE DATE
+TIME,NUM,8,26,HHMM5.,SAMPLE TIME,SAMPLE TIME
+GMETHOD,CHAR,1,34,GEAR METHOD CODE,GEAR METHOD CODE,GEAR METHOD CODE
+TDEPTH,NUM,8,35,TOTAL DEPTH,TOTAL DEPTH,
+PDEPTH,NUM,8,43,DEPTH INCLUDED IN SURFACE COMPOSITE,DEPTH INCLUDED IN SURFACE COMPOSITE,DEPTH INCLUDED IN SURFACE COMPOSITE
+VOLPDEPT NUM,VOLPDEPT NUM,8,51,VOLUME OF SAMPLE PER DEPTH,VOLUME OF SAMPLE PER DEPTH,VOLUME OF SAMPLE PER DEPTH
+TOTVCOMP NUM,TOTVCOMP NUM,8,59,TOTAL VOLUME OF COMPOSITE SAMPLE,TOTAL VOLUME OF COMPOSITE SAMPLE,TOTAL VOLUME OF COMPOSITE SAMPLE
+A_DEPTH1 NUM,A_DEPTH1 NUM,8,67,1st SAMPLE DEPTH ABOVE PDEPTH,1st SAMPLE DEPTH ABOVE PDEPTH,1st SAMPLE DEPTH ABOVE PDEPTH
+A_DEPTH2 NUM,A_DEPTH2 NUM,8,75,2nd SAMPLE DEPTH ABOVE PDEPTH,2nd SAMPLE DEPTH ABOVE PDEPTH,2nd SAMPLE DEPTH ABOVE PDEPTH
+A_DEPTH3 NUM,A_DEPTH3 NUM,8,83,3rd SAMPLE DEPTH ABOVE PDEPTH,3rd SAMPLE DEPTH ABOVE PDEPTH,3rd SAMPLE DEPTH ABOVE PDEPTH
+A_DEPTH4 NUM,A_DEPTH4 NUM,8,91,4th SAMPLE DEPTH ABOVE PDEPTH,4th SAMPLE DEPTH ABOVE PDEPTH,4th SAMPLE DEPTH ABOVE PDEPTH
+A_DEPTH5 NUM,A_DEPTH5 NUM,8,99,5th SAMPLE DEPTH ABOVE PDEPTH,5th SAMPLE DEPTH ABOVE PDEPTH,5th SAMPLE DEPTH ABOVE PDEPTH
+B_DEPTH1 NUM,B_DEPTH1 NUM,8,107,1st SAMPLE DEPTH BELOW PDEPTH,1st SAMPLE DEPTH BELOW PDEPTH,1st SAMPLE DEPTH BELOW PDEPTH
+B_DEPTH2 NUM,B_DEPTH2 NUM,8,115,2nd SAMPLE DEPTH BELOW PDEPTH,2nd SAMPLE DEPTH BELOW PDEPTH,2nd SAMPLE DEPTH BELOW PDEPTH
+B_DEPTH3 NUM,B_DEPTH3 NUM,8,123,3rd SAMPLE DEPTH BELOW PDEPTH,3rd SAMPLE DEPTH BELOW PDEPTH,3rd SAMPLE DEPTH BELOW PDEPTH
+B_DEPTH4 NUM,B_DEPTH4 NUM,8,131,4th SAMPLE DEPTH BELOW PDEPTH,4th SAMPLE DEPTH BELOW PDEPTH,4th SAMPLE DEPTH BELOW PDEPTH
+B_DEPTH5 NUM,B_DEPTH5 NUM,8,139,5th SAMPLE DEPTH BELOW PDEPTH,5th SAMPLE DEPTH BELOW PDEPTH,5th SAMPLE DEPTH BELOW PDEPTH
+FC_INIT,CHAR,3,147,INITIALS OF FIELD COLLECTOR,INITIALS OF FIELD COLLECTOR,INITIALS OF FIELD COLLECTOR
+LI_INIT,CHAR,3,150,INITIALS OF INDIVID. PERFORMING LAB ID.,INITIALS OF INDIVID. PERFORMING LAB ID.,INITIALS OF INDIVID. PERFORMING LAB ID.
+ANSMZyyD.SD2 - counts data set,ANSMZyyD.SD2 - counts data set,ANSMZyyD.SD2 - counts data set,ANSMZyyD.SD2 - counts data set,,,
+LIST OF VARIABLES AND ATTRIBUTES BY POSITION,LIST OF VARIABLES AND ATTRIBUTES BY POSITION,LIST OF VARIABLES AND ATTRIBUTES BY POSITION,LIST OF VARIABLES AND ATTRIBUTES BY POSITION,LIST OF VARIABLES AND ATTRIBUTES BY POSITION,LIST OF VARIABLES AND ATTRIBUTES BY POSITION,
+VARIABLE TYPE,VARIABLE TYPE,LENGTH,POSITION,POSITION,FORMAT,LABEL
+SER_NUM,NUM,8,0,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.
+STATION,CHAR,7,8,STATION NAME,STATION NAME,
+DATE,NUM,8,15,DATE7.,SAMPLE DATE,SAMPLE DATE
+TRIB_COD CHAR,TRIB_COD CHAR,3,23,SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY)
+LAYER,CHAR,2,"26 AP=ABOVE PYC,BP=BELOW PYC, WC= WATER COL","26 AP=ABOVE PYC,BP=BELOW PYC, WC= WATER COL","26 AP=ABOVE PYC,BP=BELOW PYC, WC= WATER COL","26 AP=ABOVE PYC,BP=BELOW PYC, WC= WATER COL"
+REPNUM,CHAR,1,28,REPLICATE NUMBER,REPLICATE NUMBER,
+CONCENT,NUM,8,29,VOLUME OF CONCENTRATED SAMPLE,VOLUME OF CONCENTRATED SAMPLE,VOLUME OF CONCENTRATED SAMPLE
+MLSCNT,NUM,8,37,MILLILITERS COUNTED,MILLILITERS COUNTED,MILLILITERS COUNTED
+SPECCODE CHAR,SPECCODE CHAR,13,45,SPECIES CODE,SPECIES CODE,
+RAWCT,NUM,8,58,RAW COUNT,,
+DENSITYV NUM,DENSITYV NUM,8,66,DENSITY (# INDIV./L) OF GIVEN TAXON,DENSITY (# INDIV./L) OF GIVEN TAXON,DENSITY (# INDIV./L) OF GIVEN TAXON
+TDENSITY NUM,TDENSITY NUM,8,74,DENSITY (# INDIV./L) OF ALL ORGANISM,DENSITY (# INDIV./L) OF ALL ORGANISM,DENSITY (# INDIV./L) OF ALL ORGANISM
+,,,,16,,
+Appendix
+17
+Figure 1.,Map of Station Sites
+Table 1.,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program,Total Sample Numbers for Microzooplankton for the ANSERC Plankton Program
+,Measurements,J,A,S,O,N,D,J,F,M,A,M,J,QA/QC,Total
+Net Samples,Net Samples,13,13,13,13,--,13,--,03,13,27,27,17,8,160
+Whole Water Samples,Whole Water Samples,08,08,08,--,--,--,--,--,08,08,08,08,3,59
+Viable Zebra Mussels,Viable Zebra Mussels,02,02,01,--,--,--,--,--,--,01,02,01,--,9
+"Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,","Net Samples are taken from the following stations: CB2.2, CB3.3C, CB4.3C, CB5.2, WT5.2,"
+"ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6","ET5.1, ET5.2, TF1.5, TF1.7, LE1.1, TF2.3, RET2.2, LE2.2 and CB2.1, ET5.0A, TF2.4, TF1.6"
+during fish spawning season.,during fish spawning season.,during fish spawning season.,during fish spawning season.,,,,,,,,,,,,
+"Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,","Whole water samples are taken from the following stations: CB3.3C, CB4.3C, CB5.2, ET5.2,"
+"LE1.1, LE2..2, TF2.3, TF1.5.","LE1.1, LE2..2, TF2.3, TF1.5.","LE1.1, LE2..2, TF2.3, TF1.5.","LE1.1, LE2..2, TF2.3, TF1.5.",,,,,,,,,,,,
+Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,Zebra mussel samples are taken from station CB1.1.,,,,,,
+Examples of Laboratory Data Sheet with Original Counts and Recounts
+249003,MCB2.2,980708,MZP W,,,
+MICROZOOPLANKTON,MICROZOOPLANKTON,> 44 UM,> 44 UM,,,
+NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,,,100 .0
+CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),,,44.0
+SPECIES CODE,,S PE CIE S N AM E,S PE CIE S N AM E,R AW,#MLS,NORM CNT
+,,,,CNT,CNTD,(#/L)
+3540020123003,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,195,0.50,171.60
+6118290100001,ACA RTIA SP.-NAU PLII,ACA RTIA SP.-NAU PLII,ACA RTIA SP.-NAU PLII,41,1.00,18.04
+4506130200003,SYNCH AETA SPP . S-SMALL,SYNCH AETA SPP . S-SMALL,SYNCH AETA SPP . S-SMALL,10,1.00,4.40
+5500000000001,PELECYPODA-LARVAE,PELECYPODA-LARVAE,PELECYPODA-LARVAE,7,1.00,3.08
+4506010103060,KERATELLA COCHLEARIS TECTA,KERATELLA COCHLEARIS TECTA,KERATELLA COCHLEARIS TECTA,6,1.00,2.64
+4506130300000,POLYARTHRA SP.,POLYARTHRA SP.,POLYARTHRA SP.,6,1.00,2.64
+6117000000001,COP EPO D N AUP LII,COP EPO D N AUP LII,COP EPO D N AUP LII,4,1.00,1.76
+4506070100000,TRICHOCERCA SP.,TRICHOCERCA SP.,TRICHOCERCA SP.,3,1.00,1.32
+4506010406000,BRA CHIO NU S AN GU LARIS,BRA CHIO NU S AN GU LARIS,BRA CHIO NU S AN GU LARIS,3,1.00,1.32
+4506130200010,SYN CHA ETA BIC ORN IS,SYN CHA ETA BIC ORN IS,SYN CHA ETA BIC ORN IS,2,1.00,0.88
+4506010103020,KER ATE LLA CO CHL EAR IS COC HLE ARIS,KER ATE LLA CO CHL EAR IS COC HLE ARIS,KER ATE LLA CO CHL EAR IS COC HLE ARIS,2,1.00,0.88
+4506010402000,BRACHIONUS CALYCIFLORUS,BRACHIONUS CALYCIFLORUS,BRACHIONUS CALYCIFLORUS,1,1.00,0.44
+MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,280,
+MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,,209.0,
+249003,MCB2.2,980708,MZP W,RECOUNT,,,
+MICROZOOPLANKTON,MICROZOOPLANKTON,> 44 UM,> 44 UM,,,,
+NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,NUMBER OF LITERS FILTERED,,,,100 .0
+CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),CONCE NTRAT E VOLUM E (ML),,,,44.0
+SPECIES CODE,,S PE CIE S N AM E,S PE CIE S N AM E,S PE CIE S N AM E,R AW,#MLS,NORM CNT
+,,,,,CNT,CNTD,(#/L)
+3540020123003,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP,171,0.50,150.48
+6118290100001,ACA RTIA SP.-NAU PLII,ACA RTIA SP.-NAU PLII,ACA RTIA SP.-NAU PLII,ACA RTIA SP.-NAU PLII,46,1.00,20.24
+4506130200003,SYNCH AETA SPP . S-SMALL,SYNCH AETA SPP . S-SMALL,SYNCH AETA SPP . S-SMALL,SYNCH AETA SPP . S-SMALL,18,1.00,7.92
+4506010103060,KERATELLA COCHLEARIS TECTA,KERATELLA COCHLEARIS TECTA,KERATELLA COCHLEARIS TECTA,KERATELLA COCHLEARIS TECTA,14,1.00,6.16
+5500000000001,PELECYPODA-LARVAE,PELECYPODA-LARVAE,PELECYPODA-LARVAE,PELECYPODA-LARVAE,12,1.00,5.28
+6117000000001,COP EPO D N AUP LII,COP EPO D N AUP LII,COP EPO D N AUP LII,,12,1.00,5.28
+4506010103020,KERAT ELLA COCHLEA RIS COCHLEARIS,KERAT ELLA COCHLEA RIS COCHLEARIS,KERAT ELLA COCHLEA RIS COCHLEARIS,KERAT ELLA COCHLEA RIS COCHLEARIS,6,1.00,2.64
+4506070100000,TRICHOCERCA SP.,TRICHOCERCA SP.,TRICHOCERCA SP.,,6,1.00,2.64
+4506010400000,BR ACHIO NU S SP .,BR ACHIO NU S SP .,BR ACHIO NU S SP .,,3,1.00,1.32
+4506130300000,POLYARTHRA SP.,POLYARTHRA SP.,POLYARTHRA SP.,,2,1.00,0.88
+4506010406000,BRACHION US ANGU LARIS,BRACHION US ANGU LARIS,BRACHION US ANGU LARIS,BRACHION US ANGU LARIS,2,1.00,0.88
+4506130200010,SYNCH AETA B ICORNIS,SYNCH AETA B ICORNIS,SYNCH AETA B ICORNIS,SYNCH AETA B ICORNIS,1,1.00,0.44
+4506010409000,BRACHION US CAUD ATUS,BRACHION US CAUD ATUS,BRACHION US CAUD ATUS,BRACHION US CAUD ATUS,1,1.00,0.44
+MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,MICROZO OPLANK TON > 44UM RA W CO UNT FOR ENT IRE SAMPLE,294,
+MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,MICR OZ OO PLAN KT ON >44 UM (#/L) F OR EN TIRE SAM PLE,,204.6,
+Microzooplankton Data Dictionary
+# NAME OF DATA FILE DESCRIBED BY THIS DATA DICTIONARY FILE
+"ANSMZ84H.SD2, ANSMZ84D.SD2"
+"ANSMZ85H.SD2, ANSMZ85D.SD2"
+"ANSMZ86H.SD2, ANSMZ86D.SD2"
+"ANSMZ87H.SD2, ANSMZ87D.SD2"
+"ANSMZ88H.SD2, ANSMZ88D.SD2"
+"ANSMZ89H.SD2, ANSMZ89D.SD2"
+"ANSMZ90H.SD2, ANSMZ90D.SD2"
+"ANSMZ91H.SD2, ANSMZ91D.SD2"
+"ANSMZ92H.SD2, ANSMZ92D.SD2"
+"ANSMZ93H.SD2, ANSMZ93D.SD2"
+"ANSMZ94H.SD2, ANSMZ94D.SD2"
+"ANSMZ95H.SD2, ANSMZ95D.SD2"
+"ANSMZ96H.SD2, ANSMZ96D.SD2"
+"ANSMZ97H.SD2, ANSMZ97D.SD2"
+"ANSMZ28H.SD2, ANSMZ28D.SD2"
+MMZP.SD2
+# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES
+"MZPDAT4.DIC, MZPDAT5.DIC, MZPDAT6.DIC, MZPDAT7.DIC"
+"MZPDAT8.DIC, MZPDAT9.DIC, MZPDAT10.DIC, MZPDAT11.DIC"
+"MZPDAT12.DIC, MZPDAT13.DIC, MZPDAT14.DIC, ANSMZP15.DIC"
+"ANSMZP16.DIC, ANSMZP17.DIC, ANSMZP18.DIC, ANSMZP19.DIC"
+"ANSMZP20.DIC, ANSMZP21.DIC, ANSMZP22.DIC, ANSMZP23.DIC"
+"ANSMZP24.DIC, ANSMZP25.DIC, ANSMZP26.DIC, ANSMZP27.DIC"
+ANSMZP28.DIC
+# PROJECT TITLE
+Chesapeake Bay Monitoring Program
+Microzooplankton Study from August 1984 through December 1999
+Field Collection by ANSERC staff.
+"Sample analysis by R. E. Jacobsen, S. G. Sellner (Brownlee), S. S. Hedrick,"
+"B. B. Wagoner, James H. Sniezek, Kimberly M. Burke, Ralph Matos, Jr."
+Data Files Verified by S. G. Sellner (Brownlee)
+ANSERC
+# PRINCIPAL INVESTIGATORS
+>PROGRAM MANAGER: R. V. Lacouture / K. G. Sellner
+>MICROZOOPLANKTON: R. V. Lacouture/K. G. Sellner/D. C. Brownlee
+>STATISTICIAN:
+>PROGRAMMER/ANALYST: A. L. Imirie/ M. C. Marsh / S. E. Gunsalus
+>DATA COORDINATOR: S. G. Sellner (Brownlee)
+# FUNDING AGENCIES
+Maryland Department of Natural Resources
+# PROJECT COST
+"$292,430 (July 1,1999 - June 30, 2000)"
+# QA/QC OFFICER
+None,,,
+# LOCATION OF STUDY,# LOCATION OF STUDY,,
+Chesapeake Bay and tributaries in State of Maryland,Chesapeake Bay and tributaries in State of Maryland,Chesapeake Bay and tributaries in State of Maryland,
+# DATE INTERVALS:,# DATE INTERVALS:,,
+840802 - 991213,840802 - 991213,,
+# ABSTRACT,# ABSTRACT,,
+"Beginning in August, 1984, field collections of 2 surface and 2 bottom replicate samples","Beginning in August, 1984, field collections of 2 surface and 2 bottom replicate samples","Beginning in August, 1984, field collections of 2 surface and 2 bottom replicate samples","Beginning in August, 1984, field collections of 2 surface and 2 bottom replicate samples"
+of microzooplankton were made monthly (usually excluding February) at 16 stations in,of microzooplankton were made monthly (usually excluding February) at 16 stations in,of microzooplankton were made monthly (usually excluding February) at 16 stations in,of microzooplankton were made monthly (usually excluding February) at 16 stations in
+conjunction with 3 other plankton elements of ANS portion of the DNR Water Quality Program.,conjunction with 3 other plankton elements of ANS portion of the DNR Water Quality Program.,conjunction with 3 other plankton elements of ANS portion of the DNR Water Quality Program.,conjunction with 3 other plankton elements of ANS portion of the DNR Water Quality Program.
+"From August of 1984 until November 1984, 25 L of water were filtered through the net per","From August of 1984 until November 1984, 25 L of water were filtered through the net per","From August of 1984 until November 1984, 25 L of water were filtered through the net per","From August of 1984 until November 1984, 25 L of water were filtered through the net per"
+replicate.,"After this time, usually, for each surface and bottom replicate 10 l of water at each of 5","After this time, usually, for each surface and bottom replicate 10 l of water at each of 5","After this time, usually, for each surface and bottom replicate 10 l of water at each of 5"
+"depths were pumped through a 44 um mesh net, resulting in 50 l being filtered for each sample.","depths were pumped through a 44 um mesh net, resulting in 50 l being filtered for each sample.","depths were pumped through a 44 um mesh net, resulting in 50 l being filtered for each sample.","depths were pumped through a 44 um mesh net, resulting in 50 l being filtered for each sample."
+"After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled.","After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled.","After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled.","After March, 1985,"
+replicate surface samples were combined for each station yielding 1 surface composite sample,replicate surface samples were combined for each station yielding 1 surface composite sample,replicate surface samples were combined for each station yielding 1 surface composite sample,replicate surface samples were combined for each station yielding 1 surface composite sample
+that had 20 l of water filtered for each of 5 depths resulting in 100 l filtered for each sample;,that had 20 l of water filtered for each of 5 depths resulting in 100 l filtered for each sample;,that had 20 l of water filtered for each of 5 depths resulting in 100 l filtered for each sample;,that had 20 l of water filtered for each of 5 depths resulting in 100 l filtered for each sample;
+bottom replicates were also combined.,bottom replicates were also combined.,"Beginning July, 1989 entire water column samples of 10 l","Beginning July, 1989 entire water column samples of 10 l"
+"from each of 10 depths (total of 100 l) were collected for stations XDA1177,","from each of 10 depths (total of 100 l) were collected for stations XDA1177,","from each of 10 depths (total of 100 l) were collected for stations XDA1177,","XED4892,"
+"PXT0402, MET5.1, MCB1.1 and MCB2.2.","PXT0402, MET5.1, MCB1.1 and MCB2.2.","Between August, 1984 and September, 1985, 1 ml","Between August, 1984 and September, 1985, 1 ml"
+of 1% neosynephrine was added to each concentrated sample.,of 1% neosynephrine was added to each concentrated sample.,of 1% neosynephrine was added to each concentrated sample.,The sample was allowed to set for
+about 30 min then formaldehyde was added.,about 30 min then formaldehyde was added.,about 30 min then formaldehyde was added.,Following a study which showed no significant
+"difference in contraction between microzooplankton treated or not treated with neosynephrine,","difference in contraction between microzooplankton treated or not treated with neosynephrine,","difference in contraction between microzooplankton treated or not treated with neosynephrine,","difference in contraction between microzooplankton treated or not treated with neosynephrine,"
+the neosynephrine step was eliminated.,the neosynephrine step was eliminated.,Instead buffered formaldehyde (final concentration,Instead buffered formaldehyde (final concentration
+approximately 2.5%) was added to each sample jar prior to the addition of the sample.,approximately 2.5%) was added to each sample jar prior to the addition of the sample.,approximately 2.5%) was added to each sample jar prior to the addition of the sample.,Numbers
+and species identifications were subsequently made using repeated counts on 1 ml aliquots in,and species identifications were subsequently made using repeated counts on 1 ml aliquots in,and species identifications were subsequently made using repeated counts on 1 ml aliquots in,and species identifications were subsequently made using repeated counts on 1 ml aliquots in
+Sedgewick-Rafter cells and a compound microscope (total mag = 100X).,Sedgewick-Rafter cells and a compound microscope (total mag = 100X).,Sedgewick-Rafter cells and a compound microscope (total mag = 100X).,Beginning with
+"samples collected in April 1986, a small drop of concentrated Rose Bengal in formaldehyde was","samples collected in April 1986, a small drop of concentrated Rose Bengal in formaldehyde was","samples collected in April 1986, a small drop of concentrated Rose Bengal in formaldehyde was","samples collected in April 1986, a small drop of concentrated Rose Bengal in formaldehyde was"
+added to the Sedgewick-Rafter cell before adding the sample.,added to the Sedgewick-Rafter cell before adding the sample.,added to the Sedgewick-Rafter cell before adding the sample.,The counting cell was allowed to
+set for 10 minutes before counting.,set for 10 minutes before counting.,The NODC species code was employed.,Microzooplankton
+smaller than 44 um were noted but not enumerated in counts after March 1985 since estimates,smaller than 44 um were noted but not enumerated in counts after March 1985 since estimates,smaller than 44 um were noted but not enumerated in counts after March 1985 since estimates,smaller than 44 um were noted but not enumerated in counts after March 1985 since estimates
+would be non-quantitative.,would be non-quantitative.,"In May, 1992, 1993 & 1994 microzooplankton samples for stations","In May, 1992, 1993 & 1994 microzooplankton samples for stations"
+"MCB1.1, MCB2.2, XED4892, PXT0402, XDA1177, XEA6596, MET5.1 and MET5.2 were","MCB1.1, MCB2.2, XED4892, PXT0402, XDA1177, XEA6596, MET5.1 and MET5.2 were","MCB1.1, MCB2.2, XED4892, PXT0402, XDA1177, XEA6596, MET5.1 and MET5.2 were","MCB1.1, MCB2.2, XED4892, PXT0402, XDA1177, XEA6596, MET5.1 and MET5.2 were"
+sampled twice to coincide with white perch and striped bass spawning periods.,sampled twice to coincide with white perch and striped bass spawning periods.,sampled twice to coincide with white perch and striped bass spawning periods.,"From April,"
+"1993 through June, 1993 and again in 1994 and 1995 for the same time period, an additional","1993 through June, 1993 and again in 1994 and 1995 for the same time period, an additional","1993 through June, 1993 and again in 1994 and 1995 for the same time period, an additional","1993 through June, 1993 and again in 1994 and 1995 for the same time period, an additional"
+"station, MCB2.1, in the upper Chesapeake Bay was also sampled to coincide with the spawning","station, MCB2.1, in the upper Chesapeake Bay was also sampled to coincide with the spawning","station, MCB2.1, in the upper Chesapeake Bay was also sampled to coincide with the spawning","station, MCB2.1, in the upper Chesapeake Bay was also sampled to coincide with the spawning"
+periods.,,,
+"In April, 1996, 3 more tidal fresh stations XEA1840 in the Potomac River, XED9490 in the","In April, 1996, 3 more tidal fresh stations XEA1840 in the Potomac River, XED9490 in the","In April, 1996, 3 more tidal fresh stations XEA1840 in the Potomac River, XED9490 in the","In April, 1996, 3 more tidal fresh stations XEA1840 in the Potomac River, XED9490 in the"
+"Patuxent River, and MET5.0 in the Choptank River were added for microzooplankton sampling","Patuxent River, and MET5.0 in the Choptank River were added for microzooplankton sampling","Patuxent River, and MET5.0 in the Choptank River were added for microzooplankton sampling","Patuxent River, and MET5.0 in the Choptank River were added for microzooplankton sampling"
+"in April, May, and June.","in April, May, and June.","Stations MCB2.2, MCB2.1, XEA6596, XEA1840, XDA1177,","Stations MCB2.2, MCB2.1, XEA6596, XEA1840, XDA1177,"
+"PXT0402, XED9490, XED4892, MET5.1, and MET5.0 were sampled twice in April and May,","PXT0402, XED9490, XED4892, MET5.1, and MET5.0 were sampled twice in April and May,","PXT0402, XED9490, XED4892, MET5.1, and MET5.0 were sampled twice in April and May,","PXT0402, XED9490, XED4892, MET5.1, and MET5.0 were sampled twice in April and May,"
+again to coincide with white perch and striped bass spawning periods.,again to coincide with white perch and striped bass spawning periods.,again to coincide with white perch and striped bass spawning periods.,Main Bay stations
+"MCB1.1 and MCB5.2 were no longer sampled as of March, 1996. Sampling in November was","MCB1.1 and MCB5.2 were no longer sampled as of March, 1996. Sampling in November was","MCB1.1 and MCB5.2 were no longer sampled as of March, 1996. Sampling in November was","MCB1.1 and MCB5.2 were no longer sampled as of March, 1996. Sampling in November was"
+discontinued in 1996.,discontinued in 1996.,,
+# STATION NAMES NUMBERS AND DESCRIPTIONS,# STATION NAMES NUMBERS AND DESCRIPTIONS,# STATION NAMES NUMBERS AND DESCRIPTIONS,
+MCB1.1,01,"Mouth of Susquehanna River, main Bay",
+MCB2.1,02,"SW of Turkey Point, main Bay",
+MCB2.2,03,"W of Still Pond near Buoy R 50, main Bay","W of Still Pond near Buoy R 50, main Bay",
+MCB3.3C 07,MCB3.3C 07,"N of Bay Bridge, main Bay","N of Bay Bridge, main Bay",
+MCB4.3C 16,MCB4.3C 16,"E of Dares Beach near Buoy R 78, main Bay","E of Dares Beach near Buoy R 78, main Bay",
+MCB5.2,20,"E of Point No Point, main Bay","E of Point No Point, main Bay",
+XDE5339 28,XDE5339 28,"Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River","Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River","Between Jack Bay sandspit and Sandgates in mid channel, Patuxent River"
+XED4892 30,XED4892 30,"ESE of Jacks Creek in mid channel, Patuxent River","ESE of Jacks Creek in mid channel, Patuxent River",
+XED9490 31,XED9490 31,Midchannel off the wharf at Lower Marlboro,Midchannel off the wharf at Lower Marlboro,
+PXT0402 32,PXT0402 32,"At Nottingham in mid channel, Patuxent River","At Nottingham in mid channel, Patuxent River",
+XEA6596 35,XEA6596 35,"Off Indian Head at Buoy N 54, Potomac River","Off Indian Head at Buoy N 54, Potomac River",
+XEA1840 48,XEA1840 48,Buoy 44 between Possum Point and Moss Point,Buoy 44 between Possum Point and Moss Point,
+XDA1177 34,XDA1177 34,"Off Maryland Point at Buoy 19, Potomac River","Off Maryland Point at Buoy 19, Potomac River",
+MLE2.2,33,"Off Ragged Point at buoy BW 51B, Potomac River (Prior","Off Ragged Point at buoy BW 51B, Potomac River (Prior",to October 1988 data
+,,"tape, this station was designated XBE9541)","tape, this station was designated XBE9541)",
+MET4.2,37,"South of Eastern Neck Island at Buoy 9, lower Chester River","South of Eastern Neck Island at Buoy 9, lower Chester River","South of Eastern Neck Island at Buoy 9, lower Chester River"
+MET5.1,38,"Downstream of confluence with Tuckahoe Creek, upper Choptank River","Downstream of confluence with Tuckahoe Creek, upper Choptank River","Downstream of confluence with Tuckahoe Creek, upper Choptank River"
+MET5.0,49,Midchannel off the mouth of King's Creek,Midchannel off the mouth of King's Creek,
+MET5.2,39,"Near Rt 50 bridge at Cambridge, lower Choptank River","Near Rt 50 bridge at Cambridge, lower Choptank River",
+MEE3.1,40,"North Tangier Sound North of Buoy R 16, main Bay","North Tangier Sound North of Buoy R 16, main Bay",
+MWT5.1,36,"East of Hawkins Point at Buoy 5M, Patapsco River","East of Hawkins Point at Buoy 5M, Patapsco River",(Baltimore Harbor)
+"# STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS (METERS)","# STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS (METERS)","# STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS (METERS)","# STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS (METERS)","# STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS (METERS)"
+MCB1.1,39-32.7,76-04.9,6.1,
+MCB2.1,39-26.4,76-01.5,6.2,
+MCB2.2,39-20.8,76-10.5,12.1,
+MCB3.3C 38-59.7,MCB3.3C 38-59.7,76-21.6,23.7,
+MCB4.3C 38-33.4,MCB4.3C 38-33.4,76-26.1,26.1,
+MCB5.2,38-08.2,76-13.7,30.1,
+XDE5339 38-25.5,XDE5339 38-25.5,76-36.1,12.0,
+XED4892 38-35.0,XED4892 38-35.0,76-40.7,3.0,
+XED9490 38-39.5,XED9490 38-39.5,76-41.1,6.2,
+PXT0402 38-42.7,PXT0402 38-42.7,76-42.2,10.3,
+XEA6596 38-36.3,XEA6596 38-36.3,77-10.3,12.7,
+XEA1840 38-31.5,XEA1840 38-31.5,77-16.6,9.0,
+XDA1177 38-21.1,XDA1177 38-21.1,77-12.2,9.5,
+MLE2.2,38-09.6,76-35.8,11.0,
+MET4.2,38-59,76-13,14.6,
+MET5.1,38-48.4,75-54.4,5.3,
+MET5.0,38-46.5,75-58.1,11.0,
+MET5.2,38-34.8,76-02.5,12.3,
+MEE3.1,38-12,75-58,13.7,
+MWT5.1,39-12.7,76-31.4,15.7,
+# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES
+Microzooplankton samples were collected by a member of the Benedict Estuarine Research,Microzooplankton samples were collected by a member of the Benedict Estuarine Research,Microzooplankton samples were collected by a member of the Benedict Estuarine Research,Microzooplankton samples were collected by a member of the Benedict Estuarine Research,Microzooplankton samples were collected by a member of the Benedict Estuarine Research
+Center biomonitoring section.,Center biomonitoring section.,Center biomonitoring section.,"On return to the laboratory, the samples were transferred to the","On return to the laboratory, the samples were transferred to the"
+BERC plankton laboratory. Counts and identifications were then made and sample concentrates,BERC plankton laboratory. Counts and identifications were then made and sample concentrates,BERC plankton laboratory. Counts and identifications were then made and sample concentrates,BERC plankton laboratory. Counts and identifications were then made and sample concentrates,BERC plankton laboratory. Counts and identifications were then made and sample concentrates
+were subsequently archived.,were subsequently archived.,were subsequently archived.,,
+# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,# MONITORING QA/QC PLAN FOR PROJECT,,
+"For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC","For each monthly microzooplankton collection, one sample was randomly selected as the QA/QC"
+sample.,Two separate counts were performed using the same enumeration techniques on 2,Two separate counts were performed using the same enumeration techniques on 2,Two separate counts were performed using the same enumeration techniques on 2,Two separate counts were performed using the same enumeration techniques on 2,Two separate counts were performed using the same enumeration techniques on 2,Two separate counts were performed using the same enumeration techniques on 2
+individual aliquots removed from the same jar.,individual aliquots removed from the same jar.,individual aliquots removed from the same jar.,individual aliquots removed from the same jar.,individual aliquots removed from the same jar.,,
+>PARAMETER: Microzooplankton counts,>PARAMETER: Microzooplankton counts,>PARAMETER: Microzooplankton counts,>PARAMETER: Microzooplankton counts,>PARAMETER: Microzooplankton counts,,
+- COLLECTION METHODS:,- COLLECTION METHODS:,- COLLECTION METHODS:,Samples were pumped from 5 depths in the surface and 5 depths,Samples were pumped from 5 depths in the surface and 5 depths,Samples were pumped from 5 depths in the surface and 5 depths,Samples were pumped from 5 depths in the surface and 5 depths
+in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a,in the bottom layers and each composite was filtered through a 44 um mesh net and rinsed into a
+jar.,"After February, 1985, the 2 top surface layer replicates and 2 bottom","After February, 1985, the 2 top surface layer replicates and 2 bottom","After February, 1985, the 2 top surface layer replicates and 2 bottom","After February, 1985, the 2 top surface layer replicates and 2 bottom","After February, 1985, the 2 top surface layer replicates and 2 bottom",
+layer replicates were each combined in the lab and counted as one sample.,layer replicates were each combined in the lab and counted as one sample.,layer replicates were each combined in the lab and counted as one sample.,layer replicates were each combined in the lab and counted as one sample.,layer replicates were each combined in the lab and counted as one sample.,layer replicates were each combined in the lab and counted as one sample.,"Beginning July, 1985,"
+replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom,replicate samples were combined in the field with the five depths for the surface and bottom
+being pumped through the net and rinsed into their respective jars 2X.,being pumped through the net and rinsed into their respective jars 2X.,being pumped through the net and rinsed into their respective jars 2X.,being pumped through the net and rinsed into their respective jars 2X.,being pumped through the net and rinsed into their respective jars 2X.,being pumped through the net and rinsed into their respective jars 2X.,
+"Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations","Beginning July, 1989 entire water column samples from 10 depths were collected from stations"
+"XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,","XDA1177, XED4892, PXT0402, MET5.1, MCB1.1,MCB2.2, MCB2.1, XEA1840, XED9490,"
+and MET5.0 (when sampled).,and MET5.0 (when sampled).,and MET5.0 (when sampled).,,,,
+- SAMPLE PRESERVATIVES:,- SAMPLE PRESERVATIVES:,- SAMPLE PRESERVATIVES:,- SAMPLE PRESERVATIVES:,"Between August, 1984 and September, 1985, 1 ml of","Between August, 1984 and September, 1985, 1 ml of","Between August, 1984 and September, 1985, 1 ml of"
+neosynephrine was added to each concentrated sample.,neosynephrine was added to each concentrated sample.,neosynephrine was added to each concentrated sample.,neosynephrine was added to each concentrated sample.,neosynephrine was added to each concentrated sample.,The sample was allowed to set for 30,The sample was allowed to set for 30
+minutes and then buffered formaldehyde was added.,minutes and then buffered formaldehyde was added.,minutes and then buffered formaldehyde was added.,minutes and then buffered formaldehyde was added.,minutes and then buffered formaldehyde was added.,The neosynephrine step was eliminated,The neosynephrine step was eliminated
+after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of,after this time and buffered formaldehyde was added to each sample jar prior to the addition of
+the sample (final concentration of fixative was approximately 2.5%).,the sample (final concentration of fixative was approximately 2.5%).,the sample (final concentration of fixative was approximately 2.5%).,the sample (final concentration of fixative was approximately 2.5%).,the sample (final concentration of fixative was approximately 2.5%).,the sample (final concentration of fixative was approximately 2.5%).,
+-SAMPLE STORAGE ENVIRONMENT: Laboratory,-SAMPLE STORAGE ENVIRONMENT: Laboratory,-SAMPLE STORAGE ENVIRONMENT: Laboratory,-SAMPLE STORAGE ENVIRONMENT: Laboratory,-SAMPLE STORAGE ENVIRONMENT: Laboratory,,
+-TIME IN STORAGE: Indefinite,-TIME IN STORAGE: Indefinite,-TIME IN STORAGE: Indefinite,-TIME IN STORAGE: Indefinite,,,
+-LAB TECHNIQUES WITH REFERENCES:,-LAB TECHNIQUES WITH REFERENCES:,-LAB TECHNIQUES WITH REFERENCES:,-LAB TECHNIQUES WITH REFERENCES:,-LAB TECHNIQUES WITH REFERENCES:,,
+Standard Methods,Standard Methods,,,,,
+>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips,>DATA ENTRY METHOD: Computer keyboard to disk from data sheets for sampling trips
+"prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994.","prior to April 1985, and keyboard to disk for trips from April 1985 through December 1994."
+"Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network.","Starting in January 1995, computer keyboard to inhouse computer network."
+>DATA VERIFICATION: Visual inspection and computer verification,>DATA VERIFICATION: Visual inspection and computer verification,>DATA VERIFICATION: Visual inspection and computer verification,>DATA VERIFICATION: Visual inspection and computer verification,>DATA VERIFICATION: Visual inspection and computer verification,>DATA VERIFICATION: Visual inspection and computer verification,
+program.,,,,,,
+"# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS","# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS","# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS","# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS","# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS","# VARIABLE NAMES, SAS LABELS, AND DESCRIPTIONS",
+where yy is yy of data set,where yy is yy of data set,where yy is yy of data set,,,,
+>ANSMZyyH.SD2 - common sample information maybe merged with,>ANSMZyyH.SD2 - common sample information maybe merged with,>ANSMZyyH.SD2 - common sample information maybe merged with,>ANSMZyyH.SD2 - common sample information maybe merged with,>ANSMZyyH.SD2 - common sample information maybe merged with,>ANSMZyyH.SD2 - common sample information maybe merged with,
+,,counts using SER_NUM,counts using SER_NUM,counts using SER_NUM,,
+,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,
+VARIABLE TYPE,VARIABLE TYPE,LENGTH POSITION FORMAT,LENGTH POSITION FORMAT,LENGTH POSITION FORMAT,LABEL,
+TRIB_COD CHAR,TRIB_COD CHAR,3,0,SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY)
+SER_NUM,NUM,8,3,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.
+STATION,CHAR,7,11,STATION NAME,STATION NAME,
+DATE,NUM,8,18,DATE7.,SAMPLE DATE,
+TIME,NUM,8,26,HHMM5.,SAMPLE TIME,
+GMETHOD,CHAR,1,34,GEAR METHOD CODE,GEAR METHOD CODE,
+TDEPTH,NUM,8,35,TOTAL DEPTH,,
+PDEPTH,NUM,8,43,DEPTH INCLUDED IN SURFACE COMPOSITE,DEPTH INCLUDED IN SURFACE COMPOSITE,DEPTH INCLUDED IN SURFACE COMPOSITE
+VOLPDEPT NUM,VOLPDEPT NUM,8,51,VOLUME OF SAMPLE PER DEPTH,VOLUME OF SAMPLE PER DEPTH,VOLUME OF SAMPLE PER DEPTH
+TOTVCOMP NUM,TOTVCOMP NUM,8,59,TOTAL VOLUME OF COMPOSITE SAMPLE,TOTAL VOLUME OF COMPOSITE SAMPLE,TOTAL VOLUME OF COMPOSITE SAMPLE
+A_DEPTH1 NUM,A_DEPTH1 NUM,8,67,1st SAMPLE DEPTH ABOVE PDEPTH,1st SAMPLE DEPTH ABOVE PDEPTH,
+A_DEPTH2 NUM,A_DEPTH2 NUM,8,75,2nd SAMPLE DEPTH ABOVE PDEPTH,2nd SAMPLE DEPTH ABOVE PDEPTH,
+A_DEPTH3 NUM,A_DEPTH3 NUM,8,83,3rd SAMPLE DEPTH ABOVE PDEPTH,3rd SAMPLE DEPTH ABOVE PDEPTH,
+A_DEPTH4 NUM,A_DEPTH4 NUM,8,91,4th SAMPLE DEPTH ABOVE PDEPTH,4th SAMPLE DEPTH ABOVE PDEPTH,
+A_DEPTH5 NUM,A_DEPTH5 NUM,8,99,5th SAMPLE DEPTH ABOVE PDEPTH,5th SAMPLE DEPTH ABOVE PDEPTH,
+B_DEPTH1 NUM,B_DEPTH1 NUM,8,107,1st SAMPLE DEPTH BELOW PDEPTH,1st SAMPLE DEPTH BELOW PDEPTH,
+B_DEPTH2 NUM,B_DEPTH2 NUM,8,115,2nd SAMPLE DEPTH BELOW PDEPTH,2nd SAMPLE DEPTH BELOW PDEPTH,
+B_DEPTH3 NUM,B_DEPTH3 NUM,8,123,3rd SAMPLE DEPTH BELOW PDEPTH,3rd SAMPLE DEPTH BELOW PDEPTH,
+B_DEPTH4 NUM,B_DEPTH4 NUM,8,131,4th SAMPLE DEPTH BELOW PDEPTH,4th SAMPLE DEPTH BELOW PDEPTH,
+B_DEPTH5 NUM,B_DEPTH5 NUM,8,139,5th SAMPLE DEPTH BELOW PDEPTH,5th SAMPLE DEPTH BELOW PDEPTH,
+FC_INIT,CHAR,3,147,INITIALS OF FIELD COLLECTOR,INITIALS OF FIELD COLLECTOR,
+LI_INIT,CHAR,3,150,INITIALS OF INDIVID. PERFORMING LAB ID.,INITIALS OF INDIVID. PERFORMING LAB ID.,INITIALS OF INDIVID. PERFORMING LAB ID.
+> ANSMZyyD.SD2 - counts data set,> ANSMZyyD.SD2 - counts data set,> ANSMZyyD.SD2 - counts data set,> ANSMZyyD.SD2 - counts data set,,,
+----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,----LIST OF VARIABLES AND ATTRIBUTES BY POSITION----,
+VARIABLE TYPE,VARIABLE TYPE,LENGTH POSITION FORMAT,LENGTH POSITION FORMAT,LENGTH POSITION FORMAT,LABEL,
+SER_NUM,NUM,8,0,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.,SERIAL NUM. INCL. SAMPLING EFFORT NUM.
+STATION,CHAR,7,8,STATION NAME,STATION NAME,
+DATE,NUM,8,15,DATE7.,SAMPLE DATE,
+TRIB_COD CHAR,TRIB_COD CHAR,3,23,SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY),SPECIFIES TRIB. SAMPLED (OR MAIN BAY)
+LAYER,CHAR,2,26,"AP=ABOVE PYC,BP=BELOW PYC,WC=WATER COL","AP=ABOVE PYC,BP=BELOW PYC,WC=WATER COL","AP=ABOVE PYC,BP=BELOW PYC,WC=WATER COL"
+REPNUM,CHAR,1,28,REPLICATE NUMBER,REPLICATE NUMBER,
+CONCENT,NUM,8,29,VOLUME OF CONCENTRATED SAMPLE,VOLUME OF CONCENTRATED SAMPLE,VOLUME OF CONCENTRATED SAMPLE
+MLSCNT,NUM,8,37,MILLILITERS COUNTED,MILLILITERS COUNTED,
+SPECCODE CHAR,SPECCODE CHAR,13,45,SPECIES CODE,SPECIES CODE,
+RAWCT,NUM,8,58,RAW COUNT,,
+DENSITYV NUM,DENSITYV NUM,8,66,DENSITY (# INDIV./L) OF GIVEN TAXON,DENSITY (# INDIV./L) OF GIVEN TAXON,DENSITY (# INDIV./L) OF GIVEN TAXON
+TDENSITY NUM,TDENSITY NUM,8,74,DENSITY (# INDIV./L) OFALL ORGANISMS,DENSITY (# INDIV./L) OFALL ORGANISMS,DENSITY (# INDIV./L) OFALL ORGANISMS
+"# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND","# PHYSICOCHEMICAL VARIABLE NAMES, MEASUREMENT UNITS, AND"
+DESCRIPTIONS,DESCRIPTIONS,,,,,
+None,,,,,,
+# BIOLOGICAL ENUMERATION TECHNIQUES:,# BIOLOGICAL ENUMERATION TECHNIQUES:,# BIOLOGICAL ENUMERATION TECHNIQUES:,# BIOLOGICAL ENUMERATION TECHNIQUES:,# BIOLOGICAL ENUMERATION TECHNIQUES:,Each sample was gently mixed and a 1 ml,Each sample was gently mixed and a 1 ml
+aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration,aliquot was removed with a Stempel pipet and put into a Sedgewick-Rafter cell for enumeration
+with a compound microscope at 100X magnification.,with a compound microscope at 100X magnification.,with a compound microscope at 100X magnification.,with a compound microscope at 100X magnification.,with a compound microscope at 100X magnification.,"Beginning with samples collected in April,","Beginning with samples collected in April,"
+"1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of","1986, a small drop of concentrated Rose Bengal stain was added to the cell prior to addition of"
+the sample.,The sample was allowed to set for 10 minutes before counting.,The sample was allowed to set for 10 minutes before counting.,The sample was allowed to set for 10 minutes before counting.,The sample was allowed to set for 10 minutes before counting.,The sample was allowed to set for 10 minutes before counting.,At least one
+"chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,","chamber (1 ml) was counted for each sample and if the total count did not reach 250 organisms,"
+subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was,subsequent l ml aliquots were also enumerated until a count of 250 or more organisms was
+obtained or 3 ml were examined.,obtained or 3 ml were examined.,obtained or 3 ml were examined.,obtained or 3 ml were examined.,If a certain organism was abundant (more than 60 per,If a certain organism was abundant (more than 60 per,If a certain organism was abundant (more than 60 per
+"chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.","chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.","chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.","chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.","chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.","chamber), it was not counted in the subsequent 1 ml aliquots for a given sample.",For extremely
+"abundant taxa, less than one ml could be counted.","abundant taxa, less than one ml could be counted.","abundant taxa, less than one ml could be counted.","abundant taxa, less than one ml could be counted.","abundant taxa, less than one ml could be counted.",Species identification was made using the,Species identification was made using the
+NODC species code.,NODC species code.,Microzooplankton smaller than 44 um were noted on the original data,Microzooplankton smaller than 44 um were noted on the original data,Microzooplankton smaller than 44 um were noted on the original data,Microzooplankton smaller than 44 um were noted on the original data,Microzooplankton smaller than 44 um were noted on the original data
+sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,
+"#FORMULAS, CALCULATIONS, AND CONVERSIONS:","#FORMULAS, CALCULATIONS, AND CONVERSIONS:","#FORMULAS, CALCULATIONS, AND CONVERSIONS:","#FORMULAS, CALCULATIONS, AND CONVERSIONS:","#FORMULAS, CALCULATIONS, AND CONVERSIONS:","#FORMULAS, CALCULATIONS, AND CONVERSIONS:",
+The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:,The following equation was used to convert raw counts to density (#/L) for each taxon identified:
+DENSITYV=((RAWCT/MLSCNT)*CONCENT)/TOTVCOMP,DENSITYV=((RAWCT/MLSCNT)*CONCENT)/TOTVCOMP,
+If the sample was counted by rows MLSCNT is determined by dividing the number of rows by,If the sample was counted by rows MLSCNT is determined by dividing the number of rows by,If the sample was counted by rows MLSCNT is determined by dividing the number of rows by
+28.4.,,
+# SPECIES CODE USED,# SPECIES CODE USED,
+NODC CODE WITH INHOUSE MODIFICATIONS (13th column) AND,NODC CODE WITH INHOUSE MODIFICATIONS (13th column) AND,
+SCIENTIFIC NAME:,SCIENTIFIC NAME:,
+DIGIT,REPRESENTS,
+------,----------,
+1-2,Phylum,
+3-4,Class and Order,
+5-6,Family,
+7-8,Genus,
+9-10,Species,
+11-12,Subspecies,
+13,Special inhouse modifier,
+"# SPECIES INHOUSE CODE, REFERENCE CODE, AND SCIENTIFIC NAME","# SPECIES INHOUSE CODE, REFERENCE CODE, AND SCIENTIFIC NAME","# SPECIES INHOUSE CODE, REFERENCE CODE, AND SCIENTIFIC NAME"
+INHOUSE CODE IS SAME AS REFERENCE CODE WITH THE ADDITION OF AN,INHOUSE CODE IS SAME AS REFERENCE CODE WITH THE ADDITION OF AN,INHOUSE CODE IS SAME AS REFERENCE CODE WITH THE ADDITION OF AN
+INHOUSE MODIFER IN COLUMN 13.,INHOUSE MODIFER IN COLUMN 13.,THE MODIFIER IN THE 13TH COLUMN
+HAS DIFFERENT MEANINGS DEPENDING ON THE TAXA BEING CONSIDERED.,HAS DIFFERENT MEANINGS DEPENDING ON THE TAXA BEING CONSIDERED.,HAS DIFFERENT MEANINGS DEPENDING ON THE TAXA BEING CONSIDERED.
+"FOR LARGER METAZOA, A ONE IN THIS COLUMN INDICATES THAT THE","FOR LARGER METAZOA, A ONE IN THIS COLUMN INDICATES THAT THE","FOR LARGER METAZOA, A ONE IN THIS COLUMN INDICATES THAT THE"
+ORGANISM IS IN ITS LARVAL OR NAUPLIAR STAGE.,ORGANISM IS IN ITS LARVAL OR NAUPLIAR STAGE.,FOR SMALLER METAZOA
+"SUCH AS ROTIFERS AND FOR NON-TINTINNINE CILIATE PROTOZOA, THIS","SUCH AS ROTIFERS AND FOR NON-TINTINNINE CILIATE PROTOZOA, THIS","SUCH AS ROTIFERS AND FOR NON-TINTINNINE CILIATE PROTOZOA, THIS"
+MODIFIER MAY INDICATE A SIZE CATEGORY WITHIN A TAXA.,MODIFIER MAY INDICATE A SIZE CATEGORY WITHIN A TAXA.,THE NODC
+CODE DOES NOT DISTINGUISH BETWEEN LIFE HISTORY STAGES.,CODE DOES NOT DISTINGUISH BETWEEN LIFE HISTORY STAGES.,FOR
+"TINTINNINE CILIATES (3540...),A 0, 1, 2 (OR 3, 4, 5)","TINTINNINE CILIATES (3540...),A 0, 1, 2 (OR 3, 4, 5)",
+IN THE 13TH COLUMN INDICATES THAT IT WAS NOT OR COULD NOT BE,IN THE 13TH COLUMN INDICATES THAT IT WAS NOT OR COULD NOT BE,IN THE 13TH COLUMN INDICATES THAT IT WAS NOT OR COULD NOT BE
+"DETERMINED IF THE LORICA CONTAINED A CELL, THAT THE LORICA DID","DETERMINED IF THE LORICA CONTAINED A CELL, THAT THE LORICA DID","DETERMINED IF THE LORICA CONTAINED A CELL, THAT THE LORICA DID"
+"CONTAIN A CELL (FULL), OR THAT THE LORICA DID NOT CONTAIN A CELL","CONTAIN A CELL (FULL), OR THAT THE LORICA DID NOT CONTAIN A CELL","CONTAIN A CELL (FULL), OR THAT THE LORICA DID NOT CONTAIN A CELL"
+"(EMPTY), RESPECTIVELY.","(EMPTY), RESPECTIVELY.","FOR AN UNDESCRIBED SPECIES, THE CODE IS"
+"GIVEN DOWN TO THE LOWEST POSSIBLE TAXONOMIC LEVEL, THE UNKNOWN","GIVEN DOWN TO THE LOWEST POSSIBLE TAXONOMIC LEVEL, THE UNKNOWN","GIVEN DOWN TO THE LOWEST POSSIBLE TAXONOMIC LEVEL, THE UNKNOWN"
+LEVELS ARE GIVEN ZEROS AND A NUMBER IS ASSIGNED IN THE SUBSPECIES,LEVELS ARE GIVEN ZEROS AND A NUMBER IS ASSIGNED IN THE SUBSPECIES,LEVELS ARE GIVEN ZEROS AND A NUMBER IS ASSIGNED IN THE SUBSPECIES
+COLUMNS (11-12) (E.G. BRACHIONUS A = 4506010400010; ROTIFER A =,COLUMNS (11-12) (E.G. BRACHIONUS A = 4506010400010; ROTIFER A =,COLUMNS (11-12) (E.G. BRACHIONUS A = 4506010400010; ROTIFER A =
+45000000010). THESE NUMBERS WILL BE COMPLETED WHEN MORE DETAILED,45000000010). THESE NUMBERS WILL BE COMPLETED WHEN MORE DETAILED,45000000010). THESE NUMBERS WILL BE COMPLETED WHEN MORE DETAILED
+TAXONOMIC INFORMATION IS OBTAINED.,TAXONOMIC INFORMATION IS OBTAINED.,
+ONLY THE ORGANISMS GREATER THAN 44 AND LESS THAN 200 UM,ONLY THE ORGANISMS GREATER THAN 44 AND LESS THAN 200 UM,ONLY THE ORGANISMS GREATER THAN 44 AND LESS THAN 200 UM
+IN SMALLEST DIMENSION ARE INCLUDED IN THE SPECIES LIST.,IN SMALLEST DIMENSION ARE INCLUDED IN THE SPECIES LIST.,THE
+MICROZOOPLANKTON LESS THAN 44 UM ARE NOTED AND RECORDED AS EITHER,MICROZOOPLANKTON LESS THAN 44 UM ARE NOTED AND RECORDED AS EITHER,MICROZOOPLANKTON LESS THAN 44 UM ARE NOTED AND RECORDED AS EITHER
+"RARE, COMMON, ABUNDANT, OR DOMINANT.","RARE, COMMON, ABUNDANT, OR DOMINANT.",THE MACROZOOPLANKTON ARE
+ENUMERATED AND RECORDED SEPARATELY.,ENUMERATED AND RECORDED SEPARATELY.,HARD COPIES AND COPIES ON
+DISKETTES OF THESE DATA AS WELL AS THE SPECIES LISTS FOR THESE,DISKETTES OF THESE DATA AS WELL AS THE SPECIES LISTS FOR THESE,DISKETTES OF THESE DATA AS WELL AS THE SPECIES LISTS FOR THESE
+GROUPS ARE AVAILABLE FROM S.G. BROWNLEE AT THE BENEDICT LAB.,GROUPS ARE AVAILABLE FROM S.G. BROWNLEE AT THE BENEDICT LAB.
+CODE,SPECIES
+0000000000001,UNIDED LARVAE
+0000000000002,UNIDED TROCHOPHORE LARVAE
+3438000000000,SARCODINA-UNIDED SARCODINID
+3442010000000,DIFFLUGIIDAE
+3442010100000,DIFFLUGIA SPP.
+3442010201000,LESQUEREUSIA GIBBOSA
+3442020100000,ARCELLA SP.
+3442030000000,CENTROPYXIDAE
+3442030100000,CENTROPYXIS SP.
+3442030101000,CENTROPYXIS ACULEATA
+3442040000000,PARAQUADRULIDAE
+3442040200000,QUADRULELLA SP.
+3442050000000,HYALOSPHENIIDAE-TESTATED AMOEBA
+3445020000000,EUGLYPHA SP.
+3445040000000,CYPHODERIIDAE
+3445040100000,CYPHODERIA SP.
+3448000000000,FORAMINIFERIDA
+3512000000000,CILIOPHORA-UNIDED CILIATE
+3516000000000,HAPTORIDA
+3516010100000,DIDINIUM SP.
+3516010202000,MESODINIUM RUBRUM
+3516020000001,TRACHELOCERCIDAE-LARGE
+3517000000001,CYRTOPHORIDA-LARGE
+3530000000001,PERITRICHIDA-LARGE
+3531000000000,SESSILINA-UNIDED SESSILINE PERITRICH
+3532000000000,MOBILINA-UNIDED MOBILINE PERITRICH
+3533000000000,SUCTORIA-UNIDED SUCTORIAN
+3534010100000,ACINETA SP.
+3534030700000,STAUROPHRYA SP.
+3534040100000,EPHELOTA SP.
+3537000000000,HETEROTRICHINA-UNIDED HETEROTRICH
+3539000000000,OLIGOTRICHINA-UNIDED OLIGOTRICH
+3539020100000,STENTOR SP.
+3539030000000,STROMBIDIDAE
+3539030100000,STROMBIDIUM SP.
+3539030200000,TONTONIA SP.
+3540000000000,TINTINNINA-UNIDED TINTINNID
+3540010100050,TINTINNIDIUM SP.-LARGE
+3540010100051,TINTINNIDIUM SP.-LARGE-FULL
+3540010100052,TINTINNIDIUM SP.-LARGE-EMPTY
+3540020100000,TINTINNOPSIS SP.
+3540020100001,TINTINNOPSIS SP.-FULL
+3540020100002,TINTINNOPSIS SP.-EMPTY
+3540020100030,TINTINNOPSIS SUBACUTA-HUGE
+3540020100031,TINTINNOPSIS SUBACUTA-HUGE-FULL
+3540020100032,TINTINNOPSIS SUBACUTA-HUGE-EMPTY
+3540020100050,TINTINNOPSIS SP. A
+3540020100051,TINTINNOPSIS SP. A-FULL
+3540020100052,TINTINNOPSIS SP. A-EMPTY
+3540020105000,TINTINNOPSIS DADAYI
+3540020105001,TINTINNOPSIS DADAYI-FULL
+3540020105002,TINTINNOPSIS DADAYI-EMPTY
+3540020123000,TINTINNOPSIS FIMBRIATA
+3540020123001,TINTINNOPSIS FIMBRIATA-FULL
+3540020123002,TINTINNOPSIS FIMBRIATA-EMPTY
+3540020123003,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP
+3540020123004,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP-FULL
+3540020123005,TINTINNOPSIS FIMBRIATA-MEUNIERI GRP-EMPTY
+3540020129000,TINTINNOPSIS RADIX
+3540020129001,TINTINNOPSIS RADIX-FULL
+3540020129002,TINTINNOPSIS RADIX-EMPTY
+3540020133000,TINTINNOPSIS SUBACUTA
+3540020133001,TINTINNOPSIS SUBACUTA-FULL
+3540020133002,TINTINNOPSIS SUBACUTA-EMPTY
+3540020136000,TINTINNOPSIS MEUNIERI
+3540020136001,TINTINNOPSIS MEUNIERI-FULL
+3540020136002,TINTINNOPSIS MEUNIERI-EMPTY
+3540020137000,TINTINNOPSIS KARAJACENSIS
+3540020137001,TINTINNOPSIS KARAJACENSIS-FULL
+3540020137002,TINTINNOPSIS KARAJACENSIS-EMPTY
+3540020138000,TINTINNOPSIS NITIDA
+3540020138001,TINTINNOPSIS NITIDA-FULL
+3540020138002,TINTINNOPSIS NITIDA-EMPTY
+3540030100010,STENOSEMELLA SP.A
+3540030100011,STENOSEMELLA SP.A-FULL
+3540030100012,STENOSEMELLA SP.A-EMPTY
+3540050100020,METACYLIS SP. B
+3540050100021,METACYLIS SP. B-FULL
+3540050100022,METACYLIS SP. B-EMPTY
+3540050100030,METACYLIS SP. C
+3540050100031,METACYLIS SP. C-FULL
+3540050100032,METACYLIS SP. C-EMPTY
+3540050400000,CLIMACOCYLIS SP.
+3540050400001,CLIMACOCYLIS SP.-FULL
+3540050400002,CLIMACOCYLIS SP.-EMPTY
+3540050501000,STYLICAUDA PLATENSIS
+3540050501001,STYLICAUDA PLATENSIS-FULL
+3540050501002,STYLICAUDA PLATENSIS-EMPTY
+3540070100000,FAVELLA SP.
+3540070100001,FAVELLA SP.-FULL
+3540070100002,FAVELLA SP.-EMPTY
+3540130100010,EUTINTINNUS SP.A
+3540130100011,EUTINTINNUS SP.A-FULL
+3540130100012,EUTINTINNUS SP.A-EMPTY
+3543000000000,HYPOTRICHIDA
+3545010000000,EUPLOTIDAE
+3545010100001,EUPLOTES SPP.-LARGE
+3545010100020,EUPLOTES SP. A
+3545010100030,EUPLOTES SP. B
+4400000000000,GASTROTRICHA
+4500000000000,ROTIFERA-UNIDED ROTIFER
+4500000000010,ROTIFER A
+4500000000020,ROTIFER B
+4500000000030,ROTIFER C
+4500000000040,ROTIFER D
+4500000000050,ROTIFER E
+4500000000060,ROTIFER F
+4504000000000,BDELLOIDA-UNIDED BDELLOID ROTIFER
+4504020100000,ROTARIA SP.
+4504020103000,ROTARIA CITRINUS
+4504020104000,ROTARIA NEPTUNIA
+4504020300000,MACROTRACHELA SP.
+4506010100000,KERATELLA SP.
+4506010100010,KERATELLA SP. A
+4506010102000,KERATELLA QUADRATA
+4506010103000,KERATELLA COCHLEARIS
+4506010103020,KERATELLA COCHLEARIS COCHLEARIS
+4506010103030,KERATELLA COCHLEARIS HISPIDA
+4506010103040,KERATELLA COCHLEARIS MICRACANTHA
+4506010103050,KERATELLA COCHLEARIS ROBUSTA
+4506010103060,KERATELLA COCHLEARIS TECTA
+4506010104000,KERATELLA CRASSA
+4506010105000,KERATELLA EARLINAE
+4506010106000,KERATELLA VALGA
+4506010200000,NOTHOLCA SP.
+4506010203000,NOTHOLCA ACUMINATA
+4506010300000,COLURELLA SP.
+4506010400000,BRACHIONUS SP.
+4506010400010,BRACHIONUS SP. A
+4506010400020,BRACHIONUS SP. B
+4506010401000,BRACHIONUS PLICATILIS
+4506010402000,BRACHIONUS CALYCIFLORUS
+4506010403000,BRACHIONUS HAVANAENSIS
+4506010404000,BRACHIONUS PTERODINOIDES
+4506010405000,BRACHIONUS URCEOLARIS
+4506010406000,BRACHIONUS ANGULARIS
+4506010407000,BRACHIONUS BIDENTATA
+4506010408000,BRACHIONUS BUDAPESTINENSIS
+4506010409000,BRACHIONUS CAUDATUS
+4506010410000,BRACHIONUS DIVERSICORNIS
+4506010411000,BRACHIONUS QUADRIDENTATUS
+4506010412000,BRACHIONUS RUBENS
+4506010413000,BRACHIONUS VARIABILIS
+4506010500000,KELLICOTTIA SP.
+4506010501000,KELLICOTTIA LONGISPINA
+4506010502000,KELLICOTTIA BOSTONIENSIS
+4506010700000,LEPADELLA SP.
+4506010704000,LEPADELLA PATELLA
+4506010800000,ANURAEOPSIS SP.
+4506010801000,ANURAEOPSIS FISSA
+4506010900000,EPIPHANES SP.
+4506011000000,EUCHLANIS SP.
+4506011001000,EUCHLANIS DILATATA
+4506011100000,LOPHOCHARIS SP.
+4506011101000,LOPHOCHARIS SALPINA
+4506011200000,MACROCHAETUS SP.
+4506011300000,MYTILINA SP.
+4506011400000,PLATYIAS SP.
+4506011401000,PLATYIAS PATULUS
+4506011402000,PLATYIAS QUADRICORNIS
+4506011500000,TRICHOTRIA SP.
+4506011501000,TRICHOTRIA TETRACTIS
+4506020100000,LECANE SP.
+4506020200000,MONOSTYLA SP.
+4506020201000,MONOSTYLA BULLA
+4506020202000,MONOSTYLA CLOSTEROCERCA
+4506020203000,MONOSTYLA QUADRIDENTATA
+4506040100000,ENCENTRUM SP.
+4506040200000,PROALES SP.
+4506040300000,CEPHALODELLA SP.
+4506040302000,CEPHALODELLA GIBBA
+4506040400000,NOTOMMATA SP.
+4506040500000,MONOMMATA SP.
+4506040600000,EOSPHORA SP.
+4506070100000,TRICHOCERCA SP.
+4506070102000,TRICHOCERCA CYLINDRICA
+4506070103000,TRICHOCERCA LONGISETA
+4506070104000,TRICHOCERCA MULTICRINIS
+4506070105000,TRICHOCERCA SIMILIS
+4506080100000,ASCOMORPHA SP.
+4506080101000,ASCOMORPHA OVALIS
+4506080102000,ASCOMORPHA SALTANS
+4506080200000,GASTROPUS SP.
+4506080201000,GASTROPUS MINOR
+4506120100000,ASPLANCHNA SP.
+4506120101000,ASPLANCHNA BRIGHTWELLI
+4506120102000,ASPLANCHNA HERRICKI
+4506120103000,ASPLANCHNA PRIODONTA
+4506130200000,SYNCHAETA SP.
+4506130200001,SYNCHAETA SPP. L-LARGE
+4506130200002,SYNCHAETA SPP. M-MEDIUM
+4506130200003,SYNCHAETA SPP. S-SMALL
+4506130200010,SYNCHAETA BICORNIS
+4506130200020,SYNCHAETA BALTICA
+4506130204000,SYNCHAETA PECTINATA
+4506130206000,SYNCHAETA OBLONGA
+4506130207000,SYNCHAETA STYLATA
+4506130300000,POLYARTHRA SP.
+4506130302000,POLYARTHRA DISSIMULANS
+4506130303000,POLYARTHRA DOLICHOPTERA
+4506130304000,POLYARTHRA EURYPTERA
+4506130305000,POLYARTHRA MAJOR
+4506130306000,POLYARTHRA REMATA
+4506130307000,POLYARTHRA VULGARIS
+4506130400000,PLOESOMA SP.
+4506130401000,PLOESOMA HUDSONI
+4506130402000,PLOESOMA TRUNCATUM
+4507010100000,TESTUDINELLA SP.
+4507010101000,TESTUDINELLA PATINA
+4507020100000,HEXARTHRA SP.
+4507020101000,HEXARTHRA MIRA
+4507040100000,CONOCHILOIDES SP.
+4507040102000,CONOCHILOIDES DOSSUARIUS
+4507040103000,CONOCHILOIDES NATANS
+4507040200000,CONOCHILUS SP.
+4507040201000,CONOCHILUS HIPPOCREPIS
+4507040202000,CONOCHILUS UNICORNIS
+4507050100000,FILINIA SP.
+4507050101000,FILINIA LONGISETA
+4507050102000,FILINIA BRACHIATA
+4507050103000,FILINIA TERMINALIS
+4508010100000,COLLOTHECA SP.
+4508010101000,COLLOTHECA MUTABILIS
+4508010102000,COLLOTHECA PELAGICA
+4700000000000,NEMATODA
+5100000000001,GASTROPODA-LARVAE
+5500000000001,PELECYPODA-LARVAE
+5515370301000,DREISSENA POLYMORPHA
+5922000000000,ACARINA-MITE
+6117000000001,COPEPOD NAUPLII
+6117000000005,COPEPOD NAUPLII+PERITRICHS
+6118180100001,DIAPTOMUS -NAUPLII
+6118190200001,PSEUDODIAPTOMUS SP.-NAUPLII
+6118200200001,EURYTEMORA SP.-NAUPLII
+6118290100001,ACARTIA SP.-NAUPLII
+6119050200001,SCOTTOLANA SP.-NAUPLII
+6120080200001,CYCLOPS SP.-NAUPLII
+6120080300001,MESOCYCLOPS SP.-NAUPLII
+6120090100001,OITHONA SP.-NAUPLII
+6120260100001,HEMICYCLOPS SP.-NAUPLII
+7500000000000,TARTIGRADA
+THE ABOVE SPECIES LIST HAS BEEN INCLUDED ON THE DATA TAPE AS,THE ABOVE SPECIES LIST HAS BEEN INCLUDED ON THE DATA TAPE AS
+FILE MMZP.SD2.,FILE MMZP.SD2.
+4/15/92 -,THE NAME OF SPECIES #4506130200010 HAS CHANGED FROM
+SYNCHAETA SP. A-LONG HORNS TO SYNCHAETA BICORNIS AND FOR SPECIES,SYNCHAETA SP. A-LONG HORNS TO SYNCHAETA BICORNIS AND FOR SPECIES
+"#4506130200020, THE NAME HAS CHANGED FROM SYNCHAETA SP. B-'PORKER' TO","#4506130200020, THE NAME HAS CHANGED FROM SYNCHAETA SP. B-'PORKER' TO"
+SYNCHAETA BALTICA.,SYNCHAETA BALTICA.
+# NUMERICAL VARIABLE NAMES - WARNING AND ERROR BOUNDS,# NUMERICAL VARIABLE NAMES - WARNING AND ERROR BOUNDS
+VARIABLE,VALID
+,RANGE
+----------,-----------
+DATE,840802-971218
+TIME,0651-1935
+TDEPTH,1.8-33
+PDEPTH,0.5-22.0
+VOLPDEPT,2-20
+TOTVCOMP,12-200
+SER_NUM,01001-240039
+A_DEPTH1,0.2- 1.0
+A_DEPTH2,0.4- 5.0
+A_DEPTH3,0.5-10.0
+A_DEPTH4,0.5-15.0
+A_DEPTH5,0.5-21.5
+B_DEPTH1,1-22.5
+B_DEPTH2,1-25.0
+B_DEPTH3,1-27.0
+B_DEPTH4,1-29.0
+B_DEPTH5,1-32.0
+CONCENT,10-500
+MLSCNT,0.01-10
+RAWCT,1-9999
+DENSITYV,0.05-10000.00
+TDENSITY,1-999999.99
+# CHARACTER VARIABLES - VALID VALUES,# CHARACTER VARIABLES - VALID VALUES
+VARIABLE,VALID
+,VALUES
+----------,-----------
+REPNUM,
+1,
+2,
+3,
+4,
+T,
+B,
+W,
+TRIB_COD,
+BAY,
+PAX,
+POT,
+PAT,
+CHS,
+CHP,
+SPECCODE,0000000000001-7500000000000
+STATION,
+MCB1.1,MCB1.1
+MCB2.1,MCB2.1
+MCB2.2,MCB2.2
+MCB3.3C,MCB3.3C
+MCB4.3C,MCB4.3C
+MCB5.2,MCB5.2
+XDE5339,XDE5339
+XED4892,XED4892
+XED9490,XED9490
+PXT0402,PXT0402
+XEA6596,XEA6596
+XEA1840,XEA1840
+XDA1177,XDA1177
+MLE2.2,
+MET4.2,
+MET5.1,
+MET5.0,
+MET5.2,
+MEE3.1,
+MWT5.1,
+GMETHOD,P
+FC_INIT,
+CVW,
+REJ,
+RVL,
+KGS,
+SGB,
+SSH,
+CRP,
+KRB,
+DCB,
+CF,
+MHB,
+ABT,
+BBW,
+JSH,
+ALI,
+DET,
+PHD,
+DCN,
+AMH,
+KAM,
+KMB,
+ALM,
+RMJ,
+SGS,
+KAR,
+SGS,
+JLG,
+LI_INIT,
+BBW,
+REJ,
+SGB,
+SSH,
+JHS,
+,KAM
+,KMB
+,RMJ
+,KAR
+,SGS
+,JLG
+# KEY WORDS (EXCLUDING VARIABLE NAMES),# KEY WORDS (EXCLUDING VARIABLE NAMES)
+# INITIALS OF SCIENTISTS IN DATA SET,# INITIALS OF SCIENTISTS IN DATA SET
+CVW Carolyn V. Watson,CVW Carolyn V. Watson
+REJ Richard E. Jacobsen,REJ Richard E. Jacobsen
+RVL Richard V. Lacouture,RVL Richard V. Lacouture
+KGS Kevin G. Sellner,KGS Kevin G. Sellner
+SGB Stella G. Brownlee,SGB Stella G. Brownlee
+SGS Stella G. Sellner (Brownlee),SGS Stella G. Sellner (Brownlee)
+SH,Sharyn S. Hedrick
+SSH Sharyn S. Hedrick,SSH Sharyn S. Hedrick
+CRP Charles R. Parrish,CRP Charles R. Parrish
+KB,Kevin R. Braun
+KRB Kevin R. Braun,KRB Kevin R. Braun
+DCB David C. Brownlee,DCB David C. Brownlee
+CF,Chris Frye
+MHB Marie H. Bundy,MHB Marie H. Bundy
+ABT Allison B. Tate,ABT Allison B. Tate
+BBW Bruce B. Wagoner,BBW Bruce B. Wagoner
+JSH Jeffrey S. Handen,JSH Jeffrey S. Handen
+ALI Amy L. Imirie,ALI Amy L. Imirie
+PHD Paul H. DiNunno,PHD Paul H. DiNunno
+DET Douglas E. Talaber,DET Douglas E. Talaber
+DCN Donna C. Nicholson,DCN Donna C. Nicholson
+AMH Ann Marie Hartsig,AMH Ann Marie Hartsig
+JHS James H. Sniezek,JHS James H. Sniezek
+KAM Kimberly A. Morcom,KAM Kimberly A. Morcom
+KMB Kimberly Morcom Burke,KMB Kimberly Morcom Burke
+ALM Andrea L. Morcom,ALM Andrea L. Morcom
+"RMJ Ralph Matos, Jr.","RMJ Ralph Matos, Jr."
+KAR Karen A. Rota,KAR Karen A. Rota
+JLG Jennifer L. Gronefeld,JLG Jennifer L. Gronefeld

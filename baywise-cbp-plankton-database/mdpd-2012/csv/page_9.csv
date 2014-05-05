@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”
+Table: 9,Table: 9
+,
+,Page 9 of 13
+Back to Top,
+Spatial_Data_Organization_Information:,
+Indirect_Spatial_Reference_Method:,
+Chesapeake Bay and Its Tidal Tribuaries in the State of Maryland,
+Direct_Spatial_Reference_Method: Point,
+Point_and_Vector_Object_Information:,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,
+Spatial_Reference_Information:,
+Horizontal_Coordinate_System_Definition:,
+Geographic:,
+Latitude_Resolution: 30,
+Longitude_Resolution: 30,
+Geographic_Coordinate_Units: Decimal degrees,
+Geodetic_Model:,
+Horizontal_Datum_Name: North American Horizontal Datum of 1983,
+Ellipsoid_Name: Geodedic Reference System 80,
+Semi-major_Axis: 6378206.4,
+Denominator_of_Flattening_Ratio: 294.98,
+Vertical_Coordinate_System_Definition:,
+Depth_System_Definition:,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,
+Depth_Distance_Units: meters,
+Depth_Encoding_Method: Attribute values,
+Back to Top,
+Entity_and_Attribute_Information:,
+Overview_Description:,
+Entity_and_Attribute_Overview:,
+Maryland Water Quality Monitoring Program:Primary Monitoring Component,Maryland Water Quality Monitoring Program:Primary Monitoring Component
+Project Documentation,
+ftp.chesapeakebay.net/pub/Living_Resources/plank/prod/mdpddoc.pdf,
+Entity_and_Attribute_Detail_Citation:,
+5/31/95- CRUISE NUMBERS - BAY004 - BAY211 were supplied by the,5/31/95- CRUISE NUMBERS - BAY004 - BAY211 were supplied by the
+Chesapeake Bay Program office and modified by Amy Imirie and Elgin Perry to,Chesapeake Bay Program office and modified by Amy Imirie and Elgin Perry to
+reflect true start and end dates with corresponding MSUP trip numbers.,This
+prevents the occurrence of two sampling events for one station during a Bay Cruise,prevents the occurrence of two sampling events for one station during a Bay Cruise
+period.,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata7.htm,4/26/2012

@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 13 of 24”,Name: “Table 1 of 1 on page 13 of 24”,Name: “Table 1 of 1 on page 13 of 24”,Name: “Table 1 of 1 on page 13 of 24”,Name: “Table 1 of 1 on page 13 of 24”
+Table: 13,Table: 13,Table: 13,Table: 13,Table: 13
+,,,,
+,,,,Page 13 of 24
+>,Biovolume,Determination,Formulas,
+SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous,SET_VOL = SETVOL / FVOL_M3 = Settled Volume of all Non Gelatinous
+Zooplankton and Detritus,Zooplankton and Detritus,Zooplankton and Detritus,,
+(Milliliters per Cubic Meter),(Milliliters per Cubic Meter),(Milliliters per Cubic Meter),,
+SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of,SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of,SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of,SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of,SET_VOLZ = SETVOLZ / FVOL_M3 = Estimated Settled Volume of
+Zooplankton,Zooplankton,,,
+(Milliliters per Cubic Meter),(Milliliters per Cubic Meter),(Milliliters per Cubic Meter),,
+Where,,,,
+SETVOL = Settled Volume of zooplankton and detritus (ml/sample),SETVOL = Settled Volume of zooplankton and detritus (ml/sample),SETVOL = Settled Volume of zooplankton and detritus (ml/sample),SETVOL = Settled Volume of zooplankton and detritus (ml/sample),SETVOL = Settled Volume of zooplankton and detritus (ml/sample)
+SETVOLZ = Settled Volume of Zooplankton (ml/sample),SETVOLZ = Settled Volume of Zooplankton (ml/sample),SETVOLZ = Settled Volume of Zooplankton (ml/sample),SETVOLZ = Settled Volume of Zooplankton (ml/sample),
+BEROEVOL = Volume of Beroe (ml/sample),BEROEVOL = Volume of Beroe (ml/sample),BEROEVOL = Volume of Beroe (ml/sample),BEROEVOL = Volume of Beroe (ml/sample),
+CNIDAVOL = Cnidaria Volume (ml/sample) ###,CNIDAVOL = Cnidaria Volume (ml/sample) ###,CNIDAVOL = Cnidaria Volume (ml/sample) ###,CNIDAVOL = Cnidaria Volume (ml/sample) ###,
+CTENOVOL = Ctenophore Volume (ml/sample) ###,CTENOVOL = Ctenophore Volume (ml/sample) ###,CTENOVOL = Ctenophore Volume (ml/sample) ###,CTENOVOL = Ctenophore Volume (ml/sample) ###,
+HYDRAVOL = Volume of Hydromedusae (ml/sample),HYDRAVOL = Volume of Hydromedusae (ml/sample),HYDRAVOL = Volume of Hydromedusae (ml/sample),HYDRAVOL = Volume of Hydromedusae (ml/sample),
+JELLYVOL = Volume of Jellyfish (#/sample),JELLYVOL = Volume of Jellyfish (#/sample),JELLYVOL = Volume of Jellyfish (#/sample),JELLYVOL = Volume of Jellyfish (#/sample),
+MNEMVOL = Volume of Mnemiopsis (ml/sample),MNEMVOL = Volume of Mnemiopsis (ml/sample),MNEMVOL = Volume of Mnemiopsis (ml/sample),MNEMVOL = Volume of Mnemiopsis (ml/sample),
+"FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as"
+(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,(3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999
+And the rotor constant = 26.873,And the rotor constant = 26.873,And the rotor constant = 26.873,,
+### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN,### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN,### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN,### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN,### SEE BIOLOGICAL PARAMETERS SECTION FOR CHANGES IN
+REPORTING,REPORTING,,,
+"In cases where field samples contained large amounts of detritus or algae, the","In cases where field samples contained large amounts of detritus or algae, the","In cases where field samples contained large amounts of detritus or algae, the","In cases where field samples contained large amounts of detritus or algae, the","In cases where field samples contained large amounts of detritus or algae, the"
+biovolume and biomass could not be determined directly. The settled volumes,biovolume and biomass could not be determined directly. The settled volumes,biovolume and biomass could not be determined directly. The settled volumes,biovolume and biomass could not be determined directly. The settled volumes,biovolume and biomass could not be determined directly. The settled volumes
+were estimated by regressing total dry weight versus biovolume in detritus free,were estimated by regressing total dry weight versus biovolume in detritus free,were estimated by regressing total dry weight versus biovolume in detritus free,were estimated by regressing total dry weight versus biovolume in detritus free,were estimated by regressing total dry weight versus biovolume in detritus free
+samples.,samples.,,,
+The regression to estimate biovolume is as follows:,The regression to estimate biovolume is as follows:,The regression to estimate biovolume is as follows:,The regression to estimate biovolume is as follows:,
+Y=24.96(X),Y=24.96(X),,,
+Where,,,,
+Y= Settled biovolume in milliliters,Y= Settled biovolume in milliliters,Y= Settled biovolume in milliliters,,
+X= Total sample dry weight in grams.,X= Total sample dry weight in grams.,X= Total sample dry weight in grams.,X= Total sample dry weight in grams.,
+Process_Date: Unknown,Process_Date: Unknown,,,
+Process_Contact:,Process_Contact:,,,
+Contact_Information:,Contact_Information:,Contact_Information:,,
+Contact_Person_Primary:,Contact_Person_Primary:,Contact_Person_Primary:,,
+,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,Contact_Person: Jacqueline Johnson,
+,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River,Contact_Organization: Interstate Commission on Potomac River
+,Basin,,,
+Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data,Contact_Position: Chesapeake Bay Program Living Resources Data
+Manager,Manager,,,
+Contact_Address:,Contact_Address:,Contact_Address:,,
+,Address_Type: mailing and physical address,Address_Type: mailing and physical address,Address_Type: mailing and physical address,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,4/26/2012

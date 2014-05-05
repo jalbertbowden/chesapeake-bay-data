@@ -1,0 +1,34 @@
+Name: “Table 1 of 1 on page 17 of 40”,Name: “Table 1 of 1 on page 17 of 40”,Name: “Table 1 of 1 on page 17 of 40”,Name: “Table 1 of 1 on page 17 of 40”
+Table: 17,Table: 17,Table: 17,Table: 17
+,,,
+CB1.1,39-32.7,76-04.9,6.1
+CB2.1,39-26.4,76-01.5,6.2
+CB2.2,39-20.8,76-10.5,12.1
+CB3.3C 38-59.7,CB3.3C 38-59.7,76-21.6,23.7
+CB4.3C 38-33.4,CB4.3C 38-33.4,76-26.1,26.1
+CB5.2,38-08.2,76-13.7,30.1
+LE1.1 38-25.5,LE1.1 38-25.5,76-36.1,12.0
+TF1.7 38-35.0,TF1.7 38-35.0,76-40.7,3.0
+TF1.6 38-39.5,TF1.6 38-39.5,76-41.1,6.2
+TF1.5 38-42.7,TF1.5 38-42.7,76-42.2,10.3
+TF2.3 38-36.3,TF2.3 38-36.3,77-10.3,12.7
+TF2.4 38-31.5,TF2.4 38-31.5,77-16.6,9.0
+RET2.2 38-21.1,RET2.2 38-21.1,77-12.2,9.5
+LE2.2,38-09.6,76-35.8,11.0
+ET4.2,38-59,76-13,14.6
+ET5.1,38-48.4,75-54.4,5.3
+ET5.0A,38-46.5,75-58.1,11.0
+ET5.2,38-34.8,76-02.5,12.3
+EE3.1,38-12,75-58,13.7
+WT5.1,39-12.7,76-31.4,15.7
+,Data Entry Method,Data Entry Method,
+,"Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and","Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and","Computer keyboard to disk from data sheets for sampling trips prior to April 1985, and"
+keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January,keyboard to disk for trips from April 1985 through December 1994. Starting in January
+"1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network.","1995, computer keyboard to inhouse computer network."
+,Data Verification,Data Verification,
+,Visual inspection and computer verification program.,Visual inspection and computer verification program.,Visual inspection and computer verification program.
+,"Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions","Variable Names, SAS Labels and Descriptions"
+ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM,ANSMZyyH.SD2 - common sample information may be merged with counts using SER_NUM
+,,where yy is year of data set,where yy is year of data set
+,List of Variables,List of Variables,
+,,,15

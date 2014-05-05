@@ -1,0 +1,33 @@
+Name: “Table 1 of 1 on page 7 of 40”,Name: “Table 1 of 1 on page 7 of 40”,Name: “Table 1 of 1 on page 7 of 40”,Name: “Table 1 of 1 on page 7 of 40”,Name: “Table 1 of 1 on page 7 of 40”,Name: “Table 1 of 1 on page 7 of 40”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,,
+Literature Cited,,,,,
+"Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.","Armengol-Diaz, J., A. Esparcia, E. Vicente and M. R. Miracle.",1993.,Vertical distribution of
+planktonic rotifers in a karstic meromictic lake.,planktonic rotifers in a karstic meromictic lake.,planktonic rotifers in a karstic meromictic lake.,Hydrobiologia 255/256:381-388.,Hydrobiologia 255/256:381-388.,
+"Brownlee, D. C. and F. Jacobs.","Brownlee, D. C. and F. Jacobs.",1987.,Mesozooplankton and microzooplankton in the,Mesozooplankton and microzooplankton in the,
+Chesapeake Bay.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,In Contaminant Problems of Living Chesapeake Bay Resources.,Edited by S.
+"K. Majumdar, L. W. Hall and H. M. Austin.","K. Majumdar, L. W. Hall and H. M. Austin.","K. Majumdar, L. W. Hall and H. M. Austin.",The Pennsylvania Academy of Sciences.,The Pennsylvania Academy of Sciences.,(Pages
+245-263),,,,,
+"Dolan, J. R.",1989.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,The ecology of ciliate microzooplankton in the Chesapeake Bay.,PhD
+Dissertation.,"University of Maryland, College Park, MD.","University of Maryland, College Park, MD.","University of Maryland, College Park, MD.",(Pages 20-21),
+"Stoecker, D. K., D. J. Gifford and M. Putt.","Stoecker, D. K., D. J. Gifford and M. Putt.","Stoecker, D. K., D. J. Gifford and M. Putt.",1994. Preservation of marine planktonic ciliates:,1994. Preservation of marine planktonic ciliates:,1994. Preservation of marine planktonic ciliates:
+losses and cell shrinkage during fixation.,losses and cell shrinkage during fixation.,losses and cell shrinkage during fixation.,Mar. Ecol. Prog. Ser. 110:293-299.,Mar. Ecol. Prog. Ser. 110:293-299.,
+"Venrick, E.L. 1978.","Venrick, E.L. 1978.",How many cells to count?,"Pages 167-180 in A. Sournia (ed.),","Pages 167-180 in A. Sournia (ed.),",
+Phytoplankton manual.,Phytoplankton manual.,"UNESCO, Paris.",,,
+Data Deliverable Information:,Data Deliverable Information:,,,,
+"Formulas, Calculations and Conversions","Formulas, Calculations and Conversions","Formulas, Calculations and Conversions",,,
+The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon,The following equation is used to convert net sample raw counts to density (#/L) for each taxon
+identified:,,,,,
+DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL,DENSITY=((RAWCT/MLSCNT)*CONCENTRATE VOLUME)/TOTAL SPLE VOL
+where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,where RAWCT= raw count of the organism,,
+,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,MLSCNT=number of ml of the concentrated sample counted,
+,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn,CONCENTRATE VOLUME=concentration of the sample after it is drawn
+,down in the lab,,,,
+,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,TOTAL SPLE VOL=number of liters pumped through the net,
+The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each,The following equation is used to convert whole water sample counts to density (#/L) for each
+taxon identified:,,,,,
+DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,DENSITY=(RAWCNT/#MLSETTLED)*1000*1.02 = #/L,where 1.02 is the dilution,where 1.02 is the dilution
+,factor because of the addition of Lugol’s solution.,factor because of the addition of Lugol’s solution.,factor because of the addition of Lugol’s solution.,,
+,where RAWCNT= raw count of the organism,where RAWCNT= raw count of the organism,where RAWCNT= raw count of the organism,,
+,,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber,#MLSETTLED= number of ml of the sample put into the settling chamber
+,,,5,,

@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 10 of 24”,Name: “Table 1 of 1 on page 10 of 24”,Name: “Table 1 of 1 on page 10 of 24”,Name: “Table 1 of 1 on page 10 of 24”,Name: “Table 1 of 1 on page 10 of 24”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,
+,,,,Page 10 of 24
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",
+>,Taxonomic,Determination,Formulas,
+The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon,The following equation is used to convert raw counts to density for each taxon
+identified:,,,,
+DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),DENSITY = A * (B/(C * FVOL_M3)),
+Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,Where DENSITY = density in numbers per cubic meter,
+A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,A = number of individuals counted in the subsample,
+B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken,B = volume in milliliters of sample from which sub samples are taken
+C = subsample volume in milliliters,C = subsample volume in milliliters,C = subsample volume in milliliters,C = subsample volume in milliliters,
+FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,FVOL_M3 = volume of water filtered by the bongo nets in cubic,
+meters,"= (3.14*(r**2)) * (Y*(26,873/999,999))","= (3.14*(r**2)) * (Y*(26,873/999,999))","= (3.14*(r**2)) * (Y*(26,873/999,999))",
+Where,,,,
+r = radius of the bongo net,r = radius of the bongo net,,,
+Y = flow meter count (i.e. difference between beginning count and end,Y = flow meter count (i.e. difference between beginning count and end,Y = flow meter count (i.e. difference between beginning count and end,Y = flow meter count (i.e. difference between beginning count and end,Y = flow meter count (i.e. difference between beginning count and end
+count),,,,
+"26,873 = a rotor constant equal to the standard distance traveled in","26,873 = a rotor constant equal to the standard distance traveled in","26,873 = a rotor constant equal to the standard distance traveled in","26,873 = a rotor constant equal to the standard distance traveled in","26,873 = a rotor constant equal to the standard distance traveled in"
+"meters for 999,999 revolutions","meters for 999,999 revolutions",,,
+Of the flow meter,Of the flow meter,,,
+"999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter","999,999 = the maximum revolutions that can be read by flow meter"
+>Biomass,Determination,Formulas,Formulas,
+AFDW = DRYWT - ASHWT,AFDW = DRYWT - ASHWT,,,
+DRY_WT = DRYWT*1000 / FVOL_M3,DRY_WT = DRYWT*1000 / FVOL_M3,DRY_WT = DRYWT*1000 / FVOL_M3,DRY_WT = DRYWT*1000 / FVOL_M3,
+ASH_WT = ASHWT * 1000 / FVOL_M3,ASH_WT = ASHWT * 1000 / FVOL_M3,ASH_WT = ASHWT * 1000 / FVOL_M3,ASH_WT = ASHWT * 1000 / FVOL_M3,
+ASH_FRWT = AFDW*1000 / FVOL_M3,ASH_FRWT = AFDW*1000 / FVOL_M3,ASH_FRWT = AFDW*1000 / FVOL_M3,ASH_FRWT = AFDW*1000 / FVOL_M3,
+Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter,Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter,Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter,Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter,Where DRY_WT = Total Dry Weight as Milligrams per Cubic Meter
+(Calculated Value),(Calculated Value),,,
+DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value),DRYWT = Total Dry Weight as Grams per Sample (Measured Value)
+ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated,ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated,ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated,ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated,ASH_WT = Total Ash Weight as Milligrams per Cubic Meter (Calculated
+Value),,,,
+ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value),ASHWT = Total Ash Weight as Grams per Sample (Measured Value)
+ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter,ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter,ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter,ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter,ASH_FRWT = Ash Free Dry Weight as Milligrams per Cubic Meter
+(Calculated Value),(Calculated Value),,,
+AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value),AFDW = Ash Free Dry Weight as Grams per Sample (Calculated Value)
+"FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as","FVOL_M3 = Volume Water Filtered Through Net, Calculated as",(
+3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999,3.14*((net diameter)**2)/4) * (revolutions of rotor * rotor constant)/999999
+And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),And the rotor constant = 26.873 (Measured Value),
+Dry weights of taxa used for estimation of zooplankton biomass in detritus,Dry weights of taxa used for estimation of zooplankton biomass in detritus,Dry weights of taxa used for estimation of zooplankton biomass in detritus,Dry weights of taxa used for estimation of zooplankton biomass in detritus,Dry weights of taxa used for estimation of zooplankton biomass in detritus
+contaminated samples.,contaminated samples.,,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,4/26/2012

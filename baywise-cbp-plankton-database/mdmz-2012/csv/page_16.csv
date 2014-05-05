@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 16 of 24”,Name: “Table 1 of 1 on page 16 of 24”,Name: “Table 1 of 1 on page 16 of 24”,Name: “Table 1 of 1 on page 16 of 24”
+Table: 16,Table: 16,Table: 16,Table: 16
+,,,
+,,,Page 16 of 24
+07/31/95 -,In several cases the sample serial number had been assigned to sampling,In several cases the sample serial number had been assigned to sampling,In several cases the sample serial number had been assigned to sampling
+events on two different dates. As part of the data,events on two different dates. As part of the data,corrections made on 05/19/95 a,corrections made on 05/19/95 a
+number of sample SER_NUM's were changed as follows:,number of sample SER_NUM's were changed as follows:,number of sample SER_NUM's were changed as follows:,
+OLD SER_NUM,NEW SER_NUM SAMPLE DATE,NEW SER_NUM SAMPLE DATE,
+CZM85TN004A,CZM85TN012A,05/12/85,
+CZM85TN004B,CZM85TN012B,05/12/85,
+CZM85CO018A,CZM85CO024A,10/19/85,
+CZM85CO018B,CZM85CO024B,10/19/85,
+CZM86PT025A,CZM86PT034A,10/14/86,
+CZM86PT025B,CZM86PT034B,10/14/86,
+CZM86PT026A,CZM86PT036A,10/14/86,
+CZM86PT026B,CZM86PT036B,10/14/86,
+5/31/95 -,GMETHOD was changed to 75.,Code 75 refers 202 micrometer mesh,
+Bongo net with 0.2 meter opening.,"For an extensive gear code list see Table 17,","For an extensive gear code list see Table 17,",
+"PAGE F-9 APPENDIX F, of the Living Resources Data Management Plan, 1989.","PAGE F-9 APPENDIX F, of the Living Resources Data Management Plan, 1989.","PAGE F-9 APPENDIX F, of the Living Resources Data Management Plan, 1989.","PAGE F-9 APPENDIX F, of the Living Resources Data Management Plan, 1989."
+This is a change from GMETHOD code in previous versions of the data set. This,This is a change from GMETHOD code in previous versions of the data set. This,This is a change from GMETHOD code in previous versions of the data set. This,This is a change from GMETHOD code in previous versions of the data set. This
+does not represent a change in actual sampling gear.,does not represent a change in actual sampling gear.,does not represent a change in actual sampling gear.,
+5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the,5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the,5/31/93 - Spelling of all species Latin Names (LBL) have been corrected to the,
+National Oceanographic Data Center (NODC) accepted spelling.,National Oceanographic Data Center (NODC) accepted spelling.,National Oceanographic Data Center (NODC) accepted spelling.,
+05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the,05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the,05/19/95 - A total of 237 pairs of DUPLICATE RECORDS were found in the,
+mesozooplankton monitoring data during routine QA/QC checks at the CBP Data,mesozooplankton monitoring data during routine QA/QC checks at the CBP Data,mesozooplankton monitoring data during routine QA/QC checks at the CBP Data,mesozooplankton monitoring data during routine QA/QC checks at the CBP Data
+Center.,Versar confirmed the duplicate records and made corrections to the affected,Versar confirmed the duplicate records and made corrections to the affected,Versar confirmed the duplicate records and made corrections to the affected
+files.,These corrections affected the entire 1984-1994 TAXON data sets and the,These corrections affected the entire 1984-1994 TAXON data sets and the,
+"EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.","EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.","EVENT, BIOMASS AND BIOVOLUME data sets for 1985 - 1987.",The CBPO Data
+Center recommends discontinuing use of mesozooplankton TAXON data sets without,Center recommends discontinuing use of mesozooplankton TAXON data sets without,Center recommends discontinuing use of mesozooplankton TAXON data sets without,Center recommends discontinuing use of mesozooplankton TAXON data sets without
+R_DATES or with R_DATE prior to 07/01/95.,R_DATES or with R_DATE prior to 07/01/95.,,
+05/05/95 -,The VERSAR BAY CRUISE NUMBERS deviate from the standard,The VERSAR BAY CRUISE NUMBERS deviate from the standard,
+CBPO CRUISE numbers.,The Academy of Natural Sciences (ANS) has requested,The Academy of Natural Sciences (ANS) has requested,The Academy of Natural Sciences (ANS) has requested
+and was granted permission to match Bay Cruise dates with sampling trip effort.,and was granted permission to match Bay Cruise dates with sampling trip effort.,and was granted permission to match Bay Cruise dates with sampling trip effort.,By
+"doing this, the occurrence of a station to be sampled twice during a cruise period is","doing this, the occurrence of a station to be sampled twice during a cruise period is","doing this, the occurrence of a station to be sampled twice during a cruise period is","doing this, the occurrence of a station to be sampled twice during a cruise period is"
+avoided.,"Since ANS applied this correction to all of their data, it was also necessary","Since ANS applied this correction to all of their data, it was also necessary","Since ANS applied this correction to all of their data, it was also necessary"
+to apply the same correction to the Versar originated mesozooplankton data because,to apply the same correction to the Versar originated mesozooplankton data because,to apply the same correction to the Versar originated mesozooplankton data because,to apply the same correction to the Versar originated mesozooplankton data because
+they are collected,,,
+at the same time and the sets are frequently merged. The table of variation from the,at the same time and the sets are frequently merged. The table of variation from the,at the same time and the sets are frequently merged. The table of variation from the,at the same time and the sets are frequently merged. The table of variation from the
+CBPO Cruise dates can be found in the general Living Resources data documentation,CBPO Cruise dates can be found in the general Living Resources data documentation,CBPO Cruise dates can be found in the general Living Resources data documentation,CBPO Cruise dates can be found in the general Living Resources data documentation
+text.,For a complete listing of BAY CRUISE,,
+"NUMBERS, see The 2000 Data Users Guide","NUMBERS, see The 2000 Data Users Guide",,
+03/21/95-,"The record SER_NUM = CZM85MB021A, STATION = CB2.2, DATE","The record SER_NUM = CZM85MB021A, STATION = CB2.2, DATE","The record SER_NUM = CZM85MB021A, STATION = CB2.2, DATE"
+"=05/22/85 had the species code T626, with the identification of CHYDORUS. A","=05/22/85 had the species code T626, with the identification of CHYDORUS. A","=05/22/85 had the species code T626, with the identification of CHYDORUS. A",
+duplication of codes was identified between T625 and T626 therefore all codes were,duplication of codes was identified between T625 and T626 therefore all codes were,duplication of codes was identified between T625 and T626 therefore all codes were,duplication of codes was identified between T625 and T626 therefore all codes were
+"changed to T629 CHYDORUS, with NODCCODE = 6190702.","changed to T629 CHYDORUS, with NODCCODE = 6190702.","changed to T629 CHYDORUS, with NODCCODE = 6190702.",
+03/21/85 - Two pairs of records were found that appeared to be unintentional,03/21/85 - Two pairs of records were found that appeared to be unintentional,03/21/85 - Two pairs of records were found that appeared to be unintentional,
+"duplicates. In one pair, all fields but the species density were identical; in the other,","duplicates. In one pair, all fields but the species density were identical; in the other,","duplicates. In one pair, all fields but the species density were identical; in the other,","duplicates. In one pair, all fields but the species density were identical; in the other,"
+all fields were identical:,,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata18.htm,4/26/2012

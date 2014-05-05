@@ -1,0 +1,35 @@
+Name: “Table 1 of 1 on page 8 of 40”,Name: “Table 1 of 1 on page 8 of 40”,Name: “Table 1 of 1 on page 8 of 40”,Name: “Table 1 of 1 on page 8 of 40”
+Table: 8,Table: 8,Table: 8,Table: 8
+,,,
+,#/L=abundance of the organism in numbers per liter,#/L=abundance of the organism in numbers per liter,
+"Species Inhouse Code, Reference Code, and Scientific Name","Species Inhouse Code, Reference Code, and Scientific Name","Species Inhouse Code, Reference Code, and Scientific Name",
+The inhouse code is the same as the reference code with the addition of an inhouse,The inhouse code is the same as the reference code with the addition of an inhouse,The inhouse code is the same as the reference code with the addition of an inhouse,
+modifier in column 13.,modifier in column 13.,The modifier in the 13th column has different meanings depending on the,The modifier in the 13th column has different meanings depending on the
+taxa being considered.,taxa being considered.,"For larger organisms, a one in this column indicates that the organism is","For larger organisms, a one in this column indicates that the organism is"
+in its larval or naupliar stage.,in its larval or naupliar stage.,For smaller microzooplankton such as rotifers and non-loricate,For smaller microzooplankton such as rotifers and non-loricate
+"ciliates, this modifier may indicate a size category within a taxon.","ciliates, this modifier may indicate a size category within a taxon.","ciliates, this modifier may indicate a size category within a taxon.",The NODC Code does not
+distinguish between life history stages.,distinguish between life history stages.,"For tintinninds (3540...) a 0,1,2 (or 3, 4, 5) in the 13th","For tintinninds (3540...) a 0,1,2 (or 3, 4, 5) in the 13th"
+"column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the","column indicates that is was not or could not be determined if the lorica contained a cell, that the"
+"lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.","lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.","lorica did contain a cell (full), or that the lorica did not contain a cell (empty), respectively.",For
+"an undescribed species, the code is given down to the lowest possible taxonomic level, the","an undescribed species, the code is given down to the lowest possible taxonomic level, the","an undescribed species, the code is given down to the lowest possible taxonomic level, the",
+unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.,unknown levels are given zeros and a number is assigned in the subspecies columns (11-12) (e.g.
+Brachionus A = 4506010400010).,Brachionus A = 4506010400010).,,
+Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are,Only organisms greater than 44μm and less than 200 μm in their smallest dimension are
+included in the species list.,included in the species list.,The microzooplankton less than 44μm are noted and recorded as,The microzooplankton less than 44μm are noted and recorded as
+"either rare, common, abundant or dominant.","either rare, common, abundant or dominant.","either rare, common, abundant or dominant.",
+NODC Code with in-house modifications (13th column) and scientific name:,NODC Code with in-house modifications (13th column) and scientific name:,NODC Code with in-house modifications (13th column) and scientific name:,
+DIGIT,REPRESENTS,,
+------,----------,,
+1-2,Phylum,,
+3-4,Class and Order,,
+5-6,Family,,
+7-8,Genus,,
+9-10,Species,,
+11-12 Subspecies,11-12 Subspecies,,
+13,Special in-house modifier,"(for explanation , refer to data dictionary)",
+CODE,SPECIES,,
+0000000000001,UNIDED LARVAE,,
+0000000000002,UNIDED TROCHOPHORE LARVAE,UNIDED TROCHOPHORE LARVAE,
+3438000000000,SARCODINA-UNIDED SARCODINID,SARCODINA-UNIDED SARCODINID,
+3442010000000,DIFFLUGIIDAE,,
+,,6,

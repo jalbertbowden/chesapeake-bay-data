@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 123 of 170”,Name: “Table 1 of 1 on page 123 of 170”,Name: “Table 1 of 1 on page 123 of 170”
+Table: 122,Table: 122,Table: 122
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+TN,D04A,Database Calculated TN - Method 4 - MDL l
+TN,D04B,Database Calculated TN - Method 4 - 1/2 MDL
+TN,D04D,Database Calculated TN - Method 4
+TN,D05,Database Calculated TN - Method 5
+TN,D05A,Database Calculated TN - Method 5
+TN,D05B,Database Calculated TN - Method 5
+TN,DO5D,Database Calculated TN - Method 5
+TN,L01,Alkaline Persulfate Digestion + EPA Method 353. 2
+TN,L02,"Total Nitrogen, Unspecified Lab Method"
+,,Total Sediment Nitrogen- Army Corp Of Engineers Sediment Grain Size Analysis
+TN,L03,Protocol
+TOC,D01,Database Calculated Toc - Method 1
+TOC,D01A,Database Calculated Toc - Method 1 - MDL l
+TOC,D01B,Database Calculated Toc - Method 1 - 1/2 MDL
+TOC,D01D,Database Calculated Toc - Method 1
+TOC,L01,Combustion Infrared Method
+TOC,L02,Wet Oxidation Method
+TOC,L03,UV Or Heated Persulfate Oxidation
+TOC,L04,"Total Organic Carbon, Unspecified Lab Method"
+,,Total Sediment Organic Carbon- Army Corp Of Engineers Sediment Grain Size
+TOC,L05,Analysis Protocol
+TON,D01,Database Calculated Ton - Method 1
+TON,D01A,Database Calculated Ton - Method 1 – MDL
+TON,D01B,Database Calculated Ton - Method 1 - 1/2 MDL
+TON,D01D,Database Calculated Ton - Method 1
+TON,D02,Database Calculated Ton - Method 2
+TON,D02A,Database Calculated Ton - Method 2 - MDL l
+TON,D02B,Database Calculated Ton - Method 2 - 1/2 MDL
+TON,D02D,Database Calculated Ton - Method 2
+TON,D03,Database Calculated Ton - Method 3
+TON,D03A,Database Calculated Ton - Method 3 – MDL
+TON,D03B,Database Calculated Ton - Method 3 - 1/2 MDL
+TON,D03D,Database Calculated Ton - Method 3
+TON,L01,"Total Organic Nitrogen, Specific Conductance, Unspecified Lab Method"
+TOTAL_DEPTH,F01,Total Depth
+TOTAL_DEPTH,F02,Total Depth
+TOTAL_DEPTH,F03,Total Depth
+TOTAL_DEPTH,NA,Shallow Water Total Depth Method
+TP,D01,Database Calculated TP - Method 1
+TP,D01A,Database Calculated TP - Method 1 – MDL
+TP,D01B,Database Calculated TP - Method 1 - 1/2 MDL
+TP,D01D,Database Calculated TP - Method 1
+TP,L01,Colorimetric; Automated; Block Digester AAII
+TP,L02,Colorimetric; Manual; Ascorbic Acid; Single Reagent
+TP,L03,Colorimetric; Manual; Ascorbic Acid; Two Reagent
+TP,L04,Colorimetric; Automated; Ascorbic Acid
+TP,L05,Alkaline Persulfate Digestion And EPA365. 1
+TP,L06,"Total Phosphorus, Unspecified Lab Method"
+TP,L07,"Phosphorus, Wu, Microkj ASF, Hg"
+TS,L01,Total Solids Dried At 103-105 Degrees
+TSS,L01,Gravimetric; Dried At 103-105 C
+TURB_FTU,L01,Formazin Turbidity Units
+TURB_JTU,L01,Jackson Turbidity Units
+TURB_NTU,F01,In-Situ Nephelometric (YSI 6136)
+,,121

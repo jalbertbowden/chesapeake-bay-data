@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 120 of 170”,Name: “Table 1 of 1 on page 120 of 170”,Name: “Table 1 of 1 on page 120 of 170”
+Table: 119,Table: 119,Table: 119
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+NO23F,L03,Enzymatic Nitrate Method
+NO23W,D01,Database Calculated NO23w
+NO23W,D01A,Database Calculated NO23w - Method 1 – MDL
+NO23W,D01B,Database Calculated NO23w - Method 1 - 1/2 MDL
+NO23W,D01D,Database Calculated NO23w - Method 1
+NO23W,L01,Colorimetric; Automated Cadmium Reduction
+NO23W,L02,Manual; Spectrophotometric; Cadmium Reduction
+NO23W,L03,"Nitrate+Nitrite, Whole Water, Unspecified Lab Method"
+NO2F,L01,Automated; Colorimetric; Diazotization
+NO2F,L02,Manual; Spectrophotometric; Diazotization
+NO2F,L03,Dissolved Nitrite By Ion Chromatography
+NO2F,L04,"Nutrients, Wf, Colorimetric"
+NO2W,L01,Automated; Colorimetric; Diazotization
+NO2W,L02,Manual; Spectrophotometric; Diazotization
+NO2W,L03,Total Nitrite By Ion Chromatography
+NO3F,C01,Calculated NO3F (Submitted To CBPO)
+NO3F,D01,Database Calculated NO3f - Method 1
+NO3F,D01A,Database Calculated NO3f - Method 1 – MDL
+NO3F,D01B,Database Calculated NO3f - Method 1 - 1/2 MDL
+NO3F,D01D,Database Calculated NO3f - Method 1
+NO3F,L01,Nitrate By Ion Chromatography
+NO3F,L02,"Nitrite, Filtered, Unspecified Lab Method"
+NO3F,L03,"Nitrite, Filtered, Unspecified Lab Method 2"
+NO3W,D01,Database Calculated NO3w - Method 1
+NO3W,D01A,Database Calculated NO3w - Method 1 – MDL
+NO3W,D01B,Database Calculated NO3w - Method 1 - 1/2 MDL
+NO3W,D01D,Database Calculated NO3w - Method 1
+NO3W,L01,Total Nitrate By Ion Chromatography
+ORP,F01,Oxidation Reduction Potential
+PB,L01,Total Lead; Atomic Absorption; Furnace Technique
+PC,L01,Particulate Carbon (Inorg+Organic)
+PH,F01,In-Situ Electrode Method
+PH,F02,Electrode Method
+PH,F03,"Ph, Unspecified Field Method"
+PH,L01,Ph Of Wet Deposition -Electrolytic Determination 600/4-86-024
+PH,L02,"Ph, Lab, Auto Glass Electrode"
+PHEO,L01,Monochromatic; Spectrophotometric
+PHEO,L02,Monochromatic; Spectrophotometric
+PHEO,L03,Monochromatic; Fluorometric
+PIC,L01,Particulate Inorganic Carbon
+PIP,L01,Particulate Inorganic Phosphorus
+PN,L01,Particulate Nitrogen
+PO4F,L01,Orthophosphate; Automated; Ascorbic Acid
+PO4F,L02,Ortho-P; Manual; Ascorbic Acid; Single Reagent
+PO4F,L03,Orthophosphate Manual; Ascorbic Acid; Two Reagent
+PO4F,L04,"Orthophosphate Phosphorus As P, Whole Water, Unspecified Lab Method"
+PO4F,L05,"Orthophosphate Phosphorus As P, Whole Water, Unspecified Lab Method 2"
+PO4W,L01,Orthophosphate; Automated; Ascorbic Acid
+POC,D01,Database Calculated POC - Method 1
+POC,D01A,Database Calculated POC - Method 1 – MDL
+POC,D01B,Database Calculated POC - Method 1 - 1/2 MDL
+POC,D01D,Database Calculated POC - Method 1
+POC,D01E,"POC, Calculated"
+POC,L02,"Soc, 0. 45u Silver, Wet Oxidation"
+,,118

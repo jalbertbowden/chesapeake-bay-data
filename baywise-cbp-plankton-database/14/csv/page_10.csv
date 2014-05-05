@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 10 of 44”,Name: “Table 1 of 1 on page 10 of 44”,Name: “Table 1 of 1 on page 10 of 44”,Name: “Table 1 of 1 on page 10 of 44”,Name: “Table 1 of 1 on page 10 of 44”,Name: “Table 1 of 1 on page 10 of 44”
+Table: 10,Table: 10,Table: 10,Table: 10,Table: 10,Table: 10
+,,,,,
+Field Name,,Description,Data Type,Length,Length
+REPORTING_,PARAMETER VALUE,,DECIMAL,,
+VALUE,,,,,
+(NN),,,,,
+REPORTING_,REPORTING UNITS OF PARAMETER,REPORTING UNITS OF PARAMETER,VARCHAR,25,25
+UNITS,,,,,
+(NN),,,,,
+SER_NUM,SOURCE SAMPLE SERIAL NUMBER,SOURCE SAMPLE SERIAL NUMBER,VARCHAR,12,12
+R_DATE,DATA VERSION DATE-,,SMALL,,
+,Date denoting when data records were entered in to,Date denoting when data records were entered in to,DATETIME,,
+,database,,,,
+NOTES:,,,,,
+1) GENERAL:,This table stores information relating to measurements of zooplankton biomass and settled,This table stores information relating to measurements of zooplankton biomass and settled,This table stores information relating to measurements of zooplankton biomass and settled,This table stores information relating to measurements of zooplankton biomass and settled,This table stores information relating to measurements of zooplankton biomass and settled
+volumes. This table assumes that all biomass or zooplankton volume information is derived directly from,volumes. This table assumes that all biomass or zooplankton volume information is derived directly from,volumes. This table assumes that all biomass or zooplankton volume information is derived directly from,volumes. This table assumes that all biomass or zooplankton volume information is derived directly from,volumes. This table assumes that all biomass or zooplankton volume information is derived directly from,volumes. This table assumes that all biomass or zooplankton volume information is derived directly from
+zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all,zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all,zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all,zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all,zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all,zooplankton tows or estimated after correcting for the presence of detritus. This table assumes that all
+biomass and volume information is from composite samples. The maximum depth at which water making up,biomass and volume information is from composite samples. The maximum depth at which water making up,biomass and volume information is from composite samples. The maximum depth at which water making up,biomass and volume information is from composite samples. The maximum depth at which water making up,biomass and volume information is from composite samples. The maximum depth at which water making up,biomass and volume information is from composite samples. The maximum depth at which water making up
+a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5,a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5,a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5,a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5,a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5,a sample was derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5
+meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken,meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken,meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken,meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken,meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken,meters for all whole water column samples. AP (Above Pycnocline samples) are derived from water taken
+between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT,between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT,between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT,between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT,between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT,between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT
+TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the,TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the,TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the,TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the,TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the,TABLE). BP (Below Pycnocline samples) are derived from water taken between 0.5 meters above the
+bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).
+"2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,"
+"SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,",and
+PARAMETER. The,composite key of SURVEY_ID is base on the combination,composite key of SURVEY_ID is base on the combination,following fields:,following fields:,
+"STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.",An Auto-Key number is,An Auto-Key number is,
+generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be
+merged on to data before it can be loaded into this table.,merged on to data before it can be loaded into this table.,merged on to data before it can be loaded into this table.,,,
+TAB_PHYTO_PICO,TAB_PHYTO_PICO,,,,
+Field Name,,Description,Data Type,Length,Length
+SURVEY_ID,PRIMARY_ID KEY-,,INT,,
+,AN AUTO-GENERATED FIELD,AN AUTO-GENERATED FIELD,,,
+"(PK,FK)",,,,,
+SAMPLE_,SAMPLE NUMBER-,,TINYINT,,
+NUMBER,Number of sample collected at Station(replicate number),Number of sample collected at Station(replicate number),,,
+(PK),,,,,
+METHOD,METHOD CODE-,,CHAR,6,
+,Method code identifying,field/laboratory analysis,,,
+"(PK,FK)",procedure,,,,
+TSN,TAXON SERIAL NUMBER-,TAXON SERIAL NUMBER-,CHAR,7,
+,ITIS Serial Number for Species Identification,ITIS Serial Number for Species Identification,,,
+"(PK,FK)",,,,,
+,,8,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 86 of 170”,Name: “Table 1 of 1 on page 86 of 170”,Name: “Table 1 of 1 on page 86 of 170”,Name: “Table 1 of 1 on page 86 of 170”
+Table: 85,Table: 85,Table: 85,Table: 85
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+STRATUM_DESCRIPTION,,,
+,CPB Tidal Benthic Sampling Stratum Description ........................................... Field,Text,225
+STREET_ADDRESS,Physical Mailing Address or Street Contact ..................................................... Field,Text,100
+SUBBASIN,USGS Eight-Digit Hydrologic Units Code ........................................................ Field,Text,8
+SUBBASIN_DESCRIPTION,,,
+,USGS Eight-Digit Hydrologic Unit Code Description ....................................... Field,Text,50
+SUBECOREGION_LEVEL4,,,
+,EPA Level 4 Ecoregion Code .......................................................................... Field,Text,5
+SUBECOREGION_LEVEL4_NAME,,,
+,EPA Level 4 Ecoregion Description ................................................................. Field,Text,90
+SUBREGION,USGS Two-Digit Hydrologic Units Code .......................................................... Field,Text,2
+SUBREGION_DESCRIPTION,,,
+,USGS Two-Digit Hydrologic Unit Code Description ........................................ Field,Text,50
+SUBWATERSHED,USGS Ten-Digit Hydrologic Units Code .......................................................... Field,Text,10
+SUBWATERSHED_DESCRIPTION,,,
+,USGS Ten-Digit Hydrologic Unit Code Description ......................................... Field,Text,50
+SURVEY_ID,Database Auto-Indexing Field .......................................................................... Field,Numeric,-
+TOTAL_DEPTH,Total Water Depth at Station in Meters (Bottom Depth) ................................. Field,Numeric,8.1
+TOTAL_SAMPLE_VOLUME,,,
+,Total Field Sample Volume .............................................................................. Field,Numeric,8.2
+TOTAL_SAMPLE_VOLUME_UNITS,,,
+,Reporting Units for Field Sample Volume ........................................................ Field,Text,25
+TS_BASIN,Chesapeake Bay Program Tributary Strategy Basin Designation ................... Field,Text,
+TSN,Integrated Taxonomic Information System (ITIS) Taxon Serial Number ......... Field,Text,7
+UP_DATE,Upper End of Phytoplankton Index of Biotic Integrity Sample Date Matching Window,,
+,......................................................................................................................... Field,Date/Time,
+USGS_CODE,USGS Analytical Parameter Code ................................................................... Field,Text,50
+UTM_X,UTM Zone 18N- X Coordinate ......................................................................... Field,Numeric,8
+UTM_Y,UTM Zone 18N- Y Coordinate ......................................................................... Field,Numeric,8
+VALUE_TYPE,Parameter Value Type Code .......................................................................... Field,Text,2
+VALUE_TYPE_DEFINITION,,,
+,Parameter Value Type Definition .................................................................... Field,Text,50
+VALUE_TYPE_DESCRIPTION,,,
+,Parameter Value Type Definition .................................................................... Field,Text,50
+WATER_BODY,Water body name ............................................................................................ Field,Text,40
+WATERBODY_NAME,Water body name ............................................................................................ Field,Text,40
+WATERSHED_DESCRIPTION,,,
+,USGS Ten-Digit Hydrologic Unit Code Description ......................................... Field,Text,50
+WEB_SITE,URL for Web Site Associated with Data Source .............................................. Field,Text,150
+,84,,

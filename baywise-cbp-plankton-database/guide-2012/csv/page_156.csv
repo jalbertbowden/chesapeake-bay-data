@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 156 of 170”,Name: “Table 1 of 1 on page 156 of 170”
+Table: 155,Table: 155
+,
+Map Coordinate Projection Guideline,
+The Chesapeake Bay Program has adopted the policy that the standard projection for geographic,The Chesapeake Bay Program has adopted the policy that the standard projection for geographic
+information system (GIS) files maintained at the Chesapeake Bay Program Office (CBPO) shall be UTM,information system (GIS) files maintained at the Chesapeake Bay Program Office (CBPO) shall be UTM
+"Zone 18 (meters) for all data within the Chesapeake Bay basin. For larger or national GIS data files, the","Zone 18 (meters) for all data within the Chesapeake Bay basin. For larger or national GIS data files, the"
+standard projection for GIS files maintained at the CBPO shall be Albers Conical Equal Area (meters).,standard projection for GIS files maintained at the CBPO shall be Albers Conical Equal Area (meters).
+"This policy was established to provide consistency in computing distance and area calculations, map","This policy was established to provide consistency in computing distance and area calculations, map"
+"shapes, and to facilitate database design and maintenance.",GIS and data files containing spatial data
+must have coordinates reported as latitude and longitude (decimal degrees) as per the Locational Data,must have coordinates reported as latitude and longitude (decimal degrees) as per the Locational Data
+"Policy. Ideally, it is requested that information containing projected coordinates, also report coordinates","Policy. Ideally, it is requested that information containing projected coordinates, also report coordinates"
+in UTM Zone 18. Partner organizations that have historically maintained GIS files in another projection or,in UTM Zone 18. Partner organizations that have historically maintained GIS files in another projection or
+coordinate system are exempt from this policy (unless they are developing or providing data products as,coordinate system are exempt from this policy (unless they are developing or providing data products as
+part of a Chesapeake Bay Program initiative) since the effort to convert large historical holdings would be,part of a Chesapeake Bay Program initiative) since the effort to convert large historical holdings would be
+prohibitive.,
+Metadata Policy,
+"The Chesapeake Bay Program has adopted the policy, consistent with Presidential Executive Order #","The Chesapeake Bay Program has adopted the policy, consistent with Presidential Executive Order #"
+"12906, that all data generated or collected using federal funds, submitted to the Chesapeake Bay","12906, that all data generated or collected using federal funds, submitted to the Chesapeake Bay"
+"Program, or served on the Internet, shall be accompanied by metadata (descriptive information about the","Program, or served on the Internet, shall be accompanied by metadata (descriptive information about the"
+"data, often referred to as documentation) that fully conforms to the Federal Geographic Data Committee's","data, often referred to as documentation) that fully conforms to the Federal Geographic Data Committee's"
+requirements for metadata. Metadata created for Chesapeake Bay Program shall also be delivered to the,requirements for metadata. Metadata created for Chesapeake Bay Program shall also be delivered to the
+EPA or other federal Clearinghouse as a requirement to fulfilling this policy and related grant or contract,EPA or other federal Clearinghouse as a requirement to fulfilling this policy and related grant or contract
+conditions. The FGDC guide for creating metadata is the Content Standard for Digital Geospatial,conditions. The FGDC guide for creating metadata is the Content Standard for Digital Geospatial
+Metadata Workbook (www. fgdc. gov/metadata).,
+The Chesapeake Bay Program has also adopted the policy that all data generated or collected using,The Chesapeake Bay Program has also adopted the policy that all data generated or collected using
+"federal funds, submitted to the Chesapeake Bay Program, or served on the Internet, shall adhere to the","federal funds, submitted to the Chesapeake Bay Program, or served on the Internet, shall adhere to the"
+"National Biological Information Infrastructure's (NBII) Metadata Standard, where applicable. The NBII","National Biological Information Infrastructure's (NBII) Metadata Standard, where applicable. The NBII"
+"Metadata Standard, popular for environmental programs, provides extensions to the FGDC Metadata for","Metadata Standard, popular for environmental programs, provides extensions to the FGDC Metadata for"
+documenting biological data and information. The NBII Biological Data Profile is located on the NBII,documenting biological data and information. The NBII Biological Data Profile is located on the NBII
+website at: www. nbii. gov .,
+Data to be accessed on the Internet must follow the CIMS Metadata Reporting Guidelines established by,Data to be accessed on the Internet must follow the CIMS Metadata Reporting Guidelines established by
+"the Chesapeake Bay Program. This Guideline was established to facilitate entering consistent, accurate","the Chesapeake Bay Program. This Guideline was established to facilitate entering consistent, accurate"
+"metadata to ensure the information about the Chesapeake Bay will be easily available, and used","metadata to ensure the information about the Chesapeake Bay will be easily available, and used"
+appropriately. The CIMS Metadata Reporting Guidelines is also accessible on the CBP Data Hub Web,appropriately. The CIMS Metadata Reporting Guidelines is also accessible on the CBP Data Hub Web
+Page at http://www. chesapeakebay. net/data.,
+Common Station Names Guideline,
+"The Chesapeake Bay Program has adopted the guideline that all data generated or collected for,","The Chesapeake Bay Program has adopted the guideline that all data generated or collected for,"
+"submitted to the Chesapeake Bay Program, or served on the Internet via CIMS should utilize a consistent","submitted to the Chesapeake Bay Program, or served on the Internet via CIMS should utilize a consistent"
+set of common station names for identifying and reporting monitoring station locations.,It is the data
+provider's responsibility to comply with this guideline. The purpose of this guideline is to create one,provider's responsibility to comply with this guideline. The purpose of this guideline is to create one
+"master table of station names, to the extent possible, to reduce confusion among cooperating agencies.","master table of station names, to the extent possible, to reduce confusion among cooperating agencies."
+"The Station Names table, maintained on the Chesapeake Bay Program web site, should serve as the","The Station Names table, maintained on the Chesapeake Bay Program web site, should serve as the"
+master list. Updates to this table that are required by data submitters shall be coordinated with the,master list. Updates to this table that are required by data submitters shall be coordinated with the
+Information Management Subcommittee and/or the Monitoring and Assessment Subcommittee to,Information Management Subcommittee and/or the Monitoring and Assessment Subcommittee to
+maintain one consistent stations names list.,
+155,

@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 134 of 170”,Name: “Table 1 of 1 on page 134 of 170”,Name: “Table 1 of 1 on page 134 of 170”,Name: “Table 1 of 1 on page 134 of 170”
+Table: 133,Table: 133,Table: 133,Table: 133
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-35.,Sample Collection Type (SAMPLE_TYPE).,Sample Collection Type (SAMPLE_TYPE).,
+The sample type describes how a sample was physically collected. Currently accepted Sample collection,The sample type describes how a sample was physically collected. Currently accepted Sample collection,The sample type describes how a sample was physically collected. Currently accepted Sample collection,The sample type describes how a sample was physically collected. Currently accepted Sample collection
+Type codes are as follows:,,,
+SAMPLE_,SAMPLE_TYPE_DESCRIPTION,,
+TYPE,,,
+C,"COMPOSITE SAMPLE, MADE UP OF SUBSAMPLES FROM MULTIPLE DEPTHS","COMPOSITE SAMPLE, MADE UP OF SUBSAMPLES FROM MULTIPLE DEPTHS","COMPOSITE SAMPLE, MADE UP OF SUBSAMPLES FROM MULTIPLE DEPTHS"
+CS,COMPOSITE SAMPLE COLLECTED SPATIALLY,,
+CT,COMPOSITE SAMPLE COLLECTED TEMPORALLY,,
+D,"DISCRETE SAMPLE, SAMPLE TAKEN FROM SINGLE DEPTH","DISCRETE SAMPLE, SAMPLE TAKEN FROM SINGLE DEPTH",
+HVIC,HORIZONTAL AND VERTICALLY INTEGRATED COMPOSITE SAMPLE,HORIZONTAL AND VERTICALLY INTEGRATED COMPOSITE SAMPLE,
+ISM,"IN-SITU MEASUREMENT AT DEPTH, NO SAMPLE COLLECTED","IN-SITU MEASUREMENT AT DEPTH, NO SAMPLE COLLECTED",
+ISM_H,"IN-SITU MEASUREMENT, COLLECTED AS PART OF A HORIZONTAL TRANSECT","IN-SITU MEASUREMENT, COLLECTED AS PART OF A HORIZONTAL TRANSECT","IN-SITU MEASUREMENT, COLLECTED AS PART OF A HORIZONTAL TRANSECT"
+ISM_V,"IN-SITU MEASUREMENT, COLLECTED AS PART OF A VERTICAL PROFILE","IN-SITU MEASUREMENT, COLLECTED AS PART OF A VERTICAL PROFILE","IN-SITU MEASUREMENT, COLLECTED AS PART OF A VERTICAL PROFILE"
+Table C-36.,Benthic Image Analysis Sediment Characterization (SEDIMENT_TYPE).,Benthic Image Analysis Sediment Characterization (SEDIMENT_TYPE).,Benthic Image Analysis Sediment Characterization (SEDIMENT_TYPE).
+Currently the Wentworth sediment classification scheme is used to characterize sediment composition in,Currently the Wentworth sediment classification scheme is used to characterize sediment composition in,Currently the Wentworth sediment classification scheme is used to characterize sediment composition in,Currently the Wentworth sediment classification scheme is used to characterize sediment composition in
+the Benthic Sediment Imaging Program. Classifications are as follows :,the Benthic Sediment Imaging Program. Classifications are as follows :,the Benthic Sediment Imaging Program. Classifications are as follows :,
+SEDIMENT,DESCRIPTION,SEDIMENT,DESCRIPTION
+TYPE,,TYPE,
+CL,CLAY,MSC,MEDIUM SAND-CLAY
+CLMS,CLAY-MEDIUM SAND,MSGR,MEDIUM SAND-GRAVEL
+CLSH,CLAY-SHELL,NA,NOT AVAILABLE
+CLSI,CLAY-SILT,SA/SICL,SAND-SILTYCLAY
+CLSI/SH,CLAY-SILT-SHELL,SACL,SANDY CLAY
+CLSIFS,CLAY-SILT-FINE SAND,SASH,SAND-SHELL
+FS,FINE SAND,SASI,SANDY SILT
+FS/FSSI,FINE SAND-FINE SANDY SILT,SH,SHELL
+FS/SI,FINE SAND- SILT,SHFS,SHELL-FINE SAND
+FS/SICL,FINE SAND-SILTY CLAY,SHFSSI/CL,SHELL-FINE SAND-SILT-CLAY
+FSCL,FINE SAND-CLAY,SHSA,SHELL-SAND
+FSGR,FINE SAND-GRAVEL,SHSICL,SHELL-SILT-CLAY
+FSMS,FINE SAND-MEDIUM SAND,SI,SILT
+FSMS/SI,FINE SAND-MEDIUM SAND- SILT,SICL,SILTY CLAY
+FSMSSH/SI,FINE SAND-MEDIUM SAND-SHELL- SILT,SICL/SH,SILTY CLAY-SHELL
+FSSH,FINE SAND –SHELL,SICLFS,SILTY CLAY-FINE SAND
+FSSICL,FINE SAND-SILT-CLAY,SIFS,SILTY FINE SAND
+FSSISH,FINE SAND-SILT-SHELL,SIFSMS,SILTY FINE SAND - MEDIUM SAND
+IND,INDETERMINATE,SISA,SILTY SAND
+MFSCL,MEDIUM FINE SAND-CLAY,SISACL,SILTY SANDY CLAY
+MS,MEDIUM SAND,SISH,SILTY SHELL
+,132,,

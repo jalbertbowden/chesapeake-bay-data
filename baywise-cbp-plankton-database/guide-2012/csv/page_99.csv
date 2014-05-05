@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 99 of 170”,Name: “Table 1 of 1 on page 99 of 170”,Name: “Table 1 of 1 on page 99 of 170”
+Table: 98,Table: 98,Table: 98
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-7,Data Type (DATA_TYPE).,
+This table stores information related to DATA_TYPE codes in the CBP databases. This table contains,This table stores information related to DATA_TYPE codes in the CBP databases. This table contains,This table stores information related to DATA_TYPE codes in the CBP databases. This table contains
+information about the type of sample collected during an event. The following list of data types represent,information about the type of sample collected during an event. The following list of data types represent,information about the type of sample collected during an event. The following list of data types represent
+those that were either directly measured in the field or analyzed in the laboratory. Additional codes may,those that were either directly measured in the field or analyzed in the laboratory. Additional codes may,those that were either directly measured in the field or analyzed in the laboratory. Additional codes may
+be added as needed. Currently accepted DATA_TYPE and DESCRIPTION designations are as follows:,be added as needed. Currently accepted DATA_TYPE and DESCRIPTION designations are as follows:,be added as needed. Currently accepted DATA_TYPE and DESCRIPTION designations are as follows:
+DATA_TYPE,DESCRIPTION,
+BE,TIDAL BENTHIC,
+FL,FLUORESCENCE,
+MI,MICROZOOPLANKTON,
+MZ,MESOZOOPLANKTON,
+NB,NON-TIDAL BENTHIC,
+PD,PRIMARY PRODUCTION,
+PH,PHYTOPLANKTON,
+PP,PICOPLANKTON,
+Table C-8.,Ecological Regions (ECOREGION_LEVEL_4).,Ecological Regions (ECOREGION_LEVEL_4).
+This table stores information related to Ecoregion_Level_4 codes in the CBP Non-Tidal Benthic,This table stores information related to Ecoregion_Level_4 codes in the CBP Non-Tidal Benthic,This table stores information related to Ecoregion_Level_4 codes in the CBP Non-Tidal Benthic
+database. The US EPA has established ecoregions as a classification framework to group similar,database. The US EPA has established ecoregions as a classification framework to group similar,database. The US EPA has established ecoregions as a classification framework to group similar
+ecosystems into classes with components of relatively homogeneous quality and quantity (Olmernik,ecosystems into classes with components of relatively homogeneous quality and quantity (Olmernik,ecosystems into classes with components of relatively homogeneous quality and quantity (Olmernik
+"2004).  Ecoregions are defined by phenomena include geology, physiographic, vegetation, climate,","2004).  Ecoregions are defined by phenomena include geology, physiographic, vegetation, climate,","2004).  Ecoregions are defined by phenomena include geology, physiographic, vegetation, climate,"
+"soils, land use, wildlife, and hydrology. Ecoregions were used as a site classification tool in the","soils, land use, wildlife, and hydrology. Ecoregions were used as a site classification tool in the","soils, land use, wildlife, and hydrology. Ecoregions were used as a site classification tool in the"
+"development of the Chessie BIBI in 2010. More details can be found in Omernik, J. M. (2004). Perspectives","development of the Chessie BIBI in 2010. More details can be found in Omernik, J. M. (2004). Perspectives","development of the Chessie BIBI in 2010. More details can be found in Omernik, J. M. (2004). Perspectives"
+"on the Nature and Definition of Ecological Regions. p. 34 - Supplement 1, pp.27–38. Maps of the current","on the Nature and Definition of Ecological Regions. p. 34 - Supplement 1, pp.27–38. Maps of the current","on the Nature and Definition of Ecological Regions. p. 34 - Supplement 1, pp.27–38. Maps of the current"
+ecoregions in the Chesapeake Bay water shed can be found at,ecoregions in the Chesapeake Bay water shed can be found at,ecoregions in the Chesapeake Bay water shed can be found at
+http://www.chesapeakebay.net/maps/map/omernik_ecoregions.,http://www.chesapeakebay.net/maps/map/omernik_ecoregions.,http://www.chesapeakebay.net/maps/map/omernik_ecoregions.
+Currently recognized EPA Level 4 Ecological Regions and level 3 descriptions are as follows:,Currently recognized EPA Level 4 Ecological Regions and level 3 descriptions are as follows:,Currently recognized EPA Level 4 Ecological Regions and level 3 descriptions are as follows:
+Sub,subecoregion_level_4_name,subecoregion_level_3_name
+ecoregion_,,
+level4,,
+45C,Carolina Slate Belt,Piedmont
+45E,Northern Inner Piedmont,Piedmont
+45F,Northern Outer Piedmont,Piedmont
+45G,Triassic Basins,Piedmont
+58H,Reading Prong,Northeastern Highlands
+60A,Glaciated Low Plateau,Northern Appalachian Plateau and Uplands
+60B,Northeastern Uplands,Northern Appalachian Plateau and Uplands
+60D,Finger Lakes Uplands and Gorges,Northern Allegheny Plateau
+60E,Glaciated Allegheny Hills,Northern Allegheny Plateau
+61B,Mosquito Creek/Pymatuning Lowlands,Erie Drift Plain
+61C,Low Lime Drift Plain,Erie Drift Plain
+62A,Pocono High Plateau,North Central Appalachians
+62B,Low Poconos,North Central Appalachians
+62C,Glaciated Allegheney High Plateau,North Central Appalachians
+62D,Unglaciated Allegheney High Plateau,North Central Appalachians
+62E,Low Catskills,North Central Appalachians
+63A,Delaware River Terraces and Uplands,Middle Atlantic Coastal Plain
+63B,Chesapeake-Pamlico Lowlands and Tidal Marshes,Middle Atlantic Coastal Plain
+63C,Swamps and Peatlands,Middle Atlantic Coastal Plain
+63D,Virginian Barrier Islands and Coastal Marshes,Middle Atlantic Coastal Plain
+63E,Mid-Atlantic Flatwoods,Middle Atlantic Coastal Plain
+63F,Delmarva Uplands,Middle Atlantic Coastal Plain
+,97,

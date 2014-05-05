@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”,Name: “Table 1 of 1 on page 20 of 44”
+Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20,Table: 20
+,,,,,,
+NODCCODE:,NODCCODE:,All species on the list have been assigned at least partial National Oceanographic Data,All species on the list have been assigned at least partial National Oceanographic Data,All species on the list have been assigned at least partial National Oceanographic Data,All species on the list have been assigned at least partial National Oceanographic Data,All species on the list have been assigned at least partial National Oceanographic Data
+Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical
+codes used to represent the scientific names and phylogeny of organisms.,codes used to represent the scientific names and phylogeny of organisms.,codes used to represent the scientific names and phylogeny of organisms.,codes used to represent the scientific names and phylogeny of organisms.,codes used to represent the scientific names and phylogeny of organisms.,The code links the Linnean,The code links the Linnean
+system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized,system of biological nomenclature to a numerical schema that facilitates modern methods of computerized
+data storage and retrieval.,data storage and retrieval.,data storage and retrieval.,An NODC code contains a maximum of 12 digits partitioned into 2-digit couplets.,An NODC code contains a maximum of 12 digits partitioned into 2-digit couplets.,An NODC code contains a maximum of 12 digits partitioned into 2-digit couplets.,An NODC code contains a maximum of 12 digits partitioned into 2-digit couplets.
+Each couplet represents one or more levels of the taxonomic hierarchy.,Each couplet represents one or more levels of the taxonomic hierarchy.,Each couplet represents one or more levels of the taxonomic hierarchy.,Each couplet represents one or more levels of the taxonomic hierarchy.,"For example,","For example,",
+,Digit,Represents,,,,
+,1-2,Phylum,,,,
+,3-4,Class and/or Order,,,,
+,5-6,Family,,,,
+,7-8,Genus,,,,
+,9-10,Species,,,,
+,11-12,Subspecies,,,,
+One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic,One drawback of the NODC code is it changes over time to reflect current changes in taxonomic
+classifications.,classifications.,"However, it provides data analysts with a very useful tool for sorting organisms into","However, it provides data analysts with a very useful tool for sorting organisms into","However, it provides data analysts with a very useful tool for sorting organisms into","However, it provides data analysts with a very useful tool for sorting organisms into","However, it provides data analysts with a very useful tool for sorting organisms into"
+taxonomic groups.,taxonomic groups.,,,,,
+SYN:,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.,Synonymous species are denoted in the table TAB_CBP_MSTR by a flag field named SYN.
+A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted,A code of S means a name is an ITIS recognized synonym and SA indicates the name is the accepted
+name for the taxa.,name for the taxa.,Synonymous species will have identical NODC Taxon Codes.,Synonymous species will have identical NODC Taxon Codes.,Synonymous species will have identical NODC Taxon Codes.,,
+TAXON_LEVEL:,TAXON_LEVEL:,The phylogentic levels for all taxa in the TAB_CBP_MSTR are denoted not only by,The phylogentic levels for all taxa in the TAB_CBP_MSTR are denoted not only by,The phylogentic levels for all taxa in the TAB_CBP_MSTR are denoted not only by,The phylogentic levels for all taxa in the TAB_CBP_MSTR are denoted not only by,The phylogentic levels for all taxa in the TAB_CBP_MSTR are denoted not only by
+NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of,NODC_CODE but also a TAXON_LEVEL code. Taxon levels are assigned through the Linnean system of
+biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION,biological nomenclature as implemented in ITIS. Currently accepted TAXON_LEVELS and DESCRIPTION
+designations are as follows:,designations are as follows:,designations are as follows:,,,,
+TAXON_LEVEL DESCRIPTION,TAXON_LEVEL DESCRIPTION,TAXON_LEVEL DESCRIPTION,TAXON_LEVEL DESCRIPTION,TAXON_LEVEL DESCRIPTION,,
+CLS,CLASS,,SBC,SUB-CLASS,,
+DIV,DIVISION,,SBF,SUB-FAMILY,,
+FAM,FAMILY,,SBO,SUB-ORDER,,
+GEN,GENUS,,SBP,SUB-PHYLUM,,
+GRP,GROUP,,SGEN,SUB-GENUS,,
+HYB,HYBRED,,SPC,SUPER-CLASS,,
+IFC,INFRA-CLASS,INFRA-CLASS,SPE,SPECIES,,
+IFO,INFRA-ORDER,INFRA-ORDER,SPO,SUPER-ORDER,,
+NON,NON SPECIFIC LEVEL,NON SPECIFIC LEVEL,SSP,SUB-SPECIES,,
+ORD,ORDER,,TRI,TRIBE,,
+PHY,PHYLUM,,VAR,VARIETY,,
+TAB_DATA_TYPE,TAB_DATA_TYPE,TAB_DATA_TYPE,,,,
+Field Name,Field Name,,Description,,Data Type,Length
+DATA_TYPE,DATA_TYPE,SAMPLE TYPE CODE-,,,CHAR,2
+,,Denotes type of sample collected,,,,
+"(PK,FK)","(PK,FK)",,,,,
+DATA_TYPE_,DATA_TYPE_,DATA TYPE DESCRIPTION,,,VARCHAR,50
+DESCRIPTION,DESCRIPTION,,,,,
+(NN),,,,,,
+,,,18,,,
+,,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

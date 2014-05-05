@@ -1,0 +1,74 @@
+Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”,Name: “Table 1 of 1 on page 60 of 64”
+Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60,Table: 60
+,,,,,,,,,,,,,,,
+,,,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons,Comparisons,,,
+-------------------------,-------------------------,-------------------------,-------------------------,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------
+STATION,STATION,STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,value_ODU,value_ODU,diff,diff,
+CB6.1,CB6.1,,06JUL1999,06JUL1999,06JUL1999,,20,,,,14,,6,6,
+CB6.1,CB6.1,,11SEP2000,11SEP2000,11SEP2000,,21,,,,7,,14,14,
+CB6.1,CB6.1,,14AUG2002,14AUG2002,14AUG2002,,23,,,,22,,1,1,
+CB6.1,CB6.1,,16SEP2002,16SEP2002,16SEP2002,,19,,,,19,,0,0,
+CB6.4,CB6.4,,05AUG1996,05AUG1996,05AUG1996,,19,,,,12,,7,7,
+CB6.4,CB6.4,,06JUL1998,06JUL1998,06JUL1998,,17,,,,6,,11,11,
+CB6.4,CB6.4,,07AUG2000,07AUG2000,07AUG2000,,22,,,,18,,4,4,
+CB6.4,CB6.4,,14SEP2000,14SEP2000,14SEP2000,,14,,,,14,,0,0,
+CB6.4,CB6.4,,15JUL2002,15JUL2002,15JUL2002,,23,,,,15,,8,8,
+CB7.3E,CB7.3E,CB7.3E,06JUL1999,06JUL1999,06JUL1999,,29,,,,22,,7,7,
+CB7.3E,CB7.3E,CB7.3E,11JUL2000,11JUL2000,11JUL2000,,20,,,,17,,3,3,
+CB7.3E,CB7.3E,CB7.3E,19SEP2002,19SEP2002,19SEP2002,,29,,,,24,,5,5,
+CB7.4,CB7.4,,13AUG1997,13AUG1997,13AUG1997,,30,,,,24,,6,6,
+CB7.4,CB7.4,,06JUL1999,06JUL1999,06JUL1999,,28,,,,25,,3,3,
+CB7.4,CB7.4,,05AUG1999,05AUG1999,05AUG1999,,41,,,,28,,13,13,
+CB7.4,CB7.4,,21SEP1999,21SEP1999,21SEP1999,,51,,,,24,,27,27,
+CB7.4,CB7.4,,11SEP2000,11SEP2000,11SEP2000,,26,,,,20,,6,6,
+LE3.6,LE3.6,,09AUG2000,09AUG2000,09AUG2000,,17,,,,11,,6,6,
+RET3.1,RET3.1,RET3.1,08JUL1999,08JUL1999,08JUL1999,,16,,,,14,,2,2,
+RET3.1,RET3.1,RET3.1,09AUG2001,09AUG2001,09AUG2001,,11,,,,6,,5,5,
+RET3.1,RET3.1,RET3.1,12SEP2002,12SEP2002,12SEP2002,,16,,,,11,,5,5,
+RET4.3,RET4.3,RET4.3,06AUG1996,06AUG1996,06AUG1996,,10,,,,9,,1,1,
+RET4.3,RET4.3,RET4.3,10JUL1997,10JUL1997,10JUL1997,,19,,,,16,,3,3,
+RET4.3,RET4.3,RET4.3,09SEP1998,09SEP1998,09SEP1998,,20,,,,16,,4,4,
+SBE5,SBE5,,15SEP1999,15SEP1999,15SEP1999,,28,,,,19,,9,9,
+SBE5,SBE5,,21SEP2000,21SEP2000,21SEP2000,,18,,,,14,,4,4,
+WE4.2,WE4.2,,05AUG1996,05AUG1996,05AUG1996,,14,,,,15,,-1,-1,
+WE4.2,WE4.2,,06JUL1998,06JUL1998,06JUL1998,,14,,,,10,,4,4,
+-------------------------,-------------------------,-------------------------,-------------------------,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------
+,,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,,,,
+,,,,Variable:,Variable:,Variable:,diff,diff,,,,,,,
+,,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,,,,
+,,Location,,,,,,Variability,Variability,Variability,,,,,
+,Mean,Mean,5.821429,,Std,Deviation,Deviation,Deviation,,,5.53142,5.53142,5.53142,,
+,Median,Median,5.000000,,Variance,Variance,Variance,,,,30.59656,30.59656,30.59656,,
+,Mode,Mode,4.000000,,Range,Range,,,,,28.00000,28.00000,28.00000,,
+,,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,4.00000,4.00000,4.00000,,
+NOTE:,The,mode,displayed,is,the,smallest,smallest,of,2,modes,with,a,count,of,4.
+,,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,,,,
+,,Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------,,,
+,,Student's,t,t,5.568937,5.568937,,Pr,>,|t|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,Sign,,M,,12,,Pr,>=,|M|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,Signed,Rank,S,,173.5,,Pr,>=,|S|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,,,,,,60,,,,,,,,

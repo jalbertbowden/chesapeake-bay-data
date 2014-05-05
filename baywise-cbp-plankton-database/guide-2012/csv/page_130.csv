@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 130 of 170”,Name: “Table 1 of 1 on page 130 of 170”,Name: “Table 1 of 1 on page 130 of 170”,Name: “Table 1 of 1 on page 130 of 170”
+Table: 129,Table: 129,Table: 129,Table: 129
+,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-30.,Sampling Project Codes (PROJECT).,Sampling Project Codes (PROJECT).,Sampling Project Codes (PROJECT).
+Many monitoring programs organize their various monitoring efforts as individual projects based on the,Many monitoring programs organize their various monitoring efforts as individual projects based on the,Many monitoring programs organize their various monitoring efforts as individual projects based on the,Many monitoring programs organize their various monitoring efforts as individual projects based on the
+purpose of the monitoring effort. Note: the non-tidal benthic data does not use formal project codes.,purpose of the monitoring effort. Note: the non-tidal benthic data does not use formal project codes.,purpose of the monitoring effort. Note: the non-tidal benthic data does not use formal project codes.,purpose of the monitoring effort. Note: the non-tidal benthic data does not use formal project codes.
+Currently accepted PROJECT_CODEs and PROJECT_DESCRIPTIONS are as follows:,Currently accepted PROJECT_CODEs and PROJECT_DESCRIPTIONS are as follows:,Currently accepted PROJECT_CODEs and PROJECT_DESCRIPTIONS are as follows:,Currently accepted PROJECT_CODEs and PROJECT_DESCRIPTIONS are as follows:
+AGENCY,PROGRAM,PROJECT_CODE,PROJECT_DESCRIPTION
+AAC_DPW,AAWERS,,Anne Arundel County Aquatic Biological Monitoring Program
+BAL_DPW,SMP,,City of Baltimore NPDES Assessment Program
+BC_DEP,BCWMP,,County of Baltimore NPDES Assessment Program
+DC_DDOE,SMP,,District of Columbia NPDES Assessment Program
+DNREC,DEBM,,Delaware Biological Monitoring Program
+FC-DPW,FCWMP,,Frederick County Stream Assessment Program
+FC-DPW,FCWMP,,Frederick County Stream Restoration Monitoring Program
+FC-SPS,FCSQAP,,Fairfax County Stream Protection Strategy
+HC_DPW,HCBMSA,,Howard County Biological Monitoring and Assessment Program
+ICPRB,HISTORIC,VA/HIST,Virginia Historic Tidal Benthic Data Recovery
+LC-DBD,LCSAP,,Loudoun County STREAM ASSESSMENT Program
+MC-SPS,MCSMP,,Montgomery County Countywide Stream protection Strategy
+MDDNR,MBSS,,Maryland Biological Stream Survey 2000-2001
+MDDNR,MBSS,,Maryland Biological Stream Survey 2000-2004
+MDDNR,MBSS,,Maryland Biological Stream Survey 2005-present
+MDDNR,MBSS,,Maryland Stream Waders Program
+MDDNR,MDCT,,Maryland Core/Trend Monitoring Network
+MDDNR,WQMP,MAINSTEM,Chesapeake Bay Mainstem Monitoring Program
+MDDNR,WQMP,POTOMAC,Potomac River Special Survey
+MDDNR,WQMP,MAIN/TRIB,Long-Term Benthic Monitoring Program
+NYDEC,RSMP,,Stream Biomonitoring Program
+PADEP,PAOWQA,,319 Funded Project
+PADEP,PAOWQA,,Effluent Dominated Study
+PADEP,PAOWQA,,Fish IBI
+PADEP,PASWM,,Antidegradaton Survey
+PADEP,PASWM,,Basin Survey
+PADEP,PASWM,,Cause Effect
+PADEP,PASWM,,ICE Survey
+PADEP,PASWM,,Intensive Unassessed Follow-up
+PADEP,PASWM,,Point of First Use
+PADEP,PASWM,,Probabilistic Survey
+PADEP,PASWM,,Use Attainability
+PADEP,PAUSGS,,WQN – Macroinvertebrates
+PADEP,PAUW,,Unassessed Watersheds
+PGC-DER,PGCSS,,Biological Assessment and Monitoring Program
+SRBC,TMDL,,AMD sampling
+SRBC,TMDL,,AMD Sampling for TMDL Development-2000
+SRBC,TMDL,,AMD Sampling for TMDL Development-2000B
+SRBC,TMDL,,AMD Sampling for TMDL Development-2001
+SRBC,TMDL,,AMD Sampling for TMDL Development-2002
+SRBC,TMDL,,AMD Sampling for TMDL Development-2003
+SRBC,TMDL,,Beaverdam Branch and Mill Run TMDL
+SRBC,TMDL,,Conestoga River Watershed TMDL
+SRBC,TMDL,,Frankstown Branch Juniata River ICE/TMDL
+SRBC,TMDL,,Octoraro Creek TMDL
+SRBC,TMDL,,Water Quality Sampling for TMDL Development
+,,,alias: AMD Sampling
+,,,128

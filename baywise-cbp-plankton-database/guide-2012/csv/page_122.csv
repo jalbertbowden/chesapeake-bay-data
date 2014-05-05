@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 122 of 170”,Name: “Table 1 of 1 on page 122 of 170”,Name: “Table 1 of 1 on page 122 of 170”
+Table: 121,Table: 121,Table: 121
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+SSC_SAND,L02,Suspended Sediment Particles Retained On A 0. 062 Mm Sieve
+SSC_TOTAL,D01,Total Sediment
+SSC_TOTAL,L01,Gravimetric Filtration Method; Dried At 90-105
+SSC_TOTAL,L02,Gravimetric Evaporation Method; Dried At 90-105 Degrees C
+SSC_TOTAL,L03,"Total Suspended Sediment Concentration, Unspecified Lab Method"
+TALK,L01,Alkalinity; Titrimetric; Ph 4. 5
+TALK,L02,"Alkalinity, Unspecified Lab Method"
+TALK,L03,"Alkalinity, Unspecified Lab Method 2"
+,,Total Sediment Carbon- Army Corp Of Engineers Sediment Grain Size Analysis
+TC,L02,Protocol
+TCHL_PRE_CAL,F01,Precalibrated Fluorescence Probe Reading
+TCOLI_C,L02,Total Coliform Membrane Filter; M-FC Medium
+TCOLI_M,L01,Std. Fermentation Technique (MPN)
+TDN,D01,Database Calculated TDN - Method 1
+TDN,D01A,Database Calculated TDN - Method 1 – MDL
+TDN,D01B,Database Calculated TDN - Method 1 - 1/2 MDL
+TDN,D01D,Database Calculated TDN - Method 1
+TDN,D02,Database Calculated TDN - Method 2
+TDN,D02A,Database Calculated TDN - Method 2 – MDL
+TDN,D02B,Database Calculated TDN - Method 2 - 1/2 MDL
+TDN,D02D,Database Calculated TDN - Method 2
+TDN,L01,Alkaline Persulfate Wet Oxidation + EPA 353. 2 Or EPA 353. 4
+TDN,L02,Alkaline Persulfate Wet Oxidation + Enzyme Catalyzed Nitrate Reduction
+TDN,L03,"Total Dissolved Nitrogen, Unspecified Lab Method"
+TDP,L01,Alkaline Persulfate Wet Oxidation + EPA365. 1or EPA 365
+TDP,L02,Alkaline Persulfate Wet Oxidation + EPA 365. 2
+TDP,L03,Alkaline Persulfate Wet Oxidation + EPA 365. 3
+TDP,L04,Colorimetric; Automated; Ascorbic Acid
+TDP,L05,Block Digestion; Automated Ascorbic Acid
+TDP,L06,"Total Dissolved Phosphorus, Unspecified Lab Method"
+TDS,L01,Tot. Dissolved Solids; Gravimetric; Dried At 180 C
+,,Total Sediment Inorganic Carbon- Army Corp Of Engineers Sediment Grain Size
+TIC,L02,Analysis Protocol
+TKNF,L01,TKN Colorimetric; Automated Phenate (Indophenol)
+TKNF,L02,Semi-Automated Block Digester; Colorimetric; Nitro
+TKNF,L03,Colorimetric;Nessler;Titrimetric Or Potentiometric
+TKNF,L04,"Total Kjeldahl Nitrogen, Filtered, Unspecified Lab Method"
+TKNW,L01,TKN Colorimetric; Automated Phenate (Indophenol)
+TKNW,L02,Semi-Automated Block Digester; Colorimetric; Nitro
+TKNW,L03,Colorimetric:Nessler;Titrimetic Or Potentiometric
+TKNW,L04,"Total Kjeldahl Nitrogen , Whole Water, Unspecified Lab Method"
+TN,D01,Database Calculated TN - Method 1
+TN,D01A,Database Calculated TN - Method 1 – MDL
+TN,D01B,Database Calculated TN - Method 1 - 1/2 MDL
+TN,D01D,Database Calculated TN - Method 1
+TN,D02,Database Calculated TN - Method 2
+TN,D02A,Database Calculated TN - Method 2 – MDL
+TN,D02B,Database Calculated TN - Method 2 - 1/2 MDL
+TN,D02D,Database Calculated TN - Method 2
+TN,D03,Database Calculated TN - Method 3
+TN,D03A,Database Calculated TN - Method 3 – MDL
+TN,D03B,Database Calculated TN - Method 3 - 1/2 MDL
+TN,D03D,Database Calculated TN - Method 3
+TN,D04,Database Calculated TN - Method 4
+,,120

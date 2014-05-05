@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”,Name: “Table 1 of 1 on page 162 of 170”
+Table: 161,Table: 161,Table: 161,Table: 161,Table: 161,Table: 161,Table: 161
+,,,,,,
+Table E-5.,Table E-5.,Benthic Biota Event Data Files,Benthic Biota Event Data Files,Benthic Biota Event Data Files,Benthic Biota Event Data Files,
+,Field,,Field,Width,,
+,Name,,Type,(dec),Descriptions,
+1,STATION,STATION,Character,15,Sampling Station,
+2,SAMPLE_DATE,SAMPLE_DATE,Date,10,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+3,SAMPLE_TIME,SAMPLE_TIME,Date/Time,8,Sample Collection Time (24 HH:MM),Sample Collection Time (24 HH:MM)
+4,SAMPLE_NUMBER,SAMPLE_NUMBER,SAMPLE_NUMBER,,,
+,,,Numeric,8,Sample Replicate Number,Sample Replicate Number
+5,GMETHOD,GMETHOD,Character,5,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+6,NET_MESH,NET_MESH,Numeric,8. 1,Screen Mesh Width (millimeter),Screen Mesh Width (millimeter)
+7,PENETR,PENETR,Numeric,8. 2,Sampling Gear Penetration Depth (centimeters),Sampling Gear Penetration Depth (centimeters)
+9,SER_NUM,SER_NUM,Character,12,Source Sample Serial Numbers,Source Sample Serial Numbers
+10,SOURCE,SOURCE,Character,8,Data Collection Agency,Data Collection Agency
+11,YEARCODE,YEARCODE,Character,8,Sampling Year Code (optional),Sampling Year Code (optional)
+12,CRUISENO,CRUISENO,Character,8,Benthic Sampling Cruise Number (optional),Benthic Sampling Cruise Number (optional)
+13,STAEQ85,STAEQ85,Character,8,Pre-1989 Station Designation (optional),Pre-1989 Station Designation (optional)
+14,STAEQ85,STAEQ85,Character,8,Post-1989 Station Designation (optional),Post-1989 Station Designation (optional)
+15,SITE,,Character,8,Sampling Site Number (optional),Sampling Site Number (optional)
+Table E-6.,Table E-6.,Tidal,Benthic Count Data Files,Benthic Count Data Files,Benthic Count Data Files,
+,Field,,Field,Width,,
+,Name,,Type,(dec),Descriptions,
+1,STATION,STATION,Text,15,Sampling Station,
+2,SAMPLE_DATE,SAMPLE_DATE,Date,10,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+3,SAMPLE_TIME,SAMPLE_TIME,Date/Time,8,Sample Collection Time (24 HH:MM),Sample Collection Time (24 HH:MM)
+4,SAMPLE_NUMBER,SAMPLE_NUMBER,SAMPLE_NUMBER,,,
+,,,Numeric,8,Sample Replicate Number,Sample Replicate Number
+5,SPEC_CODE,SPEC_CODE,Character,14,Agency Species Code,Agency Species Code
+6,PARAMETER,PARAMETER,Character,15,Sampling Parameter,(Count)
+7,VALUE,,Numeric,8,Sampling Parameter Value,Sampling Parameter Value
+8,UNITS,,Character,15,Reporting Units of Value (count/sample),Reporting Units of Value (count/sample)
+9,SER_NUM,SER_NUM,Character,12,Sample Serial Number,Sample Serial Number
+10,SOURCE,SOURCE,Character,6,Data Collection Agency,Data Collection Agency
+11,YEARCODE,YEARCODE,Character,8,Sampling Year Code (optional),Sampling Year Code (optional)
+12,CRUISENO,CRUISENO,Character,8,Benthic Sampling Cruise Number (optional),Benthic Sampling Cruise Number (optional)
+13,STAEQ85,STAEQ85,Character,8,Pre-1989 Station Designation (optional),Pre-1989 Station Designation (optional)
+14,STAEQ89,STAEQ89,Character,8,Post-1989 Station Designation (optional),Post-1989 Station Designation (optional)
+15,SITE,,Character,8,Sampling Site Number (optional),Sampling Site Number (optional)
+16,SAMPTYPE,SAMPTYPE,Character,8,Sample Collection Type,Sample Collection Type
+17,TSN,,Character,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number
+18,GMETHOD,GMETHOD,Character,5,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+19,NET_MESH,NET_MESH,Numeric,8. 1,Screen Mesh Width (millimeter),Screen Mesh Width (millimeter)
+20,SKIP,,Character,1,Fragment \ Partial Organism Indicator,Fragment \ Partial Organism Indicator
+,,,,,161,

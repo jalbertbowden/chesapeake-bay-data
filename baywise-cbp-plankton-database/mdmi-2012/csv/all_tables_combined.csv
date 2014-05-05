@@ -1,0 +1,601 @@
+,,,Page 1 of 13
+Maryland Chesapeake Bay Water Quality,Maryland Chesapeake Bay Water Quality,Maryland Chesapeake Bay Water Quality,
+Monitoring Program: Microzooplankton,Monitoring Program: Microzooplankton,Monitoring Program: Microzooplankton,
+Component,Component,,
+Metadata:,,,
+z,Identification_Information,,
+z,Data_Quality_Information,,
+z,Spatial_Data_Organization_Information,Spatial_Data_Organization_Information,
+z,Spatial_Reference_Information,Spatial_Reference_Information,
+z,Entity_and_Attribute_Information,Entity_and_Attribute_Information,
+z,Distribution_Information,,
+z,Metadata_Reference_Information,Metadata_Reference_Information,
+Identification_Information:,Identification_Information:,,
+,,Citation:,
+,Citation_Information:,,
+,Originator: Stella Sellner,Originator: Stella Sellner,
+,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory,Originator: Academy of Natural Sciences Benedict Estuarine Reseach Labortory
+,Originator: Morgan State University,Originator: Morgan State University,
+,Publication_Date: 20000101,Publication_Date: 20000101,
+,,Title:,
+,Maryland Chesapeake Bay Water Quality Monitoring Program:,Maryland Chesapeake Bay Water Quality Monitoring Program:,
+,Microzooplankton Component,Microzooplankton Component,
+,Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, Md","Publication_Place: Annapolis, Md",
+,Publisher: US EPA Chesapkeay Bay Program Office,Publisher: US EPA Chesapkeay Bay Program Office,
+,Other_Citation_Details:,Other_Citation_Details:,
+,,none,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+,Larger_Work_Citation:,Larger_Work_Citation:,
+,Citation_Information:,Citation_Information:,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+,Publication_Date: 20080301,Publication_Date: 20080301,
+,,Title:,
+,,Chesapeake Bay Program Plankton Database,
+,Edition: Version 3.0,Edition: Version 3.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+,Publication_Information:,Publication_Information:,
+,,"Publication_Place: Annapolis, MD",
+,,Publisher: US EPA Chesapeake Bay Program,
+,Other_Citation_Details:,Other_Citation_Details:,
+,,None,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+,,Description:,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 2 of 13,Page 2 of 13
+Abstract:,,
+The overall microzooplankton monitoring program is designed to detect and monitor,The overall microzooplankton monitoring program is designed to detect and monitor,The overall microzooplankton monitoring program is designed to detect and monitor
+changes in microzooplankton abundances and species composition in relation to,changes in microzooplankton abundances and species composition in relation to,
+changing water quality conditions in the Chesapeake Bay. Microzooplankton are,changing water quality conditions in the Chesapeake Bay. Microzooplankton are,
+"animal plankton between 20 and 200 micrometers in size and, in this study, include","animal plankton between 20 and 200 micrometers in size and, in this study, include","animal plankton between 20 and 200 micrometers in size and, in this study, include"
+"copepod nauplii, rotifers and protozoans. They are an important trophic link between","copepod nauplii, rotifers and protozoans. They are an important trophic link between","copepod nauplii, rotifers and protozoans. They are an important trophic link between"
+phytoplankton and the higher trophic forms such as mesozooplankton and larval fish.,phytoplankton and the higher trophic forms such as mesozooplankton and larval fish.,phytoplankton and the higher trophic forms such as mesozooplankton and larval fish.
+"In the present program, microzooplankton are collected with a 44 micrometer mesh","In the present program, microzooplankton are collected with a 44 micrometer mesh","In the present program, microzooplankton are collected with a 44 micrometer mesh"
+net.,Samples are collected in conjunction with the Maryland Chesapeake Bay,
+"phytoplankton, mesozooplankton, jellyfish, C14 primary production, fluorometry and","phytoplankton, mesozooplankton, jellyfish, C14 primary production, fluorometry and","phytoplankton, mesozooplankton, jellyfish, C14 primary production, fluorometry and"
+water quality monitoring programs.,"Beginning in August 1984, composite samples","Beginning in August 1984, composite samples"
+were collected monthly (usually excluding February) from waters above and below,were collected monthly (usually excluding February) from waters above and below,were collected monthly (usually excluding February) from waters above and below
+the pycnocline at 16 stations in conjunction with 3 other plankton elements of ANS,the pycnocline at 16 stations in conjunction with 3 other plankton elements of ANS,the pycnocline at 16 stations in conjunction with 3 other plankton elements of ANS
+portion of the Maryland Chesapeake Bay Water Quality Monitoring Program.,portion of the Maryland Chesapeake Bay Water Quality Monitoring Program.,Five
+"10-liter volumes were pumped from above-pycnocline depths, composited (50 liters","10-liter volumes were pumped from above-pycnocline depths, composited (50 liters","10-liter volumes were pumped from above-pycnocline depths, composited (50 liters"
+"total volume), and filtered through a 44 micrometer mesh net.",This effort was then,This effort was then
+repeated to obtain a field replicate.,Two samples were similarly collected from,
+below-pycnocline depths.,"After June 1986, stations ET4.2 and EE3.1 were no longer","After June 1986, stations ET4.2 and EE3.1 were no longer"
+sampled.,"After March 1985, the two replicate above-pycnocline samples were",
+combined at each station yielding one above-pycnocline composite sample which had,combined at each station yielding one above-pycnocline composite sample which had,combined at each station yielding one above-pycnocline composite sample which had
+"20 liters of water from each of five depths, for a total volume of 100 liters.","20 liters of water from each of five depths, for a total volume of 100 liters.",Bottom
+"replicates were also combined. Beginning July 1989, entire water column samples of","replicates were also combined. Beginning July 1989, entire water column samples of","replicates were also combined. Beginning July 1989, entire water column samples of"
+100 liters (10 liters from each of 10 depths) were collected for the tidal fresh and,100 liters (10 liters from each of 10 depths) were collected for the tidal fresh and,
+"oligohaline stations RET2.2, TF1.7, TF1.5, ET5.1, CB1.1 and CB2.2.",Between,
+"August 1984 and September 1985, 1 milliliters of 1% neosynephrine was added to","August 1984 and September 1985, 1 milliliters of 1% neosynephrine was added to","August 1984 and September 1985, 1 milliliters of 1% neosynephrine was added to"
+each concentrated sample.,The sample was allowed to set for about 30 minutes,
+before formaldehyde was added.,Following a study which showed no significant,Following a study which showed no significant
+difference in contraction between microzooplankton treated or not treated with,difference in contraction between microzooplankton treated or not treated with,
+"neosynephrine, the neosynephrine step was eliminated.",Instead buffered,
+formaldehyde (final concentration approximately 2.5%) was added to each sample jar,formaldehyde (final concentration approximately 2.5%) was added to each sample jar,formaldehyde (final concentration approximately 2.5%) was added to each sample jar
+prior to the addition of the sample.,Numbers and species identifications were,
+subsequently made using repeated counts on 1 milliliters aliquot in Sedgewick-Rafter,subsequently made using repeated counts on 1 milliliters aliquot in Sedgewick-Rafter,subsequently made using repeated counts on 1 milliliters aliquot in Sedgewick-Rafter
+cells and a compound microscope (total magnification =100X). Beginning with,cells and a compound microscope (total magnification =100X). Beginning with,
+"samples collected in April 1986, a small drop of concentrated Rose Bengal in","samples collected in April 1986, a small drop of concentrated Rose Bengal in",
+formaldehyde was added to the Sedgewick-Rafter cell before adding the sample.,formaldehyde was added to the Sedgewick-Rafter cell before adding the sample.,The
+counting cell was allowed to set for 10 minutes before counting. The NODC species,counting cell was allowed to set for 10 minutes before counting. The NODC species,counting cell was allowed to set for 10 minutes before counting. The NODC species
+code was employed. Microzooplankton smaller than 44 micrometers were noted but,code was employed. Microzooplankton smaller than 44 micrometers were noted but,code was employed. Microzooplankton smaller than 44 micrometers were noted but
+not enumerated in counts after March 1985 since estimates would be non-,not enumerated in counts after March 1985 since estimates would be non-,
+"quantitative. In May 1992, 1993 & 1994 microzooplankton samples for stations","quantitative. In May 1992, 1993 & 1994 microzooplankton samples for stations",
+"CB1.1, CB2.2, TF1.7, TF1.5, RET2.2, TF2.3, ET5.1 and ET5.2 were sampled twice","CB1.1, CB2.2, TF1.7, TF1.5, RET2.2, TF2.3, ET5.1 and ET5.2 were sampled twice","CB1.1, CB2.2, TF1.7, TF1.5, RET2.2, TF2.3, ET5.1 and ET5.2 were sampled twice"
+to coincide with white perch and striped bass spawning periods.,From April 1993,From April 1993
+"through June 1993 and again from April 1994 and June, 1994 and again in 1995","through June 1993 and again from April 1994 and June, 1994 and again in 1995",
+"additional station CB2.1, in the upper Chesapeake Bay was also sampled to coincide","additional station CB2.1, in the upper Chesapeake Bay was also sampled to coincide","additional station CB2.1, in the upper Chesapeake Bay was also sampled to coincide"
+"with the spawning periods. In April, 1996, 3 more tidal fresh stations TF2.4 in the","with the spawning periods. In April, 1996, 3 more tidal fresh stations TF2.4 in the","with the spawning periods. In April, 1996, 3 more tidal fresh stations TF2.4 in the"
+"Potomac River, TF1.6 in the Patuxent River, and ET5.0 in the Choptank River were","Potomac River, TF1.6 in the Patuxent River, and ET5.0 in the Choptank River were","Potomac River, TF1.6 in the Patuxent River, and ET5.0 in the Choptank River were"
+"added for microzooplankton sampling in April, May, and June.",Stations,
+"CB2.2,CB2.1, TF2.3, TF2.4, RET2.2, TF1.5, TF1.6, TF1.7, ET5.1, and ET5.0 were","CB2.2,CB2.1, TF2.3, TF2.4, RET2.2, TF1.5, TF1.6, TF1.7, ET5.1, and ET5.0 were","CB2.2,CB2.1, TF2.3, TF2.4, RET2.2, TF1.5, TF1.6, TF1.7, ET5.1, and ET5.0 were"
+"sampled twice in April and May, again to coincide with white perch and striped bass","sampled twice in April and May, again to coincide with white perch and striped bass","sampled twice in April and May, again to coincide with white perch and striped bass"
+spawning periods.,Main Bay stations CB1.1 and CB5.2 were no longer sampled as of,Main Bay stations CB1.1 and CB5.2 were no longer sampled as of
+"March, 1996. Sampling in November was discontinued in 1996.",Sampling in,
+November was discontinued in 1996. The ciliates are an important component of the,November was discontinued in 1996. The ciliates are an important component of the,November was discontinued in 1996. The ciliates are an important component of the
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,,4/26/2012
+,Page 3 of 13
+microzooplankton assemblage in Chesapeake Bay.,The net sampling is inappropriate
+for the identification and quantification this taxonomic group because of their size,for the identification and quantification this taxonomic group because of their size
+"(often 
+    ","Therefore, from 1998 through 2000, whole"
+water microzooplankton samples were taken at the mesohaline stations between,water microzooplankton samples were taken at the mesohaline stations between
+"March - September, in order to quantify the ciliates.",The mesohaline stations were
+"designated as CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, AND ET5.2.",Whole water
+samples were decanted from the replicate carboys that were collected from five,samples were decanted from the replicate carboys that were collected from five
+discrete depths above the pycnocline.,The whole water microzooplankton samples
+were preserved with acid Lugol's solution to a final concentration of 2 % and returned,were preserved with acid Lugol's solution to a final concentration of 2 % and returned
+to the lab for enumeration.,Sampling for microzooplankton at all stations ended in
+September 2002 due to the termination of the zooplankton portion of the monitoring,September 2002 due to the termination of the zooplankton portion of the monitoring
+program in October 2002.,
+Purpose:,
+"The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program,","The state of Maryland, in cooperation with the US EPA Chesapeake Bay Program,"
+has monitored microzooplankton species abundance and composition in the Maryland,has monitored microzooplankton species abundance and composition in the Maryland
+Chesapeake Bay mainstem and tributaries since August 1984. The program is,Chesapeake Bay mainstem and tributaries since August 1984. The program is
+designed to give comprehensive time and geographical information on,designed to give comprehensive time and geographical information on
+"microzooplankton. Microzooplankton in this survey refer to copepod nauplii, rotifers,","microzooplankton. Microzooplankton in this survey refer to copepod nauplii, rotifers,"
+and protozoans.,Sampling is performed in conjunction with the Maryland
+"phytoplankton, C14 primary production, fluorometry, mesozooplankton, jellyfish and","phytoplankton, C14 primary production, fluorometry, mesozooplankton, jellyfish and"
+water quality monitoring programs.,
+Supplemental_Information:,
+"CB1.1-mouth of Susquehanna River, main Bay",
+"CB2.1-southwest of Turkey Point, main Bay",
+"CB2.2-west of Still Pond near buoy R34, main Bay",
+"CB3.3C-north of Chesapeake Bay Bridge, main Bay",
+"CB4.3C-east of Dares Beach near buoy R64, main Bay",
+"CB5.2-east of Point No Point, main Bay",
+"LE1.1-mid-channel south-southwest of Jack Bay sandspit and northeast of Sandgates,","LE1.1-mid-channel south-southwest of Jack Bay sandspit and northeast of Sandgates,"
+Patuxent River,
+TF1.7-mid-channel on a transect heading of approximately 115 degrees from Jacks,TF1.7-mid-channel on a transect heading of approximately 115 degrees from Jacks
+"Creek, Patuxent River",
+"TF1.6-mid-channel off the wharf at Lower Marlboro, Patuxent River",
+"TF1.5-mid-channel at Nottingham, Patuxent River",
+"TF2.3-mid-channel off Indian Head at buoy N54, Potomac River",
+TF2.4 -Buoy 44 between Possoum Point and Moss Point Potomac River,TF2.4 -Buoy 44 between Possoum Point and Moss Point Potomac River
+"RET2.2-mid-channel off Maryland Point at buoy 19, Potomac River",
+"LE2.2-off Ragged Point at buoy BW51B, Potomac River (prior to October 1988 data","LE2.2-off Ragged Point at buoy BW51B, Potomac River (prior to October 1988 data"
+"tape, this station was designatedXBE9541)",
+"ET4.2-south of Eastern Neck Island at Buoy 9, Chester River",
+"ET5.0-mid-channel off the mouth of Kings Creek, Choptank River",
+"ET5.1-at Ganey's Wharf, downstream of confluence with Tuckahoe Creek, Choptank","ET5.1-at Ganey's Wharf, downstream of confluence with Tuckahoe Creek, Choptank"
+River,
+"ET5.2-near Rt 50 bridge at Cambridge, Choptank River",
+"EE3.1-1000 yards north of buoy R16, Tangier Sound northwest of Haines Point, main","EE3.1-1000 yards north of buoy R16, Tangier Sound northwest of Haines Point, main"
+Bay,
+"WT5.1-east of Hawkins Point at buoy 5M, Patapsco River (Baltimore Harbor)","WT5.1-east of Hawkins Point at buoy 5M, Patapsco River (Baltimore Harbor)"
+Time_Period_of_Content:,
+Time_Period_Information:,
+Range_of_Dates/Times:,
+Beginning_Date: 19840701,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 4 of 13
+Beginning_Time: unknown,
+Ending_Date: 20021031,
+Ending_Time: unknown,
+Currentness_Reference:,
+ground condition,
+Status:,
+Progress: Complete,
+Maintenance_and_Update_Frequency: None planned,
+Spatial_Domain:,
+Bounding_Coordinates:,
+West_Bounding_Coordinate: -77.2936,
+East_Bounding_Coordinate: -75.9222,
+North_Bounding_Coordinate: 39.4794,
+South_Bounding_Coordinate: 37.9947,
+Keywords:,
+Theme:,
+Theme_Keyword_Thesaurus: None,
+Theme_Keyword: Water,
+Theme_Keyword: Watersheds,
+Theme_Keyword: Microzooplankton,
+Theme_Keyword: Water Quality,
+Place:,
+Place_Keyword_Thesaurus: None,
+Place_Keyword: Chesapeake Bay,
+Place_Keyword: Potomac River,
+Place_Keyword: Choptank River,
+Place_Keyword: Patuxent River,
+Place_Keyword: Maryland,
+Place_Keyword: Patapsco River,
+Place_Keyword: Chester River,
+Stratum:,
+Stratum_Keyword_Thesaurus: None,
+Stratum_Keyword: Water Column,
+Temporal:,
+Temporal_Keyword_Thesaurus: None,
+Temporal_Keyword: monthly,
+Temporal_Keyword: bimonthly,
+Access_Constraints: None,
+Use_Constraints:,
+Dataset credit required,
+Point_of_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,,Page 5 of 13
+,State_or_Province: Maryland,
+,Postal_Code: 21403,
+,Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,Contact Instructions:,
+,unavailable,
+Data_Set_Credit:,,
+Data Origninators,Data Origninators,
+Security_Information:,Security_Information:,
+Security_Classification_System: None,Security_Classification_System: None,
+Security_Classification: None,Security_Classification: None,
+Security_Handling_Description: None,Security_Handling_Description: None,
+Native_Data_Set_Environment:,Native_Data_Set_Environment:,
+Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog,Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog,Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog
+,9.3.0.1770,
+Cross_Reference:,,
+Citation_Information:,Citation_Information:,
+Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+Publication_Date: 20000101,Publication_Date: 20000101,
+Publication_Time: Unknown,Publication_Time: Unknown,
+,Title:,
+,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living
+,Resources Data,
+Edition: Version 1,Edition: Version 1,
+Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, MD",
+,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE
+Other_Citation_Details:,Other_Citation_Details:,
+,Unknown,
+Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide2000.pdf
+Cross_Reference:,,
+Citation_Information:,Citation_Information:,
+Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+Publication_Date: 20000101,Publication_Date: 20000101,
+Publication_Time: Unknown,Publication_Time: Unknown,
+,Title:,
+,2000 Users' Guide to Chesapeake Bay Program Biological and Living,2000 Users' Guide to Chesapeake Bay Program Biological and Living
+,Resources Data,
+Edition: Version 1,Edition: Version 1,
+Publication_Information:,Publication_Information:,
+,"Publication_Place: Annapolis, MD",
+,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE,Publisher: USEPA CHESAPEAKE BAY PROGRAM OFFICE
+Other_Citation_Details:,Other_Citation_Details:,
+,Unknown,
+Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide20 00.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide20 00.pdf,Online_Linkage: ftp.chesapeakebay.net/pub/living_resources/guide20 00.pdf
+,Back to Top,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,,Page 6 of 13
+Data_Quality_Information:,,
+Attribute_Accuracy:,,
+Attribute_Accuracy_Report:,,
+Microzooplankton samples were collected by a staff member of the Academy of,Microzooplankton samples were collected by a staff member of the Academy of,Microzooplankton samples were collected by a staff member of the Academy of
+"Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section","Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section","Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section"
+and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return,and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return,and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return
+to the laboratory.,Sample concentrates are archived after counts and identifications,Sample concentrates are archived after counts and identifications
+are made.,,
+Logical_Consistency_Report:,,
+Not Applicable,,
+Completeness_Report:,,
+"For each monthly microzooplankton collection, one sample was randomly selected as the","For each monthly microzooplankton collection, one sample was randomly selected as the","For each monthly microzooplankton collection, one sample was randomly selected as the"
+QA/QC sample. Two separate counts of the one sample were performed using the same,QA/QC sample. Two separate counts of the one sample were performed using the same,QA/QC sample. Two separate counts of the one sample were performed using the same
+enumeration techniques.,,
+Positional_Accuracy:,,
+Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,,
+Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+Station latitudes and longitudes are input into a Loran-C or GPS receiver and,Station latitudes and longitudes are input into a Loran-C or GPS receiver and,Station latitudes and longitudes are input into a Loran-C or GPS receiver and
+sampling begins when boat reaches pre-programmed coordinates.,sampling begins when boat reaches pre-programmed coordinates.,Loran-C is
+accurate to plus or minus 1500 feet.,The actual Loran or GPS coordinates for,The actual Loran or GPS coordinates for
+each sampling event are not currently recorded in data set.,each sampling event are not currently recorded in data set.,
+COLLECTION METHODS:,"Loran-C, NAD27 from July 1984 to June 1997;","Loran-C, NAD27 from July 1984 to June 1997;"
+GPS NAD83 from June 1997 to October 2002.,,
+Vertical_Positional_Accuracy:,,
+Vertical_Positional_Accuracy_Report:,,
+Composited water samples pumped from 5 depths above the pycnocline and 5,Composited water samples pumped from 5 depths above the pycnocline and 5,Composited water samples pumped from 5 depths above the pycnocline and 5
+depths below the pycnocline. : Water column conductivity is recorded,depths below the pycnocline. : Water column conductivity is recorded,depths below the pycnocline. : Water column conductivity is recorded
+immediately before plankton sampling. P_DEPTH is set at 0.5 meters above,immediately before plankton sampling. P_DEPTH is set at 0.5 meters above,immediately before plankton sampling. P_DEPTH is set at 0.5 meters above
+the pycnocline and is used as the cutoff depth between upper (AP) and lower,the pycnocline and is used as the cutoff depth between upper (AP) and lower,the pycnocline and is used as the cutoff depth between upper (AP) and lower
+(BP) water column layers. The pycnocline is determined to be the depth at,(BP) water column layers. The pycnocline is determined to be the depth at,(BP) water column layers. The pycnocline is determined to be the depth at
+which the greatest conductivity change is observed.,The minimum threshold,The minimum threshold
+change is 1000 umhos/cm.,WC is the entire water column from surface to,WC is the entire water column from surface to
+bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off,bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off,bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off
+Depth-Depth 0.5 Meters Above the Pycnocline,,
+Lineage:,,
+Source_Information:,,
+Source_Citation:,,
+Citation_Information:,,
+Originator: Richard Lacouture,,
+Originator: Stella Sellner,,
+Publication_Date: 20030101,,
+Publication_Time: Unknown,,
+Title:,,
+,Maryland Chesapeake Bay Water Quality Monitoring,Maryland Chesapeake Bay Water Quality Monitoring
+,Program:Mainstem and Tributary Living Resource Component,Program:Mainstem and Tributary Living Resource Component
+Publication_Information:,,
+,"Publication_Place: Annapolis, Maryland USA",
+,Publisher: US EPA Chesapeake Bay Program,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,,,Page 7 of 13
+Other_Citation_Details:,Other_Citation_Details:,Other_Citation_Details:,
+,Unknown,,
+Online_Linkage: http://www.chesapeakebay.net,Online_Linkage: http://www.chesapeakebay.net,Online_Linkage: http://www.chesapeakebay.net,
+Larger_Work_Citation:,Larger_Work_Citation:,Larger_Work_Citation:,
+,Citation_Information:,Citation_Information:,
+,Originator: Jacqueline Johnson,Originator: Jacqueline Johnson,
+,Publication_Date: 20080301,Publication_Date: 20080301,
+,Title:,,
+,,Chesapeake Bay Program Plankton Database,Chesapeake Bay Program Plankton Database
+,Edition: Version 3.0,Edition: Version 3.0,
+,Geospatial_Data_Presentation_Form: database,Geospatial_Data_Presentation_Form: database,
+,Publication_Information:,Publication_Information:,
+,,"Publication_Place: Annapolis, MD",
+,,Publisher: US EPA Chesapeake Bay Program,Publisher: US EPA Chesapeake Bay Program
+,Other_Citation_Details:,Other_Citation_Details:,
+,,None,
+,Online_Linkage: www.chesapeakebay.net,Online_Linkage: www.chesapeakebay.net,
+Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,Type_of_Source_Media: digital database file,
+Source_Time_Period_of_Content:,Source_Time_Period_of_Content:,Source_Time_Period_of_Content:,
+Time_Period_Information:,Time_Period_Information:,Time_Period_Information:,
+Range_of_Dates/Times:,Range_of_Dates/Times:,Range_of_Dates/Times:,
+,Beginning_Date: 19840701,Beginning_Date: 19840701,
+,Beginning_Time: unknown,Beginning_Time: unknown,
+,Ending_Date: 20000101,Ending_Date: 20000101,
+,Ending_Time: unknown,Ending_Time: unknown,
+Source_Currentness_Reference:,Source_Currentness_Reference:,Source_Currentness_Reference:,
+ground condition,ground condition,,
+Source_Citation_Abbreviation:,Source_Citation_Abbreviation:,Source_Citation_Abbreviation:,
+None,,,
+Source_Contribution:,Source_Contribution:,,
+None,,,
+Process_Step:,,,
+Process_Description:,Process_Description:,,
+FIELD METHODS,FIELD METHODS,,
+NET SAMPLES,NET SAMPLES,,
+-COLLECTION METHODS: Composited water samples pumped from 5,-COLLECTION METHODS: Composited water samples pumped from 5,-COLLECTION METHODS: Composited water samples pumped from 5,-COLLECTION METHODS: Composited water samples pumped from 5
+depths above the pycnocline and 5 depths below the pycnocline were filtered,depths above the pycnocline and 5 depths below the pycnocline were filtered,depths above the pycnocline and 5 depths below the pycnocline were filtered,depths above the pycnocline and 5 depths below the pycnocline were filtered
+through a 44-micrometer mesh net and rinsed into a jar.,through a 44-micrometer mesh net and rinsed into a jar.,through a 44-micrometer mesh net and rinsed into a jar.,"After February 1985,"
+"the two above-pycnocline replicates were combined, as were the two below-","the two above-pycnocline replicates were combined, as were the two below-","the two above-pycnocline replicates were combined, as were the two below-","the two above-pycnocline replicates were combined, as were the two below-"
+pycnocline replicates.,pycnocline replicates.,"Beginning July 1985, waters from the above-pyncocline","Beginning July 1985, waters from the above-pyncocline"
+depths and below-pycnocline depths were pumped directly through the net and,depths and below-pycnocline depths were pumped directly through the net and,depths and below-pycnocline depths were pumped directly through the net and,depths and below-pycnocline depths were pumped directly through the net and
+rinsed into their respective jars two times rather than first being composited.,rinsed into their respective jars two times rather than first being composited.,rinsed into their respective jars two times rather than first being composited.,rinsed into their respective jars two times rather than first being composited.
+"Beginning July 1989, entire water column samples from 10 depths were","Beginning July 1989, entire water column samples from 10 depths were","Beginning July 1989, entire water column samples from 10 depths were","Beginning July 1989, entire water column samples from 10 depths were"
+"collected from stations RET2.2, TF1.7, TF1.5, ET5.1, CB1.1, CB2.2 and","collected from stations RET2.2, TF1.7, TF1.5, ET5.1, CB1.1, CB2.2 and","collected from stations RET2.2, TF1.7, TF1.5, ET5.1, CB1.1, CB2.2 and","collected from stations RET2.2, TF1.7, TF1.5, ET5.1, CB1.1, CB2.2 and"
+CB2.1 (when sampled).,CB2.1 (when sampled).,,
+-SAMPLE PRESERVATIVES:,-SAMPLE PRESERVATIVES:,-SAMPLE PRESERVATIVES:,"Between August 1984 and September 1985, 1"
+milliliter of neosynephrine was added to each concentrated sample.,milliliter of neosynephrine was added to each concentrated sample.,milliliter of neosynephrine was added to each concentrated sample.,The
+sample was allowed to set for 30 minutes and then buffered formaldehyde was,sample was allowed to set for 30 minutes and then buffered formaldehyde was,sample was allowed to set for 30 minutes and then buffered formaldehyde was,sample was allowed to set for 30 minutes and then buffered formaldehyde was
+added.,The neosynephrine step was eliminated after this time and buffered,The neosynephrine step was eliminated after this time and buffered,The neosynephrine step was eliminated after this time and buffered
+formaldehyde was added to each sample jar prior to the addition of the sample,formaldehyde was added to each sample jar prior to the addition of the sample,formaldehyde was added to each sample jar prior to the addition of the sample,formaldehyde was added to each sample jar prior to the addition of the sample
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 8 of 13,Page 8 of 13
+(final concentration of fixative was approximately 2.5%).,,
+-SAMPLE STORAGE ENVIRONMENT: Laboratory,,
+-TIME IN STORAGE: Indefinite,,
+-LAB TECHNIQUES WITH REFERENCES: Standard Methods,,
+WHOLE WATER SAMPLES,,
+-COLLECTION METHODS:,"Whole water samples, are collected at the same","Whole water samples, are collected at the same"
+time and at the same stations as the net microzooplankton samples using a,time and at the same stations as the net microzooplankton samples using a,time and at the same stations as the net microzooplankton samples using a
+diaphragm pump and hose connected to a sampling tube (missile) that is,diaphragm pump and hose connected to a sampling tube (missile) that is,diaphragm pump and hose connected to a sampling tube (missile) that is
+lowered to ten depths over the water column (depths will include 0.5 m below,lowered to ten depths over the water column (depths will include 0.5 m below,lowered to ten depths over the water column (depths will include 0.5 m below
+the surface and 1 m above the bottom).,Water is pumped into a carboy and the,Water is pumped into a carboy and the
+sample is decanted into a 500 ml sample bottle.,,
+-SAMPLE PRESERVATIVES:,Whole water samples are preserved in acid,Whole water samples are preserved in acid
+Lugol's solution (final concentration 2%).,,
+-SAMPLE STORAGE ENVIRONMENT: Laboratory,,
+-TIME IN STORAGE: Indefinite,,
+-LAB TECHNIQUES WITH REFERENCES: Standard Methods,,
+# BIOLOGICAL ENUMERATION TECHNIQUES,,
+-Chesapeake Bay Program Laboratory Method Code MI101-NET SAMPLES,-Chesapeake Bay Program Laboratory Method Code MI101-NET SAMPLES,-Chesapeake Bay Program Laboratory Method Code MI101-NET SAMPLES
+Samples are gently mixed and a 1-milliliter aliquot is removed with a Stempel,Samples are gently mixed and a 1-milliliter aliquot is removed with a Stempel,Samples are gently mixed and a 1-milliliter aliquot is removed with a Stempel
+pipette and put into a Sedgewick-Rafter cell for enumeration with a compound,pipette and put into a Sedgewick-Rafter cell for enumeration with a compound,pipette and put into a Sedgewick-Rafter cell for enumeration with a compound
+microscope at 100X magnification.,Beginning with samples collected in April,Beginning with samples collected in April
+"1986, a small drop of concentrated Rose Bengal stain was added to the cell","1986, a small drop of concentrated Rose Bengal stain was added to the cell","1986, a small drop of concentrated Rose Bengal stain was added to the cell"
+prior to addition of the sub sample.,The sub sample is allowed to set for 10,The sub sample is allowed to set for 10
+minutes before counting.,At least one chamber (1 milliliter) is counted for each,At least one chamber (1 milliliter) is counted for each
+"sample and if the total count does not reach 250 organisms, subsequent l","sample and if the total count does not reach 250 organisms, subsequent l","sample and if the total count does not reach 250 organisms, subsequent l"
+milliliter aliquots are enumerated until a count of 250 or more organisms is,milliliter aliquots are enumerated until a count of 250 or more organisms is,milliliter aliquots are enumerated until a count of 250 or more organisms is
+obtained or 3 milliliter are examined.,If a certain organism is abundant (more,If a certain organism is abundant (more
+"than 60 per chamber), it is not counted in the subsequent 1 milliliter aliquot for","than 60 per chamber), it is not counted in the subsequent 1 milliliter aliquot for","than 60 per chamber), it is not counted in the subsequent 1 milliliter aliquot for"
+a given sample.,"For extremely abundant taxa, less than one milliliter can be","For extremely abundant taxa, less than one milliliter can be"
+counted.,Species identification is made using the NODC species code.,
+Microzooplankton smaller than 44 micrometers are noted on the original data,Microzooplankton smaller than 44 micrometers are noted on the original data,Microzooplankton smaller than 44 micrometers are noted on the original data
+sheet but not enumerated since estimates would not be quantitative.,sheet but not enumerated since estimates would not be quantitative.,
+-Chesapeake Bay Program Laboratory Method Code MI103-WHOLE WATER,-Chesapeake Bay Program Laboratory Method Code MI103-WHOLE WATER,-Chesapeake Bay Program Laboratory Method Code MI103-WHOLE WATER
+SAMPLES,,
+"In the lab, 5-25 ml are subsampled from the sample jar for settling. This","In the lab, 5-25 ml are subsampled from the sample jar for settling. This","In the lab, 5-25 ml are subsampled from the sample jar for settling. This"
+amount depends on how much detritus and plankton are in the sample.,amount depends on how much detritus and plankton are in the sample.,If 25 ml
+"are used, the bottle is shaken gently (slowly inverted 5 times) and 25 ml poured","are used, the bottle is shaken gently (slowly inverted 5 times) and 25 ml poured","are used, the bottle is shaken gently (slowly inverted 5 times) and 25 ml poured"
+into a graduated cylinder.,This is put into a 50 ml settling chamber and the,This is put into a 50 ml settling chamber and the
+graduated cylinder rinsed 3X.,The sample is allowed to settle 48 h before,The sample is allowed to settle 48 h before
+being counted.,"If less than 25 ml aliquots are used, these are poured into 25 ml","If less than 25 ml aliquots are used, these are poured into 25 ml"
+settling chambers which settle for 24 hr before counting.,,
+"To count, the entire chamber is examined at 200X with an inverted microscope","To count, the entire chamber is examined at 200X with an inverted microscope","To count, the entire chamber is examined at 200X with an inverted microscope"
+to obtain a minimum count of 100 organisms.,If 100 organisms are not,If 100 organisms are not
+"counted, another subsample is settled.",Any organism that is abundant in the,Any organism that is abundant in the
+first aliquot (more than 60) is not counted.,The count program used for the net,The count program used for the net
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012,4/26/2012
+,,Page 9 of 13
+samples (see above) is currently being adapted for use with whole water,samples (see above) is currently being adapted for use with whole water,samples (see above) is currently being adapted for use with whole water
+counts.,The ITIS taxonomic codes will be used for the taxa that are,The ITIS taxonomic codes will be used for the taxa that are
+enumerated.,Biomass estimates for each taxon will be applied to the,Biomass estimates for each taxon will be applied to the
+normalized densities in order to fit into various ecosystem models and the,normalized densities in order to fit into various ecosystem models and the,normalized densities in order to fit into various ecosystem models and the
+zooplankton index of biotic integrity.,zooplankton index of biotic integrity.,
+"#FORMULAS, CALCULATIONS, AND CONVERSIONS","#FORMULAS, CALCULATIONS, AND CONVERSIONS",
+The following equation is used to convert raw counts to density for both,The following equation is used to convert raw counts to density for both,The following equation is used to convert raw counts to density for both
+enumeration methods,enumeration methods,
+(# Per liter) for each taxon identified:,(# Per liter) for each taxon identified:,
+DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP,DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP,DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP
+Where,,
+DENSITY = density of a given taxonomic group (# individuals/liter),DENSITY = density of a given taxonomic group (# individuals/liter),DENSITY = density of a given taxonomic group (# individuals/liter)
+RAWCNT = raw count of taxonomic group per sub sample,RAWCNT = raw count of taxonomic group per sub sample,
+MLSCNT = milliliters of sub sample counted,MLSCNT = milliliters of sub sample counted,
+CONCENT = volume of concentrated sample,CONCENT = volume of concentrated sample,
+TOTVCOMP = # of liters filtered though net or total volume of,TOTVCOMP = # of liters filtered though net or total volume of,TOTVCOMP = # of liters filtered though net or total volume of
+,Composite sample,
+"If the sample was counted by rows, MLSCNT is determined by dividing the","If the sample was counted by rows, MLSCNT is determined by dividing the","If the sample was counted by rows, MLSCNT is determined by dividing the"
+number of rows by 28.4.,number of rows by 28.4.,
+Process_Date: Unknown,Process_Date: Unknown,
+Process_Step:,,
+Process_Description:,Process_Description:,
+Metadata imported.,Metadata imported.,
+Source_Used_Citation_Abbreviation:,Source_Used_Citation_Abbreviation:,
+C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml49B.tmp,C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml49B.tmp,
+Process_Date: 20081208,Process_Date: 20081208,
+Process_Time: 13133200,Process_Time: 13133200,
+Back to Top,,
+Spatial_Data_Organization_Information:,Spatial_Data_Organization_Information:,
+Indirect_Spatial_Reference_Method:,Indirect_Spatial_Reference_Method:,
+Chesapeake Bay and its Tidal Tributaries in the State of Maryland,Chesapeake Bay and its Tidal Tributaries in the State of Maryland,
+Direct_Spatial_Reference_Method: Point,Direct_Spatial_Reference_Method: Point,
+Point_and_Vector_Object_Information:,Point_and_Vector_Object_Information:,
+SDTS_Terms_Description:,SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Entity point,SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Area point,SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,,
+Spatial_Reference_Information:,,
+Horizontal_Coordinate_System_Definition:,Horizontal_Coordinate_System_Definition:,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 10 of 13
+Geographic:,
+Latitude_Resolution: 30,
+Longitude_Resolution: 30,
+Geographic_Coordinate_Units: Decimal degrees,
+Geodetic_Model:,
+Horizontal_Datum_Name: North American Datum of 1983,
+Ellipsoid_Name: Geodedic Reference System 80,
+Semi-major_Axis: 6378206.4,
+Denominator_of_Flattening_Ratio: 294.98,
+Vertical_Coordinate_System_Definition:,
+Altitude_System_Definition:,
+Altitude_Datum_Name: North American Vertical Datum of 1988,
+Altitude_Resolution: .1,
+Altitude_Distance_Units: meters,
+Altitude_Encoding_Method: Attribute Values,
+Depth_System_Definition:,
+Depth_Datum_Name: Chart datum; datum for sounding reduction,
+Depth_Resolution: .1,
+Depth_Distance_Units: meters,
+Depth_Encoding_Method: Attribute Values,
+Back to Top,
+Entity_and_Attribute_Information:,
+Overview_Description:,
+Entity_and_Attribute_Detail_Citation:,
+Maryland Chesapeake Bay Program Water Quality,
+Monitoring:Microzooplankton Monitoring Component,
+Project Documentation,
+ftp://ftp.chesapeakebay.net/pub/Living_Resources/plank/micro/mdmidoc.pdf,ftp://ftp.chesapeakebay.net/pub/Living_Resources/plank/micro/mdmidoc.pdf
+Back to Top,
+Distribution_Information:,
+Distributor:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,,Page 11 of 13
+Contact_Voice_Telephone: 410-267-5729,Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,Contact Instructions:,
+,unavailable,
+Resource_Description: Downloadable Data,Resource_Description: Downloadable Data,
+Distribution_Liability:,,
+"I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other","I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other","I, the data requestor, agree to acknowledge the Chesapeake Bay Program and any other"
+agencies and institutions as specified by the Chesapeake Bay Program Office as data,agencies and institutions as specified by the Chesapeake Bay Program Office as data,agencies and institutions as specified by the Chesapeake Bay Program Office as data
+"providers. I agree to credit the data originators in any publications, reports or presentations","providers. I agree to credit the data originators in any publications, reports or presentations","providers. I agree to credit the data originators in any publications, reports or presentations"
+"generated from this data. I also accept that, although these data have been processed","generated from this data. I also accept that, although these data have been processed","generated from this data. I also accept that, although these data have been processed"
+"successfully on a computer system at the Chesapeake Bay Program, no warranty expressed","successfully on a computer system at the Chesapeake Bay Program, no warranty expressed","successfully on a computer system at the Chesapeake Bay Program, no warranty expressed"
+or implied is made regarding the accuracy or utility of the data on any other system or for,or implied is made regarding the accuracy or utility of the data on any other system or for,or implied is made regarding the accuracy or utility of the data on any other system or for
+"general or scientific purposes, nor shall the act of distribution constitute any such warranty.","general or scientific purposes, nor shall the act of distribution constitute any such warranty.","general or scientific purposes, nor shall the act of distribution constitute any such warranty."
+This disclaimer applies both to individual use of the data and aggregate use with other data.,This disclaimer applies both to individual use of the data and aggregate use with other data.,This disclaimer applies both to individual use of the data and aggregate use with other data.
+It is strongly recommended that careful attention be paid to the contents of the data,It is strongly recommended that careful attention be paid to the contents of the data,It is strongly recommended that careful attention be paid to the contents of the data
+documentation file associated with these data. The Chesapeake Bay Program shall not be,documentation file associated with these data. The Chesapeake Bay Program shall not be,documentation file associated with these data. The Chesapeake Bay Program shall not be
+held liable for improper or incorrect use of the data described and/or contained herein.,held liable for improper or incorrect use of the data described and/or contained herein.,held liable for improper or incorrect use of the data described and/or contained herein.
+Standard_Order_Process:,,
+Digital_Form:,,
+Digital_Transfer_Information:,Digital_Transfer_Information:,
+Format_Name: ASCII,Format_Name: ASCII,
+Digital_Transfer_Option:,Digital_Transfer_Option:,
+Online_Option:,Online_Option:,
+Computer_Contact_Information:,Computer_Contact_Information:,
+,Network_Address:,
+,Network_Resource_Name: http://www.chesapeakebay.net,Network_Resource_Name: http://www.chesapeakebay.net
+Access_Instructions:,Access_Instructions:,
+,None,
+Online_Computer_and_Operating_System:,Online_Computer_and_Operating_System:,
+,None,
+Offline_Option:,Offline_Option:,
+Offline_Media: CD-ROM,Offline_Media: CD-ROM,
+Recording_Capacity:,Recording_Capacity:,
+,Recording_Density: 750,
+,Recording_Density_Units: megabytes,
+Recording_Format: ISO 9660,Recording_Format: ISO 9660,
+Compatibility_Information:,Compatibility_Information:,
+,None,
+,Fees: None,
+Ordering_Instructions:,,
+,None,
+Turnaround: 5 Working Days,Turnaround: 5 Working Days,
+Standard_Order_Process:,,
+,Fees: None,
+Ordering_Instructions:,,
+All Requests for data on media must be made in,All Requests for data on media must be made in,
+writing to the Living Resources Data Manager,writing to the Living Resources Data Manager,
+Turnaround: Two Weeks,Turnaround: Two Weeks,
+Custom_Order_Process:,,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 12 of 13
+None,
+Technical_Prerequisites:,
+None,
+Available_Time_Period:,
+Time_Period_Information:,
+Range_of_Dates/Times:,
+Beginning_Date: 19840701,
+Beginning_Time: unknown,
+Ending_Date: 20000101,
+Ending_Time: unknown,
+Back to Top,
+Metadata_Reference_Information:,
+Metadata_Date: 20081208,
+Metadata_Contact:,
+Contact_Information:,
+Contact_Person_Primary:,
+Contact_Person: Jacqueline Johnson,
+Contact_Organization: Interstate Commission on Potomac River Basin,Contact_Organization: Interstate Commission on Potomac River Basin
+Contact_Position: Chesapeake Bay Program Living Resources Data Manager,Contact_Position: Chesapeake Bay Program Living Resources Data Manager
+Contact_Address:,
+Address_Type: mailing and physical address,
+Address:,
+"410 Severn Avenue, Suite 109",
+City: Annapolis,
+State_or_Province: Maryland,
+Postal_Code: 21403,
+Country: USA,
+Contact_Voice_Telephone: 1-800-968-7229,
+Contact_Voice_Telephone: 410-267-5729,
+Contact_Facsimile_Telephone: 410-267-5777,
+Contact_Electronic_Mail_Address: jjohnson@chesapeakebay.net,
+Hours_of_Service: 8:00 a.m. to 4:00 p.m. Monday Through Friday,
+Contact Instructions:,
+unavailable,
+Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata,
+Metadata_Standard_Version: FGDC-STD-001-1998,
+Metadata_Time_Convention: local time,
+Metadata_Access_Constraints: None,
+Metadata_Use_Constraints:,
+None,
+Metadata_Security_Information:,
+Metadata_Security_Classification_System: None,
+Metadata_Security_Classification: Unclassified,
+Metadata_Security_Handling_Description:,
+None,
+Metadata_Extensions:,
+Online_Linkage: http://www.esri.com/metadata/esriprof80.html,
+Profile_Name: ESRI Metadata Profile,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012
+,Page 13 of 13
+Back to Top,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012

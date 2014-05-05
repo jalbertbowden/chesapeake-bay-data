@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 128 of 170”,Name: “Table 1 of 1 on page 128 of 170”,Name: “Table 1 of 1 on page 128 of 170”
+Table: 127,Table: 127,Table: 127
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-28.,Analytical Problem Codes (PROBLEM).,Analytical Problem Codes (PROBLEM).
+This two-character code indicates when the there has been a reported problem with a measured value by,This two-character code indicates when the there has been a reported problem with a measured value by,This two-character code indicates when the there has been a reported problem with a measured value by
+the analytical laboratory or data provider.,the analytical laboratory or data provider.,Currently accepted PROBLEM_CODES and
+PROBLEM_CODE_DESCRIPTION designations are as follows:,PROBLEM_CODE_DESCRIPTION designations are as follows:,PROBLEM_CODE_DESCRIPTION designations are as follows:
+PROBLEM,PROBLEM_CODE_DESCRIPTION,
+_CODE,,
+A,Laboratory Accident,
+AA,Field Accident,
+B,Chemical Matrix Interference,
+BB,Torn Filter Pad,
+C,Instrument Failure,
+D,Insufficient Sample,
+DD,Sample Size Not Reported (Assumed),
+E,Sample Received After Holding Time,
+F,Post-Calibration Failure Likely Due To Equipment Damage After Sampling; Data Appear Normal,Post-Calibration Failure Likely Due To Equipment Damage After Sampling; Data Appear Normal
+FF,Mean Reported Due To Poor Replication Between Pads,Mean Reported Due To Poor Replication Between Pads
+GG,Sample Analyzed After Holding Time,
+I,Suspect Value Has Been Verified Correct,Suspect Value Has Been Verified Correct
+J,Incorrect Sample Fraction For Analysis,
+JJ,Volume Filtered Not Recorded (Assumed),Volume Filtered Not Recorded (Assumed)
+L,"Licor Calibration Off By >= 10% Per Year. Use With Calc Kd Where Probe Of Lu, Ls, Lb Exist In Raw","Licor Calibration Off By >= 10% Per Year. Use With Calc Kd Where Probe Of Lu, Ls, Lb Exist In Raw"
+LB,Licor Calibration Off By >= 10% Per Year For Both Air And Upward Facing Sensors,Licor Calibration Off By >= 10% Per Year For Both Air And Upward Facing Sensors
+LS,Licor Calibration Off By >= 10% Per Year For Air Sensor,Licor Calibration Off By >= 10% Per Year For Air Sensor
+LU,Licor Calibration Off By >= 10% Per Year For Upward Facing Sensor,Licor Calibration Off By >= 10% Per Year For Upward Facing Sensor
+MM,Over 20% Of Sample Adhered To Pouch And Outside Of Pad,Over 20% Of Sample Adhered To Pouch And Outside Of Pad
+N,None,
+NN,Particulates Found In Filtered Sample,
+P,Provisional Data,
+Q,Analyte Present; Reported Value Is Estimated; Conc. Is Below The Range For Accurate Quantification,Analyte Present; Reported Value Is Estimated; Conc. Is Below The Range For Accurate Quantification
+QQ,Part Exceeds Whole Value Yet Difference Is Within Analytical Precision,Part Exceeds Whole Value Yet Difference Is Within Analytical Precision
+R,Sample Contaminated,
+RR,No Sample Received By Lab From Field Office,No Sample Received By Lab From Field Office
+SS,Sample Rejected Due To High Suspended Sediment Concentration,Sample Rejected Due To High Suspended Sediment Concentration
+U,Matrix Problem Resulting From The Interrelationship Between Variables Such As Ph And Ammonia,Matrix Problem Resulting From The Interrelationship Between Variables Such As Ph And Ammonia
+UN,"For DCDOH Data, These Values Are Issues Or Are Nulls With No Assigned Problem Codes.","For DCDOH Data, These Values Are Issues Or Are Nulls With No Assigned Problem Codes."
+V,Sample Results Rejected Due To QC Criteria,Sample Results Rejected Due To QC Criteria
+WW,High Optical Density (750 Nm); Actual Value Recorded,High Optical Density (750 Nm); Actual Value Recorded
+X,Sample Not Preserved Properly,
+,,126

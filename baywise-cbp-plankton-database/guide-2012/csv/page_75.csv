@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 75 of 170”,Name: “Table 1 of 1 on page 75 of 170”,Name: “Table 1 of 1 on page 75 of 170”,Name: “Table 1 of 1 on page 75 of 170”,Name: “Table 1 of 1 on page 75 of 170”
+Table: 74,Table: 74,Table: 74,Table: 74,Table: 74
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-19. Non-Tidal Benthic Water Quality Data Files-Continued,Table A-19. Non-Tidal Benthic Water Quality Data Files-Continued,Table A-19. Non-Tidal Benthic Water Quality Data Files-Continued,Table A-19. Non-Tidal Benthic Water Quality Data Files-Continued,Table A-19. Non-Tidal Benthic Water Quality Data Files-Continued
+Field Name,Type,Width,Descriptions,Descriptions
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE_INITIALS,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_NAME,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+HUC_8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+SUBBASINT_DESCRIPTION,SUBBASINT_DESCRIPTION,,,
+,Text,50,USGS Eight Digit Hydrologic Unit Code Description,USGS Eight Digit Hydrologic Unit Code Description
+ECOREGION_LEVEL3,ECOREGION_LEVEL3,,,
+,Text,,5,Level 3 EPA Ecoregion Code
+ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,,
+,Text,,50,Level 3 EPA Ecoregion Description
+Table A-20. Benthic Index of Biotic Integrity Data Files,Table A-20. Benthic Index of Biotic Integrity Data Files,Table A-20. Benthic Index of Biotic Integrity Data Files,Table A-20. Benthic Index of Biotic Integrity Data Files,Table A-20. Benthic Index of Biotic Integrity Data Files
+Field Name,Type,Width,Description,Description
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,6,Data Collection Agency,Data Collection Agency
+STATION,Text,15,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,Date/Time,,
+,,8,Sample Collection Time (HH:MM:SS),Sample Collection Time (HH:MM:SS)
+SAMPLE_NUMBER Number,SAMPLE_NUMBER Number,8.0,Sample Number,Sample Number
+IBI_PARAMETER,Text,15,IBI Parameter,IBI Parameter
+IBI_VALUE,Number,8.4,Parameter Value,Parameter Value
+IBI_SCORE,Number,8.0,Value Reporting Units,Value Reporting Units
+R_DATE,Date/Time,Date/Time,,
+,,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+IBI_METHOD,Text,3,Chesapeake Bay Program Index of Biotic Integrity Method Code,Chesapeake Bay Program Index of Biotic Integrity Method Code
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE_INITIALS,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_NAME,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+HUC_8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+SUBBASINT_DESCRIPTION,SUBBASINT_DESCRIPTION,,,
+,Text,50,USGS Eight Digit Hydrologic Unit Code Description,USGS Eight Digit Hydrologic Unit Code Description
+ECOREGION_LEVEL3,ECOREGION_LEVEL3,,,
+,Text,5,Level 3 EPA Ecoregion Code,Level 3 EPA Ecoregion Code
+ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,,
+,Text,50,Level 3 EPA Ecoregion Description,Level 3 EPA Ecoregion Description
+,,,,73

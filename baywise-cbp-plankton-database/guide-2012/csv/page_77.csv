@@ -1,0 +1,78 @@
+Name: “Table 1 of 1 on page 77 of 170”,Name: “Table 1 of 1 on page 77 of 170”,Name: “Table 1 of 1 on page 77 of 170”,Name: “Table 1 of 1 on page 77 of 170”
+Table: 76,Table: 76,Table: 76,Table: 76
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-21.,Composite Non-Tidal Benthic Metric Data File Format-Continued,Composite Non-Tidal Benthic Metric Data File Format-Continued,Composite Non-Tidal Benthic Metric Data File Format-Continued
+Field Name,Type,Width,Description
+PCT_FILTERERS,Number,8.4,Percent Filterer Abundance
+PCT_FILTERERS_R,Number,8.4,Percent Filterer Abundance-calculated on Rarefaction Data
+PCT_GATHER,Number,8.4,Percent Gatherer Abundance
+PCT_GATHER_R,Number,8.4,Percent Gatherer Abundance-calculated on Rarefaction Data
+PCT_LIMESTONE,Number,8.4,Percent Limestone Taxa (Isopod + Amphidoda + Ephemerella) Abundance
+PCT_LIMESTONE_R,Number,8.4,Percent Limestone Taxa (Isopod + Amphidoda + Ephemerella) Abundance
+,,,-calculated on Rarefaction Data
+PCT_NET_CADDISFLY,Number,8.4,Percent Net Caddisflies Abundance
+PCT_NET_CADDISFLY_R,Number,8.4,Percent Net Caddisflies Abundance-calculated on Rarefaction Data
+PCT_NON_INSECT,Number,8.4,Percent Non-Insects Abundance
+PCT_NON_INSECT_R,Number,8.4,Percent Non-Insects Abundance-calculated on Rarefaction Data
+PCT_PLECOPTERA,Number,8.4,Percent Plecoptera Abundance
+PCT_PLECOPTERA_R,Number,8.4,Percent Plecoptera Abundance-calculated on Rarefaction Data
+PCT_PREDATOR,Number,8.4,Percent Predator Abundance
+PCT_PREDATOR_R,Number,8.4,Percent Predator Abundance-calculated on Rarefaction Data
+PCT_SCRAPER,Number,8.4,Percent Scrapers Abundance
+PCT_SCRAPER_R,Number,8.4,Percent Scrapers Abundance-calculated on Rarefaction Data
+PCT_SENSITIVE,Number,8.4,"Percent Sensitive (TV
+    "
+PCT_SENSITIVE_R,Number,8.4,"Percent Sensitive (TV
+    "
+PCT_SHREDDER,Number,8.4,Percent Shredder Abundance
+PCT_SHREDDER_R,Number,8.4,Percent Shredder Abundance-calculated on Rarefaction Data
+PCT_SIMULIIDAE,Number,8.4,Percent Simulidate (Black fly) Abundance
+PCT_SIMULIIDAE_R,Number,8.4,Percent Simulidate (Black fly) Abundance-calculated on Rarefaction Data
+PCT_SWIMMER,Number,8.4,Percent Swimmers Abundance
+PCT_SWIMMER_R,Number,8.4,Percent Swimmers Abundance-calculated on Rarefaction Data
+PCT_TOLERANT,Number,8.4,Percent Tolerant (TV>=7) Abundance
+PCT_TOLERANT_R,Number,8.4,Percent Tolerant (TV>=7) Abundance-calculated on Rarefaction Data
+PCT_TRICHOPTERA,Number,8.4,Percent Trichoptera Abundance
+PCT_TRICHOPTERA_NO_TOL,PCT_TRICHOPTERA_NO_TOL,,
+,Number,8.4,Percent Trichoptera Abundance excluding Hydropsychidae
+PCT_TRICHOPTERA_NO_TOL_R,PCT_TRICHOPTERA_NO_TOL_R,,
+,Number,8.4,Percent Trichoptera Abundance excluding Hydropsychidae
+,,,-calculated on Rarefaction Data
+PCT_TRICHOPTERA_R,Number,8.4,Percent Trichoptera Abundance-calculated on Rarefaction Data
+PLECOPTERA_TAXA_CNT,Number,8.4,Plecoptera Taxa count
+PLECOPTERA_TAXA_CNT_R,PLECOPTERA_TAXA_CNT_R,,
+,Number,8.4,Plecoptera Taxa count-calculated on Rarefaction Data
+RATIO_SC_TO_CF,Number,8.4,Ratio of Scrapers to Collector Filterers
+RATIO_SC_TO_CF_R,Number,8.4,Ratio of Scrapers to Collector Filterers-calculated on Rarefaction Data
+RATIO_SC_TO_SH,Number,8.4,Ratio of Scrapers to Shredders
+RATIO_SC_TO_SH_R,Number,8.4,Ratio of Scrapers to Shredders-calculated on Rarefaction Data
+RATIO_SH_TO_CG,Number,8.4,Ratio of Shredders to Collector Gatherers
+RATIO_SH_TO_CG_R,Number,8.4,Ratio of Shredders to Collector Gatherers-calculated on Rarefaction Data
+SCRAPER_TAXA_CNT,Number,8.4,Scraper Taxa Count
+SCRAPER_TAXA_CNT_R,Number,8.4,Scraper Taxa Count-calculated on Rarefaction Data
+SENSITIVE_TAXA_COUNT,Number,8.4,"Sensitive Taxa Count (TV
+    "
+SENSITIVE_TAXA_COUNT_R,SENSITIVE_TAXA_COUNT_R,,
+,Number,8.4,"Sensitive Taxa Count (TV
+    "
+SIMPSON_DIVERSITY,Number,8.4,Simpson's Diversity Index
+SIMPSON_DIVERSITY_R,Number,8.4,Simpson's Diversity Index-calculated on Rarefaction Data
+SW,Number,8.4,Shannon Weiner Diversity Index
+SW_R,Number,8.4,Shannon Weiner Diversity Index-calculated on Rarefaction Data
+TAXA_RICH,Number,8.4,Total Taxa Count
+TAXA_RICH_R,Number,8.4,Total Taxa Count -calculated on Rarefaction Data
+TOLERANT_TAXA_COUNT,Number,8.4,Tolerant Taxa Count (TV>=7)
+TOLERANT_TAXA_COUNT_R,TOLERANT_TAXA_COUNT_R,,
+,Number,8.4,Tolerant Taxa Count (TV>=7)-calculated on Rarefaction Data
+TOTAL_ABUNDANCE,Number,8.4,Total Abundance
+TOTAL_ABUNDANCE_R,Number,8.4,Total Abundance-calculated on Rarefaction Data
+TOTAL_SCORE,Number,8.4,Total IBI Score for Site
+TRICHOPTERA_TAXA_CNT,Number,8.4,Trichoptera Taxa Count
+TRICHOPTERA_TAXA_CNT_R,TRICHOPTERA_TAXA_CNT_R,,
+,Number,8.4,Trichoptera Taxa Count-calculated on Rarefaction Data
+TRICHOPTERA_TAXA_COUNT_NO_HYDR,TRICHOPTERA_TAXA_COUNT_NO_HYDR,,
+,Number,8.4,Trichoptera Taxa Count excluding Hydropsychidae
+TRICHOPTERA_TAXA_COUNT_NO_R,TRICHOPTERA_TAXA_COUNT_NO_R,,
+,Number,8.4,Trichoptera Taxa Count excluding Hydropsychidae-calculated on Rarefaction Data
+,,,75

@@ -1,0 +1,518 @@
+VAPDDOC.doc,
+VIRGINIA CHESAPEAKE BAY PROGRAM,VIRGINIA CHESAPEAKE BAY PROGRAM
+PHYTOPLANKTON PRIMARY PRODUCTION DATA,PHYTOPLANKTON PRIMARY PRODUCTION DATA
+DICTIONARY,
+Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Primary Production,Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton Primary Production
+Component,
+- Primary Production Data Dictionary,
+- Event Data Dictionary,
+NOTES:,
+1) THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009,
+2) THIS DICTIONARY WAS REVISED ON 01/11/2010 AND SUPERSEDES ALL OTHER,2) THIS DICTIONARY WAS REVISED ON 01/11/2010 AND SUPERSEDES ALL OTHER
+DICTIONARIES FOR THE VIRGINIA PRIMARY PRODUCTION DATA,
+"The state of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored","The state of Virginia, in cooperation with the US EPA Chesapeake Bay Program, has monitored"
+phytoplankton primary production in the Virginia mainstem and tributaries since January 1989. The,phytoplankton primary production in the Virginia mainstem and tributaries since January 1989. The
+program is designed to give comprehensive spatial and temporal information on primary production.,program is designed to give comprehensive spatial and temporal information on primary production.
+"Sampling is performed in conjunction with the Virginia phytoplankton, fluorometry and water quality","Sampling is performed in conjunction with the Virginia phytoplankton, fluorometry and water quality"
+monitoring programs.,
+# NAMES AND DESCRIPTIONS OF ASSOCIATED DATA DICTIONARY FILES,
+The 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data,The 2000 Users Guide to Chesapeake Bay Program Biological and Living Resources Monitoring Data
+# PROJECT TITLE,
+Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton- Primary Productivity,Virginia Chesapeake Bay Water Quality Monitoring Program: Phytoplankton- Primary Productivity
+Component,
+# CURRENT PRINCIPAL INVESTIGATORS,
+THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009; THE FOLLOWING WERE THE,THIS PROGRAM WAS TERMINATED AS OF 30 SEPTEMBER 2009; THE FOLLOWING WERE THE
+INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.,INVESTIGATOR AND PROJECT MANAGERS AT TIME OF PROJECT TERMINATION.
+">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality",">PROGRAM MANAGER: Frederick Hoffman, Virginia Department of Environmental Quality"
+">PRINCIPLE INVESTIGATORS: Dr. Kneeland K. Nesius and Dr. Harold G. Marshall, Old Dominion",">PRINCIPLE INVESTIGATORS: Dr. Kneeland K. Nesius and Dr. Harold G. Marshall, Old Dominion"
+University,
+">PROGRAMMER/ANALYST: Michael Lane, Department of Biology, Old Dominion University",">PROGRAMMER/ANALYST: Michael Lane, Department of Biology, Old Dominion University"
+">DATA COORDINATOR: TBD, Department of Biology, Old Dominion University",
+# CURRENT FUNDING AGENCIES,
+Not Applicable,
+# PROJECT COST,
+Not Applicable,
+# QA/QC OFFICER,
+Not Applicable,
+# POINT OF CONTACT,
+Jacqueline M. Johnson,
+Living Resources Data Manager,
+1,1/11/2010
+,,VAPDDOC.doc,
+US EPA Chesapeake Bay Program Office,US EPA Chesapeake Bay Program Office,,
+"410 Severn Avenue, Suite 109","410 Severn Avenue, Suite 109",,
+"Annapolis, MD 21403","Annapolis, MD 21403",,
+1-800-968-7229 x729,1-800-968-7229 x729,,
+1-410-267-5729,1-410-267-5729,,
+E-MAIL,JJOHNSON@CHESAPEAKEBAY.NET,JJOHNSON@CHESAPEAKEBAY.NET,
+# LOCATION OF STUDY,# LOCATION OF STUDY,,
+Lower Chesapeake Bay and its' tidal tributaries in the Commonwealth of Virginia,Lower Chesapeake Bay and its' tidal tributaries in the Commonwealth of Virginia,Lower Chesapeake Bay and its' tidal tributaries in the Commonwealth of Virginia,Lower Chesapeake Bay and its' tidal tributaries in the Commonwealth of Virginia
+# DATE INTERVALS,# DATE INTERVALS,,
+01/07/1989- 09/30/2009,01/07/1989- 09/30/2009,,
+#ABSTRACT,#ABSTRACT,,
+The overall phytoplankton-monitoring program is designed to detect and monitor changes in plankton,The overall phytoplankton-monitoring program is designed to detect and monitor changes in plankton,The overall phytoplankton-monitoring program is designed to detect and monitor changes in plankton,The overall phytoplankton-monitoring program is designed to detect and monitor changes in plankton
+production in relation to changing water quality conditions in Chesapeake Bay. Phytoplanktons are the,production in relation to changing water quality conditions in Chesapeake Bay. Phytoplanktons are the,production in relation to changing water quality conditions in Chesapeake Bay. Phytoplanktons are the,production in relation to changing water quality conditions in Chesapeake Bay. Phytoplanktons are the
+dominant producers in the Chesapeake Bay and are the base of the food chain for many higher tropic,dominant producers in the Chesapeake Bay and are the base of the food chain for many higher tropic,dominant producers in the Chesapeake Bay and are the base of the food chain for many higher tropic,dominant producers in the Chesapeake Bay and are the base of the food chain for many higher tropic
+levels.,Excessive blooms of plankton species are considered evidence of eutrophication in the bay and,Excessive blooms of plankton species are considered evidence of eutrophication in the bay and,Excessive blooms of plankton species are considered evidence of eutrophication in the bay and
+are known to degrade water quality and block light from submerged aquatic vegetation. Sampling is,are known to degrade water quality and block light from submerged aquatic vegetation. Sampling is,are known to degrade water quality and block light from submerged aquatic vegetation. Sampling is,are known to degrade water quality and block light from submerged aquatic vegetation. Sampling is
+"performed in conjunction with the Virginia phytoplankton, fluorometry and water quality monitoring","performed in conjunction with the Virginia phytoplankton, fluorometry and water quality monitoring","performed in conjunction with the Virginia phytoplankton, fluorometry and water quality monitoring","performed in conjunction with the Virginia phytoplankton, fluorometry and water quality monitoring"
+programs.,,,
+Carbon fixation rates (C14) were obtained from replicate surface layer composite samples at 15,Carbon fixation rates (C14) were obtained from replicate surface layer composite samples at 15,Carbon fixation rates (C14) were obtained from replicate surface layer composite samples at 15,Carbon fixation rates (C14) were obtained from replicate surface layer composite samples at 15
+"stations, sampled monthly from January - December in Virginia.","stations, sampled monthly from January - December in Virginia.","stations, sampled monthly from January - December in Virginia.",Stations were located to characterize
+"primary productivity in the lower Bay and Bay mouth systems, Virginia Tributaries and Southern Branch of","primary productivity in the lower Bay and Bay mouth systems, Virginia Tributaries and Southern Branch of","primary productivity in the lower Bay and Bay mouth systems, Virginia Tributaries and Southern Branch of","primary productivity in the lower Bay and Bay mouth systems, Virginia Tributaries and Southern Branch of"
+the Elizabeth River.,the Elizabeth River.,"Sampling in the Elizabeth River did not begin until February of 1991. In 1998,","Sampling in the Elizabeth River did not begin until February of 1991. In 1998,"
+sampling at Elizabeth River Station SBE2 was discontinued and a second sampling cruise was added in,sampling at Elizabeth River Station SBE2 was discontinued and a second sampling cruise was added in,sampling at Elizabeth River Station SBE2 was discontinued and a second sampling cruise was added in,sampling at Elizabeth River Station SBE2 was discontinued and a second sampling cruise was added in
+July and August for all remaining station. The sampling of tributary stations during November and,July and August for all remaining station. The sampling of tributary stations during November and,July and August for all remaining station. The sampling of tributary stations during November and,July and August for all remaining station. The sampling of tributary stations during November and
+"December was discontinued in 2003. Note due to contract changes starting in January 1996, station","December was discontinued in 2003. Note due to contract changes starting in January 1996, station","December was discontinued in 2003. Note due to contract changes starting in January 1996, station","December was discontinued in 2003. Note due to contract changes starting in January 1996, station"
+LE5.5 had a coordinate change. This station move was not documented until August 2005. Due to this,LE5.5 had a coordinate change. This station move was not documented until August 2005. Due to this,LE5.5 had a coordinate change. This station move was not documented until August 2005. Due to this,LE5.5 had a coordinate change. This station move was not documented until August 2005. Due to this
+"station relocation, all data collected at the altered location had the station name changed to LE5.5-W in","station relocation, all data collected at the altered location had the station name changed to LE5.5-W in","station relocation, all data collected at the altered location had the station name changed to LE5.5-W in","station relocation, all data collected at the altered location had the station name changed to LE5.5-W in"
+August 2005.,August 2005.,,
+#STATION NAMES AND DESCRIPTIONS,#STATION NAMES AND DESCRIPTIONS,,
+LE5.5,Mouth of James River/Bay transition,Mouth of James River/Bay transition,VIMS Historical Station (JA0.0) Slack Water Station
+LE5.5-W,Off Mouth of James River,,
+CB7.4,Baltimore Channel at Bay Bridge - Bay/Ocean transition area at mid-Bay mouth channel,Baltimore Channel at Bay Bridge - Bay/Ocean transition area at mid-Bay mouth channel,Baltimore Channel at Bay Bridge - Bay/Ocean transition area at mid-Bay mouth channel
+CB7.,3E,Lower Eastern Shore Channel area,
+CB6.4,Central Bay Stem offshore from the York River mouth,Central Bay Stem offshore from the York River mouth,
+LE3.6,Mouth Rappahannock River/Bay Transition,Mouth Rappahannock River/Bay Transition,(VIMS Hist. Sta. - RAO.O )
+CB6.1,Lower end of Main Bay Channel - Anoxia Monitoring,Lower end of Main Bay Channel - Anoxia Monitoring,
+WE4.2,Mouth of York River/Bay Transition Area,Mouth of York River/Bay Transition Area,(VIMS Hist. Sta. - YKO.O )
+SBE2,Southern Branch of the Elizabeth River - Adjacent to Atlantic Wood,Southern Branch of the Elizabeth River - Adjacent to Atlantic Wood,Southern Branch of the Elizabeth River - Adjacent to Atlantic Wood
+SBE5,Southern Branch of the Elizabeth River - Adjacent to,Southern Branch of the Elizabeth River - Adjacent to,Virginia Power
+TF3.3,"N40, Clay Bank, Rappahannock River","N40, Clay Bank, Rappahannock River",
+RET3.1,"N. Buoy R10, VIMS Slack Water Station, Rappahannock River","N. Buoy R10, VIMS Slack Water Station, Rappahannock River","N. Buoy R10, VIMS Slack Water Station, Rappahannock River"
+RET4.3,"VIMS Historic Station C57, York River","VIMS Historic Station C57, York River",
+TF5.5,"Red buoy 107 JRWQMP Station #13, James River","Red buoy 107 JRWQMP Station #13, James River",
+RET5.2,"Swann's Point JRWQMP STA. #19, VIMS Slack Water Station, James River","Swann's Point JRWQMP STA. #19, VIMS Slack Water Station, James River","Swann's Point JRWQMP STA. #19, VIMS Slack Water Station, James River"
+TF4.2,"White House, York River",,
+,,2,1/11/2010
+,,,,VAPDDOC.doc,,
+"# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),","# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),","# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),","# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),","# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),","# STATION NAMES, LATITUDES (decimal degrees) , LONGITUDES (decimal degrees),",TOTAL DEPTH
+"(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes","(meters), LATITUDES (degrees, minutes and decimal seconds), AND LONGITUDES (degrees, minutes"
+and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual,and decimal seconds). These station latitudes and longitudes represent target values and not actual
+positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for,positions. They are the values used by the Chesapeake Bay Program as a whole to coordinate data for
+the stations. All data positions are provided in NAD83 coordinates.,the stations. All data positions are provided in NAD83 coordinates.,the stations. All data positions are provided in NAD83 coordinates.,the stations. All data positions are provided in NAD83 coordinates.,the stations. All data positions are provided in NAD83 coordinates.,,
+STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),STATIONLATITUDELONGITUDET_DEPTHLATITUDE (DMS)LONGITUDE (DMS),
+CB6.1,37.58833,-76.1625,13.1,"37 35' 18""","-77 50' 15""",
+CB6.4,37.23639,-76.2083,10.5,"37 14' 11""","-77 47' 30""",
+CB7.3E,37.22861,-76.0542,17.8,"37 13' 43""","-77 56' 45""",
+CB7.4,36.99556,-76.0208,13.8,"36 59' 44""","-77 58' 45""",
+LE3.6,37.59667,-76.285,9.8,"37 35' 48""","-77 42' 54""",
+LE5.5,36.99889,-76.3136,21.4,"36 59' 48""","-76 18' 12""",
+LE5.5-W 36.99903,LE5.5-W 36.99903,-76.31328,6.0,36 59’ 56”,-76 18’ 49”,
+RET3.1,37.92014,-76.8214,5.8,"37 55' 12.488""","-77 10' 43.138""",
+RET4.3,37.50681,-76.788,5.2,"37 30' 24.522""","-77 12' 43.14""",
+RET5.2,37.21015,-76.793,8.3,"37 12' 36.533""","-77 12' 25.145""",
+SBE2,36.81265,-76.3058,13.0,"36 48' 45.533""","-77 41' 39.212""",
+SBE5,36.76987,-76.2961,10.0,"36 46' 11.534""","-77 42' 14.215""",
+TF3.3,38.01874,-76.908,6.6,"38 1' 7.481""","-77 5' 31.122""",
+TF4.2,37.57987,-77.0216,6.4,"37 34' 47.52""","-78 58' 42.113""",
+TF5.5,37.31293,-77.2328,9.0,"37 18' 46.534""","-78 46' 2.087""",
+WE4.2,37.24167,-76.3867,14.1,"37 14' 30""","-77 36' 48""",
+"Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of","Station depths are given in meters, based on a (1985-1994) nine year average of Virginia Department of"
+"Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production","Environmental Quality, water quality hydrographic data collected concurrently with the primary production"
+samples.,,,,,,
+# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,# METHODOLOGY DESCRIBING CHAIN OF CUSTODY FOR LAB SAMPLES,
+"The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,","The phytoplankton field supervisor will be responsible for the collection of these samples, bottle labeling,"
+"custody, storage in a cooler and transport to the phytoplankton laboratory.","custody, storage in a cooler and transport to the phytoplankton laboratory.","custody, storage in a cooler and transport to the phytoplankton laboratory.","custody, storage in a cooler and transport to the phytoplankton laboratory.","custody, storage in a cooler and transport to the phytoplankton laboratory.","custody, storage in a cooler and transport to the phytoplankton laboratory.",In the laboratory their custody
+"will be given to Dr.K. Nesius, the Principal investigator.","will be given to Dr.K. Nesius, the Principal investigator.","will be given to Dr.K. Nesius, the Principal investigator.","will be given to Dr.K. Nesius, the Principal investigator.","will be given to Dr.K. Nesius, the Principal investigator.",The field supervisor also oversees the calibration,The field supervisor also oversees the calibration
+and availability of field equipment.,and availability of field equipment.,and availability of field equipment.,"Dr. Nesius oversees the sample processing, analysis and recording of","Dr. Nesius oversees the sample processing, analysis and recording of","Dr. Nesius oversees the sample processing, analysis and recording of","Dr. Nesius oversees the sample processing, analysis and recording of"
+the raw data.,,,,,,
+# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,# BIOLOGICAL ENUMERATION TECHNIQUES,,
+-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,,
+"In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in","In the laboratory, a one hundred milliliter samples from each composite sample were placed in"
+"separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates","separate dilution bottles and transferred to a water bath equipped with a bottle holder, which rotates"
+between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the,between banks of cool-white fluorescent lights. The light levels exceeded the light saturation point of the
+phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when,phytoplankton. The temperature of the water bath was the same as the temperature at each station when
+the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi,the samples were taken. After one hour of acclamation the bottles were inoculated with two to five uCi
+C14-NaHCO3.,The samples were returned to the water bath for one hour.,The samples were returned to the water bath for one hour.,The samples were returned to the water bath for one hour.,The samples were returned to the water bath for one hour.,The samples were returned to the water bath for one hour.,One of the samples was
+analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and,analyzed for C14 activity immediately (zero Time of Sample). At the end of the incubation period (one and
+half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under,half to two hours) the remaining samples was filtered through a 25 mm 0.45 pore-size millipore filter under
+a vacuum less than 5 cm Hg pressure.,a vacuum less than 5 cm Hg pressure.,a vacuum less than 5 cm Hg pressure.,a vacuum less than 5 cm Hg pressure.,After the contents of the milk dilution bottle and its rinses were,After the contents of the milk dilution bottle and its rinses were,After the contents of the milk dilution bottle and its rinses were
+"filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in","filtered, the Millipore filters were removed and fumed over concentrated HCl for 30 seconds and placed in"
+scintillation vials.,Scintillation fluid was added to each vial and C14 activity was determined using a,Scintillation fluid was added to each vial and C14 activity was determined using a,Scintillation fluid was added to each vial and C14 activity was determined using a,Scintillation fluid was added to each vial and C14 activity was determined using a,Scintillation fluid was added to each vial and C14 activity was determined using a,Scintillation fluid was added to each vial and C14 activity was determined using a
+Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by,Beckman Model LS 1701 scintillation counter. The amount of C14 in the stock bottle was determined by
+placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,placing 20 to 50 micro liter of stock solution in scintillation vials containing 0.5 milliliters of,
+phenethylamine.,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14,Scintillation fluid was added to the vials set in the dark over night and analyzed for C14
+activity.,,,,,,
+,,,,3,,1/11/2010
+,VAPDDOC.doc,
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",
+>Calculation of Carbon Fixation,,
+The following equations were used to determine the rate of carbon fixation in ug/l/hr.,The following equations were used to determine the rate of carbon fixation in ug/l/hr.,Note that the raw
+data used in these calculations are not presented in the associated data set.,data used in these calculations are not presented in the associated data set.,Only the resulting carbon
+fixation rate is included.,,
+1) CARBALK = 120 * (Total Alkalinity),,
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-
+BTIME),,
+where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,
+IVOL = Volume incubated,,
+FVOL = Volume filtered,,
+DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,
+DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample,DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample,DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample
+DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,
+BTIME = Beginning time of incubation (h),,
+ETIME = Ending time of incubation (h),,
+CARBALK = Total inorganic carbonate,,
+>Calculation of Assimilation Ratio,,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value
+where ASMRATIO = Assimilation ratio,,
+CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,
+CHLA = Chlorophyll a in ug/l,,
+# MONITORING QA\QC PLAN FOR PROJECT,,
+Standard protocol procedures will be followed to guard against errors and maintain accuracy and,Standard protocol procedures will be followed to guard against errors and maintain accuracy and,Standard protocol procedures will be followed to guard against errors and maintain accuracy and
+"precision thought out the collection and analysis procedures (Strickland and Parsons, 1972).","precision thought out the collection and analysis procedures (Strickland and Parsons, 1972).",These
+"include first hand instruction to all assistants by the re-check and first hand observations by the PI., and","include first hand instruction to all assistants by the re-check and first hand observations by the PI., and","include first hand instruction to all assistants by the re-check and first hand observations by the PI., and"
+periodic duplicate analysis of samples collected.,The C14 work will be performed on four separate,The C14 work will be performed on four separate
+replicates taken from each composite sample.,Carbonate alkalinity will be determined on four separate,Carbonate alkalinity will be determined on four separate
+replicates. Comparison between replicates will be constantly monitored.,replicates. Comparison between replicates will be constantly monitored.,
+"# MONITORING VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# MONITORING VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS",
+> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.,> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.,> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.
+Value not provided in data set),,
+- COLLECTION METHODS: See above.,,
+- SAMPLE PRESERVATION: Refrigerate over night or process immediately.,- SAMPLE PRESERVATION: Refrigerate over night or process immediately.,
+"-TIME IN STORAGE: 
+    ",,
+-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:,-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:,-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:
+Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH,Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH,Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH
+is recorded for five cumulative additions of 0.025N HCl.,is recorded for five cumulative additions of 0.025N HCl.,
+"Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for","Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for",
+Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,
+>PARAMETER: CARBFIX (Carbon fixation rate in micrograms carbon per liter per hour),>PARAMETER: CARBFIX (Carbon fixation rate in micrograms carbon per liter per hour),
+-COLLECTION METHODS:,,
+Water sub-samples for the productivity measurements will be taken from each of the two composite water,Water sub-samples for the productivity measurements will be taken from each of the two composite water,Water sub-samples for the productivity measurements will be taken from each of the two composite water
+samples (carboys) taken from the upper water column series and within the euphotic zone at each station,samples (carboys) taken from the upper water column series and within the euphotic zone at each station,samples (carboys) taken from the upper water column series and within the euphotic zone at each station
+in the lower Bay and the four rivers.,"From each of the two carboys, 2 - 1 liter water samples (total of","From each of the two carboys, 2 - 1 liter water samples (total of"
+"4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory.","4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory.","4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory."
+Water sub-samples for the productivity measurements were taken from each of the two composite water,Water sub-samples for the productivity measurements were taken from each of the two composite water,Water sub-samples for the productivity measurements were taken from each of the two composite water
+samples taken from above the pycnocline at each station. Two one-liter water samples were taken from,samples taken from above the pycnocline at each station. Two one-liter water samples were taken from,samples taken from above the pycnocline at each station. Two one-liter water samples were taken from
+each of the two composite sample carboys (a total of four samples per station). Samples were placed in,each of the two composite sample carboys (a total of four samples per station). Samples were placed in,each of the two composite sample carboys (a total of four samples per station). Samples were placed in
+,4,1/11/2010
+,,VAPDDOC.doc,,
+labeled bottles and placed in a cooler and transported back to the laboratory for analysis. Productivity,labeled bottles and placed in a cooler and transported back to the laboratory for analysis. Productivity,labeled bottles and placed in a cooler and transported back to the laboratory for analysis. Productivity,labeled bottles and placed in a cooler and transported back to the laboratory for analysis. Productivity,labeled bottles and placed in a cooler and transported back to the laboratory for analysis. Productivity
+analysis was performed immediately upon returning to the laboratory.,analysis was performed immediately upon returning to the laboratory.,analysis was performed immediately upon returning to the laboratory.,,
+-SAMPLE PRESERVATION: Refrigerate over night or process immediately.,-SAMPLE PRESERVATION: Refrigerate over night or process immediately.,-SAMPLE PRESERVATION: Refrigerate over night or process immediately.,-SAMPLE PRESERVATION: Refrigerate over night or process immediately.,
+-SAMPLE STORAGE ENVIRONMENT: Refrigerator and or cooler.,-SAMPLE STORAGE ENVIRONMENT: Refrigerator and or cooler.,-SAMPLE STORAGE ENVIRONMENT: Refrigerator and or cooler.,,
+"-TIME IN STORAGE:
+    ","-TIME IN STORAGE:
+    ",,,
+-LABORATORY TECHNIQUE WITH REFERENCES:,-LABORATORY TECHNIQUE WITH REFERENCES:,-LABORATORY TECHNIQUE WITH REFERENCES:,,
+-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,-Chesapeake Bay Program Laboratory Method Code PD102,,
+C-14 activities determined for each filtered aliquot on liquid scintillation counter with external,C-14 activities determined for each filtered aliquot on liquid scintillation counter with external,C-14 activities determined for each filtered aliquot on liquid scintillation counter with external,C-14 activities determined for each filtered aliquot on liquid scintillation counter with external,C-14 activities determined for each filtered aliquot on liquid scintillation counter with external
+standardization.,,,,
+,"Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for","Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for","Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for",
+,Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,
+>PARAMETER:,CHLA (Chlorophyll a concentration in micrograms per liter),CHLA (Chlorophyll a concentration in micrograms per liter),CHLA (Chlorophyll a concentration in micrograms per liter),
+-COLLECTION METHODS: IN Vitro chlorophyll from composite samples or mean surface layer,-COLLECTION METHODS: IN Vitro chlorophyll from composite samples or mean surface layer,-COLLECTION METHODS: IN Vitro chlorophyll from composite samples or mean surface layer,-COLLECTION METHODS: IN Vitro chlorophyll from composite samples or mean surface layer,-COLLECTION METHODS: IN Vitro chlorophyll from composite samples or mean surface layer
+fluorometric chlorophyll from station. Grab samples for chlorophyll determination are filtered through,fluorometric chlorophyll from station. Grab samples for chlorophyll determination are filtered through,fluorometric chlorophyll from station. Grab samples for chlorophyll determination are filtered through,fluorometric chlorophyll from station. Grab samples for chlorophyll determination are filtered through,fluorometric chlorophyll from station. Grab samples for chlorophyll determination are filtered through
+Whatman GF/F filters.,Whatman GF/F filters.,,,
+-SAMPLE PRESERVATIVES: Grab sample filters frozen,-SAMPLE PRESERVATIVES: Grab sample filters frozen,-SAMPLE PRESERVATIVES: Grab sample filters frozen,,
+-SAMPLE STORAGE ENVIRONMENT: -4 C,-SAMPLE STORAGE ENVIRONMENT: -4 C,,,
+-TIME IN STORAGE: 0.1-2 months,-TIME IN STORAGE: 0.1-2 months,,,
+-LAB TECHNIQUES WITH REFERENCES: Filters are placed in 90% aqueous acetone and ground to a,-LAB TECHNIQUES WITH REFERENCES: Filters are placed in 90% aqueous acetone and ground to a,-LAB TECHNIQUES WITH REFERENCES: Filters are placed in 90% aqueous acetone and ground to a,-LAB TECHNIQUES WITH REFERENCES: Filters are placed in 90% aqueous acetone and ground to a,-LAB TECHNIQUES WITH REFERENCES: Filters are placed in 90% aqueous acetone and ground to a
+uniform consistency with a tissue grinder.,uniform consistency with a tissue grinder.,Samples are steeped overnight at 4 degrees C in the dark.,Samples are steeped overnight at 4 degrees C in the dark.,Samples are steeped overnight at 4 degrees C in the dark.
+The extract is clarified by centrifugation.,The extract is clarified by centrifugation.,"Spectrophotometric readings are taken at 750, 664, 647, and","Spectrophotometric readings are taken at 750, 664, 647, and","Spectrophotometric readings are taken at 750, 664, 647, and"
+630 nm.,The sample is acidified by placing 2 drops of 1 N HCl into the extract and read at 750 and 665,The sample is acidified by placing 2 drops of 1 N HCl into the extract and read at 750 and 665,The sample is acidified by placing 2 drops of 1 N HCl into the extract and read at 750 and 665,The sample is acidified by placing 2 drops of 1 N HCl into the extract and read at 750 and 665
+nm.,,,,
+,"Strickland, J. D. H. and T. R. Parsons.",1972.,A Practical Handbook of,
+,Seawater Analysis.,"Fish. Res. Bd. Canada,Bull. 167. Ottawa.",310pp.,
+>PARAMETER: LATITUDE (decimal degrees) and LONGITUDE (decimal degrees),>PARAMETER: LATITUDE (decimal degrees) and LONGITUDE (decimal degrees),>PARAMETER: LATITUDE (decimal degrees) and LONGITUDE (decimal degrees),>PARAMETER: LATITUDE (decimal degrees) and LONGITUDE (decimal degrees),>PARAMETER: LATITUDE (decimal degrees) and LONGITUDE (decimal degrees)
+"COLLECTION METHODS: Loran-C, NAD27-Before July 1995; GPS, NAD83 After-July 1995","COLLECTION METHODS: Loran-C, NAD27-Before July 1995; GPS, NAD83 After-July 1995","COLLECTION METHODS: Loran-C, NAD27-Before July 1995; GPS, NAD83 After-July 1995","COLLECTION METHODS: Loran-C, NAD27-Before July 1995; GPS, NAD83 After-July 1995","COLLECTION METHODS: Loran-C, NAD27-Before July 1995; GPS, NAD83 After-July 1995"
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual,-LAB TECHNIQUES WITH REFERENCES: Station positions in data set are approximations of actual
+positions in the field.,Station latitudes and longitudes are input into a,Station latitudes and longitudes are input into a,Loran-C or GPS receiver and,Loran-C or GPS receiver and
+sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,sampling begins when boat reaches preprogrammed coordinates.,Loran-C is accurate to plus/minus,Loran-C is accurate to plus/minus
+1500 ft.,The actual Loran/GPS coordinates for each sampling event are not currently recorded in data,The actual Loran/GPS coordinates for each sampling event are not currently recorded in data,The actual Loran/GPS coordinates for each sampling event are not currently recorded in data,The actual Loran/GPS coordinates for each sampling event are not currently recorded in data
+set.,,,,
+All coordinates have been converted to NAD83 coordinate for project consistantcy.,All coordinates have been converted to NAD83 coordinate for project consistantcy.,All coordinates have been converted to NAD83 coordinate for project consistantcy.,All coordinates have been converted to NAD83 coordinate for project consistantcy.,All coordinates have been converted to NAD83 coordinate for project consistantcy.
+">PARAMETER: P_DEPTH (Composite sample cut-off depth in meters), LAYER",">PARAMETER: P_DEPTH (Composite sample cut-off depth in meters), LAYER",">PARAMETER: P_DEPTH (Composite sample cut-off depth in meters), LAYER",">PARAMETER: P_DEPTH (Composite sample cut-off depth in meters), LAYER",(Layer of Water Column
+in Which Sample was Taken in meters),in Which Sample was Taken in meters),,,
+COLLECTION METHODS: Hydrolab CTD,COLLECTION METHODS: Hydrolab CTD,,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES Water column salinity, temperature and depth are recorded"
+prior to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water,prior to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water,prior to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water,prior to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water,prior to zooplankton sampling. Pycnocline is used as the cutoff depth between upper and lower water
+column for composite samples. If a station has no pycnocline the water column is divided in to thirds by,column for composite samples. If a station has no pycnocline the water column is divided in to thirds by,column for composite samples. If a station has no pycnocline the water column is divided in to thirds by,column for composite samples. If a station has no pycnocline the water column is divided in to thirds by,column for composite samples. If a station has no pycnocline the water column is divided in to thirds by
+total depth and the top third of the water column is treated as the upper water column.,total depth and the top third of the water column is treated as the upper water column.,total depth and the top third of the water column is treated as the upper water column.,total depth and the top third of the water column is treated as the upper water column.,total depth and the top third of the water column is treated as the upper water column.
+The pycnocline is determined as follows:,The pycnocline is determined as follows:,,,
+((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,((Bottom Conductivity-Surface Conductivity)/ Bottom Depth)*2= Threshold,
+"If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the","If Threshold is less than 500, then the station has no pycnocline. AP is determined to be the top 1/3 of the"
+water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.,water column. This rule is also applied if conductivity was not measured at a station.
+"If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the","If Threshold is greater than 500, then the pycnocline depth is determined to be the first depth at which the"
+conductivity change is greater than the threshold value.,conductivity change is greater than the threshold value.,conductivity change is greater than the threshold value.,,
+Units of measurement:,Units of measurement:,,,
+,,5,,1/11/2010
+,,,VAPDDOC.doc,
+Conductivity- uhhos/cm,Depth- meters,Depth- meters,,
+Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this
+program are taken from the upper water column.,program are taken from the upper water column.,program are taken from the upper water column.,program are taken from the upper water column.,
+>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is
+"determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline"
+>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,,
+">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is
+determined.,,,,
+>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,
+>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and
+extracted to ASCII files.,These files were then compared.,These files were then compared.,These files were then compared.,Data keypunched to microcomputer and/or
+mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO
+Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.
+>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.
+Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into
+FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.
+# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,
+Not Applicable in this data set.,Not Applicable in this data set.,,,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on:,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,
+>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,
+Files of name format:VAPDCFyy.TXT,Files of name format:VAPDCFyy.TXT,,,
+Name,Type,Width,Variable Definition,
+SOURCE,Text,10,Data Collection agency,Data Collection agency
+SAMPLE_TYPE,Text,2,Collection type,
+STATION,Text,15,Sampling Station,
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),Sample date (YYYYMMDD)
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_NUMBER,Number,4,Replicate number,
+GMETHOD,Text,3,Chesapeake Bay Program gear method,Chesapeake Bay Program gear method
+,,,6,1/11/2010
+,,,VAPDDOC.doc,
+CARBFIX,Number,8,Carbon Fixation Value,
+UNITS,Text,15,Carbon Fixation Reporting Units,
+QUALIFIER,Text,7,Detection Limit Qualifiers,
+METHOD,Text,8,Chesapeake Bay Program Analytical Method Code,Chesapeake Bay Program Analytical Method Code
+CHLA,Number,8,Chlorophyll a (ug/l),
+ASMRATIO,Number,8,Production efficiency (ug-c/l/hr),
+SER_NUM,Text,12,Sample serial number,
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,
+Name,Type,Width,Variable Description,
+DATA_TYPE,Text,2,CBP Data Type Code,
+SOURCE,Text,10,Data Collection agency,
+SAMPLE_TYPE,Text,2,Collection type,
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),
+LATITUDE,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,Text,2,Salinity Zone,
+SAMPLE_VOLUME,Number,8,Total Volume of Sample,
+UNITS,Text,15,Units for Sample Volume,
+STATION,Text,15,Sampling Station,
+TOTAL_DEPTH,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,Date/Time,8,Sampling Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,Type,Width,Variable Definitions,
+BASIN,Text,20,Chesapeake Bay Basin Designation,
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,Designation,
+LL_DATUM,Text,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,Text,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,Text,50,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+Description,,,,
+# REFERENCE CODES IN DATA FILES,# REFERENCE CODES IN DATA FILES,# REFERENCE CODES IN DATA FILES,,
+See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full
+listings.,,,,
+> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,
+> SOURCE: Data Collecting Agency,> SOURCE: Data Collecting Agency,,,
+ODU- Old Dominion University,ODU- Old Dominion University,,,
+> QUALIFIER: Detection Limit Codes,> QUALIFIER: Detection Limit Codes,,,
+#,Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),
+"
+    ",Less than the detection limit of the method,Less than the detection limit of the method,Less than the detection limit of the method,
+>0,Greater than zero,,,
+,,,7,1/11/2010
+,,VAPDDOC.doc,
+,J,Estimated value,
+N,N,Not detected,
+NA,NA,Not recorded/not applicable/parameter value acceptable,
+> METHOD: Analysis Method Code,> METHOD: Analysis Method Code,> METHOD: Analysis Method Code,
+PD102- See ONLINE DOCUMENTATION FOR DETAILS,PD102- See ONLINE DOCUMENTATION FOR DETAILS,PD102- See ONLINE DOCUMENTATION FOR DETAILS,
+> SAMPLE_TYPE: Sample Collection Type,> SAMPLE_TYPE: Sample Collection Type,> SAMPLE_TYPE: Sample Collection Type,
+,C- Composite Sample,,
+> DATA_TYPE: Data Type,> DATA_TYPE: Data Type,,
+BE Benthic,BE Benthic,,
+FL Fluorescence,FL Fluorescence,,
+MI,Microzooplankton,,
+MZ Mesozooplankton,MZ Mesozooplankton,,
+PD Primary Production,PD Primary Production,,
+PH Phytoplankton,PH Phytoplankton,,
+PP Picoplankton,PP Picoplankton,,
+> GMETHOD: Sampling Gear Code,> GMETHOD: Sampling Gear Code,> GMETHOD: Sampling Gear Code,
+07- Unspecified plankton pump,07- Unspecified plankton pump,,
+> LAYER: Layer of Water column in which Sample was Taken,> LAYER: Layer of Water column in which Sample was Taken,> LAYER: Layer of Water column in which Sample was Taken,
+,AP- Above Pycnocline,,
+>SALZONE: Salinity Zone,>SALZONE: Salinity Zone,,
+,F - Fresh (0 TO 0.5 PPT),,
+,O - Oligohaline (>0.5 TO 5.0 PPT),O - Oligohaline (>0.5 TO 5.0 PPT),
+,M - Mesohaline,(>5.0 TO 18.0 PPT),
+,P - Polyhaline,(> 18.0 PPT),
+"*E- An F,O,M, or P followed by an E indicate an estimated salinity range","*E- An F,O,M, or P followed by an E indicate an estimated salinity range","*E- An F,O,M, or P followed by an E indicate an estimated salinity range",
+,based on salinity data collected within a week of the biological,based on salinity data collected within a week of the biological,
+,sampling event. Used only when no actual salinity data available.,sampling event. Used only when no actual salinity data available.,
+>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,>STATION: See section STATION NAMES AND DESCRIPTIONS,
+>SAMPLE_TIME: Missing times are reported as 00:00,>SAMPLE_TIME: Missing times are reported as 00:00,>SAMPLE_TIME: Missing times are reported as 00:00,
+> BASIN: Chesapeake Bay Tributary Designation,> BASIN: Chesapeake Bay Tributary Designation,> BASIN: Chesapeake Bay Tributary Designation,
+,BAY - Chesapeake Bay,,
+,"RAP- Rappahanock River,",,
+,"YRK- York River,",,
+,JAM- James River,,
+,ELZ- Elizabeth River,,
+> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,> CBSEG_1998: Chesapeake Bay Program Monitoring Segment,
+,,DESCRIPTION,
+CBSEG_1998,CBSEG_1998,,
+CB6PH,CB6PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB7PH,CB7PH,CHESAPEAKE BAY-POLYHALINE REGION,
+CB8PH,CB8PH,CHESAPEAKE BAY-POLYHALINE REGION,
+JMSOH,JMSOH,JAMES RIVER-OLIGOHALINE REGION,
+JMSPH,JMSPH,JAMES RIVER-POLYHALINE REGION,
+,,8,1/11/2010
+,,,VAPDDOC.doc,
+,,DESCRIPTION,DESCRIPTION,
+CBSEG_1998,CBSEG_1998,,,
+JMSTF,JMSTF,JAMES RIVER-TIDAL FRESH REGION,JAMES RIVER-TIDAL FRESH REGION,
+MOBPH,MOBPH,MOBJACK BAY-POLYHALINE REGION,MOBJACK BAY-POLYHALINE REGION,
+PMKTF,PMKTF,PAMUNKEY RIVER-TIDAL FRESH REGION,PAMUNKEY RIVER-TIDAL FRESH REGION,
+RPPMH,RPPMH,RAPPAHANNOCK RIVER-MESOHALINE REGION,RAPPAHANNOCK RIVER-MESOHALINE REGION,
+RPPOH,RPPOH,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,RAPPAHANNOCK RIVER-OLIGOHALINE REGION,
+SBEMH,SBEMH,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION,SOUTH BRANCH ELIZABETH RIVER-MESOHALINE REGION
+YRKMH,YRKMH,YORK RIVER-MESOHALINE REGION,YORK RIVER-MESOHALINE REGION,
+>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,>FIPS: Federal Information Processing Codes,
+FIPS,STATE COUNTY,STATE COUNTY,,
+51095,VA,JAMES CITY,,
+51097,VA,KING AND QUEEN,,
+51103,VA,LANCASTER,,
+51127,VA,NEW KENT,,
+51131,VA,NORTHAMPTON,,
+51149,VA,PRINCE GEORGE,,
+51159,VA,RICHMOND,,
+51199,VA,YORK,,
+51550,VA,CHESAPEAKE CITY,,
+51650,VA,HAMPTON,,
+51740,VA,PORTSMOUTH,,
+51810,VA,VIRGINIA BEACH,,
+>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,>HUC8: USGS Hydrologic Unit Codes,,
+HUC8,,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,
+02080101,02080101,LOWER CHESAPEAKE BAY,LOWER CHESAPEAKE BAY,
+02080104,02080104,LOWER RAPPAHANNOCK,LOWER RAPPAHANNOCK,
+02080106,02080106,PAMUNKEY,,
+02080107,02080107,YORK,,
+02080206,02080206,LOWER JAMES,,
+02080208,02080208,HAMPTON ROADS,,
+# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,# NUMERIC VARIABLE WARNING AND ERROR BOUNDS,
+VARIABLE,VARIABLE,VALID RANGE,,
+ASMRATIO,ASMRATIO,0 - 92.2,,
+CARBFIX,CARBFIX,0.0-1200,,
+CHLA,,-999.99 0- 2000.0,,
+LATITUDE,LATITUDE,"See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS","See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS","See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS"
+LONGITUDE,LONGITUDE,"See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS","See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS","See STATION NAMES, LATITUDES, LONGITUDES, AND TOTAL DEPTHS"
+P_DEPTH,P_DEPTH,">0.5-
+    Note the composite sample cut off depth is not pycnocline
+    ",Note the composite sample cut off depth is not pycnocline,Note the composite sample cut off depth is not pycnocline
+depth!,,,,
+R_DATE,R_DATE,19950501-20041231,19950501-20041231,
+SAMPLE_DATE,SAMPLE_DATE,19890101-20031231,19890101-20031231,
+SAMPLE_NUMBER,SAMPLE_NUMBER,"1,2,3,4",,
+SAMPLE_TIME,SAMPLE_TIME,0651-1935. 00:00 – Denotes Missing Time,0651-1935. 00:00 – Denotes Missing Time,
+SAMVOL_L,SAMVOL_L,10 - 20,,
+SER_NUM,SER_NUM,Not Available,,
+TOTAL_DEPTH,TOTAL_DEPTH,1.8 - 33,,
+# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,# IMPORTANT DATA REVISIONS,,
+,,,9,1/11/2010
+,,,VAPDDOC.doc,
+THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE,THE LIVING RESOURCES DATA MANAGER RECOMMENDS THAT ALL DATA ANALYSIS BE
+PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE. HOWEVER IF YOU,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE. HOWEVER IF YOU,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE. HOWEVER IF YOU,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE. HOWEVER IF YOU,PERFORMED WITH THE MOST RECENT DATA SETS VERSIONS AVAILABLE. HOWEVER IF YOU
+HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES,HAVE BEEN WORKING WITH OLDER DATA SETS THE FOLLOWING ARE IMPORTANT CHANGES
+TO BE AWARE OF.,TO BE AWARE OF.,,,
+"8/01/96- Multiple sampling date discrepancies were found between the phytoplankton, zooplankton and","8/01/96- Multiple sampling date discrepancies were found between the phytoplankton, zooplankton and","8/01/96- Multiple sampling date discrepancies were found between the phytoplankton, zooplankton and","8/01/96- Multiple sampling date discrepancies were found between the phytoplankton, zooplankton and","8/01/96- Multiple sampling date discrepancies were found between the phytoplankton, zooplankton and"
+"production data, which were collected synchronously. Often the date of sample processing was placed on","production data, which were collected synchronously. Often the date of sample processing was placed on","production data, which were collected synchronously. Often the date of sample processing was placed on","production data, which were collected synchronously. Often the date of sample processing was placed on","production data, which were collected synchronously. Often the date of sample processing was placed on"
+the sample and not the actual field collection date. Sampling event dates should be identical for,the sample and not the actual field collection date. Sampling event dates should be identical for,the sample and not the actual field collection date. Sampling event dates should be identical for,the sample and not the actual field collection date. Sampling event dates should be identical for,the sample and not the actual field collection date. Sampling event dates should be identical for
+phytoplankton and primary production. Note that zooplankton and phytoplankton data will have differing,phytoplankton and primary production. Note that zooplankton and phytoplankton data will have differing,phytoplankton and primary production. Note that zooplankton and phytoplankton data will have differing,phytoplankton and primary production. Note that zooplankton and phytoplankton data will have differing,phytoplankton and primary production. Note that zooplankton and phytoplankton data will have differing
+field dates because they are collected on separate sampling trips in the tributaries.,field dates because they are collected on separate sampling trips in the tributaries.,field dates because they are collected on separate sampling trips in the tributaries.,field dates because they are collected on separate sampling trips in the tributaries.,Dates were corrected
+based on the original field sheets.,based on the original field sheets.,based on the original field sheets.,Corrected data sets will have an R_DATE of 07/01/96 or later.,Corrected data sets will have an R_DATE of 07/01/96 or later.
+8/31/95- CRUISE NUMBERS - BAY012 - BAY211 were supplied by the Chesapeake Bay Program office.,8/31/95- CRUISE NUMBERS - BAY012 - BAY211 were supplied by the Chesapeake Bay Program office.,8/31/95- CRUISE NUMBERS - BAY012 - BAY211 were supplied by the Chesapeake Bay Program office.,8/31/95- CRUISE NUMBERS - BAY012 - BAY211 were supplied by the Chesapeake Bay Program office.,8/31/95- CRUISE NUMBERS - BAY012 - BAY211 were supplied by the Chesapeake Bay Program office.
+See Guide to Living Resource Data Sets for complete list of Bay Cruise periods.,See Guide to Living Resource Data Sets for complete list of Bay Cruise periods.,See Guide to Living Resource Data Sets for complete list of Bay Cruise periods.,See Guide to Living Resource Data Sets for complete list of Bay Cruise periods.,
+8/31/95-,G_METHOD,was changed to,"7- refers to Table 17, PAGE F-9 APPENDIX F, of the Living","7- refers to Table 17, PAGE F-9 APPENDIX F, of the Living"
+"Resources Data management plan, 1989.","Resources Data management plan, 1989.","Resources Data management plan, 1989.",This is a change in reporting of GMETHOD in previous,This is a change in reporting of GMETHOD in previous
+"versions of the data set, not a change in collection method","versions of the data set, not a change in collection method","versions of the data set, not a change in collection method","versions of the data set, not a change in collection method",
+8/31/95- REP_NUM - NOTE: The sampling scheme for sample collection differ from those in the,8/31/95- REP_NUM - NOTE: The sampling scheme for sample collection differ from those in the,8/31/95- REP_NUM - NOTE: The sampling scheme for sample collection differ from those in the,8/31/95- REP_NUM - NOTE: The sampling scheme for sample collection differ from those in the,8/31/95- REP_NUM - NOTE: The sampling scheme for sample collection differ from those in the
+MARYLAND PRODUCTION DATA SET.,MARYLAND PRODUCTION DATA SET.,MARYLAND PRODUCTION DATA SET.,The data values are comparable but the VIRGINIA sampling,The data values are comparable but the VIRGINIA sampling
+scheme takes two field replicates compared to the Maryland one field replicate.,scheme takes two field replicates compared to the Maryland one field replicate.,scheme takes two field replicates compared to the Maryland one field replicate.,scheme takes two field replicates compared to the Maryland one field replicate.,In order to accommodate
+this in the data sets all Virginia samples have had the replicate numbers reassigned as follows:,this in the data sets all Virginia samples have had the replicate numbers reassigned as follows:,this in the data sets all Virginia samples have had the replicate numbers reassigned as follows:,this in the data sets all Virginia samples have had the replicate numbers reassigned as follows:,this in the data sets all Virginia samples have had the replicate numbers reassigned as follows:
+Virginia,Virginia,Virginia,,
+Field Replicate,Field Replicate,Lab Replicate,REP_NUM,
+,1,1,1,
+,1,2,2,
+,2,1,3,
+,2,2,4,
+"01/01/98- SER_NUM, MAX_DEPTH- Prior to 1997, these data field were unavailable for VIRGINIA data.","01/01/98- SER_NUM, MAX_DEPTH- Prior to 1997, these data field were unavailable for VIRGINIA data.","01/01/98- SER_NUM, MAX_DEPTH- Prior to 1997, these data field were unavailable for VIRGINIA data.","01/01/98- SER_NUM, MAX_DEPTH- Prior to 1997, these data field were unavailable for VIRGINIA data.","01/01/98- SER_NUM, MAX_DEPTH- Prior to 1997, these data field were unavailable for VIRGINIA data."
+CHLA and ASMRATIO were not always collected at time of C14 sampling prior to 1996.,CHLA and ASMRATIO were not always collected at time of C14 sampling prior to 1996.,CHLA and ASMRATIO were not always collected at time of C14 sampling prior to 1996.,CHLA and ASMRATIO were not always collected at time of C14 sampling prior to 1996.,SER_NUM is
+not available because Virginia does use a serial number system to track samples.,not available because Virginia does use a serial number system to track samples.,not available because Virginia does use a serial number system to track samples.,not available because Virginia does use a serial number system to track samples.,
+SUMMER 1997 -,SUMMER 1997 -,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based,The Living Resources Data manager supplied salinity zones to the plankton data based
+on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from,on salinity data collected by the Virginia Water Quality Monitoring Program. Values were derived from
+Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not,Water Quality Hydrographic data collected concurrently with the mesozooplankton. If data was not
+"available for the of sampling but was collected within a one week window of sampling date, the water","available for the of sampling but was collected within a one week window of sampling date, the water","available for the of sampling but was collected within a one week window of sampling date, the water","available for the of sampling but was collected within a one week window of sampling date, the water","available for the of sampling but was collected within a one week window of sampling date, the water"
+quality data was used to determine a salinity zone. However the salinity zone is marked with an E to,quality data was used to determine a salinity zone. However the salinity zone is marked with an E to,quality data was used to determine a salinity zone. However the salinity zone is marked with an E to,quality data was used to determine a salinity zone. However the salinity zone is marked with an E to,quality data was used to determine a salinity zone. However the salinity zone is marked with an E to
+denote being estimated.,denote being estimated.,denote being estimated.,,
+02/01/98- The salinity zones appearing in the 1999 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1999 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1999 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1999 data are provisional. They have not yet been checked,02/01/98- The salinity zones appearing in the 1999 data are provisional. They have not yet been checked
+against the water quality data for validation. The 1999 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1999 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1999 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1999 Virginia Tributary water quality data will not be,against the water quality data for validation. The 1999 Virginia Tributary water quality data will not be
+"delivered to the CBPO until June 2000. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 2000. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 2000. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 2000. After delivery of the water quality data, salinity zones will be","delivered to the CBPO until June 2000. After delivery of the water quality data, salinity zones will be"
+confirmed.,confirmed.,,,
+01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,01/01/2000- All Latitudes and Longitudes converted to NAD83 coordinates.,
+"Summer 2003- It was determined Maryland and Virginia production measurements, should analyzed","Summer 2003- It was determined Maryland and Virginia production measurements, should analyzed","Summer 2003- It was determined Maryland and Virginia production measurements, should analyzed","Summer 2003- It was determined Maryland and Virginia production measurements, should analyzed","Summer 2003- It was determined Maryland and Virginia production measurements, should analyzed"
+separately due shipboard methodology differences.,separately due shipboard methodology differences.,separately due shipboard methodology differences.,separately due shipboard methodology differences.,The current Maryland protocol holds productivity
+samples at near-ambient temperatures and shipboard light conditions for 0.5 - 6 hours. Thus samples,samples at near-ambient temperatures and shipboard light conditions for 0.5 - 6 hours. Thus samples,samples at near-ambient temperatures and shipboard light conditions for 0.5 - 6 hours. Thus samples,samples at near-ambient temperatures and shipboard light conditions for 0.5 - 6 hours. Thus samples,samples at near-ambient temperatures and shipboard light conditions for 0.5 - 6 hours. Thus samples
+able to begin acclimating to relatively high light levels on shipboard and samples may experience above-,able to begin acclimating to relatively high light levels on shipboard and samples may experience above-,able to begin acclimating to relatively high light levels on shipboard and samples may experience above-,able to begin acclimating to relatively high light levels on shipboard and samples may experience above-,able to begin acclimating to relatively high light levels on shipboard and samples may experience above-
+"ambient temperatures before they are placed in light-saturated, temperature-controlled incubation","ambient temperatures before they are placed in light-saturated, temperature-controlled incubation","ambient temperatures before they are placed in light-saturated, temperature-controlled incubation","ambient temperatures before they are placed in light-saturated, temperature-controlled incubation","ambient temperatures before they are placed in light-saturated, temperature-controlled incubation"
+chambers in the laboratory.,chambers in the laboratory.,chambers in the laboratory.,The current Virginia protocol maintains productivity samples in a closed,The current Virginia protocol maintains productivity samples in a closed
+cooler on ice prior to being sent to the laboratory for analysis.,cooler on ice prior to being sent to the laboratory for analysis.,cooler on ice prior to being sent to the laboratory for analysis.,cooler on ice prior to being sent to the laboratory for analysis.,Virginia’s samples experience below-
+,,,10,1/11/2010
+,VAPDDOC.doc,
+"ambient temperatures in all seasons but winter, and are acclimated to low light when they are placed in","ambient temperatures in all seasons but winter, and are acclimated to low light when they are placed in","ambient temperatures in all seasons but winter, and are acclimated to low light when they are placed in"
+the incubation chambers.,the incubation chambers.,
+Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues,Winter 2002- For extensive details in regards to quality assurance issues and data comparability issues
+between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the,between Maryland and Virginia Programs please see the CBP Phytoplankton Split sample portion of the
+Chesapeake Bay Quality Assurance Program at:,Chesapeake Bay Quality Assurance Program at:,
+http://www.chesapeakebay.net/qualityassurance.htm,http://www.chesapeakebay.net/qualityassurance.htm,
+"April 2004- Chlorophylls for the river stations was not performed. Sept. 2003 LE 3.6 and CB 6.1, July","April 2004- Chlorophylls for the river stations was not performed. Sept. 2003 LE 3.6 and CB 6.1, July","April 2004- Chlorophylls for the river stations was not performed. Sept. 2003 LE 3.6 and CB 6.1, July"
+"2003 RET 3.1,TF 3.3, TF5.5 were not taken. The tributary stations are no longer collected during","2003 RET 3.1,TF 3.3, TF5.5 were not taken. The tributary stations are no longer collected during","2003 RET 3.1,TF 3.3, TF5.5 were not taken. The tributary stations are no longer collected during"
+November or December.,November or December.,
+08/11/2005.,"Note due to contract changes starting in January 1996, station LE5.5 had a coordinate","Note due to contract changes starting in January 1996, station LE5.5 had a coordinate"
+"change. This station move was not documented until August 2005. Due to this station relocation, all data","change. This station move was not documented until August 2005. Due to this station relocation, all data","change. This station move was not documented until August 2005. Due to this station relocation, all data"
+collected at the altered location had the station name changed to LE5.5-W in August 2005.,collected at the altered location had the station name changed to LE5.5-W in August 2005.,collected at the altered location had the station name changed to LE5.5-W in August 2005.
+01/11/2010- The following stations were not sampled during the period due to bad weather. August 2009,01/11/2010- The following stations were not sampled during the period due to bad weather. August 2009,01/11/2010- The following stations were not sampled during the period due to bad weather. August 2009
+"RET 5.2 and RET 4,3. There are no chlorophyll data for RET 5.2, TF 5.5, July 21, 2009 because the test","RET 5.2 and RET 4,3. There are no chlorophyll data for RET 5.2, TF 5.5, July 21, 2009 because the test","RET 5.2 and RET 4,3. There are no chlorophyll data for RET 5.2, TF 5.5, July 21, 2009 because the test"
+tube broke in the centrifuge.,tube broke in the centrifuge.,
+# KEY WORDS (EXCLUDING VARIABLE NAMES),# KEY WORDS (EXCLUDING VARIABLE NAMES),
+Assimilation ratio,Assimilation ratio,
+Carbon fixation,Carbon fixation,
+Chlorophyll,,
+Primary production,Primary production,
+THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM,THIS IS THE END OF THE VIRGINIA CHESAPEAKE BAY PROGRAM
+,PRIMARY PRODUCTION DATA DICTIONARY,
+,11,1/11/2010

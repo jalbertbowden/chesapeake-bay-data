@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 10 of 170”,Name: “Table 1 of 1 on page 10 of 170”
+Table: 9,Table: 9
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+,CHESAPEAKE BAY PROGRAM DATA CENTER
+"The EPA CBP presently maintains a Data Center at its main office in Annapolis, Maryland. The Data","The EPA CBP presently maintains a Data Center at its main office in Annapolis, Maryland. The Data"
+"Center provides data management, Geographic Information Systems (GIS), web development, modeling","Center provides data management, Geographic Information Systems (GIS), web development, modeling"
+and technical support to program participants for the purpose of accomplishing the goals and objectives,and technical support to program participants for the purpose of accomplishing the goals and objectives
+"of the partnership. The Data Center manages computer hardware and software, provides user support","of the partnership. The Data Center manages computer hardware and software, provides user support"
+"and training for these computer resources, acquires and stores data sets and provides analytical support","and training for these computer resources, acquires and stores data sets and provides analytical support"
+for CBP activities.,
+The CBP Data Center is one of many geographically distributed data centers in the Chesapeake Bay,The CBP Data Center is one of many geographically distributed data centers in the Chesapeake Bay
+"watershed. Recipients of Data Center services are the CBP goal implementation teams, CBP resource","watershed. Recipients of Data Center services are the CBP goal implementation teams, CBP resource"
+managers and the watershed's scientific community and stakeholders.,managers and the watershed's scientific community and stakeholders.
+THE LIVING RESOURCES DATA MANAGEMENT PROGRAM,THE LIVING RESOURCES DATA MANAGEMENT PROGRAM
+The Living Resources Data Management Program (LRDMP) has traditionally focused on the,The Living Resources Data Management Program (LRDMP) has traditionally focused on the
+management of technical data and production of analyzed data products. Data at these levels consists of:,management of technical data and production of analyzed data products. Data at these levels consists of:
+•,Raw data: Typically the original field and laboratory results of monitoring programs. Data are
+,collected and managed offsite by the data originators and not available from the CBP Data
+,Center.
+•,Primary data: Delivered to the CBP Data Center by the data originators. Many data sets are
+,"currently available from the Data Center ""as is"" with their existing documentation. A long-term"
+,goal of the CBP Data Center is to work with the data originators to produce primary data sets
+,"that meet or come close to CIMS/CDE standards and specifications, and to de-emphasize use of"
+,"primary data in favor of ""CIMS/CDE data."""
+•,CBP Data: CBP monitoring databases or CIMS/CDE compliant databases which are available
+,through the CIMS/CDE partners. All compliant databases follow common data dictionaries and
+,data reporting standards. Biological point data become CIMS/CDE data after they are placed in
+,"uniform, relational databases. Prior to loading data into the databases, data are rigorously"
+,"checked for duplicate fields, outliers, erroneous data and other errors in the data are resolved"
+,with the data providers. Biological point data in CIMS/CDE database structures are currently
+,stored in relational databases on CBP Data Center servers and available to the public through a
+,variety of interfaces on the Bay Program web site.
+•,Ecosystem Indicator data: Datasets of technical indicators derived from monitoring data are now
+,available. The information is computed from water quality and biological data in available
+,databases using accepted algorithms and/or GIS methods. These forms of the data have been
+,"demonstrated to be extremely useful to CBP participants, resource managers and the general"
+,public.
+The LRDMP has been a major participant in the establishment of CIMS the network and continues to be a,The LRDMP has been a major participant in the establishment of CIMS the network and continues to be a
+contributor to the CDE effort. The LRDMP has helped establish CIMS/CDE standards for data,contributor to the CDE effort. The LRDMP has helped establish CIMS/CDE standards for data
+"dictionaries, data documentation and uniform relational database designs. This document is part of the","dictionaries, data documentation and uniform relational database designs. This document is part of the"
+CBP data management guidance. The LRDMP has helped to improve the ability of data generators to,CBP data management guidance. The LRDMP has helped to improve the ability of data generators to
+produce quality data and establish a number of data generators as distributed CIMS/CDE data sites. In,produce quality data and establish a number of data generators as distributed CIMS/CDE data sites. In
+"recent years the LRDMP has placed an increased emphasis on data analysis, development of data","recent years the LRDMP has placed an increased emphasis on data analysis, development of data"
+analysis tools and indicators.,
+,8

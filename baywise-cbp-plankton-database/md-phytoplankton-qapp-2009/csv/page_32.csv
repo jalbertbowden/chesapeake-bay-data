@@ -1,0 +1,29 @@
+Name: “Table 1 of 1 on page 32 of 36”,Name: “Table 1 of 1 on page 32 of 36”
+Table: 32,Table: 32
+,
+The following equations were used to determine the rate of carbon fixation in ugC/L/hr. Note,The following equations were used to determine the rate of carbon fixation in ugC/L/hr. Note
+that the raw data used in these calculations are not presented in the associated data set. Only the,that the raw data used in these calculations are not presented in the associated data set. Only the
+resulting carbon fixation rate is included.,
+1) CARBALK = 12000 * (Total Alkalinity),
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK *,
+1.05 / DPMSP * (ETIME-BTIME),
+where CARBFIX = Carbon fixation rate in ug C/L/hr,
+IVOL = Volume incubated,
+FVOL = Volume filtered,
+DPMSAM = Disintegrations per minute from incubated,
+sample,
+DPMT0 = Disintegrations per minute from corresponding,
+unincubated (time zero - t0) sample,
+DPMSP = Total disintegrations per minute for C-14,
+spike,
+BTIME = Beginning time of incubation (h),
+ETIME = Ending time of incubation (h),
+CARBALK = Total inorganic carbonate from 1),
+Calculation of Assimilation Ratio,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior,
+to rounding the CARBFIX value,
+where ASMRATIO = Assimilation ratio,
+CARBFIX = Carbon fixation in ug C/L/h from 2),
+CHLA = Chlorophyll a in ug/L,
+,32
+MD PHYTO QAPP,4/15/09

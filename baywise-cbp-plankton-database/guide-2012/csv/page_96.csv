@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 96 of 170”,Name: “Table 1 of 1 on page 96 of 170”
+Table: 95,Table: 95
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+NODC_CODE:,All species on the list have been assigned at least partial National Oceanographic Data
+Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical,Center (NODC) Taxon Codes (Version 8.0). The NODC Taxon Code is a hierarchical system of numerical
+codes used to represent the scientific names and phylogeny of organisms. The code links the Linnaean,codes used to represent the scientific names and phylogeny of organisms. The code links the Linnaean
+system of biological nomenclature to a numerical schema that facilitates modern methods of,system of biological nomenclature to a numerical schema that facilitates modern methods of
+computerized data storage and retrieval. The NODC code was that a code that changed over time to,computerized data storage and retrieval. The NODC code was that a code that changed over time to
+reflect current changes in taxonomic classifications. An NODC code contains a maximum of 12 digits,reflect current changes in taxonomic classifications. An NODC code contains a maximum of 12 digits
+partitioned into two-digit couplets. Each couplet represents one or more levels of the taxonomic,partitioned into two-digit couplets. Each couplet represents one or more levels of the taxonomic
+"hierarchy. For example,",
+Digit,Represents
+1-2,Phylum
+3-4,Class and/or Order
+5-6,Family
+7-8,Genus
+9-10,Species
+11-12,Subspecies
+"In 1996, NODC released the final version (#8) of the NODC Taxonomic Code. Version 8 provided the old","In 1996, NODC released the final version (#8) of the NODC Taxonomic Code. Version 8 provided the old"
+NODC codes along with their new ITIS Taxonomic Serial Numbers to facilitate the transition to a new,NODC codes along with their new ITIS Taxonomic Serial Numbers to facilitate the transition to a new
+"Integrated Taxonomic Information System (ITIS). From that point in time, the NODC code was frozen and","Integrated Taxonomic Information System (ITIS). From that point in time, the NODC code was frozen and"
+"ITIS assumed responsibility for assigning new TSN codes, and verifying accepted scientific names and","ITIS assumed responsibility for assigning new TSN codes, and verifying accepted scientific names and"
+"synonyms. However, it still provides data analysts with a very useful tool for sorting organisms into","synonyms. However, it still provides data analysts with a very useful tool for sorting organisms into"
+taxonomic groups.,
+Please see the current taxonomic database on www.chesapeakebay.net or the document a,Please see the current taxonomic database on www.chesapeakebay.net or the document a
+"Comprehensive List of Chesapeake Bay Basin Species, 2007 for a full listing.","Comprehensive List of Chesapeake Bay Basin Species, 2007 for a full listing."
+Table C-5. 1985 Chesapeake Bay Program Segment Scheme (CB_SEG85).,Table C-5. 1985 Chesapeake Bay Program Segment Scheme (CB_SEG85).
+"The original Chesapeake Bay Segmentation Scheme, published in the appendices of","The original Chesapeake Bay Segmentation Scheme, published in the appendices of"
+Chesapeake Bay: A Profile of Environmental Change was developed in the late 1970s and early 1980s.,Chesapeake Bay: A Profile of Environmental Change was developed in the late 1970s and early 1980s.
+This initial segmentation scheme formed the spatial aggregation scheme for station network design of the,This initial segmentation scheme formed the spatial aggregation scheme for station network design of the
+baywide water quality and biological monitoring programs that were initiated in the mid-1980s. The 1983–,baywide water quality and biological monitoring programs that were initiated in the mid-1980s. The 1983–
+"1985 scheme was based primarily on salinity, circulation and natural features, and secondarily on","1985 scheme was based primarily on salinity, circulation and natural features, and secondarily on"
+biological factors and management objectives. The salinity data record on which the scheme was based,biological factors and management objectives. The salinity data record on which the scheme was based
+"extends to the late 1940s, but for many parts of the Chesapeake Bay, the data were at best patchy in","extends to the late 1940s, but for many parts of the Chesapeake Bay, the data were at best patchy in"
+time and space.,
+The currently accepted CB_SEG85 values and descriptions are as follows:,The currently accepted CB_SEG85 values and descriptions are as follows:
+CBSEG85,SEGMENT DESCRIPTION
+AFL,NON-TIDAL AREAS OF THE CHESAPEAKE BAY WATERSHED
+CB1,SUSQUEHANNA FLATS
+CB2,UPPER PORTION OF THE CHESAPEAKE BAY MAINSTEM
+CB3,UPPER-MOST ESTUARINE ZONE IN THE CHESAPEAKE BAY MAINSTEM
+CB4,UPPER PORTION OF THE CENTRAL CHESAPEAKE BAY MAINSTEM
+CB5,CENTRAL PORTION OF THE CHESAPEAKE BAY MAINSTEM
+CB6,LOWER WEST-CENTRAL PORTION OF THE CHESAPEAKE BAY MAINSTEM
+CB7,LOWER EAST-CENTRAL PORTION OF THE CHESAPEAKE BAY MAINSTEM
+CB8,SOUTHERN-MOST PORTION OF THE CHESAPEAKE BAY MAINSTEM
+EE1,"EASTERN BAY, MILES RIVER, AND WYE RIVER"
+EE2,"CHOPTANK RIVER WEST OF CASTLE HAVEN, INCLUDING THE TRED AVON RIVER, BROAD"
+,"CREEK, HARRIS CREEK, AND THE LITTLE CHOPTANK RIVER"
+EE3,TANGIER AND POCOMOKE SOUNDS
+ET1,NORTHEAST RIVER
+ET2,ELK AND BOHEMIA RIVERS
+,94

@@ -1,0 +1,16 @@
+Name: “Table 1 of 1 on page 36 of 44”,Name: “Table 1 of 1 on page 36 of 44”,Name: “Table 1 of 1 on page 36 of 44”,Name: “Table 1 of 1 on page 36 of 44”,Name: “Table 1 of 1 on page 36 of 44”
+Table: 36,Table: 36,Table: 36,Table: 36,Table: 36
+,,,,
+TAB_VALUE_TYPE,TAB_VALUE_TYPE,,,
+,Field Name,Description,Data Type,Length
+VALUE_TYPE,VALUE_TYPE,VALUE TYPE CODE,CHAR,3
+"(PK,FK)",,,,
+VALUE_TYPE_,VALUE_TYPE_,CODE DEFINITON,VARCHAR,10
+DEFINITION,DEFINITION,,,
+General:,This table stores information relating to the type of measurement a parameter is.,This table stores information relating to the type of measurement a parameter is.,This table stores information relating to the type of measurement a parameter is.,This table stores information relating to the type of measurement a parameter is.
+This code is used primary in the BIOMASS_SETVOL TABLE.,This code is used primary in the BIOMASS_SETVOL TABLE.,This code is used primary in the BIOMASS_SETVOL TABLE.,Additional codes may be added as needed.,Additional codes may be added as needed.
+Currently accepted VALUE_TYPE designations are as follows:,Currently accepted VALUE_TYPE designations are as follows:,Currently accepted VALUE_TYPE designations are as follows:,,
+A,ACTUAL MEASUREMENT OF A PARAMETER VALUE,ACTUAL MEASUREMENT OF A PARAMETER VALUE,,
+E,ESTIMATED MEASUREMENT OF A PARAMETER VALUE,ESTIMATED MEASUREMENT OF A PARAMETER VALUE,,
+,,34,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0

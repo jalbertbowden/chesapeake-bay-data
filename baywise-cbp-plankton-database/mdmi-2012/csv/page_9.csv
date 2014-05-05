@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”,Name: “Table 1 of 1 on page 9 of 13”
+Table: 9,Table: 9,Table: 9
+,,
+,,Page 9 of 13
+samples (see above) is currently being adapted for use with whole water,samples (see above) is currently being adapted for use with whole water,samples (see above) is currently being adapted for use with whole water
+counts.,The ITIS taxonomic codes will be used for the taxa that are,The ITIS taxonomic codes will be used for the taxa that are
+enumerated.,Biomass estimates for each taxon will be applied to the,Biomass estimates for each taxon will be applied to the
+normalized densities in order to fit into various ecosystem models and the,normalized densities in order to fit into various ecosystem models and the,normalized densities in order to fit into various ecosystem models and the
+zooplankton index of biotic integrity.,zooplankton index of biotic integrity.,
+"#FORMULAS, CALCULATIONS, AND CONVERSIONS","#FORMULAS, CALCULATIONS, AND CONVERSIONS",
+The following equation is used to convert raw counts to density for both,The following equation is used to convert raw counts to density for both,The following equation is used to convert raw counts to density for both
+enumeration methods,enumeration methods,
+(# Per liter) for each taxon identified:,(# Per liter) for each taxon identified:,
+DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP,DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP,DENSITY = ((RAWCNT/MLSCNT)*CONCENT)/TOTVCOMP
+Where,,
+DENSITY = density of a given taxonomic group (# individuals/liter),DENSITY = density of a given taxonomic group (# individuals/liter),DENSITY = density of a given taxonomic group (# individuals/liter)
+RAWCNT = raw count of taxonomic group per sub sample,RAWCNT = raw count of taxonomic group per sub sample,
+MLSCNT = milliliters of sub sample counted,MLSCNT = milliliters of sub sample counted,
+CONCENT = volume of concentrated sample,CONCENT = volume of concentrated sample,
+TOTVCOMP = # of liters filtered though net or total volume of,TOTVCOMP = # of liters filtered though net or total volume of,TOTVCOMP = # of liters filtered though net or total volume of
+,Composite sample,
+"If the sample was counted by rows, MLSCNT is determined by dividing the","If the sample was counted by rows, MLSCNT is determined by dividing the","If the sample was counted by rows, MLSCNT is determined by dividing the"
+number of rows by 28.4.,number of rows by 28.4.,
+Process_Date: Unknown,Process_Date: Unknown,
+Process_Step:,,
+Process_Description:,Process_Description:,
+Metadata imported.,Metadata imported.,
+Source_Used_Citation_Abbreviation:,Source_Used_Citation_Abbreviation:,
+C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml49B.tmp,C:\DOCUME~1\jjohnson\LOCALS~1\Temp\xml49B.tmp,
+Process_Date: 20081208,Process_Date: 20081208,
+Process_Time: 13133200,Process_Time: 13133200,
+Back to Top,,
+Spatial_Data_Organization_Information:,Spatial_Data_Organization_Information:,
+Indirect_Spatial_Reference_Method:,Indirect_Spatial_Reference_Method:,
+Chesapeake Bay and its Tidal Tributaries in the State of Maryland,Chesapeake Bay and its Tidal Tributaries in the State of Maryland,
+Direct_Spatial_Reference_Method: Point,Direct_Spatial_Reference_Method: Point,
+Point_and_Vector_Object_Information:,Point_and_Vector_Object_Information:,
+SDTS_Terms_Description:,SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Entity point,SDTS_Point_and_Vector_Object_Type: Entity point,
+SDTS_Terms_Description:,SDTS_Terms_Description:,
+SDTS_Point_and_Vector_Object_Type: Area point,SDTS_Point_and_Vector_Object_Type: Area point,
+Back to Top,,
+Spatial_Reference_Information:,,
+Horizontal_Coordinate_System_Definition:,Horizontal_Coordinate_System_Definition:,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012

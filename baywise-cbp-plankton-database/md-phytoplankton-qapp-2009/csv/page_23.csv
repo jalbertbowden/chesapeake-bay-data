@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 23 of 36”,Name: “Table 1 of 1 on page 23 of 36”
+Table: 23,Table: 23
+,
+"Principal Investigator for logic (data within error ranges), formatting and comprehensiveness.",
+These final ASCII data sets are then electronically converted to SAS data sets by software,
+"programs. A series of check programs is run on these SAS data sets to check for data ranges,",
+comprehensiveness and formatting. Any error messages are addressed by the Data Coordinator,comprehensiveness and formatting. Any error messages are addressed by the Data Coordinator
+of the project. The final SAS data sets are then visually inspected by the Principal Investigator,of the project. The final SAS data sets are then visually inspected by the Principal Investigator
+"for logic, comprehensiveness and accuracy. During each step of this process, the person running","for logic, comprehensiveness and accuracy. During each step of this process, the person running"
+"the electronic QA programs and those doing the visual proofing of the data, sign off and date the","the electronic QA programs and those doing the visual proofing of the data, sign off and date the"
+completion and results of their work.,
+The format of the final SAS data sets which are submitted to MDDNR and EPA-CBP,
+data managers is a prescribed EPA data format that contains all of the necessary header,
+"information, qualifiers, personnel descriptors, sampling site descriptors and other data",
+documentation. This prescribed format allows for these data to be transferred to an EPA-CBP,
+data hub for all of the data collected in the Chesapeake Bay Water Quality Monitoring Program.,data hub for all of the data collected in the Chesapeake Bay Water Quality Monitoring Program.
+Assessments and Response Actions,
+The chlorophyll a and phytoplankton taxonomy components of the Phytoplankton,
+Monitoring Program have regular QA assessments. The chlorophyll a component is part of a,
+blind audit program which takes place quarterly. This audit is conducted by the EPA-CBP,
+Analytical Methods and Quality Assurance Workgroup. This audit includes results from eight,
+different laboratories. A summary report is produced with the results for each blind audit and,
+this report is distributed amongst the various participants. The phytoplankton taxonomy,
+component utilizes a split sample assessment in conjunction with the VA Phytoplankton,
+Monitoring Program under the auspices of the EPA-CBP Quality Assurance Officer. This split,Monitoring Program under the auspices of the EPA-CBP Quality Assurance Officer. This split
+sample assessment is conducted annually and the focus and design change from year to year.,
+The results of this assessment are presented at a meeting of the two phytoplankton laboratories,
+"(MSUERC and Old Dominion University) in association with MDDNR, VADEQ and EPA-CBP","(MSUERC and Old Dominion University) in association with MDDNR, VADEQ and EPA-CBP"
+"personnel. Following this meeting, a report is produced which documents and interprets the",
+results of the split sample assessment. This report includes recommendations for improving the,results of the split sample assessment. This report includes recommendations for improving the
+precision of the two laboratories taxonomic enumeration techniques and for the focus of the,
+following year’s assessment. The EPA-CBP addresses the recommendations made in this report,following year’s assessment. The EPA-CBP addresses the recommendations made in this report
+and dictates specific changes to the protocol when necessary. Within The MD Phytoplankton,
+"Monitoring Program, 5% of taxonomy samples are re-counted. The recounts must fall within",
+80% of the original count for total density and for the 2-3 dominant taxa. If these criteria are not,80% of the original count for total density and for the 2-3 dominant taxa. If these criteria are not
+"met, the sample is recounted until they are realized.",
+Reports to Management,
+Quarterly progress reports are delivered electronically to MDDNR. These reports,
+"document the progress which is made in sample collection, sample processing, data management","document the progress which is made in sample collection, sample processing, data management"
+"tasks, professional meetings attended and any problems which may have occurred with any of",
+"these tasks (i.e. samples that were not collected, problems with typical laboratory protocols). In","these tasks (i.e. samples that were not collected, problems with typical laboratory protocols). In"
+"addition, the bi-annual data deliveries require that an updated data dictionary be submitted that",
+,23
+MD PHYTO QAPP,4/15/09

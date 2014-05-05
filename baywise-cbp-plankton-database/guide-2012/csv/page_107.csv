@@ -1,0 +1,59 @@
+Name: “Table 1 of 1 on page 107 of 170”,Name: “Table 1 of 1 on page 107 of 170”
+Table: 106,Table: 106
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-16.,Calculated Biological Metrics Description IBI_PARAMETER).
+These codes store information identifying calculated metrics used in indexes of biotic integrity and other,These codes store information identifying calculated metrics used in indexes of biotic integrity and other
+indicators. Method codes currently exist for benthic indexes only. Currently accepted IBI_PARAMETER,indicators. Method codes currently exist for benthic indexes only. Currently accepted IBI_PARAMETER
+and IBI_PARAMETER_DESCRIPTION designations are as follows:,and IBI_PARAMETER_DESCRIPTION designations are as follows:
+IBI_PARAMETER,IBI_PARAMETER_DESCRIPTION
+ASPT_MOD,Average of each individual's family-level tolerance score
+ASPT_MOD_R,Average of each individual's family-level tolerance score calculated on
+,Rarefaction Data
+BECK,Becks Index based on family-level taxonomy-classical calculation
+BECK_R,Becks Index based on family-level taxonomy-classical calculation-calculated on
+,Rarefaction Data
+BIOMASS_CHL_RATIO,Total Phytoplankton Biomass To Chl Ratio
+CELL_SIZE,Average Cell Size PG/Cell
+CHL_SURF,Surface Chlorophyll A (0.5 M)
+CHLA,Ave Layer Chla In μG/L
+CHLORO_ABUND,Total Chlorophyte Abundance In Number/Liter
+CHLORO_BIOMASS,Total Chlorophyte Biomass In μG Carbon/Liter
+CHRYSO_ABUND,Total Chrysophyte Abundance In Number/Liter
+CHRYSO_BIOMASS_,Total Chrysophyte Biomass In μG Carbon/Liter
+COCHLODINIUM_HET_ABUND,Total Cochlodinium Abundance In Number/Liter
+COCHLODINIUM_HET_BIOMASS,Total Cochlodinium Biomass In μG Carbon/
+CRYPTO_ABUND,Total Cryptophyte Abundance In Number/Liter
+CRYPTO_BIO_PCT,Percent Cryptophyte Biomass
+CRYPTO_BIOMASS,Total Cryptophyte Biomass In μG Carbon/Liter
+CYANO_ABUND,Total Cyanophyte Abundance In Number/Liter
+CYANO_BIO_PCT,Percent Cyanophyte Biomass
+CYANO_BIOMASS,Total Cyanophyte Biomass In μG Carbon/Liter
+DIATOM_ABUND,Total Diatom Abundance In Number/Liter
+DIATOM_BIO_PCT,Percent Diatom Biomass
+DIATOM_BIOMASS,Total Diatom Biomass In μG Carbon/Liter
+DIN,Ave Layer Dissolved Organic N (NO2+NO3+NH4) In Mg/L
+DINO_ABUND,Total Dinoflaggelate Abundance In Number/Liter
+DINO_BIO_PCT,Percent Dinoflaggelate Biomass
+DINO_BIOMASS,Total Dinoflaggelate Biomass In μG Carbon/Liter
+DIPTERA_TAXA_CNT,Count Of Diptera Families
+DIPTERA_TAXA_CNT_R,Count Of Diptera Families -Calculated On Rarefaction Data
+DO,Average Layer Dissolved Oxygen In Mg/L
+DOC,Average Layer Dissolved Organic Carbon Conc. In Mg/L
+EPHEMEROPTERA_TAXA_CNT,Count Of Ephemeroptera Families
+EPHEMEROPTERA_TAXA_CNT_R,Count Of Ephemeroptera Families-Calculated On Rarefaction Data
+EPT_TAXA_ABUND,"Total Abundance Of Ephemeroptera, Plecoptera & Trichoptera Individuals"
+EPT_TAXA_ABUND_R,"Total Abundance Of Ephemeroptera, Plecoptera & Trichoptera Individuals-"
+,Calculated On Rarefaction Data
+EPT_TAXA_COUNT,"Number Of Ephemeroptera, Plecoptera & Trichoptera Families"
+EPT_TAXA_COUNT_NO_TOL,"Number Of Ephemeroptera, Plecoptera & Trichoptera Families Excluding"
+,Those With Tolerance Values >=7
+EPT_TAXA_COUNT_NO_TOL_R,"Number Of Ephemeroptera, Plecoptera & Trichoptera Families Excluding"
+,Those With Tolerance Values >= 7-Calculated On Rarefaction Data
+EPT_TAXA_COUNT_R,"Number Of Ephemeroptera, Plecoptera & Trichoptera Families-Calculated On"
+,Rarefaction Data
+EUGLENO_ABUND,Total Euglenophyte Abundance In Number/Liter Above Pycnocline
+EUGLENO_BIOMASS,Total Euglenophyte Biomass In μG Carbon/Liter Above Pycnocline
+FBI,Hilsenhoff Family-Level Biotic Index
+FBI_R,Hilsenhoff Family-Level Biotic Index -Calculated On Rarefaction Data
+,105

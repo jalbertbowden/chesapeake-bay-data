@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 103 of 170”,Name: “Table 1 of 1 on page 103 of 170”,Name: “Table 1 of 1 on page 103 of 170”,Name: “Table 1 of 1 on page 103 of 170”,Name: “Table 1 of 1 on page 103 of 170”,Name: “Table 1 of 1 on page 103 of 170”
+Table: 102,Table: 102,Table: 102,Table: 102,Table: 102,Table: 102
+,,,,,
+,,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+FIPS,STATE,NAME,FIPS,STATE,NAME
+51113,VA,MADISON,51600,VA,FAIRFAX CITY
+51115,VA,MATHEWS,51610,VA,FALLS CHURCH CITY
+51119,VA,MIDDLESEX,51630,VA,FREDERICKSBURG CITY
+51121,VA,MONTGOMERY,51650,VA,HAMPTON CITY
+51125,VA,NELSON,51660,VA,HARRISONBURG CITY
+51127,VA,NEW KENT,51670,VA,HOPEWELL CITY
+51131,VA,NORTHAMPTON,51678,VA,LEXINGTON CITY
+51133,VA,NORTHUMBERLAND,51680,VA,LYNCHBURG CITY
+51135,VA,NOTTOWAY,51683,VA,MANASSAS CITY
+51137,VA,ORANGE,51685,VA,MANASSAS PARK CITY
+51139,VA,PAGE,51700,VA,NEWPORT NEWS CITY
+51145,VA,POWHATAN,51710,VA,NORFOLK CITY
+51147,VA,PRINCE EDWARD,51730,VA,PETERSBURG CITY
+51149,VA,PRINCE GEORGE,51735,VA,POQOUSON CITY
+51153,VA,PRINCE WILLIAM,51740,VA,PORTSMOUTH CITY
+51157,VA,RAPPAHANNOCK,51760,VA,RICHMOND CITY
+51159,VA,RICHMOND,51790,VA,STAUNTON CITY
+51161,VA,ROANOKE,51800,VA,SUFFOLK CITY
+51163,VA,ROCKBRIDGE,51810,VA,VIRGINIA BEACH CITY
+51165,VA,ROCKINGHAM,51820,VA,WAYNESBORO CITY
+51171,VA,SHENANDOAH,51830,VA,WILLIAMSBURG CITY
+51177,VA,SPOTSYLVANIA,51840,VA,WINCHESTER CITY
+51179,VA,STAFFORD,54003,WV,BERKELEY
+51181,VA,SURRY,54023,WV,GRANT
+51187,VA,WARREN,54027,WV,HAMPSHIRE
+51193,VA,WESTMORELAND,54031,WV,HARDY
+51199,VA,YORK,54037,WV,JEFFERSON
+51510,VA,ALEXANDRIA CITY,54057,WV,MINERAL
+51530,VA,BUENA VISTA CITY,54063,WV,MONROE
+51540,VA,CHARLOTTESVILLE CITY,54065,WV,MORGAN
+51550,VA,CHESAPEAKE CITY,54071,WV,PENDLETON
+51560,VA,CLIFTON FORGE CITY,54077,WV,PRESTON
+51570,VA,COLONIAL HEIGHTS CITY,54093,WV,TUCKER
+51580,VA,COVINGTON CITY,,,
+Table C-12.,Sampling Gear (GMETHOD).,Sampling Gear (GMETHOD).,,,
+The GMETHOD codes represent information relating to the type of field gear used to collect samples for,The GMETHOD codes represent information relating to the type of field gear used to collect samples for,The GMETHOD codes represent information relating to the type of field gear used to collect samples for,The GMETHOD codes represent information relating to the type of field gear used to collect samples for,The GMETHOD codes represent information relating to the type of field gear used to collect samples for,The GMETHOD codes represent information relating to the type of field gear used to collect samples for
+all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations,all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations,all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations,all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations,all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations,all analysis. Additional codes may be added as needed. Currently accepted G_METHODS designations
+are as follows:,are as follows:,,,,
+G_METHOD,,GEAR METHOD DESCRIPTION,GEAR METHOD DETAILS,GEAR METHOD DETAILS,GEAR METHOD DETAILS
+01,,HAND DREDGE,,,
+02,,DREDGE,,,
+03,,ARTIFICIAL SUBSTRAIT,UNSPECIFIED,UNSPECIFIED,
+04,,DIATOMER SLIDES,,,
+05,,CLARKE-BUMPUS SAMPLER,,,
+06,,PLANKTON TRAP,UNSPECIFIED,UNSPECIFIED,
+07,,PLANKTON PUMP,UNSPECIFIED,UNSPECIFIED,
+08,,PLANKTON NET,UNSPECIFIED,UNSPECIFIED,
+09,,PLANKTON NET,500μ MESH,500μ MESH,
+10,,PLANKTON NET,"NO. 20, 80μ MESH","NO. 20, 80μ MESH",
+11,,PLANKTON NET,10μ MESH,,
+,,,101,,

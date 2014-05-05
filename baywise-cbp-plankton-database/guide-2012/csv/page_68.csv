@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 68 of 170”,Name: “Table 1 of 1 on page 68 of 170”,Name: “Table 1 of 1 on page 68 of 170”,Name: “Table 1 of 1 on page 68 of 170”
+Table: 67,Table: 67,Table: 67,Table: 67
+,,,
+,,,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-8.,In Situ Fluorescence Data File Format,In Situ Fluorescence Data File Format,In Situ Fluorescence Data File Format
+FIELD_DATA_INDEX,Number,8,Database Generated Event Identification Number
+SOURCE,Text,10,Data Collection Agency
+SAMPLE_DATE,Date/Time,Date/Time,
+,,8,Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,Date/Time,
+,,8,Sample Collection Time (HH:MM:SS)
+LATITUDE,Number,8.5,Latitude in Decimal Degrees
+LONGITUDE,Number,8.5,Longitude in Decimal Degrees
+STATION,Text,15,Sampling Station
+SAMPLE_TYPE,Text,7,Sample Type
+SAMPLE_DEPTH,Number,8.1,Sample Collection Depth (Meters)
+REPORTING_PARAMETER,REPORTING_PARAMETER,,
+,Text,10,Reporting Parameter
+REPORTING_VALUE,REPORTING_VALUE,,
+,Number,8.2,Reporting Parameter Value
+REPORTING_VOLTS,REPORTING_VOLTS,,
+,Number,8,Instrument Reporting Voltages
+REPORTING_UNITS,REPORTING_UNITS,,
+,Text,10,Parameter Reporting Units
+QUALIFIER,Text,10,Chlorophyll A Detection Limit Qualifier
+METHOD,Text,5,Chlorophyll A Method Code
+PROJECT,Text,10,Chesapeake Bay Program Project Identifier
+PROGRAM,Text,10,Chesapeake Bay Program Monitoring Program Identifier
+R_DATE,Date/Time,Date/Time,
+,,8,Version Date of Data (MM/DD/YYYY)
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code
+FIPS,Text,5,Federal Information Processing Code
+LL_DATUM,Text,5,Latitude And Longitude Geographic Datum
+SER_NUM,Text,12,Sample Serial Number
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation
+,,,66

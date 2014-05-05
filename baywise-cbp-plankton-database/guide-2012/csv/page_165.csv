@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 165 of 170”,Name: “Table 1 of 1 on page 165 of 170”
+Table: 164,Table: 164
+,
+,Recommended Guidance for Voluntary Reporting of Non-Tidal Benthic Stream
+,Monitoring Data
+,
+The Chesapeake Bay Program’s non-tidal water quality workgroup (NTWQW) has developed a,The Chesapeake Bay Program’s non-tidal water quality workgroup (NTWQW) has developed a
+standardized regional benthic index of biotic integrity (Chessie B-IBI) that serves as an indicator of local,standardized regional benthic index of biotic integrity (Chessie B-IBI) that serves as an indicator of local
+stream health for the Chesapeake Bay watershed. The results from this work were published in the,stream health for the Chesapeake Bay watershed. The results from this work were published in the
+annual Chesapeake Bay’s Bay Barometer. The underlying methodology used to develop this indicator,annual Chesapeake Bay’s Bay Barometer. The underlying methodology used to develop this indicator
+built on previous efforts to create a standardized basin-wide B-IBI for the Potomac River watershed and is,built on previous efforts to create a standardized basin-wide B-IBI for the Potomac River watershed and is
+documented in a recent Interstate Commission on the Potomac River Basin report.,documented in a recent Interstate Commission on the Potomac River Basin report.
+The Chessie B-IBI is an important tool for Chesapeake Bay water quality managers because it provides a,The Chessie B-IBI is an important tool for Chesapeake Bay water quality managers because it provides a
+comparable look across jurisdictional boundaries at the health of rivers and streams in the entire,comparable look across jurisdictional boundaries at the health of rivers and streams in the entire
+Chesapeake Bay watershed. The Chessie B-IBI assists managers and watershed groups in their ability to,Chesapeake Bay watershed. The Chessie B-IBI assists managers and watershed groups in their ability to
+focus efforts to restore streams needing improvement and protect the quality of the healthiest streams.,focus efforts to restore streams needing improvement and protect the quality of the healthiest streams.
+We are asking that you help continue to make this tool as useful as possible by contributing your most,We are asking that you help continue to make this tool as useful as possible by contributing your most
+"recent non-tidal benthic, water quality, and habitat data.","recent non-tidal benthic, water quality, and habitat data."
+Periodically the Chesapeake Bay Program office will request the information and primary data listed in the,Periodically the Chesapeake Bay Program office will request the information and primary data listed in the
+attached document in Table E11. This includes site and sample collection information and measurements,attached document in Table E11. This includes site and sample collection information and measurements
+"of key water quality, habitat, and benthic parameters. Please feel free to submit any other data that you","of key water quality, habitat, and benthic parameters. Please feel free to submit any other data that you"
+feel is relevant. We can receive data sets in numerous data formats but would prefer comma-delimited,feel is relevant. We can receive data sets in numerous data formats but would prefer comma-delimited
+text files or MS Access databases if you can export data to those formats. We also would like to request,text files or MS Access databases if you can export data to those formats. We also would like to request
+"the most recent data documentation and quality assurance plans for these data sets, in order to","the most recent data documentation and quality assurance plans for these data sets, in order to"
+"accurately rename fields, correctly import data tables to the uniform database structure, and correctly","accurately rename fields, correctly import data tables to the uniform database structure, and correctly"
+calculate metrics. We intend to merge these datasets with those previously sent by your agency. Once,calculate metrics. We intend to merge these datasets with those previously sent by your agency. Once
+"this data is in our database, you have the ability to review that database at anytime. When this database","this data is in our database, you have the ability to review that database at anytime. When this database"
+"is circulated to outside individuals, we will provide you documentation of who has received the data and","is circulated to outside individuals, we will provide you documentation of who has received the data and"
+any other information you would like regarding its release.,any other information you would like regarding its release.
+,
+Table E11.,Requested Station Information and Benthic Monitoring Data.
+"Please send data for your entire jurisdiction. Bolded items denote key information needed, other","Please send data for your entire jurisdiction. Bolded items denote key information needed, other"
+information is useful but not required in the data sets if it is described in data documentation or can be,information is useful but not required in the data sets if it is described in data documentation or can be
+captured with GIS tools. Please also send along any updated quality assurance plans.,captured with GIS tools. Please also send along any updated quality assurance plans.
+Data Element,Description
+Site Information,
+Station,Station identification
+Coordinates,"Latitude and longitude (preferably in decimal degrees), projection and"
+,datum
+Stream Name,Name of stream sampled
+Location,Descriptive information on station location
+Stream Gradient,"Low gradient, high gradient"
+Stream Type,"e. g. , coldwater, warm water, freestone, limestone, coastal plain"
+Sample Collection,
+Program,"Program or study name (e. g. , MBSS, NAWQA)"
+Study Objectives,"Purpose of study (e. g. , 303(d), stream health assessment)"
+Site Type 1,Site selection approach
+Sample Date,Date on which the sample was collected
+Sample Time,Time at which the sample was collected
+Sample Gear,"Equipment used to collect sample (e. g. , D-frame, Hydrolab)"
+Sample ID,Sample Identifier
+Sample Number,"Number of samples collected from the same site on the same date (i. e. , replicate"
+,samples)
+Method 1,"Field collection procedures (e. g. , RBP II, MACS, single-habitat, multi-habitat)"
+,164

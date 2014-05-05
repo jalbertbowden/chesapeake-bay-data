@@ -1,0 +1,51 @@
+Name: “Table 1 of 1 on page 166 of 170”,Name: “Table 1 of 1 on page 166 of 170”
+Table: 165,Table: 165
+,
+Method 2,Water quality laboratory analysis
+Method 3,Water quality field collection method
+Habitat Parameters,
+Parameter,"Anthropogenic Alteration, Bank Stability, Channel Alteration, Habitat"
+,"Heterogeneity (Riffle Frequency, Sinuosity, pool/glide/eddy), Instream"
+,"Condition (Epifaunal substrate and cover), Riparian Zone, Substrate Quality"
+,"(embeddedness, pool substrate), and any other habitat parameters collected"
+Value,If the parameter is measured or calculated
+Units,Units of parameter value
+Score,If the parameter was scored
+Scoring Scale,"Minimum and maximum score (e. g. , 0-10, 0-20)"
+Habitat Type,"Habitat sampled (e. g. , pool, riffle, run)"
+Benthic Parameters,
+Taxon,"Taxon identification to family level (i. e. , Latin name)"
+Count,Number of individuals counted or relative abundance
+TSN,ITIS Taxon Serial Number
+Replicate Number,Sample Replicate number(if applicable)
+Master Taxa list,Table that identifies taxa in the dataset
+Units,Unit of parameter value
+Count Method,"Qualitative (e. g. , present/absent), quantitative (e. g. , #/m 2)"
+Water Quality Parameters,
+Parameter,"pH, specific conductivity, DO, temperature, acid neutralizing capacity (ANC),"
+,"nutrients, sediment, any other parameters collected synoptically with benthic"
+,sample
+Value,Value of parameter
+Unit,Unit of parameter value
+Replicate Number,Sample Replicate Number (If applicable)
+Detection Limit,Value of detection limit
+,
+CBPO staff will be attempting to classify stream sampling sites according to the approach you used to,CBPO staff will be attempting to classify stream sampling sites according to the approach you used to
+identify and select them. These classifications will later be used to decide which sites can be grouped to,identify and select them. These classifications will later be used to decide which sites can be grouped to
+represent watershed status and which can be used to track trends. We can make these classifications,represent watershed status and which can be used to track trends. We can make these classifications
+"based on your monitoring program documentation, or you can insert the class you feel best represents","based on your monitoring program documentation, or you can insert the class you feel best represents"
+the site selection approach.,
+Random:,A random or random-stratified design was applied to select the site for its
+,first sampling (this can include sites that are resampled in subsequent
+,years)
+Random-reference:,A random or random-stratified design was applied to select the site for
+,its first sampling; it was subsequently identified as a reference site
+Targeted-baseline:,Tthe site is considered representative of some landscape feature and
+,was selected for long-term monitoring purposes in a non-random fashion
+,"(includes sites established upstream of a known, suspected, or pending"
+,impairment)
+Targeted-reference:,The site was selected for its first sampling because it was known or
+,suspected of being reference quality
+Targeted-systematic:,"A systematic (grid, stream node, etc) sampling design was applied to"
+,select the site for its first sampling
+,165

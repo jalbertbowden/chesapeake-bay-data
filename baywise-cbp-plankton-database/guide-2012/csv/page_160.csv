@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”,Name: “Table 1 of 1 on page 160 of 170”
+Table: 159,Table: 159,Table: 159,Table: 159,Table: 159,Table: 159,Table: 159
+,,,,,,
+,Required Data Format for Biological Monitoring Data Deliverables,Required Data Format for Biological Monitoring Data Deliverables,Required Data Format for Biological Monitoring Data Deliverables,Required Data Format for Biological Monitoring Data Deliverables,Required Data Format for Biological Monitoring Data Deliverables,Required Data Format for Biological Monitoring Data Deliverables
+Table E-1.,Table E-1.,Phytoplankton and Picoplankton Count Data,Phytoplankton and Picoplankton Count Data,Phytoplankton and Picoplankton Count Data,Phytoplankton and Picoplankton Count Data,
+,Field,Field,Width,,,
+,Name,Type,(dec),Descriptions,,
+1,AGENCY,Character,6,Data Collection Agency,Data Collection Agency,
+2,COLTYPE,Character,2,Sample Collection Type,Sample Collection Type,
+3,CRUISE,Character,6,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number
+4,SAMPLE_DATE,Character,10,Sampling Date,(MM/DD/YY),
+5,DEN_L,Numeric,12,Density of a Taxon (#Individual per liter),Density of a Taxon (#Individual per liter),Density of a Taxon (#Individual per liter)
+6,GMETHOD,Character,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+7,LAYER,Character,2,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken
+8,LBL,Character,45,Species Latin Name (with size groupings when taken),Species Latin Name (with size groupings when taken),Species Latin Name (with size groupings when taken)
+9,MAXDEPTH,Numeric,8. 1,Maximum Depth of Composite Sample,Maximum Depth of Composite Sample,(meters)
+10,R_DATE,Character,8,Version Date of Data (MM/DD/YYYY),Version Date of Data (MM/DD/YYYY),
+11,REP_NUM,Numeric,8,Replicate Number,Replicate Number,
+12,REP_TYPE,Character,3,Replicate Type,,
+13,SER_NUM,Character,12,Sample Serial Number,Sample Serial Number,
+14,NODCCODE,Character,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+15,SPECCODE,Character,14,Agency Species Code,Agency Species Code,
+16,STATION,Character,8,Sampling Station,Sampling Station,
+17,TDEN_L,Numeric,12,Total Density (# all individuals per liter),Total Density (# all individuals per liter),
+18,TRIB_COD,Character,3,Tributary Code,,
+19,TSN,Character,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number,
+Table E-2.,Table E-2.,Phytoplankton and Picoplankton Event Data Files.,Phytoplankton and Picoplankton Event Data Files.,Phytoplankton and Picoplankton Event Data Files.,Phytoplankton and Picoplankton Event Data Files.,
+,Field,Field,Width,,,
+,Name,Type,(dec),Descriptions,,
+1,AGENCY,Character,6,Data Collection Agency,Data Collection Agency,
+2,COLTYPE,Character,2,Collection Type,,
+3,CRUISE,Character,6,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number,Chesapeake Bay Program Cruise Number
+4,SAMPLE_DATE,Character,10,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY),
+5,LAYER,Character,2,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken
+6,LATITUDE,Numeric,9. 4,Latitude in Decimal Degrees(NAD83),Latitude in Decimal Degrees(NAD83),
+7,LONG ITUDE,Numeric,9. 4,Longitude in Decimal Degrees,Longitude in Decimal Degrees,(NAD83)
+8,P_DEPTH,Numeric,8. 1,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+9,R_DATE,Character,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY),
+10,SALZONE,Character,2,Salinity Zone,,
+11,SAMVOL_L,Numeric,8. 1,Total Volume of Sample (liters),Total Volume of Sample (liters),
+12,SER_NUM,Character,12,Sample Serial Number,Sample Serial Number,
+13,STATION,Character,8,Sampling Station,Sampling Station,
+14,TDEPTH,Numeric,8. 1,Total Station Depth (meters),Total Station Depth (meters),
+15,SAMPLE_TIME,Character,8,Sample Collection Time (HHMM),Sample Collection Time (HHMM),
+16,TRIB_COD,Character,3,Tributary Code,,
+,,,,159,,

@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 22 of 170”,Name: “Table 1 of 1 on page 22 of 170”
+Table: 21,Table: 21
+,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+USING MONITORING DATA,USING MONITORING DATA
+Data availability and demand for data access have grown at exponential rates due to the extensive,Data availability and demand for data access have grown at exponential rates due to the extensive
+growth of the Internet. The combination of increased data access and new mechanisms to store and,growth of the Internet. The combination of increased data access and new mechanisms to store and
+distribute data has radically changed data management. Providing adequate guidance to data users on,distribute data has radically changed data management. Providing adequate guidance to data users on
+correctly handling the databases and interpreting the data is a challenge. Unsatisfactory results may be,correctly handling the databases and interpreting the data is a challenge. Unsatisfactory results may be
+"due to the use of data that are unsuitable for the analysis, incorrect manipulation of data sets or incorrect","due to the use of data that are unsuitable for the analysis, incorrect manipulation of data sets or incorrect"
+interpretation of the information in a database.,interpretation of the information in a database.
+Please read the data documentation files.,Before you use data take time to become aware of the
+original objective(s) and sampling design of a study or monitoring program as well as the database,original objective(s) and sampling design of a study or monitoring program as well as the database
+structure. The data documentation files explain the details of sample collection and processing and the,structure. The data documentation files explain the details of sample collection and processing and the
+structure of the data files for each study. All of the data documentation sets have been written with the,structure of the data files for each study. All of the data documentation sets have been written with the
+end data user in mind. They assume that a user has no previous knowledge of the data collection,end data user in mind. They assume that a user has no previous knowledge of the data collection
+program. The biological data sets described in this document are typically either from large-scale,program. The biological data sets described in this document are typically either from large-scale
+"monitoring programs or intensive, targeted studies. The Chesapeake Bay Program long term monitoring","monitoring programs or intensive, targeted studies. The Chesapeake Bay Program long term monitoring"
+programs and other long-term monitoring efforts are often used to assess status and intended to detect,programs and other long-term monitoring efforts are often used to assess status and intended to detect
+changes and/or trends in the status of biological communities on a large scale. They were designed to be,changes and/or trends in the status of biological communities on a large scale. They were designed to be
+used in a wide variety of analyses. These monitoring programs may not have a spatial or temporal scale,used in a wide variety of analyses. These monitoring programs may not have a spatial or temporal scale
+"fine enough to answer many site or time-specific questions. However, they are often useful in answering","fine enough to answer many site or time-specific questions. However, they are often useful in answering"
+"complex, Baywide questions. Another portion of the data sets, predominantly the historic data sets, are","complex, Baywide questions. Another portion of the data sets, predominantly the historic data sets, are"
+targeted studies. These studies were originally designed to answer specific scientific or resource,targeted studies. These studies were originally designed to answer specific scientific or resource
+"management questions on a fine scale. Therefore, sampling design, analytical protocol or site selection","management questions on a fine scale. Therefore, sampling design, analytical protocol or site selection"
+criteria may preclude or obscure elements of the data set critical for your analytical questions.,criteria may preclude or obscure elements of the data set critical for your analytical questions.
+MERGING CIMS/CDE DATA FILES,MERGING CIMS/CDE DATA FILES
+This section provides guidance on how to merge related files retrieved from the CBP web data interfaces.,This section provides guidance on how to merge related files retrieved from the CBP web data interfaces.
+The Chesapeake Bay Program relational database structures and formats are discussed in the,The Chesapeake Bay Program relational database structures and formats are discussed in the
+appendices of this document. Actual field names and attributes appear in Appendix A and online in the,appendices of this document. Actual field names and attributes appear in Appendix A and online in the
+"individual data set documentation files. A list of possible CBP field names for biological data, and their","individual data set documentation files. A list of possible CBP field names for biological data, and their"
+"definitions and units, are provided in Appendix B. Appendix C contains definitions of parameter and look-","definitions and units, are provided in Appendix B. Appendix C contains definitions of parameter and look-"
+up codes used in the databases.,
+"All data downloaded from the plankton database (Phytoplankton, Mesozooplankton, Microzooplankton,","All data downloaded from the plankton database (Phytoplankton, Mesozooplankton, Microzooplankton,"
+"Picoplankton, Jellyfish, Primary Production, Composite Metric and Phytoplankton Index Of Biotic Integrity","Picoplankton, Jellyfish, Primary Production, Composite Metric and Phytoplankton Index Of Biotic Integrity"
+Data) can be merged with their sampling event files by linking directly on the SURVEY_ID field or the,Data) can be merged with their sampling event files by linking directly on the SURVEY_ID field or the
+combination of the following fields:,
+SOURCE,
+SAMPLING_DATE,
+STATION,
+LAYER,
+Fluorescence data is collected concurrently with plankton sampling in many cases. The fluorescence and,Fluorescence data is collected concurrently with plankton sampling in many cases. The fluorescence and
+plankton data reside in separate data bases. Linking the plankton SURVEY_ID field with the fluorescence,plankton data reside in separate data bases. Linking the plankton SURVEY_ID field with the fluorescence
+FIELD_DATA_INDEX will result in mismatched data. The Vertical Fluorescence files can be merged with,FIELD_DATA_INDEX will result in mismatched data. The Vertical Fluorescence files can be merged with
+plankton sampling event files by linking on the combination of the following fields:,plankton sampling event files by linking on the combination of the following fields:
+STATION,
+SAMPLING_DATE,
+,20

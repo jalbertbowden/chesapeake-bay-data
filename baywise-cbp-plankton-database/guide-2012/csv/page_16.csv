@@ -1,0 +1,37 @@
+Name: “Table 1 of 1 on page 16 of 170”,Name: “Table 1 of 1 on page 16 of 170”,Name: “Table 1 of 1 on page 16 of 170”
+Table: 15,Table: 15,Table: 15
+,,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,
+"Historic Benthic Count, Sediment and Bottom Water Analyses Studies.","Historic Benthic Count, Sediment and Bottom Water Analyses Studies.",Data were collected at fixed
+sampling stations in the Chesapeake Bay and some of its tributaries prior to 1984. These data sets,sampling stations in the Chesapeake Bay and some of its tributaries prior to 1984. These data sets,sampling stations in the Chesapeake Bay and some of its tributaries prior to 1984. These data sets
+"complement and enhance the ongoing long term CBP benthic monitoring programs, which began in","complement and enhance the ongoing long term CBP benthic monitoring programs, which began in","complement and enhance the ongoing long term CBP benthic monitoring programs, which began in"
+"1984. In all cases, the authors retained the raw data from these studies. Dr. Robert Diaz, VIMS,","1984. In all cases, the authors retained the raw data from these studies. Dr. Robert Diaz, VIMS,","1984. In all cases, the authors retained the raw data from these studies. Dr. Robert Diaz, VIMS,"
+reformatted the following data sets to the CIMS/CDE database structure:,reformatted the following data sets to the CIMS/CDE database structure:,
+STUDY SITE,DATE,REFERENCE
+"Piney Point, Potomac River",1975,"Virnstein & Boesch, 1975"
+"Possum Point, Potomac River",1977-1978,"Ecological Analysts, 1979"
+"Tangier Island, Chesapeake Bay",1975,"Orth & Boesch, 1975"
+"Amoco Refinery, Lower York River",1977,"Hinde, 1981"
+"Thimble Shoals, Chesapeake Bay",1981,"Hobbs et al., 1985"
+"Warwick River, James River",1975-1976,"Diaz & Boesch, 1976"
+"Hampton Roads to Richmond, James River",1981,"Schaffner et al., 1987"
+Table 1. Summary of Historic Virginia Benthic Studies.,,
+"The studies were combined into single files for taxon counts, sediment water analysis and bottom water","The studies were combined into single files for taxon counts, sediment water analysis and bottom water","The studies were combined into single files for taxon counts, sediment water analysis and bottom water"
+analysis and event information. These related data sets are available through the CBP web page.,analysis and event information. These related data sets are available through the CBP web page.,analysis and event information. These related data sets are available through the CBP web page.
+Submerged Aquatic Vegetation Surveys,,
+Virginia Institute of Marine Sciences Chesapeake Bay Aerial Surveys,Virginia Institute of Marine Sciences Chesapeake Bay Aerial Surveys,
+"Chesapeake Bay SAV data were mapped from aerial photography, primarily at a scale of 1:24,000, for","Chesapeake Bay SAV data were mapped from aerial photography, primarily at a scale of 1:24,000, for","Chesapeake Bay SAV data were mapped from aerial photography, primarily at a scale of 1:24,000, for"
+"the following regions: western shore, Va. only - 1971 & 1974; lower Bay, Va. only - 1980 & 1981; upper","the following regions: western shore, Va. only - 1971 & 1974; lower Bay, Va. only - 1980 & 1981; upper","the following regions: western shore, Va. only - 1971 & 1974; lower Bay, Va. only - 1980 & 1981; upper"
+"Bay, selected sections, 1979; Baywide, 1978, 1984 - 1987, and 1989 - 2010. Each area of SAV was","Bay, selected sections, 1979; Baywide, 1978, 1984 - 1987, and 1989 - 2010. Each area of SAV was","Bay, selected sections, 1979; Baywide, 1978, 1984 - 1987, and 1989 - 2010. Each area of SAV was"
+classified into one of four density classes by the percentage of cover as determined from the aerial,classified into one of four density classes by the percentage of cover as determined from the aerial,classified into one of four density classes by the percentage of cover as determined from the aerial
+"photography. Starting in 2010, the SAV beds are stored as ArcGIS shapefiles using the quality control","photography. Starting in 2010, the SAV beds are stored as ArcGIS shapefiles using the quality control","photography. Starting in 2010, the SAV beds are stored as ArcGIS shapefiles using the quality control"
+procedures documented in the individual metadata files. Data for prior years are stored as ArcInfo GIS,procedures documented in the individual metadata files. Data for prior years are stored as ArcInfo GIS,procedures documented in the individual metadata files. Data for prior years are stored as ArcInfo GIS
+coverages. Data were collected by the Virginia Institute of Marine Science (VIMS) and can be attributed,coverages. Data were collected by the Virginia Institute of Marine Science (VIMS) and can be attributed,coverages. Data were collected by the Virginia Institute of Marine Science (VIMS) and can be attributed
+by including a reference to the associated annual SAV distribution and abundance report.,by including a reference to the associated annual SAV distribution and abundance report.,by including a reference to the associated annual SAV distribution and abundance report.
+"The SAV data files for years prior to 2010 are in uncompressed ArcInfo (ESRI, Redlands, CA) export","The SAV data files for years prior to 2010 are in uncompressed ArcInfo (ESRI, Redlands, CA) export","The SAV data files for years prior to 2010 are in uncompressed ArcInfo (ESRI, Redlands, CA) export"
+format. They have been compressed using pkzip compression to form .zip files for use on Windows-,format. They have been compressed using pkzip compression to form .zip files for use on Windows-,format. They have been compressed using pkzip compression to form .zip files for use on Windows-
+compatible personal computers and also compressed using UNIX standard compression to form .tar.Z,compatible personal computers and also compressed using UNIX standard compression to form .tar.Z,compatible personal computers and also compressed using UNIX standard compression to form .tar.Z
+files for use on UNIX platforms. Each file contains both the .e00 ARC/INFO export file and also a .txt,files for use on UNIX platforms. Each file contains both the .e00 ARC/INFO export file and also a .txt,files for use on UNIX platforms. Each file contains both the .e00 ARC/INFO export file and also a .txt
+"metadata file. Starting in 2010, the .zip file contains a shapefile and metadata xml file. The Internet","metadata file. Starting in 2010, the .zip file contains a shapefile and metadata xml file. The Internet","metadata file. Starting in 2010, the .zip file contains a shapefile and metadata xml file. The Internet"
+address for the VIMS SAV web page is: http://www.vims.edu/bio/sav/index.html,address for the VIMS SAV web page is: http://www.vims.edu/bio/sav/index.html,address for the VIMS SAV web page is: http://www.vims.edu/bio/sav/index.html
+14,,

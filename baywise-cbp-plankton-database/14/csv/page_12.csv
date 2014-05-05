@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 12 of 44”,Name: “Table 1 of 1 on page 12 of 44”,Name: “Table 1 of 1 on page 12 of 44”,Name: “Table 1 of 1 on page 12 of 44”,Name: “Table 1 of 1 on page 12 of 44”,Name: “Table 1 of 1 on page 12 of 44”
+Table: 12,Table: 12,Table: 12,Table: 12,Table: 12,Table: 12
+,,,,,
+TAB_PRIMARY_PROD,TAB_PRIMARY_PROD,,,,
+Field Name,,Description,Data Type,Length,Length
+SURVEY_ID,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,INT,,
+"(PK,FK)",,,,,
+SAMPLE_,SAMPLE NUMBER-,,TINYINT,,
+NUMBER,Number of sample collected at Station(replicate number),Number of sample collected at Station(replicate number),,,
+"(PK,FK)",,,,,
+CARBFIX,CARBON FIXATION RATE,CARBON FIXATION RATE,REAL,,
+REPORTING_,REPORTING UNITS OF CARBON FIXATION,REPORTING UNITS OF CARBON FIXATION,VARCHAR,25,25
+UNITS,,,,,
+QUALIFIER,PARAMETER QUALIFIER CODE-,PARAMETER QUALIFIER CODE-,CHAR,2,
+(FK),Code identifying the parameter value as less than or,Code identifying the parameter value as less than or,,,
+,greater than the method detection limits,greater than the method detection limits,,,
+METHODS,METHOD CODE-,,CHAR,6,
+,Method code identifying,field/laboratory analysis,,,
+(FK),procedure,,,,
+CHLA,CHLOROPHYLL A (MICROGRAMS/LITER),CHLOROPHYLL A (MICROGRAMS/LITER),DECIMAL,,
+ASMRATIO,PRODUCTION EFFICIENCY,PRODUCTION EFFICIENCY,DECIMAL,,
+,(MICROGRAMS CARBON PER,(MICROGRAMS CARBON PER,,,
+,MICROGRAM CHLOROPHYLL A),MICROGRAM CHLOROPHYLL A),,,
+SER_NUM,SOURCE SAMPLE SERIAL NUMBER,SOURCE SAMPLE SERIAL NUMBER,TEXT,12,12
+R_DATE,DATA VERSION DATE-,,SMALL,,
+,Date denoting when data records were entered in to,Date denoting when data records were entered in to,DATETIME,,
+,database,,,,
+NOTES:,,,,,
+GENERAL:,This table stores information relating to measurements of Primary Production rates and,This table stores information relating to measurements of Primary Production rates and,This table stores information relating to measurements of Primary Production rates and,This table stores information relating to measurements of Primary Production rates and,This table stores information relating to measurements of Primary Production rates and
+efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters,efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters,efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters,efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters,efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters,efficiency. This table assumes that all information is from composite Above Pycnocline samples. Waters
+making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the,making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the,making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the,making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the,making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the,making up AP (Above Pycnocline samples) are derived from water taken between 0.5 meters below the
+surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either,surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either,surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either,surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either,surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either,surface and 0.5 meters ABOVE the P_DEPTH (from TAB_BIOTA_EVENT TABLE). Note that either
+CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in,CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in,CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in,CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in,CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in,CARBFIX or CHLA must not be null to have a valid record. Both CARBFIX and CHLA must have values in
+order to have an ASMRATIO.,order to have an ASMRATIO.,,,,
+"2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,"
+"SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,",and
+PARAMETER. The,composite key of SURVEY_ID is base on the combination,composite key of SURVEY_ID is base on the combination,following fields:,following fields:,
+"STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.",An Auto-Key number is,An Auto-Key number is,
+generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be,generated for each unique combination of these fields in the TAB_BIOTA_EVENT TABLE and must be
+merged on to data before it can be loaded into this table.,merged on to data before it can be loaded into this table.,merged on to data before it can be loaded into this table.,,,
+,,10,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

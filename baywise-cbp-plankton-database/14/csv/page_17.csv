@@ -1,0 +1,30 @@
+Name: “Table 1 of 1 on page 17 of 44”,Name: “Table 1 of 1 on page 17 of 44”,Name: “Table 1 of 1 on page 17 of 44”,Name: “Table 1 of 1 on page 17 of 44”,Name: “Table 1 of 1 on page 17 of 44”
+Table: 17,Table: 17,Table: 17,Table: 17,Table: 17
+,,,,
+Field Name,Description,,Data Type,Length
+PC,AVE LAYER PARTICULATE CARBON CONC IN MG/L,AVE LAYER PARTICULATE CARBON CONC IN MG/L,DECIMAL,
+PHEO,AVE LAYER PHEOOHYTIN CONC IN MG/L,AVE LAYER PHEOOHYTIN CONC IN MG/L,DECIMAL,
+TSS,AVE LAYER TOTAL SUSPENDED SOLIDS,AVE LAYER TOTAL SUSPENDED SOLIDS,DECIMAL,
+WTEMP,AVE LAYER WATER TEMP CELSIUS,AVE LAYER WATER TEMP CELSIUS,DECIMAL,
+TOC,AVE LAYER TOTAL ORGANIC CARBON CONC IN MG/L,AVE LAYER TOTAL ORGANIC CARBON CONC IN MG/L,DECIMAL,
+BIOMASS_CHL_,TOTAL PHYTOPLANKTON BIOMASS TO AP CHL RATIO,TOTAL PHYTOPLANKTON BIOMASS TO AP CHL RATIO,DECIMAL,
+RATIO,,,,
+CELL_SIZE,AVERAGE CELL SIZE PG/CELL,AVERAGE CELL SIZE PG/CELL,DECIMAL,
+CRYPTO_BIO_,PERCENT CRYPTOPHYTE BIOMASS,PERCENT CRYPTOPHYTE BIOMASS,DECIMAL,
+PCT,,,,
+CYANO_BIO_PCT,PERCENT CYANOPHYTE BIOMASS,PERCENT CYANOPHYTE BIOMASS,DECIMAL,
+DIATOM_BIO_,PERCENT DIATOM BIOMASS,PERCENT DIATOM BIOMASS,DECIMAL,
+PCT,,,,
+DINO_BIO_PCT,PERCENT DINOFLAGGELATE BIOMASS,PERCENT DINOFLAGGELATE BIOMASS,DECIMAL,
+WQ_CATEGORY,FISHER WATER QUALITY CATEGORY,FISHER WATER QUALITY CATEGORY,VARCHAR,20
+R_DATE,DATA VERSION DATE,DATA VERSION DATE,SMALLDATETIME,
+1) GENERAL: This table stores composite phytoplankton metrics and commonly used water quality,1) GENERAL: This table stores composite phytoplankton metrics and commonly used water quality,1) GENERAL: This table stores composite phytoplankton metrics and commonly used water quality,1) GENERAL: This table stores composite phytoplankton metrics and commonly used water quality,1) GENERAL: This table stores composite phytoplankton metrics and commonly used water quality
+parameters.,"This table is not a normalized table, but does provide data in a format compatible with many","This table is not a normalized table, but does provide data in a format compatible with many","This table is not a normalized table, but does provide data in a format compatible with many","This table is not a normalized table, but does provide data in a format compatible with many"
+common statistics programs.,common statistics programs.,"The composite metrics are calculated based on the published in Buchanan,","The composite metrics are calculated based on the published in Buchanan,","The composite metrics are calculated based on the published in Buchanan,"
+"C., R.V. Lacouture, H.G. Marshall, M. Olson and J.M. Johnson. 2005. Phytoplankton reference communities","C., R.V. Lacouture, H.G. Marshall, M. Olson and J.M. Johnson. 2005. Phytoplankton reference communities","C., R.V. Lacouture, H.G. Marshall, M. Olson and J.M. Johnson. 2005. Phytoplankton reference communities","C., R.V. Lacouture, H.G. Marshall, M. Olson and J.M. Johnson. 2005. Phytoplankton reference communities","C., R.V. Lacouture, H.G. Marshall, M. Olson and J.M. Johnson. 2005. Phytoplankton reference communities"
+for Chesapeake Bay and its tidal tributaries. Estuaries 28(1): 138-159. For more details on the calculation of,for Chesapeake Bay and its tidal tributaries. Estuaries 28(1): 138-159. For more details on the calculation of,for Chesapeake Bay and its tidal tributaries. Estuaries 28(1): 138-159. For more details on the calculation of,for Chesapeake Bay and its tidal tributaries. Estuaries 28(1): 138-159. For more details on the calculation of,for Chesapeake Bay and its tidal tributaries. Estuaries 28(1): 138-159. For more details on the calculation of
+specific parameters included in the database see the document: Methodology Applied in the Calculation of,specific parameters included in the database see the document: Methodology Applied in the Calculation of,specific parameters included in the database see the document: Methodology Applied in the Calculation of,specific parameters included in the database see the document: Methodology Applied in the Calculation of,specific parameters included in the database see the document: Methodology Applied in the Calculation of
+Chesapeake Bay Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be,Chesapeake Bay Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be,Chesapeake Bay Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be,Chesapeake Bay Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be,Chesapeake Bay Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be
+determined).,,,,
+,,15,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0

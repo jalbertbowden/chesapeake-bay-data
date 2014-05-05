@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 13 of 44”,Name: “Table 1 of 1 on page 13 of 44”,Name: “Table 1 of 1 on page 13 of 44”,Name: “Table 1 of 1 on page 13 of 44”,Name: “Table 1 of 1 on page 13 of 44”,Name: “Table 1 of 1 on page 13 of 44”
+Table: 13,Table: 13,Table: 13,Table: 13,Table: 13,Table: 13
+,,,,,
+TAB_ZOO_TAX,TAB_ZOO_TAX,,,,
+Field Name,,Description,Data Type,Length,Length
+SURVEY_ID,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,INT,,
+"(PK,FK)",,,,,
+SAMPLE_,SAMPLE NUMBER-,,TINYINT,,
+NUMBER,Number of sample collected at Station(replicate number),Number of sample collected at Station(replicate number),,,
+(PK),,,,,
+METHOD,METHOD CODE-,,CHAR,6,
+,Code identifying the lab method used to ennumerate,Code identifying the lab method used to ennumerate,,,
+"(PK,FK)",biological sample,,,,
+TSN,TAXON SERIAL NUMBER-,,CHAR,7,
+,ITIS Serial Number for Species Identification,ITIS Serial Number for Species Identification,,,
+"(PK,FK)",,,,,
+LIFE_STAGE,SPECIES LIFE STAGE CODE-,,CHAR,2,
+,Chesapeake bay program species life stage code,Chesapeake bay program species life stage code,,,
+"(PK,FK)",,,,,
+PARAMETER_,PARAMETER VALUE-,,VARCHAR,15,
+VALUE,Biological monitoring parameter name.,Biological monitoring parameter name.,,,
+"(PK,FK)",,,,,
+REPORTED_,REPORTED_VALUE,,DECIMAL,,
+VALUE,,,,,
+(NN),,,,,
+UNITS,REPORTING UNITS OF PARAMETER,REPORTING UNITS OF PARAMETER,VARCHAR,15,
+(NN),,,,,
+SPEC_CODE,SOURCE INHOUSE SPECIES CODE,SOURCE INHOUSE SPECIES CODE,VARCHAR,14,
+SER_NUM,SOURCE SAMPLE SERIAL NUMBER,SOURCE SAMPLE SERIAL NUMBER,VARCHAR,12,
+R_DATE,DATA VERSION DATE-,,SMALL,,
+,Date denoting when data records were entered in to,Date denoting when data records were entered in to,DATETIME,,
+,database,,,,
+NOTES:,,,,,
+GENERAL:,"This table stores information relating to measurements of zooplankton, microzooplankton and","This table stores information relating to measurements of zooplankton, microzooplankton and","This table stores information relating to measurements of zooplankton, microzooplankton and","This table stores information relating to measurements of zooplankton, microzooplankton and","This table stores information relating to measurements of zooplankton, microzooplankton and"
+Gelatinous zooplankton abundance and composition.,Gelatinous zooplankton abundance and composition.,This database uses the Interagency Taxonomic,This database uses the Interagency Taxonomic,This database uses the Interagency Taxonomic,
+Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification within the database.,Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification within the database.,Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification within the database.,Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification within the database.,Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification within the database.,For
+species with no TSN values temporary Chesapeake Bay TSN's are generated until a species can be,species with no TSN values temporary Chesapeake Bay TSN's are generated until a species can be,species with no TSN values temporary Chesapeake Bay TSN's are generated until a species can be,species with no TSN values temporary Chesapeake Bay TSN's are generated until a species can be,species with no TSN values temporary Chesapeake Bay TSN's are generated until a species can be,
+submitted to ITIS for recognition.,submitted to ITIS for recognition.,"If no taxonomic analysis was performed on a sample, there should be no","If no taxonomic analysis was performed on a sample, there should be no","If no taxonomic analysis was performed on a sample, there should be no","If no taxonomic analysis was performed on a sample, there should be no"
+records present for that sample in this table. The maximum depth at which water making up a sample was,records present for that sample in this table. The maximum depth at which water making up a sample was,records present for that sample in this table. The maximum depth at which water making up a sample was,records present for that sample in this table. The maximum depth at which water making up a sample was,records present for that sample in this table. The maximum depth at which water making up a sample was,records present for that sample in this table. The maximum depth at which water making up a sample was
+derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all,derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all,derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all,derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all,derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all,derived from is assumed to be TOTAL_DEPTH (from TAB_BIOTA_EVENT TABLE) minus 0.5 meters for all
+whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water,whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water,whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water,whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water,whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water,whole water (Layer =WC) column samples. Above Pycnocline samples (Layer =AP) are derived from water
+taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT,taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT,taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT,taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT,taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT,taken between 0.5 meters below the surface and 0.5 meters ABOVE the P_DEPTH (from BIOTA_EVENT
+TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above,TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above,TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above,TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above,TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above,TABLE). Below Pycnocline samples (Layer =BP) are derived from water taken between 0.5 meters above
+the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).,the bottom (TOTAL_DEPTH) and 0.5 meters BELOW the P_DEPTH (from TAB_BIOTA_EVENT TABLE).
+,,11,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

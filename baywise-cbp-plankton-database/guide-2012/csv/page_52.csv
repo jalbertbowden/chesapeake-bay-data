@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 52 of 170”,Name: “Table 1 of 1 on page 52 of 170”,Name: “Table 1 of 1 on page 52 of 170”
+Table: 51,Table: 51,Table: 51
+,,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Two additional metrics are used only at fixed stations by the Virginia Benthic Monitoring Program:,Two additional metrics are used only at fixed stations by the Virginia Benthic Monitoring Program:,Two additional metrics are used only at fixed stations by the Virginia Benthic Monitoring Program:
+Percent biomass of organisms found >5cm below the sediment-water interface,Percent biomass of organisms found >5cm below the sediment-water interface,Percent biomass of organisms found >5cm below the sediment-water interface
+Percent number of taxa found >5cm below the sediment-water interface,Percent number of taxa found >5cm below the sediment-water interface,Percent number of taxa found >5cm below the sediment-water interface
+The B-IBI is both habitat and season dependent. Therefore data must be selected for time of year and,The B-IBI is both habitat and season dependent. Therefore data must be selected for time of year and,The B-IBI is both habitat and season dependent. Therefore data must be selected for time of year and
+classified according to the habitat type from which the samples were collected. Habitats are defined by,classified according to the habitat type from which the samples were collected. Habitats are defined by,classified according to the habitat type from which the samples were collected. Habitats are defined by
+"salinity and sediment type. The application of the B-IBI is limited to samples collected in summer, defined","salinity and sediment type. The application of the B-IBI is limited to samples collected in summer, defined","salinity and sediment type. The application of the B-IBI is limited to samples collected in summer, defined"
+as July 15 through September 30.,,
+,,"Silt-clay (
+    "
+,Bottom,
+Habitat Class,,content by
+,Salinity (psu),
+,,Weight (%)
+Tidal freshwater (TF),0-0.5,N/A
+Oligohaline (OH),≥0.5-5,N/A
+Low mesohaline (LM),≥5-12,N/A
+High mesohaline (HM) sand,≥12-18,0-40
+High mesohaline (HM) mud,≥12-18,>40
+Polyhaline (PO) sand,≥18,0-40
+Polyhaline (PO) mud,≥18,>40
+Table 7. Tidal Benthic Habitat Classifications,,
+"Next selected summary statistics are scored on a ranking of 1, 3 or 5. Least-disturbed sites receive a 5;","Next selected summary statistics are scored on a ranking of 1, 3 or 5. Least-disturbed sites receive a 5;","Next selected summary statistics are scored on a ranking of 1, 3 or 5. Least-disturbed sites receive a 5;"
+"slightly degraded sites are ranked a 3, while severely degraded sites receive a score of 1. Lastly, the","slightly degraded sites are ranked a 3, while severely degraded sites receive a score of 1. Lastly, the","slightly degraded sites are ranked a 3, while severely degraded sites receive a score of 1. Lastly, the"
+summary statistics are combined into a single Restoration Goal Index (RGI) value for the benthic,summary statistics are combined into a single Restoration Goal Index (RGI) value for the benthic,summary statistics are combined into a single Restoration Goal Index (RGI) value for the benthic
+community at each site by averaging the scored index metrics. The Chesapeake Bay Benthic Monitoring,community at each site by averaging the scored index metrics. The Chesapeake Bay Benthic Monitoring,community at each site by averaging the scored index metrics. The Chesapeake Bay Benthic Monitoring
+"Program classifies benthic community condition into four levels: “meets goals”, “marginally degraded”,","Program classifies benthic community condition into four levels: “meets goals”, “marginally degraded”,","Program classifies benthic community condition into four levels: “meets goals”, “marginally degraded”,"
+"“degraded”, and “severely degraded”. B-IBI values of 3.0 are the breakpoint between non-degraded and","“degraded”, and “severely degraded”. B-IBI values of 3.0 are the breakpoint between non-degraded and","“degraded”, and “severely degraded”. B-IBI values of 3.0 are the breakpoint between non-degraded and"
+marginal or degraded conditions.,,
+,Benthic,
+B-IBI,Community Condition,Community Condition
+≥3.0,Meets restoration goals,Meets restoration goals
+2.7-2.9,Marginal,
+2.1-2.6,Degraded,
+≤2.0,Severely degraded,Severely degraded
+Table 8. B-IBI ranges and Benthic Community Condition,Table 8. B-IBI ranges and Benthic Community Condition,
+For full details on calculation protocol for the tidal benthic index of biotic integrity please see the,For full details on calculation protocol for the tidal benthic index of biotic integrity please see the,For full details on calculation protocol for the tidal benthic index of biotic integrity please see the
+document Methods for calculating Benthic Index of Biotic Integrity at the following locations,document Methods for calculating Benthic Index of Biotic Integrity at the following locations,document Methods for calculating Benthic Index of Biotic Integrity at the following locations
+http://www.baybenthos.versar.com/docs/ChesBayBIBI.PDF,http://www.baybenthos.versar.com/docs/ChesBayBIBI.PDF,
+ftp.chesapeakebay.net/Pub/Living_Resources/benth/ChesBayBIBI.pdf,ftp.chesapeakebay.net/Pub/Living_Resources/benth/ChesBayBIBI.pdf,ftp.chesapeakebay.net/Pub/Living_Resources/benth/ChesBayBIBI.pdf
+http://sci.odu.edu/chesapeakebay/reports/benthic/BIBIcalc.pdf,http://sci.odu.edu/chesapeakebay/reports/benthic/BIBIcalc.pdf,
+,50,

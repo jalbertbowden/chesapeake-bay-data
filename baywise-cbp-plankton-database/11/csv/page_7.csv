@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”,Name: “Table 1 of 1 on page 7 of 11”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,
+,,,VAPDDOC.doc,
+CARBFIX,Number,8,Carbon Fixation Value,
+UNITS,Text,15,Carbon Fixation Reporting Units,
+QUALIFIER,Text,7,Detection Limit Qualifiers,
+METHOD,Text,8,Chesapeake Bay Program Analytical Method Code,Chesapeake Bay Program Analytical Method Code
+CHLA,Number,8,Chlorophyll a (ug/l),
+ASMRATIO,Number,8,Production efficiency (ug-c/l/hr),
+SER_NUM,Text,12,Sample serial number,
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,> PRIMARY PRODUCTIVITY SAMPLING EVENT DATA FILES,
+Name,Type,Width,Variable Description,
+DATA_TYPE,Text,2,CBP Data Type Code,
+SOURCE,Text,10,Data Collection agency,
+SAMPLE_TYPE,Text,2,Collection type,
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),
+LATITUDE,Number,8,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,8,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,4,Composite Sample Cut Off Depth (meters),Composite Sample Cut Off Depth (meters)
+R_DATE,Date/Time,8,Data version date (YYYYMMDD),
+SALZONE,Text,2,Salinity Zone,
+SAMPLE_VOLUME,Number,8,Total Volume of Sample,
+UNITS,Text,15,Units for Sample Volume,
+STATION,Text,15,Sampling Station,
+TOTAL_DEPTH,Number,4,Total Station Depth (meters),
+SAMPLE_TIME,Date/Time,8,Sampling Time (HHMM),
+>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,>The following field may also appear in a downloaded data set:,
+Name,Type,Width,Variable Definitions,
+BASIN,Text,20,Chesapeake Bay Basin Designation,
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City or County,Federal Information Processing Code City or County
+,,,Designation,
+LL_DATUM,Text,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_1998,Text,6,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+CBSEG_1998_DESCRIPTION,CBSEG_1998_DESCRIPTION,,,
+,Text,50,1998 Chesapeake Bay Segment Designation,1998 Chesapeake Bay Segment Designation
+Description,,,,
+# REFERENCE CODES IN DATA FILES,# REFERENCE CODES IN DATA FILES,# REFERENCE CODES IN DATA FILES,,
+See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full,See the 2000 Users Guide to Chesapeake Bay Program Living Resources Monitoring Data for full
+listings.,,,,
+> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,> MISSING SAMPLE_TIME VALUES: Missing values have been replaced with 00:00.,
+> SOURCE: Data Collecting Agency,> SOURCE: Data Collecting Agency,,,
+ODU- Old Dominion University,ODU- Old Dominion University,,,
+> QUALIFIER: Detection Limit Codes,> QUALIFIER: Detection Limit Codes,,,
+#,Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),
+"
+    ",Less than the detection limit of the method,Less than the detection limit of the method,Less than the detection limit of the method,
+>0,Greater than zero,,,
+,,,7,1/11/2010

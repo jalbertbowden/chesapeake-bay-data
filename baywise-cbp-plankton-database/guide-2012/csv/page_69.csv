@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 69 of 170”,Name: “Table 1 of 1 on page 69 of 170”,Name: “Table 1 of 1 on page 69 of 170”,Name: “Table 1 of 1 on page 69 of 170”,Name: “Table 1 of 1 on page 69 of 170”
+Table: 68,Table: 68,Table: 68,Table: 68,Table: 68
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-9.,Tidal Benthic Event Data Files,Tidal Benthic Event Data Files,Tidal Benthic Event Data Files,Tidal Benthic Event Data Files
+Field Name,Type,Width,Descriptions,Descriptions
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,6,Data Collection Agency,Data Collection Agency
+SAMPLE_DATE,Text,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+LATITUDE,Number,8.5,Latitude (Decimal Degrees- NAD83),Latitude (Decimal Degrees- NAD83)
+LONGITUDE,Number,8.5,Longitude (Decimal Degrees-NAD83),Longitude (Decimal Degrees-NAD83)
+R_DATE,Text,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+SITETYPE,Text,4,Sampling Site Type,Sampling Site Type
+STATION,Text,15,Sampling Station,Sampling Station
+TOTAL_DEPTH,Number,8.1,Total Station Depth (Meters),Total Station Depth (Meters)
+SAMPLE_TIME,Text,5,Sample Collection Time (HHMM),Sample Collection Time (HHMM)
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,Description
+BASIN,Text,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,
+,Text,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+Table A-10.,Tidal Benthic Biota Event Data Files,Tidal Benthic Biota Event Data Files,Tidal Benthic Biota Event Data Files,Tidal Benthic Biota Event Data Files
+Field Name,Type,Width,Description,Description
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,,6,Data Collection Agency
+SAMPLE_DATE,Date/Time,Date/Time,8,Sampling Date (MM/DD/YYYY)
+LATITUDE,Number,8.5,Latitude (Decimal Degrees-NAD83),Latitude (Decimal Degrees-NAD83)
+LONGITUDE,Number,8.5,Longitude (Decimal Degrees-NAD83),Longitude (Decimal Degrees-NAD83)
+PENETR,Number,8.4,Sampling Gear Penetration Depth (cm),Sampling Gear Penetration Depth (cm)
+R_DATE,Date/Time,Date/Time,8,Data Version Date (MM/DD/YYYY)
+SAMPLE_NUMBER,,,,
+,Number,8.0,Sample Number,Sample Number
+SITE_TYPE,Text,,10,Sampling Site Type
+STATION,Text,,15,Sampling Station
+TOTAL_DEPTH,Number,8.1,Total Station Depth (Meters),Total Station Depth (Meters)
+SAMPLE_TIME,Date/Time,Date/Time,8,Sample Collection Time (HHMM)
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,Description
+BASIN,Text,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,
+,Text,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+,,,,67

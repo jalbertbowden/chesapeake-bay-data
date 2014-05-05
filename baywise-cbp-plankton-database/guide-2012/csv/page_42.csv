@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 42 of 170”
+Table: 41
+""
+The 2012 Users Guide to CBP Biological Monitoring Data
+TITLE: Horizontal and Vertical Fluorescence
+PARAMETER NAME (NEW): CHL_F
+UNITS OF MEASURE: micrograms chlorophyll per liter
+"METHOD CODES: 101, 102,103, 104,105,106,107,108,109,110"
+GENERAL INFORMATION:
+After a series of quality assurance inquiries it has been determined that the horizontal and vertical
+fluorescence monitoring data has a variety of quality issues that users need to be aware of. Data quality
+issues include positional accuracy of horizontal fluorescence data collected prior to 2000 and calibration
+issues in the Maryland data associated with the regression curves used to covert fluorescence voltages to
+chlorophyll a values.
+Sampling Site Position Determination Issues
+The Maryland horizontal fluorescence data collected by Morgan State University between 1984 and April
+1999 (excluding the special Potomac survey) and all Virginia horizontal fluorescence collected by Old
+Dominion University between 1991 and 1997 had station latitudes and longitudes estimated through an
+interpolation process. The latitudes and longitudes are at best approximations of actual positions in the
+field. Inaccuracies in the estimated station locations may be problematic in mapping or ground truthing
+applications.
+"For purposes of determining the actual geographical location of a reading, sampling station location along"
+transects was determined using the simple geometry of right triangles to compute latitude and longitude.
+Calculations were based on the following assumptions: a) the transect was over a straight line from
+"departure station to arrival station, b) boat speed was assumed to be constant, c) the Latitudes and"
+Longitudes of end point stations were fixed points. Equations were based on the relationship of total strip
+recorder tape length being proportional to actual distance between stations. Sampling position was based
+on the distance from the starting position of the strip recorder tape of the at-sample time against the total
+length of the tape at the destination station.
+Also note that all horizontal and vertical fluorescence with direct position reporting by LORAN-C collected
+in Virginia from 1991-1995 and Maryland from 1984-1999 does not meet current EPA sampling position
+policy. The current EPA sampling position policy requires that position be measured with a Global
+Positioning System (GPS). However locations determined with Loran-C and should be less problematic
+in mapping or ground truthing applications and reasonable approximations of actual location.
+Fluorescence Value Calculation Issues
+"As part of a remote sensing ground truthing exercise in 1998, comparison of interpolated Maryland"
+horizontal fluorescence and water quality surface chlorophyll a data was made. Comparisons revealed
+that the existing fluorescence chlorophyll a values were “orders of magnitude lower than corresponding
+water quality values”. These differences were not present in the corresponding Virginia data. While in-situ
+"fluorescence values are generally accepted to be depressed measurements of chlorophyll, the magnitude"
+of the differences warranted further investigation.
+A comparison both the Maryland and Virginia sampling protocols revealed two significant issues affecting
+data values. Although both programs used periodic grab samples to create a regression to convert
+"instrument voltage to chlorophyll a values, the regressions were calculated differently. Both Virginia"
+laboratories were doing daily regression curves wile Maryland computed a single curve based on all 3
+days of a sampling cruise. Additionally the Maryland laboratory analysis method for grab chlorophyll
+samples was determined to be significantly different from the standard CBP water quality chlorophyll
+40

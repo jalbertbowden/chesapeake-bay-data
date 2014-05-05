@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 7 of 44”,Name: “Table 1 of 1 on page 7 of 44”,Name: “Table 1 of 1 on page 7 of 44”,Name: “Table 1 of 1 on page 7 of 44”,Name: “Table 1 of 1 on page 7 of 44”
+Table: 7,Table: 7,Table: 7,Table: 7,Table: 7
+,,,,
+Exact numeric’s,,,,
+Type,From,,To,
+BIGINT,"-9,223,372,036,854,775,808","-9,223,372,036,854,775,808","9,223,372,036,854,775,807","9,223,372,036,854,775,807"
+INT,"-2,147,483,648",,"2,147,483,647","2,147,483,647"
+SMALLINT,"-32,768",,"32,767",
+TINYINT,0,,255,
+BIT,0,,1,
+DECIMAL,-10^38 +1,,10^38 –1,
+NUMERIC,-10^38 +1,,10^38 –1,
+numeric and decimal are Fixed precision and scale data types and are functionally equivalent.,numeric and decimal are Fixed precision and scale data types and are functionally equivalent.,numeric and decimal are Fixed precision and scale data types and are functionally equivalent.,numeric and decimal are Fixed precision and scale data types and are functionally equivalent.,numeric and decimal are Fixed precision and scale data types and are functionally equivalent.
+datetime and smalldatetime,datetime and smalldatetime,,,
+Type,,From,From,To
+DATETIME (3.33 milliseconds accuracy),DATETIME (3.33 milliseconds accuracy),"Jan 1, 1753","Jan 1, 1753","Dec 31, 9999"
+SMALLDATETIME (1 minute accuracy),SMALLDATETIME (1 minute accuracy),"Jan 1, 1900","Jan 1, 1900","Jun 6, 2079"
+Character Strings,,,,
+Type,Description,,,
+CHAR,"Fixed-length non-Unicode character data with a maximum length of 8,000 characters.","Fixed-length non-Unicode character data with a maximum length of 8,000 characters.","Fixed-length non-Unicode character data with a maximum length of 8,000 characters.","Fixed-length non-Unicode character data with a maximum length of 8,000 characters."
+VARCHAR,"Variable-length non-Unicode data with a maximum of 8,000 characters.","Variable-length non-Unicode data with a maximum of 8,000 characters.","Variable-length non-Unicode data with a maximum of 8,000 characters.","Variable-length non-Unicode data with a maximum of 8,000 characters."
+TEXT,"Variable-length non-Unicode data with a maximum length of 2,147,483,647 characters.","Variable-length non-Unicode data with a maximum length of 2,147,483,647 characters.","Variable-length non-Unicode data with a maximum length of 2,147,483,647 characters.","Variable-length non-Unicode data with a maximum length of 2,147,483,647 characters."
+LENGTH (BYTES) - This column specifies the maximum character length of a field as well as the internal,LENGTH (BYTES) - This column specifies the maximum character length of a field as well as the internal,LENGTH (BYTES) - This column specifies the maximum character length of a field as well as the internal,LENGTH (BYTES) - This column specifies the maximum character length of a field as well as the internal,LENGTH (BYTES) - This column specifies the maximum character length of a field as well as the internal
+database storage requirement.,database storage requirement.,,,
+,,5,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0

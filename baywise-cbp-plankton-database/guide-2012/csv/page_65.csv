@@ -1,0 +1,19 @@
+Name: “Table 1 of 1 on page 65 of 170”,Name: “Table 1 of 1 on page 65 of 170”,Name: “Table 1 of 1 on page 65 of 170”,Name: “Table 1 of 1 on page 65 of 170”,Name: “Table 1 of 1 on page 65 of 170”,Name: “Table 1 of 1 on page 65 of 170”
+Table: 64,Table: 64,Table: 64,Table: 64,Table: 64,Table: 64
+,,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-5.,"Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format-","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format-","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format-","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format-","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format-"
+Continued,,,,,
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,Description,
+BASIN,Text,,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,Text,,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,,
+,Text,,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,,Text,,30,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,,
+,Text,,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+,,,,,63

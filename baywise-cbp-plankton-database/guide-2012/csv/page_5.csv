@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 5 of 170”,Name: “Table 1 of 1 on page 5 of 170”
+Table: 4,Table: 4
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+,SUMMARY
+This document describes how to access biological monitoring data from the Chesapeake Bay Program's,This document describes how to access biological monitoring data from the Chesapeake Bay Program's
+Chesapeake Data Enterprise (CDE) formerly the Chesapeake Information Management System (CIMS).,Chesapeake Data Enterprise (CDE) formerly the Chesapeake Information Management System (CIMS).
+It provides information on:,
+•,Currently available Chesapeake Bay Program (CBP) biological monitoring and geographic
+,information system (GIS) databases;
+•,"Procedures for obtaining biological monitoring data online from the CBP- Bay Resource Library,"
+,"online from other program partner web sitess, or directly from the Living Resources Data Manager"
+,and/or Living Resources GIS specialists;
+•,"CIMS/CDE standards for publishing data to the public, including field names, attributes, and data"
+,dictionary tables;
+•,Guidance for organizations submitting biological data directly to the CBPO data center;
+•,Guidance for data usage and ecosystem indicator metrics.
+"Tidal Phytoplankton, Zooplankton and Benthos","Tidal Phytoplankton, Zooplankton and Benthos"
+,"All Chesapeake Bay phytoplankton, historic zooplankton (including microzooplankton,"
+,mesozooplankton and gelatinous zooplankton) and benthos monitoring data and data
+,documentation for Maryland and Virginia from 1984 to present can be obtained directly from the
+,Internet web site (http://www.chesapeakebay.net) or from the Living Resources Data Manager. In
+,addition to monitoring data there are a variety of calculated biological metrics and indexes of
+,biotic integrity data are also available. All data are published in standardized formats and are
+,compatible with the CBP water quality and other databases. They are available online a) comma
+,or tab delimited ASCII flat files or XML Schema formatted files. Other formats are available upon
+,request.
+Submerged Aquatic Vegetation (SAV),
+,Data and documentation for the annual Chesapeake Bay Submerged Aquatic Vegetation Aerial
+,Survey are generated and managed by the Virginia Institute of Marine Sciences (VIMS). Data is
+,maintained as GIS data layers. Survey data layers and related reports are available from the
+,VIMS SAV web site (http://www.vims.edu/bio/sav/index.html). These data are also accessible
+,"through a variety of Internet based mapping tools, including Chesapeake Stat"
+,(http://stat.chesapeakebay.net/) on the CBP web site.
+Non-Tidal Benthic Macroinvertebrates,
+,The Chesapeake Bay Program Office (CBPO) has acquired historical and current benthic
+,"macroinvertebrate, habitat, and water quality data for non-tidal streams and wadeable rivers from"
+,"over 20 federal, state, regional, local, and academic monitoring programs throughout the"
+,"Chesapeake Bay basin. Data from 1992-2010 have been obtained from the data providers,"
+,"reprocessed, and quality checked and assured. The data are used to compute the annual"
+,Chessie B-IBI that serves as an indicator of local stream health for the watershed. Most data
+,"originators are allowing their raw monitoring data, as well as the biological metrics and Chessie"
+,B-IBI calculated by the Living Resources Data Manager to be distributed by the Bay Program
+,Data Center. All data are published in standardized formats and are compatible with the CBP
+,water quality and other databases. They are available online a) comma or tab delimited ASCII
+,flat files or XML Schema formatted files from the internet web site
+,(http://www.chesapeakebay.net) or from the Living Resources Data Manager. Other formats are
+,available upon request.
+,3

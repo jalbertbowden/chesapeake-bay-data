@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 82 of 170”,Name: “Table 1 of 1 on page 82 of 170”,Name: “Table 1 of 1 on page 82 of 170”,Name: “Table 1 of 1 on page 82 of 170”
+Table: 81,Table: 81,Table: 81,Table: 81
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+HUC_10,USGS 10-Digit Hydrologic Unit Code .............................................................. Field,Text,10
+HUC_12,USGS 12-Digit Hydrologic Unit Code .............................................................. Field,Text,12
+HUC_2,USGS 2-Digit Hydrologic Unit Code ................................................................ Field,Text,2
+HUC_4,USGS 4-Digit Hydrologic Unit Code ................................................................ Field,Text,4
+HUC_6,USGS 6-Digit Hydrologic Unit Code ................................................................ Field,Text,6
+HUC_8,USGS 8-Digit Hydrologic Unit Code ................................................................ Field,Text,8
+IBI_BOTTOM_TYPE,Tidal Benthic Index of Biotic Integrity Bottom Type ......................................... Field,Text,2
+IBI_BOTTOM_TYPE_DESCRIPTION,IBI_BOTTOM_TYPE_DESCRIPTION,,
+,Tidal Benthic Index of Biotic Integrity Bottom Type Description ...................... Field,Text,10
+IBI_LAYER,Phytoplankton Index of Biotic Integrity Layer Code ......................................... Field,Text,2
+IBI_METHOD,Index of Biotic Integrity Method Analytical Method Code ................................ Field,Text,10
+IBI_METHOD_DESCRIPTION,IBI_METHOD_DESCRIPTION,,
+,Index of Biotic Integrity Method Analytical Method Description ....................... Field,Memo,
+IBI_METHOD_DETAILS,IBI_METHOD_DETAILS,,
+,Index of Biotic Integrity Method Analytical Method Description Details ........... Field,Memo,
+IBI_METHOD_TITLE,Index of Biotic Integrity Analytical Method Title ............................................... Field,Text,100
+IBI_PARAMETER,Index of Biotic Integrity Metric Reporting Parameter ....................................... Field,Text,40
+IBI_PARAMETER_DESCRIPTION,IBI_PARAMETER_DESCRIPTION,,
+,Index of Biotic Integrity Metric Reporting Parameter Description .................... Field,Memo,
+IBI_SALZONE,Index of Biotic Integrity Salinity Zone Code .................................................... Field,Text,2
+IBI_SALZONE_DESCRIPTION,IBI_SALZONE_DESCRIPTION,,
+,Index of Biotic Integrity Salinity Zone Code Description ................................. Field,Text,2
+IBI_SCORE,Index of Biotic Integrity Metric Index Score ..................................................... Field,Number,8
+IBI_VALUE,Index of Biotic Integrity Metric Reporting Parameter Value ............................. Field,Number,8.4
+INSTRUMENTS,Analytical Instrument Description ..................................................................... Field,Text,10
+KARST,USGS Karst Area Designation Code ............................................................... Field,Text,10
+KARST_DECSRIPTION,,,
+,USGS Area Designation Code Description ..................................................... Field,Text,50
+LAB,CBP Analytical Laboratory Code .................................................................... Field,Text,10
+LAB_ADDRESS,Analytical Laboratory- Street or Mailing) address ............................................ Field,Text,100
+LAB_DESCRIPTION,CBP Analytical Laboratory Code Description .................................................. Field,Text,150
+LATIN_NAME,Species Latin Name ....................................................................................... Field,Text,45
+LATITUDE,Sampling Site Latitude ..................................................................................... Field,Numeric,8.5
+LAYER,CBP Water Column Sampling Layer Code ...................................................... Field,Text,3
+LAYER_DESCRIPTION,,,
+,Water Column Sampling Layer Code Description ........................................... Field,Text,30
+LIFE_STAGE,CBP Life Stages Code ..................................................................................... Field,Text,3
+LIFE_STAGE_DESCRIPTION,LIFE_STAGE_DESCRIPTION,,
+,CBP Life Stages Code Description .................................................................. Field,Text,50
+LL_DATUM,CBP Geographic Datum Designation Code ..................................................... Field,Text,8
+,80,,

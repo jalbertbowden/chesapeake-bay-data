@@ -1,0 +1,66 @@
+Name: “Table 1 of 1 on page 113 of 170”,Name: “Table 1 of 1 on page 113 of 170”,Name: “Table 1 of 1 on page 113 of 170”,Name: “Table 1 of 1 on page 113 of 170”
+Table: 112,Table: 112,Table: 112,Table: 112
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-21.,Life Stage (LIFE_STAGE).,,
+This table stores information in relating to the identification of species life stages in taxonomic data. The,This table stores information in relating to the identification of species life stages in taxonomic data. The,This table stores information in relating to the identification of species life stages in taxonomic data. The,This table stores information in relating to the identification of species life stages in taxonomic data. The
+currently accepted LIFE_STAGE values and DESCRIPTIONS are as follows:,currently accepted LIFE_STAGE values and DESCRIPTIONS are as follows:,currently accepted LIFE_STAGE values and DESCRIPTIONS are as follows:,currently accepted LIFE_STAGE values and DESCRIPTIONS are as follows:
+LIFE_STAGE,,LIFE_STAGE,
+_CODE,LIFE_STAGE_DESCRIPTION,_CODE,LIFE_STAGE_DESCRIPTION
+00,Egg,53,Species B
+01,Yolk Sac,54,Species C
+02,Fin Fold,55,Species D
+03,Post Fin Fold,56,Species E
+04,Year Class O,57,Species F
+05,Year Class 1 Or Older,58,Species A-Full
+06,Juveniles And Adults,59,Species A-Empty
+07,"Larvae, Juveniles And Adults",60,Species B-Full
+08,Larvae And Juveniles,61,Species B-Empty
+09,Nauplii And Peritrichs,62,Species C-Full
+10,Nauplii Or Copepodite,63,Species C-Empty
+11,Nauplii,64,Embryo
+12,Copepodite,65,Neonites
+13,Orthonauplii Stage 1-3,66,"Male, Age Class 2"
+14,Metanauplii Stage 4-6,67,"Female, Immature Age Class 0"
+15,Copepodite Stage 1-3,68,"Female, Immature Age Class 1"
+16,Copepodite Stage 4-6,69,"Female, Mature Age Class 1"
+17,Cypris Larvae,70,"Female, Mature Age Class 2"
+18,Reserved For Future Use,71,"Female, Mature Age Class 0"
+19,Copepod Egg,72,"Female, Immature Age Class 2"
+20,Nymph,73,Salps
+21,Pupae,74,"Male, Adult"
+22,Pharate,75,"Female, Unspecified Age"
+23,Instar,76,Group
+24,Naiad,77,With Cap. Setae
+25,Hatchery Marked Organism,78,Without Cap. Setae
+26,Year Class 2 Or Older,79,Spp.
+,Age 0 MDDNR Hatchery,80,Molted
+27,Marked Organism,81,Unmolted
+28,Age 1 MDDNR Hatchery Marked Organism,82,Large
+,Age 2 Or Greater MDDNR Hatchery Marked,83,Large-Full
+29,Organism,84,Large-Empty
+30,Prezoea,85,Full
+31,Zoea,86,Empty
+32,Metazoea,87,Medium
+33,Megalops,88,Small
+34,"Male, Unspecified Age",89,Not Specified
+35,"Female, Adult",90,Egg- Not Viable
+36,"Female, Juvenile",91,Subadult
+37,MDDNR Hatchery Marked Organism,92,Post Larval
+38,"Male, Age Class 0",93,Juvenile
+39,"Male, Age Class 1",94,Taxon With Count Stored As Volume In Milliliters
+40,Nauplii Stage 1,95,Mature
+41,Nauplii Stage 2,96,Immature
+42,Nauplii Stage 3,97,Larvae
+43,Nauplii Stage 4,98,Adult
+44,Nauplii Stage 5,99,Not Applicable
+45,Nauplii Stage 6,100,"20:49um Length 
+    "
+46,Copepodite Stage 1,101,20:49um Length
+47,Copepodite Stage 2,102,20:49um Length 50:99um Width
+48,Copepodite Stage 3,103,20:49um Length 20:49um Width Cup
+49,Copepodite Stage 4,104,20:49um Length 20:49um Width Cone
+50,Copepodite Stage 5,105,20:49um Length 20:49um Width
+51,Copepodite Stage 6,106,20:49um Length >20um Width
+52,Species A,107,>200um Length
+,111,,

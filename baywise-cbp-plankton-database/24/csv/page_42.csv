@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”,Name: “Table 1 of 1 on page 42 of 64”
+Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42,Table: 42
+,,,,,,,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-----------------------,-----------------------,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,-----------------------,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,VERSAR_,ODU_IBI_,ODU_IBI_,
+STATION,,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,VALUE,diff
+CB6.1,,09JUL1996,09JUL1996,,,15,,,10,5
+CB6.1,,24JUL1996,24JUL1996,,,15,,,5,10
+CB6.1,,05AUG1996,05AUG1996,,,10,,,2,8
+CB6.1,,26AUG1996,26AUG1996,,,20,,,12,8
+CB6.1,,08SEP1997,08SEP1997,,,22,,,12,10
+CB6.4,,05AUG1996,05AUG1996,,,19,,,10,9
+CB6.4,,12AUG1997,12AUG1997,,,29,,,5,24
+CB7.3E,,07AUG1996,07AUG1996,,,20,,,9,11
+CB7.3E,,15JUL1997,15JUL1997,,,28,,,16,12
+CB7.4,,22JUL1996,22JUL1996,,,20,,,12,8
+CB7.4,,13AUG1997,13AUG1997,,,30,,,12,18
+LE3.6,,09JUL1996,09JUL1996,,,5,,,7,-2
+LE3.6,,24JUL1996,24JUL1996,,,8,,,7,1
+LE3.6,,05AUG1996,05AUG1996,,,13,,,9,4
+LE3.6,,26AUG1996,26AUG1996,,,16,,,9,7
+LE3.6,,15JUL1997,15JUL1997,,,11,,,6,5
+LE5.5,,22JUL1996,22JUL1996,,,22,,,12,10
+RET4.3,,10JUL1996,10JUL1996,,,7,,,10,-3
+RET4.3,,24JUL1996,24JUL1996,,,19,,,9,10
+RET4.3,,06AUG1996,06AUG1996,,,10,,,8,2
+RET4.3,,10JUL1997,10JUL1997,,,19,,,10,9
+RET4.3,,23JUL1997,23JUL1997,,,14,,,9,5
+RET5.2,,23SEP1997,23SEP1997,,,10,,,7,3
+SBE5,,08JUL1996,08JUL1996,,,14,,,7,7
+SBE5,,23JUL1996,23JUL1996,,,15,,,7,8
+SBE5,,08JUL1997,08JUL1997,,,12,,,12,0
+WE4.2,,24JUL1996,24JUL1996,,,14,,,6,8
+WE4.2,,05AUG1996,05AUG1996,,,14,,,9,5
+-----------------------,-----------------------,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,-----------------------,-----------------------,-----------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,
+,,,Variable:,Variable:,diff,diff,,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,,
+Mean,7.214286,7.214286,Std,Deviation,Deviation,Deviation,,,5.54682,5.54682
+Median,8.000000,8.000000,Variance,Variance,Variance,,,,30.76720,30.76720
+Mode,8.000000,8.000000,Range,Range,,,,,27.00000,27.00000
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,5.50000,5.50000
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------
+Student's,t,t,6.882218,6.882218,,Pr,>,|t|,"
+    ","
+    "
+Sign,,M,,11.5,,Pr,>=,|M|,"
+    ","
+    "
+Signed,Rank,S,,182,,Pr,>=,|S|,"
+    ","
+    "
+,,,,,42,,,,,

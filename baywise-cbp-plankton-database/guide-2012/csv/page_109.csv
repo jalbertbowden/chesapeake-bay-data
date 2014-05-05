@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 109 of 170”,Name: “Table 1 of 1 on page 109 of 170”
+Table: 108,Table: 108
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+IBI_PARAMETER,IBI_PARAMETER_DESCRIPTION
+PCT_EPT,"Percent Of Individuals That Are Ephemeroptera, Plecoptera And Trichoptera"
+,(EPT)
+PCT_EPT_R,"Percent Of Individuals That Are Ephemeroptera, Plecoptera And Trichoptera"
+,(EPT) -Calculated On Rarefaction Data
+PCT_EPT_TAXA_RICH,Count Of EPT Families Expressed As A Percent Of The Total Number Of
+,Families Present In Sample
+PCT_EPT_TAXA_RICH_R,Count Of EPT Families Expressed As A Percent Of The Total Number Of
+,Families Present In Sample-Calculated On Rarefaction Data
+PCT_FILTERERS,Percent Of Individuals That Are Adapted For Filtering Fine Particles
+PCT_FILTERERS_R,Percent Of Individuals That Are Adapted For Filtering Fine Particles-Calculated
+,On Rarefaction Data
+PCT_GATHER,Percent Of Individuals That Are Adapted For Gathering
+PCT_GATHER_R,Percent Of Individuals That Are Adapted For Gathering-Calculated On
+,Rarefaction Data
+PCT_LIMESTONE,"Percent Of Individuals That Are Isopods, Amphipods, And Ephemeralla"
+PCT_LIMESTONE_R,"Percent Of Individuals That Are Isopods, Amphipods, And Ephemeralla -"
+,Calculated On Rarefaction Data
+PCT_NET_CADDISFLY,Percent Of Individuals That Are Net-Spinning Caddisflies
+PCT_NET_CADDISFLY_R,Percent Of Individuals That Are Net-Spinning Caddisflies-Calculated On
+,Rarefaction Data
+PCT_NON_INSECT,Percent Of Individuals That Are Not Insects
+PCT_NON_INSECT_R,Percent Of Individuals That Are Not Insects -Calculated On Rarefaction Data
+PCT_PI_ABUND,Percent Pollution Indicative Species Abundance-Tidal Benthic
+PCT_PI_BIO,Percent Pollution Indicative Species Biomass-Tidal Benthic
+PCT_PI_F_ABUND,Percent Pollution Indicative Species Abundance-Tidal Fresh Benthic
+PCT_PI_F_BIO,Percent Pollution Indicative Species Biomass-Tidal Fresh Benthic
+PCT_PI_O_ABUND,Percent Pollution Indicative Species Abundance-Oligohaline Benthic
+PCT_PI_O_BIO,Percent Pollution Indicative Species Biomass-Oligohaline Benthic
+PCT_PLECOPTERA,Percent Of Individuals That Are Plecoptera
+PCT_PLECOPTERA_R,Percent Of Individuals That Are Plecoptera-Calculated On Rarefaction Data
+PCT_PREDATOR,Percent Of Individuals That Are Predatory
+PCT_PREDATOR_R,Percent Of Individuals That Are Predatory-Calculated On Rarefaction Data
+PCT_PS_ABUND,Percent Pollution Sensitive Species Abundance-Tidal Benthic
+PCT_PS_BIO,Percent Pollution Sensitive Species Biomass-Tidal Benthic
+PCT_PS_O_ABUND,Percent Pollution Sensitive Species Abundance-Oligohaline Benthic
+PCT_PS_O_BIO,Percent Pollution Sensitive Species Biomass-Oligohaline Benthic
+PCT_SCRAPER,Percent Of Individuals That Are Adapted For Scraping Periphyton From Hard
+,Surfaces
+PCT_SCRAPER_R,Percent Of Individuals That Are Adapted For Scraping Periphyton From Hard
+,Surfaces-Calculated On Rarefaction Data
+PCT_SENSITIVE,"Percent Of Individuals That Have Family Level Tolerance Values 
+    "
+PCT_SENSITIVE_R,"Percent Of Individuals That Have Family Level Tolerance Values 
+    "
+,Calculated On Rarefaction Data
+PCT_SHREDDER,Percent Of Individuals That Are Adapted For Shredding Coarse Organic
+,Material
+PCT_SHREDDER_R,Percent Of Individuals That Are Adapted For Shredding Coarse Organic
+,Material-Calculated On Rarefaction Data
+PCT_SIMULIIDAE,Percent Of Individuals That Are Simuliidae (Black flies)
+PCT_SIMULIIDAE_R,Percent Of Individuals That Are Simuliidae (Black flies) -Calculated On
+,Rarefaction Data
+PCT_SWIMMER,Percent Of Individuals That Are Adapted For Swimming
+PCT_SWIMMER_R,Percent Of Individuals That Are Adapted For Swimming-Calculated On
+,Rarefaction Data
+PCT_TANYPODINI,Percent Tanypodinae To Chironomidae-Tidal Benthic
+PCT_TOLERANT,Percent Of Individuals That Have Family-Level Tolerance Values >= 7
+,107

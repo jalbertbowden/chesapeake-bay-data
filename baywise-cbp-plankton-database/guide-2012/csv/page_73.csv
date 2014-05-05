@@ -1,0 +1,69 @@
+Name: “Table 1 of 1 on page 73 of 170”,Name: “Table 1 of 1 on page 73 of 170”,Name: “Table 1 of 1 on page 73 of 170”,Name: “Table 1 of 1 on page 73 of 170”,Name: “Table 1 of 1 on page 73 of 170”
+Table: 72,Table: 72,Table: 72,Table: 72,Table: 72
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-16.,Non-Tidal Benthic Event Data Files,Non-Tidal Benthic Event Data Files,Non-Tidal Benthic Event Data Files,Non-Tidal Benthic Event Data Files
+Field Name,Type,Width,Description,Description
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+AGENCY_CODE,Text,6,Data Collection Agency,Data Collection Agency
+STATION_ID,Text,50,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,,,
+,,8,Sample Collection Time (HHMM),Sample Collection Time (HHMM)
+EVENT_TYPE,Text,3,Sampling Event Type,Sampling Event Type
+EVENT_LATITUDE Number,EVENT_LATITUDE Number,8.5,Latitude (Decimal Degrees-NAD83),Latitude (Decimal Degrees-NAD83)
+EVENT_LONGITUDE,EVENT_LONGITUDE,,,
+,Number,8.5,Longitude (Decimal Degrees-NAD83),Longitude (Decimal Degrees-NAD83)
+LL_DATUM,Text,5,Latitude-Longitude Datum Code,Latitude-Longitude Datum Code
+ECOREGION_LEVEL3,ECOREGION_LEVEL3,,,
+,Text,5,Level 3 EPA Ecoregion Code,Level 3 EPA Ecoregion Code
+ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,,
+,Text,50,Level 3 EPA Ecoregion Description,Level 3 EPA Ecoregion Description
+CBP_IBI_REGION,,,,
+,Text,10,Chesapeake Bay Program IBI Region Code,Chesapeake Bay Program IBI Region Code
+CBP_IBI_REGION_NAME,CBP_IBI_REGION_NAME,,,
+,Text,50,Chesapeake Bay Program IBI Region Code Description,Chesapeake Bay Program IBI Region Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE_INITIALS,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_NAME,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+HUC_12,Text,8,USGS Twelve Digit Hydrologic Unit Code,USGS Twelve Digit Hydrologic Unit Code
+HUC_8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+SUBBASINT_DESCRIPTION,SUBBASINT_DESCRIPTION,,,
+,Text,50,USGS Eight Digit Hydrologic Unit Code Description,USGS Eight Digit Hydrologic Unit Code Description
+STRAHLER_STREAM_ORDER,STRAHLER_STREAM_ORDER,STRAHLER_STREAM_ORDER,,
+,Number,3,Strahler Stream Order Designation for Station,Strahler Stream Order Designation for Station
+SITE_TYPE,Text,10,Sampling Site Type,Sampling Site Type
+HABITAT_TYPE,Text,10,Sampling Site Habitat Type,Sampling Site Habitat Type
+UTM_X,Number,8,UTM Zone 18 N X-Coordinate,UTM Zone 18 N X-Coordinate
+UTM_Y,Number,8,UTM Zone 18 N Y-Coordinate,UTM Zone 18 N Y-Coordinate
+KARST,Text,10,USGS Karst Site Designation,USGS Karst Site Designation
+R_DATE,Date/Time,,,
+,,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+Table A-17.,Non-Tidal Benthic Habitat Assessment Data Files,Non-Tidal Benthic Habitat Assessment Data Files,Non-Tidal Benthic Habitat Assessment Data Files,Non-Tidal Benthic Habitat Assessment Data Files
+Field Name,Type,Width,Description,Description
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+AGENCY_CODE,Text,6,Data Collection Agency,Data Collection Agency
+STATION_ID,Text,50,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,,,
+,,8,Sample Collection Time (HH:MM:SS),Sample Collection Time (HH:MM:SS)
+SAMPLE_NUMBER,Number,Number,8.0,Sample Number
+REPORTING_PARAMETER,REPORTING_PARAMETER,,,
+,Text,15,Sample Reporting Parameter,Sample Reporting Parameter
+REPORTING_VALUE,REPORTING_VALUE,,,
+,Number,8.4,Sample Reporting Parameter Value,Sample Reporting Parameter Value
+HAB_METHOD,Text,10,Habitat Reporting Method,Habitat Reporting Method
+R_DATE,Text,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE_INITIALS,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_NAME,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+HUC_8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+SUBBASINT_DESCRIPTION,SUBBASINT_DESCRIPTION,,,
+,Text,50,USGS Eight Digit Hydrologic Unit Code Description,USGS Eight Digit Hydrologic Unit Code Description
+ECOREGION_LEVEL3,ECOREGION_LEVEL3,,,
+,Text,5,Level 3 EPA Ecoregion Code,Level 3 EPA Ecoregion Code
+ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,,
+,Text,50,Level 3 EPA Ecoregion Description,Level 3 EPA Ecoregion Description
+,,,,71

@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 23 of 170”
+Table: 22
+""
+The 2012 Users Guide to CBP Biological Monitoring Data
+"All data downloaded from the Tidal Benthic database (Benthic Taxon, Benthic Biomass, Sediment, Water"
+"Quality, Biota Event and Benthic Index of Biotic Integrity Data) can be merged with their Monitoring Event"
+files by linking directly on the EVENT_ID field or the combination of the following fields:
+SOURCE
+STATION
+SAMPLING_DATE
+"SAMPLE_NUMBER (for taxon, biomass, benthic index data)"
+"All data downloaded from the Non-Tidal Macroinvertebrate database (Habitat Assessment, Taxonomic,"
+"Water Quality, Indicators and Calculated Metrics, and Warehouse Data) can be merged with their"
+Monitoring Event files by linking directly on the EVENT_ID field or the combination of the following fields:
+SOURCE
+STATION
+SAMPLING_DATE
+SAMPLE_TIME
+BIOLOGICAL DATA QUALITY ASSURANCE ISSUES
+The goal of quality assurance is to provide the user with data of known high quality. The first stage of
+"quality assurance is quality control (QC), which is performed by personnel in the field and laboratory to"
+ensure that data meet quality standards. Quality assurance assessments for all data analyses measure
+"two quantities, precision and accuracy. Precision is the repeatability of measurements, and accuracy is"
+"the closeness of analytical measurements to a ""true"" value. In the case of biological data, enumeration"
+accuracy is often method and personnel dependant. Although the accuracy of taxonomic identifications
+"can only truly tested through cost prohibitive genetic analysis, accuracy is approximated well by"
+consultation with taxonomic experts and the use of voucher collections.
+Intra-organization QAQC
+"Among the CBP biological programs, participating data providers have internal quality assurance/quality"
+"control programs. To assess within-organization precision and accuracy, most programs standard"
+protocolise randomly selected and re-enumerated approximately 5-10% samples for quality assurance.
+"The QA sample assess,emt must have a total density and dominant taxa densities within 10% of the"
+"original count. For CBPO funded or match programs, quality assurance recount data are submitted to"
+CBP separately from the rest of the long term monitoring data and are maintained in an offline data base.
+The QA recount data are available upon request.
+Inter-organization QAQC
+Inter-organization precision and accuracy assessments have been problematic in the biological
+monitoring programs. The tidal benthic monitoring programs established and continue to maintain an
+informal quality assurance program between participating labs during the early phases of the program.
+"However, a program of regular quality assurance /quality control and split-sample comparisons between"
+laboratories was not part of either the phytoplankton or zooplankton long-term monitoring programs prior
+to 1998. From 1998 through 2008 a split-sampling program was conducted to compare results of the
+"Maryland and Virginia mesozooplankton, microzooplankton and phytoplankton long-term monitoring"
+programs. The non-tidal benthic monitoring programs currently have no mechanism for assessing
+precision and accuracy between data providers.
+21

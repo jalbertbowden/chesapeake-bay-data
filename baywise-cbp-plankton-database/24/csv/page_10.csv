@@ -1,0 +1,60 @@
+Name: “Table 1 of 1 on page 10 of 64”,Name: “Table 1 of 1 on page 10 of 64”,Name: “Table 1 of 1 on page 10 of 64”
+Table: 10,Table: 10,Table: 10
+,,
+Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction,Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction,Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction
+factors.,,
+,∑ log( HS _ count ) − log(CVS _ count ),
+anti log(,),
+,N,
+Where,,
+HS_Count = Taxa_Henson_Stemple_Count,,
+CVS_Count = Uncorrected_Taxa_CVS_Count,,
+N = Total_Numb er_of_samples_with_t axa,,
+Table 3. Current list of mesozooplankton exclusion species,,
+Acarina,Gammarus fasciatus,Micropogonias undulatus
+Actinopterygii,Gasterosteus aculeatus,Mnemiopsis brachei
+Aegathoa medialis,Globorotalia,Mnemiopsis leidyi
+Alosa,Gnathostomata,Mollusca
+Alosa mediocris,Gobiesox strumosus,Monoculodes
+Ammodytes americanus,Gobiidae,Morone
+Ampelisca abdita,Gobiosoma,Morone americana
+Amphioxus,Gobiosoma bosc,Morone saxatilis
+Anchoa,Gobiosoma ginsburgi,Myrophis punctatus
+Anchoa hepsetus,Haustoriidae,Mysidacea
+Anchoa mitchelli,Heteromysis formosa,Mytilus edulis
+Anthomedusae,Hexarthra,Nemertea
+Appendicularia,Hippocampus erectus,Nemopsis bachei
+Arachnida,Hydra carnea,Nudibranchia
+Arcidae,Hydrachnidae,Obelia
+Ascidiacea,Hydridae,Oxyurostylis smithi
+Atherinidae,Hydroida,Paracaprella tenuis
+Aurelia aurita,Hydrozoa,Paralichthys dentatus
+Bairdiella chrysoura,Hyperia,Parathemisto compressa
+Beroe ovata,Hyperiidae,Peprilus paru
+Bothidae,Hyporhamphus unifasciatus,Perca flavescens
+Bougainvillia rugosa,Hypsoblennius hentzi,Piscicolidae
+Brachionus,Leiostomus xanthurus,Platyhelminthes
+Brachionus calyciflorus,Lepomis macrochirus,Pleuronectes americanus
+Brachionus havanaensis,Leptocheirus,Pogonias cromis
+Branchiostoma caribaeum,Leptocheirus plumulosus,Rotifera
+Brevoortia tyrannus,Leptomedusae,Sciaenidae
+Caprella,Leucon americanus,Scophthalmus aquosus
+Caprella geometrica,Linvillea agassizi,Scyphozoa
+Chasmodes bosquianus,Lironeca redmanii,Semaeostomeae
+Chrysaora quinquecirrha,Loligo,Siphonophora
+Clupea harengus,Loligo pealeii,Solenidae
+Clupeidae,Lolliguncula brevis,Sphoeroides maculatus
+Cnidaria,Lucifer faxoni,Stenothoidae
+Crassostrea virginica,Melita,Symphurus plagiusa
+Ctenophora,Melita nitida,Syngnathus
+Cyanea capillata,Membras,Syngnathus fuscus
+Cyathura,Membras martinica,Thaliacea
+Cyathura polita,Menidia,Trinectes maculatus
+Cymothoidae,Menidia beryllina,Turbellaria
+Cynoscion Nebulosus,Menidia menidia,Unidentified Beads
+Cynoscion Regalis,Menticirrhus,Unidentified Invertebrate
+Cyprinidae,Menticirrhus saxatilis,Unidentified Larvae
+Dipurena strangulata,Mercenaria mercenaria,Unidentified Shrimp Zoea
+Eucheilota ventricularis,Metamysidopsis,Yoldia limatula
+Foraminiferida,Microgobius thalassinus,
+,10,

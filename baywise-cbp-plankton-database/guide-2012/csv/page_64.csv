@@ -1,0 +1,60 @@
+Name: “Table 1 of 1 on page 64 of 170”,Name: “Table 1 of 1 on page 64 of 170”,Name: “Table 1 of 1 on page 64 of 170”,Name: “Table 1 of 1 on page 64 of 170”
+Table: 63,Table: 63,Table: 63,Table: 63
+,,,
+,,,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-4.,Primary Production Data File Format,Primary Production Data File Format,Primary Production Data File Format
+Field Name,Type,Width,Description
+SURVEY_ID,Number,8,Database Generated Event Identification Number
+SOURCE,Text,10,Data Collection Agency
+SAMPLE_TYPE,Text,2,Collection Type
+STATION,Text,15,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,
+,,8,Sample Date (MM/DD/YYYY)
+LAYER,Text,3,Layer in Water Column from Which Sample Was Taken
+SAMPLE_NUMBER,,,
+,Number,8,Sample Number
+GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code
+CARBFIX,Number,8.2,Carbon Fixation Value
+UNITS,Text,15,Carbon Fixation Reporting Units
+QUALIFIER,Text,7,Detection Limit Qualifiers
+METHOD,Text,8,Chesapeake Bay Program Analytical Method Code
+CHLA,Number,8.2,Chlorophyll A μ/L)
+ASMRATIO,Number,8.2,Production Efficiency (μg-C/μg-Chl)
+SER_NUM,Text,12,Sample Serial Number
+R_DATE,Date/Time,Date/Time,
+,,8,Data Version Date (MM/DD/YYYY)
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description
+BASIN,Text,20,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,
+,Text,50,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,
+,Text,50,2003 Chesapeake Bay Segment Designation Description
+Table A-5.,"Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format","Microzooplankton, Mesozooplankton and Gelatinous Zooplankton Count Data File Format"
+Field Name,Type,Width,Description
+SURVEY_ID,Number,8,Database Generated Event Identification Number
+SOURCE,Text,10,Data Collection Agency
+STATION,Text,15,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,
+,,8,Sampling Date (MM/DD/YYYY)
+LAYER,Text,3,Layer in Water Column from Which Sample was taken
+SAMPLE_NUMBER,,,
+,Number,8,Sample Number
+GMETHOD,Text,3,Chesapeake Bay Program Sampling Gear Code
+TSN,Text,7,ITIS Taxon Serial Number
+LATIN_NAME,Text,45,Species Latin Name
+LIFE_STAGE,Text,50,Life Stage of Individual
+METHOD,Text,8,Parameter Method Analysis Code
+PARAMETER,Text,10,Parameter Name
+VALUE,Number,12.3,Parameter Value
+UNITS,Text,15,Parameter Reporting Units.
+NODCCODE,Text,12,NODC Species Code
+SPEC_CODE,Text,14,Source Species Taxon Code
+R_DATE,Date/Time,Date/Time,
+,,8,Version Date of Data (MM/DD/YYYY)
+,,,62

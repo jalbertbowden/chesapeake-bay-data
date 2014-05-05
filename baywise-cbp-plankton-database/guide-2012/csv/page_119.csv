@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 119 of 170”,Name: “Table 1 of 1 on page 119 of 170”,Name: “Table 1 of 1 on page 119 of 170”
+Table: 118,Table: 118,Table: 118
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+FCOLI_M,L01,Fecal Coliform - EC Medium; MPN
+FCOLI_M,L03,Fecal Coliform-Direct Test; A-1 Medium
+FE_M,L01,Total Iron; Phenanthroline Method
+FE_M,L02,Total Iron; Atomic Emission Spectrometric
+FE_U,L02,Total Iron; Atomic Emission Spectrometric
+FE_U,L03,"Metals, Wf, ICP-AES"
+FLOW_AVG,F01,Stream flow; Mean Daily
+FLOW_INS,F01,Stream flow; Instantaneous
+FLOW_INS,F02,"Stream flow; Instantaneous, Unspecified Field Method"
+FLUORESCENCE,F01,Fluorometric Insitu Probe
+FS,L01,Fixed Solids
+FSS,L01,Fixed Suspended Solids
+HARDNESS,F01,Unspecified Field Method
+HARDNESS,L01,Titrimetric; EDTA
+HARDNESS,L02,Colorimetric; Automated EDTA
+HARDNESS,L03,Unspecified Laboratory Method
+HG,L01,Total Mercury; Automated Cold Vapor Technique
+IBOD5F,L01,Carbonaceous Bod5; Inhibited; Filtered
+IBOD5W,L01,Carbonaceous Bod5; Inhibited; Unfiltered
+,,Sediment Interstitial Salinity- Army Corp Of Engineers Sediment Grain Size
+INTSAL,L02,Analysis Protocol
+K,L01,Potassium
+K,L02,"Metals - Calcium, Magnesium, Potassium & Sodium"
+KD,D01,Database Calculated Kd - SAV 2 Point Method
+KD,F01,Light Attenuation
+KF,L01,"Potassium, Wf, Direct AAS"
+KURTOSIS,L01,Kurtosis-Folk Sediment Grain Size Analysis Protocol
+MEANDIAM,L01,Mean Sediment Diameter-Folk Sediment Grain Size Analysis Protocol
+MEASURED_DEPTH,NA,Shallow Water Measured Depth Method
+,,Median Sediment Diameter-Army Corp Of Engineers Sediment Grain Size Analysis
+MEDDIAM,L02,Protocol
+MEDDIAM,L03,Median Sediment Diameter-VIMS Undocumented
+MGF,L01,Magnesium
+MGF,L02,"Metals - Calcium, Magnesium, Potassium & Sodium"
+MN,L01,Total Manganese Atomic Emission Spectrometric
+,,Sediment Moisture Percentage- Army Corp Of Engineers Sediment Grain Size
+MOIST,L02,Analysis Protocol
+NAF,L01,Sodium
+NAF,L02,"Metals - Calcium, Magnesium, Potassium & Sodium"
+NH4F,L01,Colorimetric; Automated Phenate (Indophenol)
+NH4F,L02,Colorimetric; Auto Salicylate-Hypochlorite
+NH4F,L03,"Ammonium Nitrogen, Unspecified Lab Method"
+NH4F,L04,"Ammonium Nitrogen, Filtered, Unspecified Lab Method 2"
+NH4W,L01,Colorimetric; Automated Phenate (Indophenol)
+NH4W,L02,"Ammonium Nitrogen, Whole Water, Unspecified Lab Method"
+NH4W,L03,"Ammonium Nitrogen, Whole Water, Unspecified Lab Method 2"
+NI,L01,Nickel By Inductively Coupled Plasma - Mass Spectrometry
+NO23F,C01A,Calculated By Addition At Region VADEQ/NRO
+NO23F,D01,Database Calculated NO23f - Method 1
+NO23F,D01A,Database Calculated NO23f - Method 1 – MDL
+NO23F,D01B,Database Calculated NO23f - Method 1 - 1/2
+NO23F,D01D,Database Calculated NO23f - Method 1
+NO23F,L01,Colorimetric; Automated Cadmium Reduction
+NO23F,L02,Spectrophotometric; Manual Cadmium Reduction
+,,117

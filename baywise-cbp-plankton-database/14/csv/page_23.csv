@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”,Name: “Table 1 of 1 on page 23 of 44”
+Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23,Table: 23
+,,,,,,
+TAB_G_METHOD,TAB_G_METHOD,,,,,
+,Field Name,,Description,,Data Type,Length
+G_METHOD,G_METHOD,GEAR METHOD CODE-,GEAR METHOD CODE-,,CHAR,2
+,,Code of Sampling Gear used for sample collection,Code of Sampling Gear used for sample collection,Code of Sampling Gear used for sample collection,,
+"(PK,FK)",,,,,,
+G_METHOD_,G_METHOD_,GEAR DESCRIPTION-,GEAR DESCRIPTION-,,VARCHAR,29
+DESCRIPTION,DESCRIPTION,Chesapeake bay program biological field sampling gear,Chesapeake bay program biological field sampling gear,Chesapeake bay program biological field sampling gear,,
+,,descriptions,,,,
+(NN),,,,,,
+G_METHOD_,G_METHOD_,DETAILED DESCRIPTION-,DETAILED DESCRIPTION-,,VARCHAR,46
+DETAILS,,Detailed Description of Sampling Gear Including,Detailed Description of Sampling Gear Including,,,
+,,Dimensions,,,,
+GENERAL:,This table stores information relating to the type of gear used to collect samples for all analysis.,This table stores information relating to the type of gear used to collect samples for all analysis.,This table stores information relating to the type of gear used to collect samples for all analysis.,This table stores information relating to the type of gear used to collect samples for all analysis.,This table stores information relating to the type of gear used to collect samples for all analysis.,This table stores information relating to the type of gear used to collect samples for all analysis.
+This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.,This table stores identification codes for sampling gear used primary in the TAB_BIOTA_EVENT TABLE.
+The primary key in this table is defined by G_METHOD.,The primary key in this table is defined by G_METHOD.,The primary key in this table is defined by G_METHOD.,The primary key in this table is defined by G_METHOD.,Additional codes may be added as needed.,Additional codes may be added as needed.,Additional codes may be added as needed.
+Currently accepted G_METHODS designations are as follows,Currently accepted G_METHODS designations are as follows,Currently accepted G_METHODS designations are as follows,Currently accepted G_METHODS designations are as follows,,,
+G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION,G_METHOD G_METHOD_DESCRIPTION
+01,HAND DREDGE,26,SEINE NET,60,ENDICO CURRENT METER,ENDICO CURRENT METER
+02,DREDGE,27,SEINE NET,61,BRAINCON CURRENT METER,BRAINCON CURRENT METER
+03,ARTIFICIAL SUBSTRAIT,28,SEINE NET,62,SEDIMENT TRAP ARRAY,SEDIMENT TRAP ARRAY
+04,DIATOMER SLIDES,29,SEINE NET,63,SEINE NET,
+05,CLARKE-BUMPUS SAMPLER,30,TRAWL,64,BONGO NET,
+06,PLANKTON TRAP,31,OTTER TRAWL,65,PURSE SEINE,
+07,PLANKTON PUMP,32,OTTER TRAWL,66,FYKE AND HOOP NETS,FYKE AND HOOP NETS
+08,PLANKTON NET,33,TRAWL,67,POTS,
+09,PLANKTON NET,34,TUCKER TRAWL,68,BOX TRAP,
+10,PLANKTON NET,36,TRAWL,69,PUSH NET,
+11,PLANKTON NET,37,OTTER TRAWL,70,GREAT LAKE SHOAL,GREAT LAKE SHOAL
+12,BEAM PLANKTON LINE,38,MID-WATER TRAWL,71,GREAT LAKE SHOAL,GREAT LAKE SHOAL
+13,ANCHOR DREDGE,40,TRAP NET,72,GREAT LAKE SHOAL,GREAT LAKE SHOAL
+14,HYDRAULIC GRAB,41,ELECTROSHOCKER,73,GREAT LAKE SHOAL,GREAT LAKE SHOAL
+15,HAND CORE,42,ECKMAN CAGE,74,BEAM TRAWL,
+16,POST-HOLE DIGGER,43,CAGE,75,BONGO NET,
+17,PONAR GRAB,44,CATFISH TRAP,76,BONGO NET,
+18,PONAR GRAB,45,CRAYFISH TRAP,78,SLAT TRAP,
+19,PONAR GRAB,46,CRAB TRAP,80,GIL NETS,
+20,BOX CORE GRAB,47,ANIMAL TRAP,81,USNOL SPADE CORE,USNOL SPADE CORE
+21,VAN VEEN GRAB,48,HOOK AND LINE FISHING,82,PONAR GRAB-ODU,PONAR GRAB-ODU
+22,SHIPEK GRAB,49,DIP NET,83,DOUBLE PONAR GRAB-VA,DOUBLE PONAR GRAB-VA
+23,SEINE HAUL,50,DIVER,,DEQ,
+24,SMITH-MACINTIRE GRAB,54,POUND NET,85,MID-WATER TRAWL,MID-WATER TRAWL
+25,SEINE NET,55,EPIFAUNA PANELS,,,
+,,,21,,,
+,,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

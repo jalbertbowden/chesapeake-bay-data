@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 111 of 170”,Name: “Table 1 of 1 on page 111 of 170”,Name: “Table 1 of 1 on page 111 of 170”
+Table: 110,Table: 110,Table: 110
+,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data
+IBI_PARAMETER,IBI_PARAMETER,IBI_PARAMETER_DESCRIPTION
+TRICHOPTERA_TAXA_COUNT_NO_R,TRICHOPTERA_TAXA_COUNT_NO_R,Count Of Trichoptera Families Excluding Hydropsychidae -Calculated On
+,,Rarefaction Data
+TSS,,Average Layer Total Suspended Solids
+WTEMP,,Average Layer Water Temperature in Celsius
+Table C-17. B-IBI SALZONE Designation (IBI_SALZONE).,Table C-17. B-IBI SALZONE Designation (IBI_SALZONE).,Table C-17. B-IBI SALZONE Designation (IBI_SALZONE).
+These codes identify the various salinity classifications used in the calculation of Tidal plankton and Tidal,These codes identify the various salinity classifications used in the calculation of Tidal plankton and Tidal,These codes identify the various salinity classifications used in the calculation of Tidal plankton and Tidal
+Benthic IBI metric values. Salinity zone is based on the observed salinity in the water quality data from,Benthic IBI metric values. Salinity zone is based on the observed salinity in the water quality data from,Benthic IBI metric values. Salinity zone is based on the observed salinity in the water quality data from
+each site. The IBI_SALZONE codes used to classify site types as follows:,each site. The IBI_SALZONE codes used to classify site types as follows:,each site. The IBI_SALZONE codes used to classify site types as follows:
+IBI_SALZONE,DESCRIPTION,RANGE
+HM,High Mesohaline,=>12 TO 18 PSU
+LM,Low Mesohaline,=>5.0 TO 12 PSU
+M,Mesohaline,=>5.0 TO 18 PSU
+O,Oligohaline,=>0.5 TO 5.0 PSU
+P,Polyhaline,=>18 PSU
+TF,Tidal Fresh,"
+    "
+Table C-18. Karst Designation (KARST).,Table C-18. Karst Designation (KARST).,
+These codes identify area of Karst geology. Information is based on the USGS Preliminary Map of,These codes identify area of Karst geology. Information is based on the USGS Preliminary Map of,These codes identify area of Karst geology. Information is based on the USGS Preliminary Map of
+Potentially Karstic Carbonate Rocks in the Central and Southern Appalachian States: complete OF 2008-,Potentially Karstic Carbonate Rocks in the Central and Southern Appalachian States: complete OF 2008-,Potentially Karstic Carbonate Rocks in the Central and Southern Appalachian States: complete OF 2008-
+1154 map plate. (http://pubs.usgs.gov/of/2008/1154/) Currently accepted KARST codes and KARST,1154 map plate. (http://pubs.usgs.gov/of/2008/1154/) Currently accepted KARST codes and KARST,1154 map plate. (http://pubs.usgs.gov/of/2008/1154/) Currently accepted KARST codes and KARST
+DESCRIPTION designations are as follows:,DESCRIPTION designations are as follows:,DESCRIPTION designations are as follows:
+KARST,KARST_DECSRIPTION,
+CPU,Coastal Plain Unconsolidated Sediments,
+FFC,Folded Faulted Carbonated Rock,
+FFCG,Folded Faulted Carbonated Rock With Glacial Cover,Folded Faulted Carbonated Rock With Glacial Cover
+GC,Gently Folded Carbonated Rock,
+GCG,Gently Folded Carbonated Rock With Glacial Cover,Gently Folded Carbonated Rock With Glacial Cover
+IC,Carbonates Embedded With Non-Soluble Rock,Carbonates Embedded With Non-Soluble Rock
+M,Marble And Meta-Limestone,
+NONE,Non-Carst Area,
+TJB,Triassic-Jurassic Aged Basin,
+Table C-19. Analytical Laboratory (LAB).,Table C-19. Analytical Laboratory (LAB).,
+The lab code identifies the laboratory that analyzed the water samples. This table contains information to,The lab code identifies the laboratory that analyzed the water samples. This table contains information to,The lab code identifies the laboratory that analyzed the water samples. This table contains information to
+parameter names. Currently accepted LAB and LAB_DESCRIPTION designations are as follows:,parameter names. Currently accepted LAB and LAB_DESCRIPTION designations are as follows:,parameter names. Currently accepted LAB and LAB_DESCRIPTION designations are as follows:
+LAB,LAB_DESCRIPTION,
+AMRL,"Old Dominion University Applied Marine Research Laboratory (This Lab Became The ODU Lab In May, 2000)","Old Dominion University Applied Marine Research Laboratory (This Lab Became The ODU Lab In May, 2000)"
+BPFL,Blue Plains Field Laboratory,
+CBL,University Of Maryland Chesapeake Biological Laboratory,University Of Maryland Chesapeake Biological Laboratory
+CRL,US EPA-Central Regional Laboratory (Moved To Ft Meade 1999),US EPA-Central Regional Laboratory (Moved To Ft Meade 1999)
+DENREC,Delaware Department Of Natural Resources And Environmental Control,Delaware Department Of Natural Resources And Environmental Control
+ELB,District Of Columbia Dept Of Health Environmental Laboratory Branch At EPA,District Of Columbia Dept Of Health Environmental Laboratory Branch At EPA
+EPA-UNSP,EPA Laboratory-Unspecified,
+FIELD,Field Parameter-No Lab Associated With Sample,Field Parameter-No Lab Associated With Sample
+MDHMH,Maryland Department Of Health And Mental Hygiene,Maryland Department Of Health And Mental Hygiene
+MDHMH-WM,Maryland Department Of Health And Mental Hygiene-Western Maryland Lab,Maryland Department Of Health And Mental Hygiene-Western Maryland Lab
+NYDEC,Columbia Analytical Services,
+,,109

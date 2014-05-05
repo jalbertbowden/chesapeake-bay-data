@@ -1,0 +1,56 @@
+Name: “Table 1 of 1 on page 115 of 170”,Name: “Table 1 of 1 on page 115 of 170”,Name: “Table 1 of 1 on page 115 of 170”,Name: “Table 1 of 1 on page 115 of 170”
+Table: 114,Table: 114,Table: 114,Table: 114
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+LIFE_STAGE,,LIFE_STAGE,
+_CODE,LIFE_STAGE_DESCRIPTION,_CODE,LIFE_STAGE_DESCRIPTION
+228,Species I,240,Species U
+229,Species J,241,Species 4
+230,Species K,242,Species 5
+231,Species L,243,Species 6
+232,Species M,244,Polyps
+233,Species N,245,Type
+234,Species O,246,Variety
+235,Species P,247,Immature With Cap. Chaete
+236,Species Q,248,Immature Without Cap. Chaete
+237,Species R,249,Fragments
+238,Species S,250,Ephyra
+239,Species T,251,Post Ephyra
+Table C-22.,Latitude-Longitude Geographic Datum (LL_DATUM).,Latitude-Longitude Geographic Datum (LL_DATUM).,
+The LL_DATUM code contains latitude/longitude datum and descriptions. The LL_DATUM code defines,The LL_DATUM code contains latitude/longitude datum and descriptions. The LL_DATUM code defines,The LL_DATUM code contains latitude/longitude datum and descriptions. The LL_DATUM code defines,The LL_DATUM code contains latitude/longitude datum and descriptions. The LL_DATUM code defines
+the datum under which the latitude and longitude measurements for a particular station were calculated.,the datum under which the latitude and longitude measurements for a particular station were calculated.,the datum under which the latitude and longitude measurements for a particular station were calculated.,the datum under which the latitude and longitude measurements for a particular station were calculated.
+The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,The currently accepted LL_DATUM and DESCRIPTIONS are as follows:
+LL_DATUM,DESCRIPTION,,
+NAD27,1927 North American Datum,,
+NAD83,1983 North American Datum,,
+UNID,Unknown Datum,,
+WGS84,World Geodetic System 1984,,
+Table C-23.,Biological Enumeration and Biomass Determination Methods (BIO_METHOD).,Biological Enumeration and Biomass Determination Methods (BIO_METHOD).,Biological Enumeration and Biomass Determination Methods (BIO_METHOD).
+BIO_METHOD identified the method for enumeration of taxa or biomass determination in the field and,BIO_METHOD identified the method for enumeration of taxa or biomass determination in the field and,BIO_METHOD identified the method for enumeration of taxa or biomass determination in the field and,BIO_METHOD identified the method for enumeration of taxa or biomass determination in the field and
+laboratory.,Currently accepted BIO_METHODS designations are as follows:,Currently accepted BIO_METHODS designations are as follows:,Currently accepted BIO_METHODS designations are as follows:
+BIO_METHOD,BIO_METHOD_TITLE,,
+BE101A,PADEP Rapid Non Tidal Stream Bio-Assessment Protocol,PADEP Rapid Non Tidal Stream Bio-Assessment Protocol,
+BE101B,PADEP Rapid Non Tidal Stream Bio-Assessment Protocol With Replication,PADEP Rapid Non Tidal Stream Bio-Assessment Protocol With Replication,PADEP Rapid Non Tidal Stream Bio-Assessment Protocol With Replication
+BE102,The NYSDEC Non Tidal Stream Biomonitoring- Kick Sample Protocol,The NYSDEC Non Tidal Stream Biomonitoring- Kick Sample Protocol,The NYSDEC Non Tidal Stream Biomonitoring- Kick Sample Protocol
+BE103,Maryland Biological Stream Survey Non Tidal Bioassessment Protocol,Maryland Biological Stream Survey Non Tidal Bioassessment Protocol,Maryland Biological Stream Survey Non Tidal Bioassessment Protocol
+BE104,Maryland Core Trend Stream Non Tidal Bioassessment Protocol,Maryland Core Trend Stream Non Tidal Bioassessment Protocol,Maryland Core Trend Stream Non Tidal Bioassessment Protocol
+,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method-,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method-,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method-
+BE105,Family Level Ids,,
+,"VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method,","VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method,","VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Single-Habitat Method,"
+BE105G,Genus Level Ids,,
+,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method
+BE106,Family Level Ids,,
+,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method-,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method-,VADEQ Rapid Non Tidal Stream Bio-Assessment Protocol: Multi- Habitat Method-
+BE106G,Genus Level Ids,,
+BE107,"WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat Protocol","WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat Protocol","WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat Protocol"
+,"WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat-200 Count","WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat-200 Count","WVDEP Modified EPA RBP II, Non Tidal Stream Single Habitat-200 Count"
+BE107B,Subsample,,
+BE108,Mid-Atlantic Coastal Streams Method For Non Tidal Streams,Mid-Atlantic Coastal Streams Method For Non Tidal Streams,
+BE109,"WVDEP EPA RBP II, Multi Habitat Protocol For Non Tidal Streams","WVDEP EPA RBP II, Multi Habitat Protocol For Non Tidal Streams","WVDEP EPA RBP II, Multi Habitat Protocol For Non Tidal Streams"
+BE110,SRBC Rapid Bioassessment Protocol (RBP) III For Non Tidal Streams,SRBC Rapid Bioassessment Protocol (RBP) III For Non Tidal Streams,SRBC Rapid Bioassessment Protocol (RBP) III For Non Tidal Streams
+BE111,Montgomery County-Unspecified Non Tidal Streams Assessment Protocol,Montgomery County-Unspecified Non Tidal Streams Assessment Protocol,Montgomery County-Unspecified Non Tidal Streams Assessment Protocol
+,Fairfax County-RBP For Non Tidal Streams In Piedmont/Triassic Physiographic,Fairfax County-RBP For Non Tidal Streams In Piedmont/Triassic Physiographic,Fairfax County-RBP For Non Tidal Streams In Piedmont/Triassic Physiographic
+BE112,Provinces,,
+,Fairfax County-RBP For Non Tidal Streams In Coastal Plain Physiographic,Fairfax County-RBP For Non Tidal Streams In Coastal Plain Physiographic,Fairfax County-RBP For Non Tidal Streams In Coastal Plain Physiographic
+BE113,Provinces,,
+,,113,

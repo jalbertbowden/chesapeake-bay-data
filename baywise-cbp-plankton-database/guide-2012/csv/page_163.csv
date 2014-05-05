@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 163 of 170”,Name: “Table 1 of 1 on page 163 of 170”,Name: “Table 1 of 1 on page 163 of 170”,Name: “Table 1 of 1 on page 163 of 170”,Name: “Table 1 of 1 on page 163 of 170”
+Table: 162,Table: 162,Table: 162,Table: 162,Table: 162
+,,,,
+Table E-7.,Table E-7.,Benthic Biomass Data Files,Benthic Biomass Data Files,Benthic Biomass Data Files
+,Field,Field,Width,
+,Name,Type,(dec),Descriptions
+1,STATION,Character,15,Sampling Station
+2,SAMPLE_DATE Date,SAMPLE_DATE Date,10,Sampling Date (MM/DD/YYYY)
+3,SAMPLE_NUMBER,SAMPLE_NUMBER,,
+,,Numeric,8,Sample Replicate Number
+4,VALUE_TYPE,Character,10,Actual or Estimated Ash Free Dry Weight
+5,SPEC_CODE,Character,14,Agency Species Code
+6,PARAMETER,Character,15,Sampling Parameter (AFDW ))
+7,VALUE,Numeric,8,Sampling Parameter Value
+8,UNITS,Character,15,Reporting Units of Value (grams/sample)
+9,SER_NUM,Character,12,Sample Serial Number
+10,SOURCE,Character,6,Data Collection Agency
+11,SAMPTYPE,Character,8,Sample Collection Type
+12,GMETHOD,Character,5,Chesapeake Bay Program Gear Method Code
+13,NET_MESH,Numeric,8. 1,Screen Mesh Width (millimeter)
+14,TSN,Character,7,ITIS Taxon Serial Number
+15,YEARCODE,Character,8,Sampling Year Code (optional)
+16,CRUISENO,Character,8,Benthic Sampling Cruise Number (optional)
+17,STAEQ85,Character,8,Pre-1989 Station Designation (optional)
+18,STAEQ89,Character,8,Post-1989 Station Designation (optional)
+19,SITE,Character,8,Sampling Site Number (optional)
+Table E-8.,Table E-8.,Benthic Water Quality Data Files,Benthic Water Quality Data Files,Benthic Water Quality Data Files
+,Field,Field,Width,
+,Name,Type,(dec),Descriptions
+1,STATION,Text,15,Sampling Station
+2,SAMPLE_DATE,Date,10,Sampling Date (MM/DD/YYYY)
+3,SAMPLE_TIME,Date/Time,8,Sample Collection Time (24 HH:MM)
+4,SAMPLE_NUMBER,SAMPLE_NUMBER,,
+,,Numeric,8,Sample Replicate Number
+5,SAMPLE_DEPTH,SAMPLE_DEPTH,,
+,,Numeric,8. 1,Sample Collection Depth
+6,PARAMETER,Character,15,Sampling Parameter
+7,VALUE,Numeric,8,Sampling Parameter Value
+8,UNITS,Character,15,Reporting Units of Value
+9,INS_CODE,Character,5,Chesapeake Bay Program Instrument Code
+10,SOURCE,Character,6,Data Collection Agency
+11,YEARCODE,Character,8,Sampling Year Code (optional)
+12,CRUISENO,Character,8,Benthic Sampling Cruise Number (optional)
+13,STAEQ85,Text,8,Pre-1989 Station Designation (optional)
+14,STAEQ89,Character,8,Post-1989 Station Designation (optional)
+15,SITE,Character,8,Sampling Site Number (optional)
+16,SAMPTYPE,Character,8,Sample Collection Type
+,,,,162

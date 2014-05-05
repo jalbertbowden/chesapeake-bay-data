@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 9 of 44”,Name: “Table 1 of 1 on page 9 of 44”,Name: “Table 1 of 1 on page 9 of 44”,Name: “Table 1 of 1 on page 9 of 44”,Name: “Table 1 of 1 on page 9 of 44”
+Table: 9,Table: 9,Table: 9,Table: 9,Table: 9
+,,,,
+Field Name,,Description,Data Type,Length
+G_METHOD,GEAR METHOD CODE-,,CHAR,3
+,Code of Sampling Gear used for sample collection,Code of Sampling Gear used for sample collection,,
+(FK),,,,
+SALZONE,SALINITY ZONE-,,CHAR,2
+,Salinity classification of water column in which sample,Salinity classification of water column in which sample,,
+(FK),"was collected, based on Venice Classification system.","was collected, based on Venice Classification system.",,
+R_DATE,DATA VERSION DATE-,,DATE/TIME,8
+,Date denoting when data records were entered in to,Date denoting when data records were entered in to,,
+(NN),database,,,
+SAMPLE_DATE,SAMPLE COLLECTION DATE ONLY-,SAMPLE COLLECTION DATE ONLY-,TEXT,10
+,Date on which the sample was collected (calculated field),Date on which the sample was collected (calculated field),,
+SAMPLE_TIME,SAMPLE COLLECTION TIME ONLY-Time (24 hour),SAMPLE COLLECTION TIME ONLY-Time (24 hour),TEXT,20
+,which the sample was collected,(calculated field),,
+Notes:,,,,
+1) GENERAL:,Every event for which there were sample taken of any kind must have a record in this table.,Every event for which there were sample taken of any kind must have a record in this table.,Every event for which there were sample taken of any kind must have a record in this table.,Every event for which there were sample taken of any kind must have a record in this table.
+Event records must be loaded into the database first and all unique records are assigned a SURVEY_ID,Event records must be loaded into the database first and all unique records are assigned a SURVEY_ID,Event records must be loaded into the database first and all unique records are assigned a SURVEY_ID,Event records must be loaded into the database first and all unique records are assigned a SURVEY_ID,Event records must be loaded into the database first and all unique records are assigned a SURVEY_ID
+number.,The SURVEY_ID must then be merged onto all other data based on the key fields before data may,The SURVEY_ID must then be merged onto all other data based on the key fields before data may,The SURVEY_ID must then be merged onto all other data based on the key fields before data may,The SURVEY_ID must then be merged onto all other data based on the key fields before data may
+be loaded into any other primary data tables.,be loaded into any other primary data tables.,,,
+2) SURVEY_ID: The actual primary key for this table is a composite key base on the following fields:,2) SURVEY_ID: The actual primary key for this table is a composite key base on the following fields:,2) SURVEY_ID: The actual primary key for this table is a composite key base on the following fields:,2) SURVEY_ID: The actual primary key for this table is a composite key base on the following fields:,2) SURVEY_ID: The actual primary key for this table is a composite key base on the following fields:
+"STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.",An Auto-Key number is,An Auto-Key number is
+generated for each unique combination of these fields.,generated for each unique combination of these fields.,generated for each unique combination of these fields.,,
+"3) SAMPLE_TIME: Sampling events where sample collection time is missing, SAMPLE_TIME has been set","3) SAMPLE_TIME: Sampling events where sample collection time is missing, SAMPLE_TIME has been set","3) SAMPLE_TIME: Sampling events where sample collection time is missing, SAMPLE_TIME has been set","3) SAMPLE_TIME: Sampling events where sample collection time is missing, SAMPLE_TIME has been set","3) SAMPLE_TIME: Sampling events where sample collection time is missing, SAMPLE_TIME has been set"
+to 00:00 (Mid-Night).,to 00:00 (Mid-Night).,,,
+TAB_BIOMASS_SETVOL,TAB_BIOMASS_SETVOL,,,
+Field Name,,Description,Data Type,Length
+SURVEY_ID,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,INT,
+"(PK,FK)",,,,
+SAMPLE_,SAMPLE NUMBER-,,TINYINT,
+NUMBER,Number of sample collected at Station(replicate number),Number of sample collected at Station(replicate number),,
+(PK),,,,
+METHOD,METHOD CODE-,,CHAR,6
+,Method code identifying,field/laboratory analysis,,
+"(PK, FK)",procedure,,,
+VALUE_TYPE,ACTUAL OR ESTIMATED VALUE TYPE CODE-,ACTUAL OR ESTIMATED VALUE TYPE CODE-,CHAR,1
+,Code for measurement type,,,
+(FK),,,,
+REPORTING_,REPORTING_PARAMETER-,,VARCHAR,15
+PARAMETER,Biological monitoring parameter code,Biological monitoring parameter code,,
+(PK),,,,
+,,7,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

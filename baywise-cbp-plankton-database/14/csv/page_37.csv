@@ -1,0 +1,52 @@
+Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”,Name: “Table 1 of 1 on page 37 of 44”
+Table: 37,Table: 37,Table: 37,Table: 37,Table: 37,Table: 37,Table: 37
+,,,,,,
+SECONDARY LOOK-UP TABLES,SECONDARY LOOK-UP TABLES,,,,,
+,The following lookup tables are present in the database but are not linked to the main or lookup,The following lookup tables are present in the database but are not linked to the main or lookup,The following lookup tables are present in the database but are not linked to the main or lookup,The following lookup tables are present in the database but are not linked to the main or lookup,The following lookup tables are present in the database but are not linked to the main or lookup,The following lookup tables are present in the database but are not linked to the main or lookup
+tables of the database.,tables of the database.,They can be used in queries to add additional fields exclusively to the WQ_DATA,They can be used in queries to add additional fields exclusively to the WQ_DATA,They can be used in queries to add additional fields exclusively to the WQ_DATA,They can be used in queries to add additional fields exclusively to the WQ_DATA,They can be used in queries to add additional fields exclusively to the WQ_DATA
+table.,"They include codes related to parameter names, sampling methods, and laboratory analysis of water","They include codes related to parameter names, sampling methods, and laboratory analysis of water","They include codes related to parameter names, sampling methods, and laboratory analysis of water","They include codes related to parameter names, sampling methods, and laboratory analysis of water","They include codes related to parameter names, sampling methods, and laboratory analysis of water","They include codes related to parameter names, sampling methods, and laboratory analysis of water"
+quality samples.,,,,,,
+TAB_CRUISE _TABLE,TAB_CRUISE _TABLE,,,,,
+Field Name,,Description,Description,,Data Type,Length
+CRUISE,OLD CBP CRUISE NUMBER,OLD CBP CRUISE NUMBER,,,CHAR,6
+"(PK,NN)",,,,,,
+START_DATE,STARTING DATE OF CRUISE,STARTING DATE OF CRUISE,,,SMALLDATE,8
+"(U,NN)",,,,,TIME,
+END_DATE,ENDING DATE OF CRUISE,ENDING DATE OF CRUISE,,,SMALLDATE,8
+"(U,NN)",,,,,TIME,
+NEWCRUISE,NEWCRUISE-1998 CBP cruise designation,NEWCRUISE-1998 CBP cruise designation,NEWCRUISE-1998 CBP cruise designation,,CHAR,7
+General:,This table stores information relating to the time periods of water quality Monitoring Cruises.,This table stores information relating to the time periods of water quality Monitoring Cruises.,This table stores information relating to the time periods of water quality Monitoring Cruises.,This table stores information relating to the time periods of water quality Monitoring Cruises.,This table stores information relating to the time periods of water quality Monitoring Cruises.,This table stores information relating to the time periods of water quality Monitoring Cruises.
+Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a,Cruise periods are a tool used as a data grouping mechanism for analysis. The field NEWCRUISE was a
+proposed system for reassigning cruise numbers that was never fully adapted.,proposed system for reassigning cruise numbers that was never fully adapted.,proposed system for reassigning cruise numbers that was never fully adapted.,proposed system for reassigning cruise numbers that was never fully adapted.,proposed system for reassigning cruise numbers that was never fully adapted.,,
+CRUISE START_DATE END_DATE NEWCRUISE,CRUISE START_DATE END_DATE NEWCRUISE,,CRUISE START_DATE END_DATE NEWCRUISE,CRUISE START_DATE END_DATE NEWCRUISE,CRUISE START_DATE END_DATE NEWCRUISE,
+BAY001 6/15/1984,6/30/1984,198406A,BAY030 11/7/1985,11/30/1985 198511A,11/30/1985 198511A,
+BAY002 7/1/1984,7/15/1984,198407A,BAY031 12/1/1985,12/31/1985 198512A,12/31/1985 198512A,
+BAY003 7/16/1984,7/31/1984,198407B,BAY032 1/1/1986,1/31/1986,198601A,
+BAY004 8/1/1984,8/15/1984,198408A,BAY033 2/1/1986,2/28/1986,198602A,
+BAY005 8/16/1984,8/31/1984,198408B,BAY034 3/1/1986,3/15/1986,198603A,
+BAY006 9/1/1984,9/15/1984,198409A,BAY035 3/16/1986,3/31/1986,198603B,
+BAY007 9/16/1984,9/30/1984,198409B,BAY036 4/1/1986,4/15/1986,198604A,
+BAY008 10/1/1984,10/15/1984 198410A,,BAY037 4/16/1986,4/30/1986,198604B,
+BAY009 10/16/1984,10/31/1984 198410B,,BAY038 5/1/1986,5/15/1986,198605A,
+BAY010 11/1/1984,11/30/1984 198411A,,BAY039 5/16/1986,5/31/1986,198605B,
+BAY011 12/1/1984,12/31/1984 198412A,,BAY040 6/1/1986,6/15/1986,198606A,
+BAY012 1/1/1985,1/31/1985,198501A,BAY041 6/16/1986,6/30/1986,198606B,
+BAY013 2/1/1985,2/28/1985,198502A,BAY042 7/1/1986,7/15/1986,198607A,
+BAY014 3/1/1985,3/15/1985,198503A,BAY043 7/16/1986,7/31/1986,198607B,
+BAY015 3/16/1985,3/31/1985,198503B,BAY044 8/1/1986,8/15/1986,198608A,
+BAY016 4/1/1985,4/15/1985,198504A,BAY045 8/16/1986,8/31/1986,198608B,
+BAY017 4/16/1985,4/30/1985,198504B,BAY046 9/1/1986,9/15/1986,198609A,
+BAY018 5/1/1985,5/15/1985,198505A,BAY047 9/16/1986,9/30/1986,198609B,
+BAY019 5/16/1985,5/31/1985,198505B,BAY048 10/1/1986,10/15/1986 198610A,10/15/1986 198610A,
+BAY020 6/1/1985,6/15/1985,198506A,BAY049 10/16/1986,10/31/1986 198610B,10/31/1986 198610B,
+BAY021 6/16/1985,6/30/1985,198506B,BAY050 11/1/1986,11/30/1986 198611A,11/30/1986 198611A,
+BAY022 7/1/1985,7/15/1985,198507A,BAY051 12/1/1986,12/31/1986 198612A,12/31/1986 198612A,
+BAY023 7/16/1985,7/31/1985,198507B,BAY052 1/1/1987,1/31/1987,198701A,
+BAY024 8/1/1985,8/15/1985,198508A,BAY053 2/1/1987,2/28/1987,198702A,
+BAY025 8/16/1985,8/31/1985,198508B,BAY054 3/1/1987,3/15/1987,198703A,
+BAY026 9/1/1985,9/15/1985,198509A,BAY055 3/16/1987,3/31/1987,198703B,
+BAY027 9/16/1985,10/2/1985,198509B,BAY056 4/1/1987,4/15/1987,198704A,
+BAY028 10/3/1985,10/14/1985 198510A,,BAY057 4/16/1987,4/30/1987,198704B,
+BAY029 10/15/1985,11/6/1985,198510B,BAY058 5/1/1987,5/15/1987,198705A,
+,,35,,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

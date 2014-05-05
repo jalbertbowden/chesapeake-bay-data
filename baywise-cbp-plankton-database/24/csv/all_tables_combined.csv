@@ -1,0 +1,1995 @@
+A Review of Historic Chesapeake Bay Program Zooplankton
+Data and Analysis of Recounted Archived Sample
+March 2007
+Revised July 2007
+ICPRB REPORT 2007-2
+Prepared for
+United States Environmental Protection Agency
+Chesapeake Bay Program
+410 Severn Avenue
+"Annapolis, MD 21403"
+By
+Jacqueline Johnson
+Interstate Commission on the Potomac River Basin
+To receive additional copies of the report please call or write:
+The Interstate Commission on the Potomac River Basin
+"51 Monroe Street, PE 8,"
+"Rockville, Maryland 20850"
+301-984-1908
+"Funds to support data analysis and this report, A Review of Historic Chesapeake Bay Program Zooplankton Data and"
+Analysis of Recounted Archived Sample were provided by the US Environmental Protection Agency Grant CB-
+983477-05 and the Interstate Commission on the Potomac River Basin.
+Disclaimer
+The opinions expressed are those of the authors and should not be construed as representing the U.S.
+"Government, the US Environmental Protection Agency, the several states or the signatories or"
+"Commissioners to the Interstate Commission on the Potomac River Basin: Maryland, Pennsylvania, Virginia,"
+West Virginia or the District of Columbia.
+2
+Table of Contents
+Table of Contents ...................................................................................................................................... 3
+Current Data Usage Recommendation ..................................................................................................... 5
+Background ............................................................................................................................................... 5
+Methods Comparisons............................................................................................................................... 7
+Versar HS vs. Corrected ODU CVS counts (MZ101C/MZ102_C) Comparisons .................................. 8
+Versar HS vs. ODU HS Count (MZ101C/MZ103) Comparisons ........................................................... 9
+Refinement of CVS correction Factors .................................................................................................. 9
+Validation of Zooplankton Indices of Biotic Integrity................................................................................ 12
+References .............................................................................................................................................. 15
+APPENDIX A. Graphical Comparison of Recount Parameters by Enumeration Method ....................... 17
+APPENDIX B. Statistical Comparisons of Versar Hensen-Stempel and ODU Corrected Controlled
+Variability Sampling Method Count Samples by Parameter ................................................................... 27
+APPENDIX C. Statistical Comparisons Of Versar And ODU Hensen Stempel Method Count Samples
+By Parameter........................................................................................................................................... 45
+3
+4
+Current Data Usage Recommendation,Current Data Usage Recommendation
+After extensive examination of historic Chesapeake Bay Program (CBP) mesozooplankton,After extensive examination of historic Chesapeake Bay Program (CBP) mesozooplankton
+"monitoring data, and in consideration of the known methodological and data quality issues, the","monitoring data, and in consideration of the known methodological and data quality issues, the"
+Chesapeake Bay Program is issuing the following data usage recommendation: Only mesozooplankton,Chesapeake Bay Program is issuing the following data usage recommendation: Only mesozooplankton
+samples enumerated with Hensen-Stempel methodologies are recommended for use in quantitative,samples enumerated with Hensen-Stempel methodologies are recommended for use in quantitative
+"analyses. These data have method codes MZ101A, MZ101B, MZ101C, and MZ103. Data quality issues","analyses. These data have method codes MZ101A, MZ101B, MZ101C, and MZ103. Data quality issues"
+have been identified for portions of the Virginia record. Virginia samples collected prior to 1993 and,have been identified for portions of the Virginia record. Virginia samples collected prior to 1993 and
+"enumerated with method MZ102, as well as those samples collected between 1993 and 2000 and","enumerated with method MZ102, as well as those samples collected between 1993 and 2000 and"
+"enumerated with method MZ102 or MZ102B, should only be used for qualitative purposes. Species-","enumerated with method MZ102 or MZ102B, should only be used for qualitative purposes. Species-"
+specific correction factors have been developed for samples collected between 1993 and 1997 and,specific correction factors have been developed for samples collected between 1993 and 1997 and
+enumerated with MZ102. Data adjusted by these factors have method code MZ102_C and can be used,enumerated with MZ102. Data adjusted by these factors have method code MZ102_C and can be used
+with discretion in quantitative analysis on a bay wide basis.,with discretion in quantitative analysis on a bay wide basis.
+Background,
+The Chesapeake Bay Water Quality Monitoring Program included a zooplankton monitoring,The Chesapeake Bay Water Quality Monitoring Program included a zooplankton monitoring
+"component from 1984-2002. Mesozooplankton samples were collected and enumerated by Versar, Inc.","component from 1984-2002. Mesozooplankton samples were collected and enumerated by Versar, Inc."
+"for Maryland and by Old Dominion University (ODU) for Virginia. Samples were collected with a towed,","for Maryland and by Old Dominion University (ODU) for Virginia. Samples were collected with a towed,"
+202μ mesh plankton nets at up to 36 fixed monitoring stations in the mainstem and tidal tributaries. Split,202μ mesh plankton nets at up to 36 fixed monitoring stations in the mainstem and tidal tributaries. Split
+sample comparisons conducted between 1998 and 2000 demonstrated that numerous differences in field,sample comparisons conducted between 1998 and 2000 demonstrated that numerous differences in field
+collection and laboratory enumeration procedures which resuled in biases that significantly affected data,collection and laboratory enumeration procedures which resuled in biases that significantly affected data
+quality and both taxonomic and numeric comparability.,These differences between and within laboratory
+methods have compromised the ability to combine data sets on a bay-wide basis for development of,methods have compromised the ability to combine data sets on a bay-wide basis for development of
+"zooplankton community health indictors, reporting of bay-wide status and trends and support food web","zooplankton community health indictors, reporting of bay-wide status and trends and support food web"
+modeling efforts.,
+"In the Maryland program, mesozooplankton were collected in the field, with stepped oblique","In the Maryland program, mesozooplankton were collected in the field, with stepped oblique"
+bongo net tows at each station. Bongo nets were deployed 0.5 meters above the bottom and nets were,bongo net tows at each station. Bongo nets were deployed 0.5 meters above the bottom and nets were
+raised in 1-4 meter increments (usually 0.5 to 1 .5 minutes/step) depending on station depth with a,raised in 1-4 meter increments (usually 0.5 to 1 .5 minutes/step) depending on station depth with a
+"minimum of 5 steps per station. In the laboratory, samples were enumerated using a standard sub-","minimum of 5 steps per station. In the laboratory, samples were enumerated using a standard sub-"
+sampling technique with a Hensen-Stempel pipette (HS) (Harris et.al. 2000). The technique was modified,sampling technique with a Hensen-Stempel pipette (HS) (Harris et.al. 2000). The technique was modified
+slightly three times over the 18 year history of the program. The standard Hensen-Stempel (HS) count,slightly three times over the 18 year history of the program. The standard Hensen-Stempel (HS) count
+"and a whole sample scan for macrozooplankton (amphipods, shrimp, fish eggs, fish larvae and juvenile","and a whole sample scan for macrozooplankton (amphipods, shrimp, fish eggs, fish larvae and juvenile"
+"fish, etc.) was performed on each sample between 1984 and 1989 (denoted as method MZ101A). The","fish, etc.) was performed on each sample between 1984 and 1989 (denoted as method MZ101A). The"
+macrozooplankton sample scan was temporarily discontinued from 1990 to 1996 (MZ101B). In 1996 the,macrozooplankton sample scan was temporarily discontinued from 1990 to 1996 (MZ101B). In 1996 the
+macro-zooplankton scan was reinstated and large bodied mesozooplankton species occurring in small,macro-zooplankton scan was reinstated and large bodied mesozooplankton species occurring in small
+5,
+numbers in the initial count were enumerated in special 850-micron sieve counts were again reported
+(MZ101C).
+"In the Virginia program, field samples were collected by taking five minute double-oblique pattern"
+"bongo net tows from bottom to surface. From1985 to 1992, it is unclear whether or not the bongo nets"
+used for field sampling were equipped with flow meters to accurately estimate the volume of water filtered
+through the nets during a tow. The volume of water filtered during a tow may have been estimated using
+"the length of the tow and area of the net’s opening. In 1993, a flow meter was mounted on the nets. In"
+"the laboratory, the Virginia program used several different enumeration techniques. From 1985 to 1997 a"
+Controlled Variability Sampling (CVS) method (method MZ102) described by Alden et.al. 1982 was used.
+"The CVS technique used a connected series of five wet sieves (200, 300, 600, 850, and 2000 microns)"
+and a mechanized shaking apparatus to separate and count zooplankton by size fraction. Split sampling
+tests in early 1998 revealed that smaller zooplankton slipped through the last 200 micron sieve and CVS
+enumerated samples consistently reported lower plankton densities than the HS enumerated samples
+"(ICPRB, 2000). Furthermore, the sieving process appeared to break off fragile plankton appendages"
+making taxa identifications more difficult. In March 1998 a 75 micron sieve was added to the sieve stack
+in hopes of capturing the smaller plankton lost by the original CVS method (method MZ102B). This
+modification to the CVS method was found to be ineffective (ICPRB 2000) and abandoned in favor of the
+Hensen-Stempel pipette method which included a macrozooplankton scan and a 850-micron sieve counts
+in 2000 (method MZ103). Data enumerated during this period was given a unique method code until its
+comprability to other HS enumerated data could be assessed.
+"Fortunately, as standard practice in the Virginia program, all original field samples were split into"
+"halves, one was enumerated and the other was archived. This presented an opportunity to recount"
+archive samples using Hensen-Stempel methodology. Counts from archive samples could fill data gaps
+in the historic record created by CVS enumerated samples and allow for the development of correction
+"factors to make CVS data comparable with HS enumerated data, thus expanding the historic data record."
+"In 2002, Old Dominion University went into the archives and counted 189 archive samples using HS"
+technique (Carpenter et. al. 2003). These samples served as the basis to develop the first correction
+factors for summer mesohaline and polyhaline CVS (MZ102) enumerated samples (Carpenter et. al
+2006). No correction factors have been developed for samples enumerated with method MZ102B.
+"When all zooplankton sampling terminated in October 2002, approximately 1,000 archived"
+"samples dating from 1996 to 2002 were in storage at Old Dominion University. In 2005, the CBP took"
+formal custody of these samples with the intent to enumerate them with the HS pipette sub-sampling
+technique. Funding for recounting a portion of the archive samples became available from CBP in early
+"2006. Seventy-two archived Virginia mesozooplankton samples were counted by Versar, Inc. Samples"
+collected during the summer (July- September) in mesohaline and polyhaline waters were targeted for
+counting because the results could be used as validation samples for the Zooplankton Indexes of Biotic
+Integrity (ZIBI) which were in various stages of development. These counts also allowed for additional
+6
+"method comparisons, namely comparisons of HS method counts performed by the Maryland and Virginia","method comparisons, namely comparisons of HS method counts performed by the Maryland and Virginia","method comparisons, namely comparisons of HS method counts performed by the Maryland and Virginia","method comparisons, namely comparisons of HS method counts performed by the Maryland and Virginia","method comparisons, namely comparisons of HS method counts performed by the Maryland and Virginia"
+"laboratories, and comparisons of HS and CVS counts to further refine correction factors for method","laboratories, and comparisons of HS and CVS counts to further refine correction factors for method","laboratories, and comparisons of HS and CVS counts to further refine correction factors for method","laboratories, and comparisons of HS and CVS counts to further refine correction factors for method","laboratories, and comparisons of HS and CVS counts to further refine correction factors for method"
+MZ102 counts originally published in Carpenter et al. 2006. The remainder of this report will address the,MZ102 counts originally published in Carpenter et al. 2006. The remainder of this report will address the,MZ102 counts originally published in Carpenter et al. 2006. The remainder of this report will address the,MZ102 counts originally published in Carpenter et al. 2006. The remainder of this report will address the,MZ102 counts originally published in Carpenter et al. 2006. The remainder of this report will address the
+"validation of the proposed zooplankton IBI’s, various between and within method/ laboratory","validation of the proposed zooplankton IBI’s, various between and within method/ laboratory","validation of the proposed zooplankton IBI’s, various between and within method/ laboratory","validation of the proposed zooplankton IBI’s, various between and within method/ laboratory","validation of the proposed zooplankton IBI’s, various between and within method/ laboratory"
+"comparisons, refinement of the current CVS correction factors and provide guidance on proper utility of","comparisons, refinement of the current CVS correction factors and provide guidance on proper utility of","comparisons, refinement of the current CVS correction factors and provide guidance on proper utility of","comparisons, refinement of the current CVS correction factors and provide guidance on proper utility of","comparisons, refinement of the current CVS correction factors and provide guidance on proper utility of"
+the availible zooplankton record.,the availible zooplankton record.,,,
+Table 1. Composite list of mesozooplankton enumeration method used in the historic Chesapeake Bay,Table 1. Composite list of mesozooplankton enumeration method used in the historic Chesapeake Bay,Table 1. Composite list of mesozooplankton enumeration method used in the historic Chesapeake Bay,Table 1. Composite list of mesozooplankton enumeration method used in the historic Chesapeake Bay,Table 1. Composite list of mesozooplankton enumeration method used in the historic Chesapeake Bay
+zooplankton monitoring programs.,zooplankton monitoring programs.,,,
+METHOD,,DESCRIPTION,USAGE,STATE/
+CODE,,,PERIOD,LABOROTORY
+MZ101A,Hensen-Stempel Count with,macrozooplankton scan,July 1984,MD\VERSAR
+,,,through,
+,,,December 1998,
+MZ101B,Hensen-Stempel Count with out,macrozooplankton scan,January 1999,MD\VERSAR
+,,,through,
+,,,December 2001,
+MZ101C,Hensen-Stempel Count with,macrozooplankton scan and,July 1996,MD\VERSAR
+,special 850-micron sieve count,,through,
+,,,October 2002,
+,Note both MZ101B and MZ101C counts were reported,Note both MZ101B and MZ101C counts were reported,,
+,from July 1996-December 2001,,,
+MZ102,Controlled Variability Sampling Method,Controlled Variability Sampling Method,July 1985,VA\ ODU
+,,,through,
+,,,December 1997,
+MZ102B,Controlled Variability Sampling Method with 75 mμ sieve,Controlled Variability Sampling Method with 75 mμ sieve,January 1998,VA\ ODU
+,modification,,through,
+,,,April 2000,
+MZ103,Hensen-Stempel Count with,macrozooplankton scan and,January 2000,VA\ ODU
+,special 850-micron sieve count,,through,
+,,,October 2002,
+Methods Comparisons,Methods Comparisons,,,
+A major benefit of having the archived Virginia mesozooplankton samples enumerated with the,A major benefit of having the archived Virginia mesozooplankton samples enumerated with the,A major benefit of having the archived Virginia mesozooplankton samples enumerated with the,A major benefit of having the archived Virginia mesozooplankton samples enumerated with the,A major benefit of having the archived Virginia mesozooplankton samples enumerated with the
+"Hensen-Stempel technique was that it allowed for two method comparisons to be made. First, it allowed","Hensen-Stempel technique was that it allowed for two method comparisons to be made. First, it allowed","Hensen-Stempel technique was that it allowed for two method comparisons to be made. First, it allowed","Hensen-Stempel technique was that it allowed for two method comparisons to be made. First, it allowed","Hensen-Stempel technique was that it allowed for two method comparisons to be made. First, it allowed"
+for a statistical comparison of Versar vs. ODU enumerated samples under identical enumeration,for a statistical comparison of Versar vs. ODU enumerated samples under identical enumeration,for a statistical comparison of Versar vs. ODU enumerated samples under identical enumeration,for a statistical comparison of Versar vs. ODU enumerated samples under identical enumeration,for a statistical comparison of Versar vs. ODU enumerated samples under identical enumeration
+"techniques to better assess data comparability of the data between laboratories. Second, it allowed for","techniques to better assess data comparability of the data between laboratories. Second, it allowed for","techniques to better assess data comparability of the data between laboratories. Second, it allowed for","techniques to better assess data comparability of the data between laboratories. Second, it allowed for","techniques to better assess data comparability of the data between laboratories. Second, it allowed for"
+the evaluation of the performance of correction factors developed for MZ102 (1993 – 1997 data). For both,the evaluation of the performance of correction factors developed for MZ102 (1993 – 1997 data). For both,the evaluation of the performance of correction factors developed for MZ102 (1993 – 1997 data). For both,the evaluation of the performance of correction factors developed for MZ102 (1993 – 1997 data). For both,the evaluation of the performance of correction factors developed for MZ102 (1993 – 1997 data). For both
+of these analyses sixteen commonly caclulated zooplankton metrics were calculated using protocol,of these analyses sixteen commonly caclulated zooplankton metrics were calculated using protocol,of these analyses sixteen commonly caclulated zooplankton metrics were calculated using protocol,of these analyses sixteen commonly caclulated zooplankton metrics were calculated using protocol,of these analyses sixteen commonly caclulated zooplankton metrics were calculated using protocol
+"described in (Carpenter et. al., 2006). The resulting data was first graphically assessed using log-log plots","described in (Carpenter et. al., 2006). The resulting data was first graphically assessed using log-log plots","described in (Carpenter et. al., 2006). The resulting data was first graphically assessed using log-log plots","described in (Carpenter et. al., 2006). The resulting data was first graphically assessed using log-log plots","described in (Carpenter et. al., 2006). The resulting data was first graphically assessed using log-log plots"
+(Appendix A) to detect any obvious trends or biases over a variety of commonly calculated zooplankton,(Appendix A) to detect any obvious trends or biases over a variety of commonly calculated zooplankton,(Appendix A) to detect any obvious trends or biases over a variety of commonly calculated zooplankton,(Appendix A) to detect any obvious trends or biases over a variety of commonly calculated zooplankton,(Appendix A) to detect any obvious trends or biases over a variety of commonly calculated zooplankton
+metrics (Table 2). Note that the units for all data are in number of organism* M -3. The dot color denotes,metrics (Table 2). Note that the units for all data are in number of organism* M -3. The dot color denotes,metrics (Table 2). Note that the units for all data are in number of organism* M -3. The dot color denotes,metrics (Table 2). Note that the units for all data are in number of organism* M -3. The dot color denotes,metrics (Table 2). Note that the units for all data are in number of organism* M -3. The dot color denotes
+the methods of enumeration being compared. CVS corrected data is denoted as method MZ102_C.,the methods of enumeration being compared. CVS corrected data is denoted as method MZ102_C.,the methods of enumeration being compared. CVS corrected data is denoted as method MZ102_C.,the methods of enumeration being compared. CVS corrected data is denoted as method MZ102_C.,the methods of enumeration being compared. CVS corrected data is denoted as method MZ102_C.
+,,7,,
+Three basic comparisons are shown: comparisons of Versar HS counts vs. corrected ODU CVS counts,Three basic comparisons are shown: comparisons of Versar HS counts vs. corrected ODU CVS counts
+"(MZ101C/MZ102_C), Versar HS counts vs. ODU HS counts (MZ101C/MZ103) and ODU HS counts vs.","(MZ101C/MZ102_C), Versar HS counts vs. ODU HS counts (MZ101C/MZ103) and ODU HS counts vs."
+corrected ODU CVS counts (MZ103/MZ102_C). Note that in the MZ101C/MZ102_C and MZ101C/MZ103,corrected ODU CVS counts (MZ103/MZ102_C). Note that in the MZ101C/MZ102_C and MZ101C/MZ103
+"comparisons, the MZ101C counts data are represented on the y-axis. The red one to one line indicates","comparisons, the MZ101C counts data are represented on the y-axis. The red one to one line indicates"
+where data points should fall if there were no significant differences between labs and counting methods.,where data points should fall if there were no significant differences between labs and counting methods.
+Differences in the various methods were evaluated using the Wilcoxon Matched- Pairs Signed-Ranks,Differences in the various methods were evaluated using the Wilcoxon Matched- Pairs Signed-Ranks
+Test on untransformed abundance values (Appendix B- Statistical Comparison of Versar Hensen-,Test on untransformed abundance values (Appendix B- Statistical Comparison of Versar Hensen-
+"Stempel counts and ODU Corrected Controlled Variability Sampling Method Counts by Parameter,","Stempel counts and ODU Corrected Controlled Variability Sampling Method Counts by Parameter,"
+Appendix C- Statistical Comparisons of Versar and ODU Hensen-Stempel Counts By Parameter).,Appendix C- Statistical Comparisons of Versar and ODU Hensen-Stempel Counts By Parameter).
+Table 2. Commonly computed mesozooplankton metrics used for method comparison. Parameters in the,Table 2. Commonly computed mesozooplankton metrics used for method comparison. Parameters in the
+zooplankton index of biotic integrety are denotes by * for polyhaline and # for mesohaline.,zooplankton index of biotic integrety are denotes by * for polyhaline and # for mesohaline.
+ACARTIA_ABUNDANCE #,BALANIDAE_ABUNDANCE ∗#
+BLUE_CRAB_ABUNDANCE,BOSMINA_ABUNDANCE
+CALANOIDA_ABUNDANCE,CLADOCERA_ABUNDANCE∗
+COPEPODA_ABUNDANCE ∗,CYCLOPOIDA_ABUNDANCE #
+EURYTEMORA_ABUNDANCE,HARPACTICOIDA_ABUNDANCE
+MARGALEFS_INDEX,PREDATOR_ABUNDANCE∗
+SIMPSON’S DIVERSITY,SHANNON- WEINER
+INDEX ∗,DIVERSITY INDEX
+TAXA_RICHNESS,TOTAL_ABUNDANCE ∗#
+"Through all comparisons Blue Crab abundance, Bosmina abundance, Eurytemora abundance, and","Through all comparisons Blue Crab abundance, Bosmina abundance, Eurytemora abundance, and"
+Harpacticoida abundance show significant variability. This variablility is likely a function of low organisms,Harpacticoida abundance show significant variability. This variablility is likely a function of low organisms
+encounter rates in the target season and/or salinity regimes rather than any method or laboratory biases.,encounter rates in the target season and/or salinity regimes rather than any method or laboratory biases.
+Versar HS vs. Corrected ODU CVS counts (MZ101C/MZ102_C) Comparisons,Versar HS vs. Corrected ODU CVS counts (MZ101C/MZ102_C) Comparisons
+The comparisons are based on 28 of the 78 recount samples and data are denoted as blue dots,The comparisons are based on 28 of the 78 recount samples and data are denoted as blue dots
+in all graphs in Appendix A with accompanying statistics in Appendix B. In zooplankton groups which are,in all graphs in Appendix A with accompanying statistics in Appendix B. In zooplankton groups which are
+"prevalent in summer (July- September) mesohaline and polyhaline waters (Acartia abundance, Balanidae","prevalent in summer (July- September) mesohaline and polyhaline waters (Acartia abundance, Balanidae"
+"abundance, Calanoida abundance, Cladocera abundance, Copepoda abundance, Predator abundance,","abundance, Calanoida abundance, Cladocera abundance, Copepoda abundance, Predator abundance,"
+Total Abundance) when density dropped below 1000 organisms*m -3 Versar was finding higher,Total Abundance) when density dropped below 1000 organisms*m -3 Versar was finding higher
+abundances. Above the 1000 organism per meter cubed threshold densities for all MZ102_C counts,abundances. Above the 1000 organism per meter cubed threshold densities for all MZ102_C counts
+between the labs converged. This seemed to be consistant with previous split sample findings (ICPRB,between the labs converged. This seemed to be consistant with previous split sample findings (ICPRB
+"2000). There was clear bias in Cyclopoida abundance, Versar counts were generally higher than ODU","2000). There was clear bias in Cyclopoida abundance, Versar counts were generally higher than ODU"
+"(Wilcoxon Signed Rank Test, S=113, P=
+    ","(Wilcoxon Signed Rank Test, S=113, P=
+    "
+polyhaline Zooplankton Index of Biotic Intergerty (ZIBI) (Carpenter etal. 2006) appear to be effective in,polyhaline Zooplankton Index of Biotic Intergerty (ZIBI) (Carpenter etal. 2006) appear to be effective in
+equilibrating abundance measurement to HS enumerated values in summer mesohaline and polyhaline,equilibrating abundance measurement to HS enumerated values in summer mesohaline and polyhaline
+region.,
+"Examination of the four measures of species diversity (Margalef’s index, Simpson’s diversity","Examination of the four measures of species diversity (Margalef’s index, Simpson’s diversity"
+"index, Shannon Weiner index, and taxa richness) provided mixed signals. Simple taxa richness (number","index, Shannon Weiner index, and taxa richness) provided mixed signals. Simple taxa richness (number"
+,8
+of species counted) and Margalef’s index both graphically and statistically shows a clear bias toward HS
+method consistently identifying more taxa than corrected CVS method counts (MZ101C/MZ102_C and
+MZ103/MZ102_C comparisons). This trend is consitant with previous split sample finding (ICPRB 2000)
+and contrary to the belief that the strength of the CVS method was that it allowed for rare and common
+abundant species to be enumerated with equal precision (Alden etal 1982) . These analyses also showed
+that Simpson’s diversity index and Shannon-Weiner index do not have the same bias. This was not
+unexpected because both Simpson’s and Shannon Weiner indexes are based on species proportion as
+"part of total abundance, which itself did not show any method biases (ICES, 2000)."
+Versar HS vs. ODU HS Count (MZ101C/MZ103) Comparisons
+"MZ101C/MZ103 comparisons were based 28 of the 78 recount samples, are denoted as green"
+dots in all graphs in Appendix A with accompanying statistics in Appendix C. Overall mesozooplankton
+data enumerated by Old Dominion University using Hensen-Stempel methodology are reasonably
+"compatible with Versar results. Just like the MZ101C/MZ102_C data, MZ101C/MZ103 also showed"
+density decline in common groups below 1000 organisms*m-3 with the same Versar bias. In regards to
+"species diversity Versar consistently found more taxa per sample than ODU (Wilcoxon Signed Rank Test,"
+"S=173.5, P= 
+    "
+Genus or other larger taxonomic levels before calculating diversity metrics.
+Refinement of CVS correction Factors
+"One short coming of the CVS correction factors developed for the ZIBI (Carpenter etal, 2006) was that"
+genus specific correction factors could not be calculated for all major groups due a low number of
+organism occurrences in the original 189 ODU Hensen Stempel recount samples. With the addition of
+the 72 Versar recounts samples it is possible to refine existing correction factors and calculate taxa
+"specific correction factors for Evadne sp., Labidocera sp., Leptodora sp., Podon sp, and Penilia sp.."
+Previously these taxa had been lumped into group correction factors. Updated correction factors were
+"calculated using the same procedure used in Carpenter et.al. 2006. First, all ""exclusion"" taxa were"
+removed from the data set (Table 2). Exclusion taxa are defined as those taxa appearing in the data set
+not considered to be true mesozooplankton or plankton not well sampled by bongo net protocols. Counts
+of all taxa identified to species were group to genus and summed. CVS and HS data were then matched
+"by station, date and taxa. Since zooplankton population usually have an underlying log normal"
+"distribution, correction factors were estimated using a log normalized geometric mean procedure"
+"(Gilbert,1987). The updated and ZIBI correction factors can be found in Table 3. For taxa groups where"
+"sample size was less than 5 in most cases, groups were pooled to calculate order or other higher level"
+taxonomic level conversion factor.
+9
+Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction,Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction,Equation 1) Log normal geometric mean calculation for zooplankton method MZ102 correction
+factors.,,
+,∑ log( HS _ count ) − log(CVS _ count ),
+anti log(,),
+,N,
+Where,,
+HS_Count = Taxa_Henson_Stemple_Count,,
+CVS_Count = Uncorrected_Taxa_CVS_Count,,
+N = Total_Numb er_of_samples_with_t axa,,
+Table 3. Current list of mesozooplankton exclusion species,,
+Acarina,Gammarus fasciatus,Micropogonias undulatus
+Actinopterygii,Gasterosteus aculeatus,Mnemiopsis brachei
+Aegathoa medialis,Globorotalia,Mnemiopsis leidyi
+Alosa,Gnathostomata,Mollusca
+Alosa mediocris,Gobiesox strumosus,Monoculodes
+Ammodytes americanus,Gobiidae,Morone
+Ampelisca abdita,Gobiosoma,Morone americana
+Amphioxus,Gobiosoma bosc,Morone saxatilis
+Anchoa,Gobiosoma ginsburgi,Myrophis punctatus
+Anchoa hepsetus,Haustoriidae,Mysidacea
+Anchoa mitchelli,Heteromysis formosa,Mytilus edulis
+Anthomedusae,Hexarthra,Nemertea
+Appendicularia,Hippocampus erectus,Nemopsis bachei
+Arachnida,Hydra carnea,Nudibranchia
+Arcidae,Hydrachnidae,Obelia
+Ascidiacea,Hydridae,Oxyurostylis smithi
+Atherinidae,Hydroida,Paracaprella tenuis
+Aurelia aurita,Hydrozoa,Paralichthys dentatus
+Bairdiella chrysoura,Hyperia,Parathemisto compressa
+Beroe ovata,Hyperiidae,Peprilus paru
+Bothidae,Hyporhamphus unifasciatus,Perca flavescens
+Bougainvillia rugosa,Hypsoblennius hentzi,Piscicolidae
+Brachionus,Leiostomus xanthurus,Platyhelminthes
+Brachionus calyciflorus,Lepomis macrochirus,Pleuronectes americanus
+Brachionus havanaensis,Leptocheirus,Pogonias cromis
+Branchiostoma caribaeum,Leptocheirus plumulosus,Rotifera
+Brevoortia tyrannus,Leptomedusae,Sciaenidae
+Caprella,Leucon americanus,Scophthalmus aquosus
+Caprella geometrica,Linvillea agassizi,Scyphozoa
+Chasmodes bosquianus,Lironeca redmanii,Semaeostomeae
+Chrysaora quinquecirrha,Loligo,Siphonophora
+Clupea harengus,Loligo pealeii,Solenidae
+Clupeidae,Lolliguncula brevis,Sphoeroides maculatus
+Cnidaria,Lucifer faxoni,Stenothoidae
+Crassostrea virginica,Melita,Symphurus plagiusa
+Ctenophora,Melita nitida,Syngnathus
+Cyanea capillata,Membras,Syngnathus fuscus
+Cyathura,Membras martinica,Thaliacea
+Cyathura polita,Menidia,Trinectes maculatus
+Cymothoidae,Menidia beryllina,Turbellaria
+Cynoscion Nebulosus,Menidia menidia,Unidentified Beads
+Cynoscion Regalis,Menticirrhus,Unidentified Invertebrate
+Cyprinidae,Menticirrhus saxatilis,Unidentified Larvae
+Dipurena strangulata,Mercenaria mercenaria,Unidentified Shrimp Zoea
+Eucheilota ventricularis,Metamysidopsis,Yoldia limatula
+Foraminiferida,Microgobius thalassinus,
+,10,
+Table 4. Updated and Original ZIBI CVS Correction Factors.,Table 4. Updated and Original ZIBI CVS Correction Factors.,Table 4. Updated and Original ZIBI CVS Correction Factors.,Table 4. Updated and Original ZIBI CVS Correction Factors.,Table 4. Updated and Original ZIBI CVS Correction Factors.,,,
+,UPDATED,,,,,,
+,UPDATED,UPDATED,ZIBI,ZIBI,,,DIFFERECE
+,CORRECTION,,,,APPLICATION,,
+TAXA,N,,CORRECTION,N,,NOTES,BETWEEN
+,FACTORS,,,,ORDER,,
+,SIZE,,FACTORS,SIZE,,,FACTORS
+ACARTIA,2.1596,89,1.9497 61,1.9497 61,PRIMARY,,0.2099
+ANNELIDA,3.1561,38,2.0008 31,2.0008 31,SECONDARY,,1.1553
+BALANIDAE CYPRIS,1.9517,46,1.3929 33,1.3929 33,PRIMARY,,0.5588
+BALANIDAE NAUPLII,3.8881,48,3.0553 40,3.0553 40,PRIMARY,,0.8328
+BIVALVIA,8.7725,18,8.3030 13,8.3030 13,SECONDARY,,0.4695
+BOSMINA,1.4911,33,1.8562 26,1.8562 26,PRIMARY,,-0.3651
+CENTROPAGES,3.2681,27,3.0151 26,3.0151 26,PRIMARY,,0.2530
+CHAETOGNATHA,7.2056,13,9.4861 12,9.4861 12,SECONDARY,,-2.2805
+CLADOCERA,0.6083,11,0.7905 11,0.7905 11,SECONDARY NO,,-0.1822
+,,,,,,"BOSMINA,DIAPHANOSOMA,",
+,,,,,,"PENILIA, PODONIDAE",
+,,,,,,(EVADNE & PODON) OR,
+,,,,,,LEPTODORA,
+COPEPODA,4.5430,84,,,TERTIARY,,
+CALANOIDA,1.3814,10,2.8256 6,2.8256 6,"SECONDARY NO ACARTIA,","SECONDARY NO ACARTIA,",-1.4442
+,,,,,,"EURYTEMORA,",
+,,,,,,"PARACLANUS, TEMORA,",
+,,,,,,"CENTROPAGES,",
+,,,,,,"PSEUDODIAPTOMUS,",
+,,,,,,LABIDOCERA,
+CYCLOPOIDA,1.0664,24,1.9579 21,1.9579 21,"SECONDARY NO OTHONIA,","SECONDARY NO OTHONIA,",-0.8915
+,,,,,,MESOCYCLOPS,
+DIAPHANOSOMA,0.6168,12,0.5869 11,0.5869 11,PRIMARY,,0.0299
+EURYTEMORA,1.8202,35,1.8559 32,1.8559 32,PRIMARY,,-0.0357
+EVADNE,3.7729,10,,NA,PRIMARY,PREVIOUSLY PODONIDAE,
+GASTROPODA,2.5601,28,1.7694 13,1.7694 13,PRIMARY,,0.7907
+HARPACTICOIDA,3.3654,21,2.6200 20,2.6200 20,SECONDARY,,0.7454
+INSECTA,9.1724,8,9.1724 8,9.1724 8,SECONDARY,,0.0000
+LABIDOCERA,1.8641,13,,NA,PRIMARY,PREVIOUSLY PART OF,
+,,,,,,CALANOID,
+LEPTODORA,4.5303,6,,NA,PRIMARY,PREVIOUSLY PART OF,
+,,,,,,CLADOCERA,
+MACROCRUSTACEAN,2.1909,66,1.9883 48,1.9883 48,SECONDARY INCLUDES ALL,SECONDARY INCLUDES ALL,0.2026
+,,,,,,MALACOSTRACA - EXCEPT,
+,,,,,,NEOMYSIS,
+MESOCYCLOPS,3.7734,19,3.3957 16,3.3957 16,PRIMARY,,0.3777
+NEOMYSIS,0.9711,20,1.1587 17,1.1587 17,PRIMARY,,-0.1876
+OITHONA,9.0220,24,5.6269 21,5.6269 21,PRIMARY,,3.3951
+OSTRACODA,5.0500,2,5.0500 2,5.0500 2,PRIMARY,,0.0000
+PARACALANUS,3.1415,14,2.5148 12,2.5148 12,PRIMARY,,0.6267
+PENILIA,3.3571,8,,NA,PRIMARY,PREVIOUSLY PART OF,
+,,,,,,CLADOCERA,
+PHORONIDAE,3.0104,5,7.4087 2,7.4087 2,PRIMARY,,-4.3983
+PODON,1.0567,12,,NA,PRIMARY,PREVIOUSLY PART OF,
+,,,,,,PODONIDAE,
+POLYCHAETA,1.0150,2,1.7975 1,1.7975 1,PRIMARY,,-0.7825
+PSEUDODIAPTOMUS,10.9016,12,8.4097 10,8.4097 10,PRIMARY,,2.4919
+SAGITTA,8.7535,14,9.4610 13,9.4610 13,PRIMARY,,-0.7075
+TEMORA,2.7523,14,2.7523 14,2.7523 14,PRIMARY,,0.0000
+,,,11,,,,
+Validation of Zooplankton Indices of Biotic Integrity,Validation of Zooplankton Indices of Biotic Integrity
+"Independent validations of the published polyhaline ZIBI (Carpenter et al., 2006) and the","Independent validations of the published polyhaline ZIBI (Carpenter et al., 2006) and the"
+mesohaline ZIBI (Sillett et al. 2005) still under development were performed using counts of the archive,mesohaline ZIBI (Sillett et al. 2005) still under development were performed using counts of the archive
+samples.,"Of the 72 archive samples counted by Versar with Hensen-Stempel method (MZ101C), 32"
+were from polyhaline regions and 31 were from mesohaline regions of the Bay (Appendix E). Another 9,were from polyhaline regions and 31 were from mesohaline regions of the Bay (Appendix E). Another 9
+samples were from areas of known salinity but had no acceptably matching water quality data based on,samples were from areas of known salinity but had no acceptably matching water quality data based on
+"the protocol used in the development of both ZIBI’s (Carpenter et al., 2006, Sillett et al., 2005). These 9","the protocol used in the development of both ZIBI’s (Carpenter et al., 2006, Sillett et al., 2005). These 9"
+samples were not used for validation purposes. Of the 87 archived samples enumerated by ODU with,samples were not used for validation purposes. Of the 87 archived samples enumerated by ODU with
+"the Hensen-Stempel method (MZ103), 38 samples were of the correct season and salinity zones (11","the Hensen-Stempel method (MZ103), 38 samples were of the correct season and salinity zones (11"
+"mesohaline, 27 polyhaline) to be used in the IBI validation. Rotifer data for the IBI calculations were","mesohaline, 27 polyhaline) to be used in the IBI validation. Rotifer data for the IBI calculations were"
+drawn from the separate Virginia and Maryland microzooplankton data sets.,drawn from the separate Virginia and Maryland microzooplankton data sets.
+"The overall mesohaline ZIBI validated well, correctly identifying all the BAD (degraded) sites and","The overall mesohaline ZIBI validated well, correctly identifying all the BAD (degraded) sites and"
+"the one GOOD (least-impaired) site, and identifying approximately half (57.9%) of the MIXED sites as","the one GOOD (least-impaired) site, and identifying approximately half (57.9%) of the MIXED sites as"
+impaired. These results validate the draft mesohaline ZIBI as a potential management tool. Discrimination,impaired. These results validate the draft mesohaline ZIBI as a potential management tool. Discrimination
+"efficiencies of most of the component metrics also performed well. However, the balanidae larvae","efficiencies of most of the component metrics also performed well. However, the balanidae larvae"
+"discrimination efficiency was low (
+    ","discrimination efficiency was low (
+    "
+set used to develop the mesohaline ZIBI was only 63.2%. The combined calibration and validation,set used to develop the mesohaline ZIBI was only 63.2%. The combined calibration and validation
+results put into question the usefulness of balanidae larvae as a metric sensitive to habitat conditions as,results put into question the usefulness of balanidae larvae as a metric sensitive to habitat conditions as
+they were defined for purposes of building an IBI.,The rotifer discrimination efficiency was borderline
+(45.5%) in BAD habitats in the validation data set; it was high (80%) in GOOD habitats and relatively low,(45.5%) in BAD habitats in the validation data set; it was high (80%) in GOOD habitats and relatively low
+(57.6%) in BAD habitats in the calibration data set.,"These results suggest that, barring any taxonomic"
+"identification differences between the states, rotifer abundance may be a robust indicator of least-","identification differences between the states, rotifer abundance may be a robust indicator of least-"
+impaired (GOOD) conditions but not of degraded (BAD) conditions.,impaired (GOOD) conditions but not of degraded (BAD) conditions.
+The validation results for the polyhaline ZIBI suggest the original metric scoring thresholds should,The validation results for the polyhaline ZIBI suggest the original metric scoring thresholds should
+be recalculated. The polyhaline ZIBI scoring thresholds were developed from a combination of MZ102,be recalculated. The polyhaline ZIBI scoring thresholds were developed from a combination of MZ102
+data adjusted with the original correction factors (1993 – 1997) and MZ103 data (2000 – 2002). The,data adjusted with the original correction factors (1993 – 1997) and MZ103 data (2000 – 2002). The
+addition of the Versar Hensen-Stempel counts of archived polyhaline samples (MZ101C) to the ODU,addition of the Versar Hensen-Stempel counts of archived polyhaline samples (MZ101C) to the ODU
+"Hensen-Stempel counts of archived samples (MZ103) produced updated correction factors (Table 2),","Hensen-Stempel counts of archived samples (MZ103) produced updated correction factors (Table 2),"
+with differences ranging from -146% to +38%. These new correction factors will further adjust the original,with differences ranging from -146% to +38%. These new correction factors will further adjust the original
+MZ102 data values in the calibration data set. They can be expected to change the original metric,MZ102 data values in the calibration data set. They can be expected to change the original metric
+"scoring thresholds of the polyhaline ZIBI. Despite this, the original polyhaline ZIBI thresholds correctly","scoring thresholds of the polyhaline ZIBI. Despite this, the original polyhaline ZIBI thresholds correctly"
+"classified 72.7% of the BAD sites in the validation data set, as compared to 93.6% in the original,","classified 72.7% of the BAD sites in the validation data set, as compared to 93.6% in the original,"
+"calibration data set. Discrimination efficiencies for the copepod (sum of all copepod taxa), rotifer, and total","calibration data set. Discrimination efficiencies for the copepod (sum of all copepod taxa), rotifer, and total"
+"mesozooplankton abundance metrics were poor, however.","mesozooplankton abundance metrics were poor, however."
+The current ZIBI validation efforts suggest that more counts of archived samples from reference,The current ZIBI validation efforts suggest that more counts of archived samples from reference
+conditions are required for a thorough evaluation of indices. The original development process for the,conditions are required for a thorough evaluation of indices. The original development process for the
+,12
+polyhaline ZIBI should be repeated and new metric scoring thresholds calculated. The new calibration
+data set should include the MZ102 data adjusted with the latest correction factors and all the Versar and
+ODU counts of archived samples be used in the development and validation of the new scoring
+thresholds.
+13
+Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the mesohaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,The numbers and,The numbers and
+percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) and GOOD (least-impaired) habitat conditions are shown.
+The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,The numbers and percentages of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,
+,MESOHALINE_,MESOHALINE_,ACARTIA_,BALANIDAE_,CYCLOPOIDA_,CYCLOPOIDA_,ROTIFERS_,TOTAL_,ZIBI_,
+,WQ CATEGORY,WQ CATEGORY,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,SCORE,
+,"Score 
+    ","Score 
+    ",21,2,,17,10,20,22,
+,Total n of BAD habitats,Total n of BAD habitats,22,22,,22,22,22,22,
+,Percent,Percent,95.5%,9.1%,,77.3%,45.5%,91.0%,100.00%,
+,Score >=3,Score >=3,1,0,,1,1,1,1,
+,Total n of GOOD habitats,Total n of GOOD habitats,1,1,,1,1,1,1,
+,Percent,Percent,100.0%,0.0%,,100.0%,100.0%,100.0%,100.0%,
+,"Score 
+    ","Score 
+    ",8,7,,16,5,9,11,
+,Total n of MIXED habitats,Total n of MIXED habitats,19,19,,19,19,19,19,
+,Percent,Percent,42.1%,36.8%,,84.2%,26.3%,47.4%,57.9%,
+Table 5.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,Classification efficiencies for the polyhaline ZIBI and discrimination efficiencies of the individual ZIBI metrics.,The numbers and
+percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages,percentages of samples whose metrics or IBI score correctly identify BAD (impaired) habitat conditions are shown. The numbers and percentages
+of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,of MIXED habitat conditions identified by the IBI as impaired (~50% expected) are also shown.,,,
+,POLYHALINE_,BALANIDAE_,CLADOCERA_,COPEPODA_,COPEPODA_,PREDITOR_,ROTIFERS_,SIMPSON_,TOTAL_,ZIBI_
+,WQ CATEGORY,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,ABUNDANCE,DIVERSITY,ABUNDANCE,SCORE
+,"Score 
+    ",16,27,25,,33,21,29,29,37
+,Total n of MIXED habitats,48,48,48,,48,48,48,48,48
+,Percent,33.3%,56.3%,52.1%,,68.8%,43.8%,60.4%,60.4%,77.1%
+,"Score 
+    ",8,8,3,,10,4,11,3,8
+,Total n of BAD habitats,11,11,11,,11,11,11,11,11
+,Percent,72.7%,72.7%,27.3%,,90.1%,36.4%,100.0%,27.3%,72.7%
+,,,,,14,,,,,
+References
+"Alden, R. W. III., Dahiya, R. C., & R. J. Young, Jr. (1982). A Method For The Enumeration Of"
+"Zooplankton Samples. Journal of Experimental Marine Biology & Ecology, 59, 185-209."
+"Buchanan, C., Lacouture, R. V., Marshall, H. G., Olson, M., & Johnson, J. (2005). Phytoplankton"
+"Reference Communities For Chesapeake Bay And Its Tidal Tributaries. Estuaries 28(1), 139-159."
+"Carpenter, K., Crock, F.B., and Lane, M.F. (2003) A Comparison Of The Hensen-Stempel Pipette And"
+Coefficient Of Variation Stabilizing Method Of Counting Mesozooplankton Using Archived Samples And
+"Historic Data. A report to the Virginia Department of Environmental Quality, Richmond, VA."
+"Carpenter, K., Johnson, J.M. and Buchanan, C. (2006) An Index Of Biotic Integrity Based On The"
+Summer Polyhaline Zooplankton Community Of The Chesapeake Bay. Marine Environmental Research
+62:165-180
+"Gilbert, R.O. (1987) Statistical Methods for Environmental Pollution Monitoring. Van Nostrand Reinhold,"
+New York. pp320.
+"Harris, R, Wieber, P., Lenz, J., Shjoldal, H., & Huntley, M. (2000). ICES Zooplankton Methodology"
+Manual. New York: Academic Press.
+Interstate Commission on the Potomac River Basin. (2000). Split Sampling Study for the Maryland and
+Virginia Mesozooplankton Monitoring Programs. ICPRB Report 00-3 Final Report June 2000. ICPRB
+Report 00-3. 88 p.
+"Sillett, K., Johnson, J.M., Buchanan, C. Sellner, S., Burton, W. (2005) Development of a Zooplankton"
+Index of Biotic Integrity for Summer Mesohaline Conditions in Chesapeake Bay (manuscript)
+15
+16
+APPENDIX A. Graphical Comparison of Recount Parameters by
+Enumeration Method
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+APPENDIX B. Statistical Comparisons of Versar Hensen-Stempel and
+ODU Corrected Controlled Variability Sampling Method Count
+Samples by Parameter
+27
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-----------------------,-----------------------,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,,,ODU_IBI_,
+STATION,dateonly,dateonly,,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,,769.56,769.56,769.56,,1071.94,-302.38
+CB6.1,24JUL1996,24JUL1996,,10788.86,10788.86,10788.86,,3983.14,6805.73
+CB6.1,05AUG1996,05AUG1996,,44850.79,44850.79,44850.79,,534512.80,-489662.01
+CB6.1,26AUG1996,26AUG1996,,58498.28,58498.28,58498.28,,38561.37,19936.91
+CB6.1,08SEP1997,08SEP1997,,2903.43,2903.43,2903.43,,9544.20,-6640.77
+CB6.4,05AUG1996,05AUG1996,,40958.39,40958.39,40958.39,,22540.21,18418.18
+CB6.4,12AUG1997,12AUG1997,,6394.01,6394.01,6394.01,,1327.05,5066.96
+CB7.3E,07AUG1996,07AUG1996,,31771.43,31771.43,31771.43,,77374.20,-45602.77
+CB7.3E,15JUL1997,15JUL1997,,8497.21,8497.21,8497.21,,5095.66,3401.55
+CB7.4,22JUL1996,22JUL1996,,1934.49,1934.49,1934.49,,2492.86,-558.36
+CB7.4,13AUG1997,13AUG1997,,4221.73,4221.73,4221.73,,413.71,3808.02
+LE3.6,09JUL1996,09JUL1996,,526.89,526.89,526.89,,438.73,88.15
+LE3.6,24JUL1996,24JUL1996,,6497.46,6497.46,6497.46,,9608.25,-3110.79
+LE3.6,05AUG1996,05AUG1996,,41349.44,41349.44,41349.44,,10187.98,31161.45
+LE3.6,26AUG1996,26AUG1996,,14928.87,14928.87,14928.87,,8322.99,6605.89
+LE3.6,15JUL1997,15JUL1997,,7052.81,7052.81,7052.81,,7114.82,-62.01
+LE5.5,22JUL1996,22JUL1996,,7705.48,7705.48,7705.48,,5924.15,1781.33
+RET4.3,10JUL1996,10JUL1996,,11.05,11.05,11.05,,1.50,9.54
+RET4.3,24JUL1996,24JUL1996,,370.66,370.66,370.66,,380.75,-10.09
+RET4.3,06AUG1996,06AUG1996,,115.31,115.31,115.31,,169.16,-53.85
+RET4.3,10JUL1997,10JUL1997,,136.58,136.58,136.58,,54.72,81.86
+RET4.3,23JUL1997,23JUL1997,,377.31,377.31,377.31,,100.30,277.01
+RET5.2,23SEP1997,23SEP1997,,1418.90,1418.90,1418.90,,580.32,838.58
+SBE5,08JUL1996,08JUL1996,,2634.63,2634.63,2634.63,,2519.27,115.36
+SBE5,23JUL1996,23JUL1996,,590.12,590.12,590.12,,1201.66,-611.54
+SBE5,08JUL1997,08JUL1997,,14651.72,14651.72,14651.72,,627.53,14024.19
+WE4.2,24JUL1996,24JUL1996,,17501.95,17501.95,17501.95,,6317.93,11184.02
+WE4.2,05AUG1996,05AUG1996,,9316.48,9316.48,9316.48,,105451.42,-96134.95
+-----------------------,-----------------------,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,IBI_METRIC=ACARTIA_ABUND,-----------------------,-----------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-18540.9,-18540.9,Std,Deviation,Deviation,Deviation,,,95004
+Median,101.8,101.8,Variance,Variance,Variance,,,,9025732309
+Mode,,.,Range,Range,,,,,520823
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,6267
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-1.03269,-1.03269,,Pr,>,|t|,0.3109
+Sign,,M,,3,,Pr,>=,|M|,0.3449
+Signed,Rank,S,,50,,Pr,>=,|S|,0.2623
+,,,,,28,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,----------------------,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,,3.02,3.02,,2.12,0.90
+CB6.1,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,7.80,-7.80
+CB6.1,05AUG1996,05AUG1996,05AUG1996,,8.63,8.63,,0.00,8.63
+CB6.1,26AUG1996,26AUG1996,26AUG1996,,0.00,0.00,,0.37,-0.37
+CB6.1,08SEP1997,08SEP1997,08SEP1997,,2.17,2.17,,0.00,2.17
+CB6.4,05AUG1996,05AUG1996,05AUG1996,63.05,63.05,63.05,,693.31,-630.26
+CB6.4,12AUG1997,12AUG1997,12AUG1997,11.86,11.86,11.86,,2.47,9.39
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,185.71,185.71,185.71,,0.00,185.71
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,129.49,129.49,129.49,,370.90,-241.41
+CB7.4,22JUL1996,22JUL1996,22JUL1996,11.74,11.74,11.74,,34.30,-22.55
+CB7.4,13AUG1997,13AUG1997,13AUG1997,35.08,35.08,35.08,,0.00,35.08
+LE3.6,09JUL1996,09JUL1996,09JUL1996,15.20,15.20,15.20,,27.29,-12.09
+LE3.6,24JUL1996,24JUL1996,24JUL1996,28.55,28.55,28.55,,0.00,28.55
+LE3.6,05AUG1996,05AUG1996,05AUG1996,73.84,73.84,73.84,,11.21,62.63
+LE3.6,26AUG1996,26AUG1996,26AUG1996,,4.18,4.18,,1.23,2.96
+LE3.6,15JUL1997,15JUL1997,15JUL1997,34.26,34.26,34.26,,3.57,30.69
+LE5.5,22JUL1996,22JUL1996,22JUL1996,673.34,673.34,673.34,,350.20,323.14
+RET4.3,10JUL1996,10JUL1996,10JUL1996,,0.51,0.51,,0.79,-0.27
+RET4.3,24JUL1996,24JUL1996,24JUL1996,,5.06,5.06,,4.65,0.40
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.37,0.37,,0.00,0.37
+RET4.3,10JUL1997,10JUL1997,10JUL1997,14.59,14.59,14.59,,21.61,-7.02
+RET4.3,23JUL1997,23JUL1997,23JUL1997,,3.24,3.24,,1.68,1.56
+RET5.2,23SEP1997,23SEP1997,23SEP1997,1181.37,1181.37,1181.37,,1162.84,18.53
+SBE5,08JUL1996,08JUL1996,08JUL1996,722.10,722.10,722.10,,351.55,370.54
+SBE5,23JUL1996,23JUL1996,23JUL1996,,7.50,7.50,,0.00,7.50
+SBE5,08JUL1997,08JUL1997,08JUL1997,2925.67,2925.67,2925.67,,17.83,2907.85
+WE4.2,24JUL1996,24JUL1996,24JUL1996,175.28,175.28,175.28,,47.25,128.03
+WE4.2,05AUG1996,05AUG1996,05AUG1996,342.35,342.35,342.35,,179.86,162.48
+----------------------,----------------------,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,IBI_METRIC=BALANIDAE_ABUND,----------------------,----------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,diff,diff,,,
+,,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,120.1910,120.1910,Std,Deviation,Deviation,Deviation,,,571.99641
+Median,5.2290,5.2290,Variance,Variance,Variance,,,,327180
+Mode,.,,Range,Range,,,,,3538
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,49.17450
+,,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,1.111879,1.111879,,Pr,>,|t|,0.2760
+Sign,,M,,6,,Pr,>=,|M|,0.0357
+Signed,Rank,S,,99,,Pr,>=,|S|,0.0212
+,,,,,29,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,,0.000,0.000,,0.000,0.000
+CB6.1,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+CB6.1,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+CB6.1,26AUG1996,26AUG1996,26AUG1996,,0.000,0.000,,0.000,0.000
+CB6.1,08SEP1997,08SEP1997,08SEP1997,,0.000,0.000,,0.000,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+CB6.4,12AUG1997,12AUG1997,12AUG1997,,0.000,0.000,,0.000,0.000
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,,0.000,0.000,,0.000,0.000
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,,0.000,0.000,,0.000,0.000
+CB7.4,22JUL1996,22JUL1996,22JUL1996,,0.000,0.000,,0.000,0.000
+CB7.4,13AUG1997,13AUG1997,13AUG1997,,0.000,0.000,,0.000,0.000
+LE3.6,09JUL1996,09JUL1996,09JUL1996,,0.000,0.000,,0.000,0.000
+LE3.6,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+LE3.6,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+LE3.6,26AUG1996,26AUG1996,26AUG1996,,0.034,0.034,,0.000,0.034
+LE3.6,15JUL1997,15JUL1997,15JUL1997,,0.018,0.018,,0.145,-0.127
+LE5.5,22JUL1996,22JUL1996,22JUL1996,,0.000,0.000,,0.000,0.000
+RET4.3,10JUL1996,10JUL1996,10JUL1996,,0.000,0.000,,0.384,-0.384
+RET4.3,24JUL1996,24JUL1996,24JUL1996,22.311,22.311,22.311,,27.254,-4.943
+RET4.3,06AUG1996,06AUG1996,06AUG1996,11.415,11.415,11.415,,36.344,-24.929
+RET4.3,10JUL1997,10JUL1997,10JUL1997,12.376,12.376,12.376,,1.758,10.618
+RET4.3,23JUL1997,23JUL1997,23JUL1997,,0.810,0.810,,2.191,-1.381
+RET5.2,23SEP1997,23SEP1997,23SEP1997,,0.853,0.853,,1.171,-0.318
+SBE5,08JUL1996,08JUL1996,08JUL1996,,0.116,0.116,,0.461,-0.345
+SBE5,23JUL1996,23JUL1996,23JUL1996,,0.750,0.750,,0.000,0.750
+SBE5,08JUL1997,08JUL1997,08JUL1997,,5.004,5.004,,0.954,4.050
+WE4.2,24JUL1996,24JUL1996,24JUL1996,,0.130,0.130,,13.526,-13.396
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+----------------------,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,IBI_METRIC=BLUE_CRAB_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-1.08468,,Std,Deviation,Deviation,Deviation,,,5.85123
+Median,0.00000,,Variance,Variance,Variance,,,,34.23694
+Mode,0.00000,,Range,Range,,,,,35.54700
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.22250
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.98092,-0.98092,,Pr,>,|t|,0.3353
+Sign,,M,,-2,,Pr,>=,|M|,0.3877
+Signed,Rank,S,,-14,,Pr,>=,|S|,0.3013
+,,,,,30,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-----------------------,-----------------------,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,26AUG1996,26AUG1996,26AUG1996,0.000,0.000,0.000,,1.943,-1.943
+CB6.1,08SEP1997,08SEP1997,08SEP1997,0.000,0.000,0.000,,0.000,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.4,12AUG1997,12AUG1997,12AUG1997,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,0.000,0.000,0.000,,0.000,0.000
+CB7.4,22JUL1996,22JUL1996,22JUL1996,12.644,12.644,12.644,,0.000,12.644
+CB7.4,13AUG1997,13AUG1997,13AUG1997,0.000,0.000,0.000,,0.000,0.000
+LE3.6,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.720,-0.720
+LE3.6,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.377,-0.377
+LE3.6,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,150.486,-150.486
+LE3.6,26AUG1996,26AUG1996,26AUG1996,0.000,0.000,0.000,,0.000,0.000
+LE3.6,15JUL1997,15JUL1997,15JUL1997,0.000,0.000,0.000,,0.000,0.000
+LE5.5,22JUL1996,22JUL1996,22JUL1996,0.000,0.000,0.000,,0.000,0.000
+RET4.3,10JUL1996,10JUL1996,10JUL1996,2.569,2.569,2.569,,11.681,-9.112
+RET4.3,24JUL1996,24JUL1996,24JUL1996,8.032,8.032,8.032,,7.510,0.522
+RET4.3,06AUG1996,06AUG1996,06AUG1996,1.105,1.105,1.105,,11.620,-10.515
+RET4.3,10JUL1997,10JUL1997,10JUL1997,4.862,4.862,4.862,,13.639,-8.777
+RET4.3,23JUL1997,23JUL1997,23JUL1997,2.431,2.431,2.431,,2.174,0.257
+RET5.2,23SEP1997,23SEP1997,23SEP1997,8.656,8.656,8.656,,7.648,1.008
+SBE5,08JUL1996,08JUL1996,08JUL1996,11.921,11.921,11.921,,165.545,-153.624
+SBE5,23JUL1996,23JUL1996,23JUL1996,1.125,1.125,1.125,,0.000,1.125
+SBE5,08JUL1997,08JUL1997,08JUL1997,0.000,0.000,0.000,,0.297,-0.297
+WE4.2,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.781,-0.781
+-----------------------,-----------------------,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,IBI_METRIC=BOSMINA_ABUND,-----------------------,-----------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-11.4670,-11.4670,Std,Deviation,Deviation,Deviation,,,39.90862
+Median,0.0000,0.0000,Variance,Variance,Variance,,,,1593
+Mode,0.0000,0.0000,Range,Range,,,,,166.26800
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.75050
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-1.52041,-1.52041,,Pr,>,|t|,0.1400
+Sign,,M,,-2.5,,Pr,>=,|M|,0.3018
+Signed,Rank,S,,-27,,Pr,>=,|S|,0.1354
+,,,,,31,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,,,ODU_IBI_,
+STATION,dateonly,dateonly,,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,,769.56,769.56,769.56,,1071.94,-302.38
+CB6.1,24JUL1996,24JUL1996,,10788.90,10788.90,10788.90,,3983.14,6805.76
+CB6.1,05AUG1996,05AUG1996,,44850.79,44850.79,44850.79,,534512.80,-489662.01
+CB6.1,26AUG1996,26AUG1996,,58675.02,58675.02,58675.02,,38561.37,20113.65
+CB6.1,08SEP1997,08SEP1997,,2946.58,2946.58,2946.58,,9551.70,-6605.13
+CB6.4,05AUG1996,05AUG1996,,40971.10,40971.10,40971.10,,22540.21,18430.89
+CB6.4,12AUG1997,12AUG1997,,6484.47,6484.47,6484.47,,1327.05,5157.41
+CB7.3E,07AUG1996,07AUG1996,,31914.40,31914.40,31914.40,,77375.50,-45461.10
+CB7.3E,15JUL1997,15JUL1997,,8751.22,8751.22,8751.22,,5133.46,3617.76
+CB7.4,22JUL1996,22JUL1996,,1954.36,1954.36,1954.36,,2505.52,-551.16
+CB7.4,13AUG1997,13AUG1997,,5683.55,5683.55,5683.55,,988.88,4694.67
+LE3.6,09JUL1996,09JUL1996,,526.89,526.89,526.89,,438.73,88.15
+LE3.6,24JUL1996,24JUL1996,,6500.64,6500.64,6500.64,,9608.25,-3107.61
+LE3.6,05AUG1996,05AUG1996,,41354.44,41354.44,41354.44,,10188.76,31165.68
+LE3.6,26AUG1996,26AUG1996,,14941.88,14941.88,14941.88,,8325.44,6616.43
+LE3.6,15JUL1997,15JUL1997,,7055.09,7055.09,7055.09,,7115.22,-60.13
+LE5.5,22JUL1996,22JUL1996,,7705.51,7705.51,7705.51,,5924.15,1781.35
+RET4.3,10JUL1996,10JUL1996,,11.05,11.05,11.05,,1.50,9.54
+RET4.3,24JUL1996,24JUL1996,,371.55,371.55,371.55,,382.25,-10.70
+RET4.3,06AUG1996,06AUG1996,,115.31,115.31,115.31,,169.62,-54.32
+RET4.3,10JUL1997,10JUL1997,,137.46,137.46,137.46,,56.36,81.10
+RET4.3,23JUL1997,23JUL1997,,377.72,377.72,377.72,,100.30,277.41
+RET5.2,23SEP1997,23SEP1997,,1420.63,1420.63,1420.63,,581.41,839.22
+SBE5,08JUL1996,08JUL1996,,2634.66,2634.66,2634.66,,2519.27,115.38
+SBE5,23JUL1996,23JUL1996,,591.24,591.24,591.24,,1201.66,-610.42
+SBE5,08JUL1997,08JUL1997,,14676.74,14676.74,14676.74,,632.94,14043.80
+WE4.2,24JUL1996,24JUL1996,,17502.00,17502.00,17502.00,,6318.07,11183.93
+WE4.2,05AUG1996,05AUG1996,,9316.48,9316.48,9316.48,,107781.02,-98464.54
+----------------------,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,IBI_METRIC=CALANOIDA_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-18566.7,,Std,Deviation,Deviation,Deviation,,,95088
+Median,101.8,,Variance,Variance,Variance,,,,9041717642
+Mode,.,,Range,Range,,,,,520828
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,6314
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-1.03321,-1.03321,,Pr,>,|t|,0.3107
+Sign,,M,,3,,Pr,>=,|M|,0.3449
+Signed,Rank,S,,51,,Pr,>=,|S|,0.2527
+,,,,,32,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,,0.00,0.00,,0.00,0.00
+CB6.1,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,0.00,0.00
+CB6.1,05AUG1996,05AUG1996,05AUG1996,,4.31,4.31,,0.00,4.31
+CB6.1,26AUG1996,26AUG1996,26AUG1996,,20.45,20.45,,212.34,-191.90
+CB6.1,08SEP1997,08SEP1997,08SEP1997,,45.48,45.48,,130.72,-85.24
+CB6.4,05AUG1996,05AUG1996,05AUG1996,346.81,346.81,346.81,,762.25,-415.44
+CB6.4,12AUG1997,12AUG1997,12AUG1997,349.86,349.86,349.86,,21.04,328.82
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,5454.76,5454.76,5454.76,,4889.36,565.40
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,,0.00,0.00,,0.00,0.00
+CB7.4,22JUL1996,22JUL1996,22JUL1996,,18.97,18.97,,19.49,-0.52
+CB7.4,13AUG1997,13AUG1997,13AUG1997,12314.35,12314.35,12314.35,,1119.47,11194.88
+LE3.6,09JUL1996,09JUL1996,09JUL1996,,0.00,0.00,,0.72,-0.72
+LE3.6,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,58.08,-58.08
+LE3.6,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,150.59,-150.59
+LE3.6,26AUG1996,26AUG1996,26AUG1996,,41.84,41.84,,21.91,19.93
+LE3.6,15JUL1997,15JUL1997,15JUL1997,,0.00,0.00,,0.00,0.00
+LE5.5,22JUL1996,22JUL1996,22JUL1996,,0.00,0.00,,0.00,0.00
+RET4.3,10JUL1996,10JUL1996,10JUL1996,,2.57,2.57,,11.68,-9.11
+RET4.3,24JUL1996,24JUL1996,24JUL1996,,8.33,8.33,,7.51,0.82
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,1.11,1.11,,11.82,-10.71
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,16.80,16.80,,71.74,-54.94
+RET4.3,23JUL1997,23JUL1997,23JUL1997,,5.67,5.67,,13.88,-8.21
+RET5.2,23SEP1997,23SEP1997,23SEP1997,,8.66,8.66,,7.65,1.01
+SBE5,08JUL1996,08JUL1996,08JUL1996,,11.92,11.92,,165.55,-153.62
+SBE5,23JUL1996,23JUL1996,23JUL1996,,1.13,1.13,,0.00,1.13
+SBE5,08JUL1997,08JUL1997,08JUL1997,,0.00,0.00,,0.30,-0.30
+WE4.2,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,0.00,0.00
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.78,-0.78
+----------------------,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,IBI_METRIC=CLADOCERA_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,392.0048,,Std,Deviation,Deviation,Deviation,,,2123
+Median,-0.1485,,Variance,Variance,Variance,,,,4508162
+Mode,0.0000,,Range,Range,,,,,11610
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,33.74000
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,0.976946,0.976946,,Pr,>,|t|,0.3373
+Sign,,M,,-3,,Pr,>=,|M|,0.2863
+Signed,Rank,S,,-26.5,,Pr,>=,|S|,0.4022
+,,,,,33,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,,,ODU_IBI_,
+STATION,dateonly,dateonly,,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,,776.35,776.35,776.35,,1073.06,-296.71
+CB6.1,24JUL1996,24JUL1996,,10919.41,10919.41,10919.41,,3983.14,6936.27
+CB6.1,05AUG1996,05AUG1996,,46637.63,46637.63,46637.63,,534512.80,-487875.17
+CB6.1,26AUG1996,26AUG1996,,58875.41,58875.41,58875.41,,38571.22,20304.19
+CB6.1,08SEP1997,08SEP1997,,3234.63,3234.63,3234.63,,9558.62,-6323.99
+CB6.4,05AUG1996,05AUG1996,,41475.51,41475.51,41475.51,,22540.78,18934.73
+CB6.4,12AUG1997,12AUG1997,,8928.39,8928.39,8928.39,,1327.05,7601.34
+CB7.3E,07AUG1996,07AUG1996,,33135.83,33135.83,33135.83,,77385.79,-44249.96
+CB7.3E,15JUL1997,15JUL1997,,8803.02,8803.02,8803.02,,5133.72,3669.30
+CB7.4,22JUL1996,22JUL1996,,1958.88,1958.88,1958.88,,2505.52,-546.64
+CB7.4,13AUG1997,13AUG1997,,6478.77,6478.77,6478.77,,1005.49,5473.29
+LE3.6,09JUL1996,09JUL1996,,527.65,527.65,527.65,,438.73,88.91
+LE3.6,24JUL1996,24JUL1996,,6637.06,6637.06,6637.06,,9745.10,-3108.04
+LE3.6,05AUG1996,05AUG1996,,43540.05,43540.05,43540.05,,10189.17,33350.88
+LE3.6,26AUG1996,26AUG1996,,14958.61,14958.61,14958.61,,8325.44,6633.17
+LE3.6,15JUL1997,15JUL1997,,7055.09,7055.09,7055.09,,7115.22,-60.13
+LE5.5,22JUL1996,22JUL1996,,7783.10,7783.10,7783.10,,5924.15,1858.94
+RET4.3,10JUL1996,10JUL1996,,11.30,11.30,11.30,,1.65,9.66
+RET4.3,24JUL1996,24JUL1996,,375.42,375.42,375.42,,387.62,-12.20
+RET4.3,06AUG1996,06AUG1996,,115.67,115.67,115.67,,169.95,-54.28
+RET4.3,10JUL1997,10JUL1997,,177.24,177.24,177.24,,64.24,113.00
+RET4.3,23JUL1997,23JUL1997,,378.12,378.12,378.12,,100.30,277.82
+RET5.2,23SEP1997,23SEP1997,,1424.10,1424.10,1424.10,,581.81,842.28
+SBE5,08JUL1996,08JUL1996,,2636.36,2636.36,2636.36,,2519.27,117.09
+SBE5,23JUL1996,23JUL1996,,592.74,592.74,592.74,,1201.66,-608.92
+SBE5,08JUL1997,08JUL1997,,14681.75,14681.75,14681.75,,632.94,14048.80
+WE4.2,24JUL1996,24JUL1996,,17586.39,17586.39,17586.39,,6318.07,11268.32
+WE4.2,05AUG1996,05AUG1996,,9328.18,9328.18,9328.18,,107781.02,-98452.83
+----------------------,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,IBI_METRIC=COPEPODA_ABUND,-----------------------,-----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-18216.5,,Std,Deviation,Deviation,Deviation,,,94837
+Median,115.0,,Variance,Variance,Variance,,,,8993967071
+Mode,.,,Range,Range,,,,,521226
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,7206
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-1.01641,-1.01641,,Pr,>,|t|,0.3185
+Sign,,M,,3,,Pr,>=,|M|,0.3449
+Signed,Rank,S,,52,,Pr,>=,|S|,0.2432
+,,,,,34,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+--------------------,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,24JUL1996,24JUL1996,24JUL1996,7.251,7.251,7.251,,0.000,7.251
+CB6.1,05AUG1996,05AUG1996,05AUG1996,4.313,4.313,4.313,,0.000,4.313
+CB6.1,26AUG1996,26AUG1996,26AUG1996,118.600,118.600,118.600,,9.089,109.511
+CB6.1,08SEP1997,08SEP1997,08SEP1997,259.898,259.898,259.898,,6.916,252.982
+CB6.4,05AUG1996,05AUG1996,05AUG1996,119.798,119.798,119.798,,0.568,119.230
+CB6.4,12AUG1997,12AUG1997,12AUG1997,343.928,343.928,343.928,,0.000,343.928
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,192.857,192.857,192.857,,10.292,182.565
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,36.258,36.258,36.258,,0.000,36.258
+CB7.4,22JUL1996,22JUL1996,22JUL1996,1.806,1.806,1.806,,0.000,1.806
+CB7.4,13AUG1997,13AUG1997,13AUG1997,596.422,596.422,596.422,,16.607,579.815
+LE3.6,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.000,0.000
+LE3.6,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,136.854,-136.854
+LE3.6,05AUG1996,05AUG1996,05AUG1996,19.690,19.690,19.690,,0.411,19.279
+LE3.6,26AUG1996,26AUG1996,26AUG1996,4.184,4.184,4.184,,0.000,4.184
+LE3.6,15JUL1997,15JUL1997,15JUL1997,0.000,0.000,0.000,,0.000,0.000
+LE5.5,22JUL1996,22JUL1996,22JUL1996,32.106,32.106,32.106,,0.000,32.106
+RET4.3,10JUL1996,10JUL1996,10JUL1996,0.000,0.000,0.000,,0.000,0.000
+RET4.3,24JUL1996,24JUL1996,24JUL1996,3.570,3.570,3.570,,5.370,-1.800
+RET4.3,06AUG1996,06AUG1996,06AUG1996,0.368,0.368,0.368,,0.000,0.368
+RET4.3,10JUL1997,10JUL1997,10JUL1997,38.895,38.895,38.895,,7.878,31.017
+RET4.3,23JUL1997,23JUL1997,23JUL1997,0.405,0.405,0.405,,0.000,0.405
+RET5.2,23SEP1997,23SEP1997,23SEP1997,1.731,1.731,1.731,,0.401,1.330
+SBE5,08JUL1996,08JUL1996,08JUL1996,1.703,1.703,1.703,,0.000,1.703
+SBE5,23JUL1996,23JUL1996,23JUL1996,1.500,1.500,1.500,,0.000,1.500
+SBE5,08JUL1997,08JUL1997,08JUL1997,5.004,5.004,5.004,,0.000,5.004
+WE4.2,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,2.926,2.926,2.926,,0.000,2.926
+---------------------,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,IBI_METRIC=CYCLOPOIDA_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,57.10096,,Std,Deviation,Deviation,Deviation,,,137.33709
+Median,3.55500,,Variance,Variance,Variance,,,,18861
+Mode,0.00000,,Range,Range,,,,,716.66900
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,33.99800
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,2.20006,2.20006,,Pr,>,|t|,0.0365
+Sign,,M,,9.5,,Pr,>=,|M|,"
+    "
+Signed,Rank,S,,113,,Pr,>=,|S|,"
+    "
+,,,,,35,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+---------------------,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,----------------------,----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,26AUG1996,26AUG1996,26AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.1,08SEP1997,08SEP1997,08SEP1997,0.000,0.000,0.000,,0.000,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.4,12AUG1997,12AUG1997,12AUG1997,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,0.000,0.000,0.000,,6.973,-6.973
+CB7.4,22JUL1996,22JUL1996,22JUL1996,0.000,0.000,0.000,,0.000,0.000
+CB7.4,13AUG1997,13AUG1997,13AUG1997,0.000,0.000,0.000,,0.000,0.000
+LE3.6,09JUL1996,09JUL1996,09JUL1996,0.000,0.000,0.000,,0.000,0.000
+LE3.6,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+LE3.6,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.779,-0.779
+LE3.6,26AUG1996,26AUG1996,26AUG1996,0.000,0.000,0.000,,0.000,0.000
+LE3.6,15JUL1997,15JUL1997,15JUL1997,0.000,0.000,0.000,,0.000,0.000
+LE5.5,22JUL1996,22JUL1996,22JUL1996,0.000,0.000,0.000,,0.000,0.000
+RET4.3,10JUL1996,10JUL1996,10JUL1996,0.000,0.000,0.000,,0.000,0.000
+RET4.3,24JUL1996,24JUL1996,24JUL1996,0.892,0.892,0.892,,1.501,-0.609
+RET4.3,06AUG1996,06AUG1996,06AUG1996,0.000,0.000,0.000,,0.464,-0.464
+RET4.3,10JUL1997,10JUL1997,10JUL1997,0.884,0.884,0.884,,1.641,-0.757
+RET4.3,23JUL1997,23JUL1997,23JUL1997,0.405,0.405,0.405,,0.000,0.405
+RET5.2,23SEP1997,23SEP1997,23SEP1997,1.731,1.731,1.731,,1.093,0.638
+SBE5,08JUL1996,08JUL1996,08JUL1996,0.029,0.029,0.029,,0.000,0.029
+SBE5,23JUL1996,23JUL1996,23JUL1996,0.375,0.375,0.375,,0.000,0.375
+SBE5,08JUL1997,08JUL1997,08JUL1997,0.000,0.000,0.000,,0.000,0.000
+WE4.2,24JUL1996,24JUL1996,24JUL1996,0.000,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+---------------------,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,IBI_METRIC=EURYTEMORA_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-0.29054,,Std,Deviation,Deviation,Deviation,,,1.34354
+Median,0.00000,,Variance,Variance,Variance,,,,1.80510
+Mode,0.00000,,Range,Range,,,,,7.61100
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,
+Student's,t,t,-1.14427,-1.14427,,Pr,>,|t|,0.2626
+Sign,,M,,-0.5,,Pr,>=,|M|,1.0000
+Signed,Rank,S,,-10.5,,Pr,>=,|S|,0.2500
+,,,,,36,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+--------------------,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,--------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,,2.263,2.263,,1.121,1.142
+CB6.1,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+CB6.1,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+CB6.1,26AUG1996,26AUG1996,26AUG1996,,0.000,0.000,,0.686,-0.686
+CB6.1,08SEP1997,08SEP1997,08SEP1997,,0.000,0.000,,0.000,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,6.305,6.305,,0.000,6.305
+CB6.4,12AUG1997,12AUG1997,12AUG1997,11.860,11.860,11.860,,0.000,11.860
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,14.286,14.286,14.286,,0.000,14.286
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,,0.000,0.000,,0.000,0.000
+CB7.4,22JUL1996,22JUL1996,22JUL1996,,0.000,0.000,,0.000,0.000
+CB7.4,13AUG1997,13AUG1997,13AUG1997,11.695,11.695,11.695,,0.000,11.695
+LE3.6,09JUL1996,09JUL1996,09JUL1996,,0.000,0.000,,0.000,0.000
+LE3.6,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+LE3.6,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+LE3.6,26AUG1996,26AUG1996,26AUG1996,,0.000,0.000,,0.000,0.000
+LE3.6,15JUL1997,15JUL1997,15JUL1997,,0.000,0.000,,0.000,0.000
+LE5.5,22JUL1996,22JUL1996,22JUL1996,,0.000,0.000,,0.000,0.000
+RET4.3,10JUL1996,10JUL1996,10JUL1996,,0.000,0.000,,0.000,0.000
+RET4.3,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.000,0.000,,0.328,-0.328
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,0.884,0.884,,0.000,0.884
+RET4.3,23JUL1997,23JUL1997,23JUL1997,,0.000,0.000,,0.000,0.000
+RET5.2,23SEP1997,23SEP1997,23SEP1997,,1.731,1.731,,0.000,1.731
+SBE5,08JUL1996,08JUL1996,08JUL1996,,0.000,0.000,,0.000,0.000
+SBE5,23JUL1996,23JUL1996,23JUL1996,,0.000,0.000,,0.000,0.000
+SBE5,08JUL1997,08JUL1997,08JUL1997,,0.000,0.000,,0.000,0.000
+WE4.2,24JUL1996,24JUL1996,24JUL1996,,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,2.926,2.926,,0.000,2.926
+--------------------,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,IBI_METRIC=HARPACTICOIDA_ABUND,--------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,1.779107,,Std,Deviation,Deviation,Deviation,,,4.06826
+Median,0.000000,,Variance,Variance,Variance,,,,16.55077
+Mode,0.000000,,Range,Range,,,,,14.97200
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1.01300
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,2.314046,2.314046,,Pr,>,|t|,0.0285
+Sign,,M,,3,,Pr,>=,|M|,0.1094
+Signed,Rank,S,,24.5,,Pr,>=,|S|,0.0098
+,,,,,37,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,----------------------,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,-----------------------,-----------------------
+,,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,diff
+CB6.1,,09JUL1996,09JUL1996,09JUL1996,2.0859,2.0859,2.0859,,1.2603,0.8256
+CB6.1,,24JUL1996,24JUL1996,24JUL1996,1.5024,1.5024,1.5024,,0.4820,1.0204
+CB6.1,,05AUG1996,05AUG1996,05AUG1996,0.8370,0.8370,0.8370,,0.0758,0.7612
+CB6.1,,26AUG1996,26AUG1996,26AUG1996,1.7296,1.7296,1.7296,,1.0408,0.6888
+CB6.1,,08SEP1997,08SEP1997,08SEP1997,2.5843,2.5843,2.5843,,1.1909,1.3934
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,1.6904,1.6904,1.6904,,0.8897,0.8007
+CB6.4,,12AUG1997,12AUG1997,12AUG1997,3.0567,3.0567,3.0567,,0.5532,2.5035
+CB7.3E,,07AUG1996,07AUG1996,07AUG1996,1.7909,1.7909,1.7909,,0.7067,1.0842
+CB7.3E,,15JUL1997,15JUL1997,15JUL1997,2.9131,2.9131,2.9131,,1.6915,1.2216
+CB7.4,,22JUL1996,22JUL1996,22JUL1996,2.4514,2.4514,2.4514,,1.3759,1.0755
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,2.9358,2.9358,2.9358,,1.4199,1.5159
+LE3.6,,09JUL1996,09JUL1996,09JUL1996,0.6325,0.6325,0.6325,,0.9709,-0.3384
+LE3.6,,24JUL1996,24JUL1996,24JUL1996,0.7947,0.7947,0.7947,,0.6522,0.1425
+LE3.6,,05AUG1996,05AUG1996,05AUG1996,1.1228,1.1228,1.1228,,0.8653,0.2575
+LE3.6,,26AUG1996,26AUG1996,26AUG1996,1.5596,1.5596,1.5596,,0.8851,0.6745
+LE3.6,,15JUL1997,15JUL1997,15JUL1997,1.1271,1.1271,1.1271,,0.5635,0.5636
+LE5.5,,22JUL1996,22JUL1996,22JUL1996,2.3008,2.3008,2.3008,,1.2385,1.0623
+RET4.3,,10JUL1996,10JUL1996,10JUL1996,1.3656,1.3656,1.3656,,2.3420,-0.9764
+RET4.3,,24JUL1996,24JUL1996,24JUL1996,2.9607,2.9607,2.9607,,1.3072,1.6535
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,1.5024,1.5024,1.5024,,1.0911,0.4113
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,3.2702,3.2702,3.2702,,1.7702,1.5000
+RET4.3,,23JUL1997,23JUL1997,23JUL1997,2.1428,2.1428,2.1428,,1.6468,0.4960
+RET5.2,,23SEP1997,23SEP1997,23SEP1997,1.1421,1.1421,1.1421,,0.8033,0.3388
+SBE5,,08JUL1996,08JUL1996,08JUL1996,1.5829,1.5829,1.5829,,0.7300,0.8529
+SBE5,,23JUL1996,23JUL1996,23JUL1996,2.1025,2.1025,2.1025,,0.8279,1.2746
+SBE5,,08JUL1997,08JUL1997,08JUL1997,1.1179,1.1179,1.1179,,1.6828,-0.5649
+WE4.2,,24JUL1996,24JUL1996,24JUL1996,1.3272,1.3272,1.3272,,0.5707,0.7565
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,1.4123,1.4123,1.4123,,0.6895,0.7228
+----------------------,----------------------,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,IBI_METRIC=MARGALEF_INDEX,-----------------------,-----------------------
+,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,Variable:,diff,diff,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,Location,,,,,,Variability,Variability,Variability,
+Mean,0.775639,0.775639,,Std,Deviation,Deviation,Deviation,,,0.70025
+Median,0.780950,0.780950,,Variance,Variance,Variance,,,,0.49035
+Mode,.,,,Range,Range,,,,,3.47990
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.69925
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,Student's,t,t,5.861162,5.861162,,Pr,>,|t|,"
+    "
+Sign,,,M,,11,,Pr,>=,|M|,"
+    "
+Signed,Rank,Rank,S,,175,,Pr,>=,|S|,"
+    "
+,,,,,,38,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+----------------------,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,09JUL1996,,0.00,0.00,,0.000,0.00
+CB6.1,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,0.000,0.00
+CB6.1,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.000,0.00
+CB6.1,26AUG1996,26AUG1996,26AUG1996,24.54,24.54,24.54,,211.109,-186.57
+CB6.1,08SEP1997,08SEP1997,08SEP1997,51.98,51.98,51.98,,596.298,-544.32
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,0.03,0.03,,0.000,0.03
+CB6.4,12AUG1997,12AUG1997,12AUG1997,83.02,83.02,83.02,,0.000,83.02
+CB7.3E,07AUG1996,07AUG1996,07AUG1996,64.29,64.29,64.29,,5.691,58.60
+CB7.3E,15JUL1997,15JUL1997,15JUL1997,,0.00,0.00,,0.000,0.00
+CB7.4,22JUL1996,22JUL1996,22JUL1996,,0.90,0.90,,0.478,0.43
+CB7.4,13AUG1997,13AUG1997,13AUG1997,1099.29,1099.29,1099.29,,28.908,1070.38
+LE3.6,09JUL1996,09JUL1996,09JUL1996,,0.00,0.00,,0.000,0.00
+LE3.6,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,1.148,-1.15
+LE3.6,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.000,0.00
+LE3.6,26AUG1996,26AUG1996,26AUG1996,37.67,37.67,37.67,,21.871,15.80
+LE3.6,15JUL1997,15JUL1997,15JUL1997,,0.00,0.00,,0.000,0.00
+LE5.5,22JUL1996,22JUL1996,22JUL1996,,0.00,0.00,,0.000,0.00
+RET4.3,10JUL1996,10JUL1996,10JUL1996,,0.00,0.00,,0.000,0.00
+RET4.3,24JUL1996,24JUL1996,24JUL1996,,2.38,2.38,,5.370,-2.99
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.00,0.00,,0.000,0.00
+RET4.3,10JUL1997,10JUL1997,10JUL1997,29.17,29.17,29.17,,60.139,-30.97
+RET4.3,23JUL1997,23JUL1997,23JUL1997,,3.65,3.65,,7.178,-3.53
+RET5.2,23SEP1997,23SEP1997,23SEP1997,,1.73,1.73,,0.401,1.33
+SBE5,08JUL1996,08JUL1996,08JUL1996,,1.70,1.70,,0.000,1.70
+SBE5,23JUL1996,23JUL1996,23JUL1996,,0.38,0.38,,0.000,0.38
+SBE5,08JUL1997,08JUL1997,08JUL1997,,0.00,0.00,,0.000,0.00
+WE4.2,24JUL1996,24JUL1996,24JUL1996,,0.00,0.00,,0.000,0.00
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.000,0.00
+----------------------,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,IBI_METRIC=PREDITOR_ABUND,-----------------------,-----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,16.50446,,Std,Deviation,Deviation,Deviation,,,234.18389
+Median,0.00000,,Variance,Variance,Variance,,,,54842
+Mode,0.00000,,Range,Range,,,,,1615
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.40000
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,0.372927,0.372927,,Pr,>,|t|,0.7121
+Sign,,M,,1.5,,Pr,>=,|M|,0.6072
+Signed,Rank,S,,4,,Pr,>=,|S|,0.8469
+,,,,,39,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+---------------------,---------------------,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,---------------------,---------------------
+,,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,ODU_IBI_,
+STATION,,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,,09JUL1996,09JUL1996,09JUL1996,0.1228,0.1228,0.1228,,0.2602,0.2602,-0.1374
+CB6.1,,24JUL1996,24JUL1996,24JUL1996,0.0615,0.0615,0.0615,,0.0185,0.0185,0.0430
+CB6.1,,05AUG1996,05AUG1996,05AUG1996,0.0781,0.0781,0.0781,,0.0002,0.0002,0.0779
+CB6.1,,26AUG1996,26AUG1996,26AUG1996,0.0162,0.0162,0.0162,,0.0176,0.0176,-0.0014
+CB6.1,,08SEP1997,08SEP1997,08SEP1997,0.2561,0.2561,0.2561,,0.1340,0.1340,0.1221
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,0.0543,0.0543,0.0543,,0.1667,0.1667,-0.1124
+CB6.4,,12AUG1997,12AUG1997,12AUG1997,0.4972,0.4972,0.4972,,0.0760,0.0760,0.4212
+CB7.3E,,07AUG1996,07AUG1996,07AUG1996,0.3656,0.3656,0.3656,,0.1153,0.1153,0.2503
+CB7.3E,,15JUL1997,15JUL1997,15JUL1997,0.3479,0.3479,0.3479,,0.4603,0.4603,-0.1124
+CB7.4,,22JUL1996,22JUL1996,22JUL1996,0.2953,0.2953,0.2953,,0.2871,0.2871,0.0082
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,0.5984,0.5984,0.5984,,0.6939,0.6939,-0.0955
+LE3.6,,09JUL1996,09JUL1996,09JUL1996,0.1072,0.1072,0.1072,,0.1711,0.1711,-0.0639
+LE3.6,,24JUL1996,24JUL1996,24JUL1996,0.0566,0.0566,0.0566,,0.0571,0.0571,-0.0005
+LE3.6,,05AUG1996,05AUG1996,05AUG1996,0.1064,0.1064,0.1064,,0.0322,0.0322,0.0742
+LE3.6,,26AUG1996,26AUG1996,26AUG1996,0.0134,0.0134,0.0134,,0.0224,0.0224,-0.0090
+LE3.6,,15JUL1997,15JUL1997,15JUL1997,0.0223,0.0223,0.0223,,0.0052,0.0052,0.0171
+LE5.5,,22JUL1996,22JUL1996,22JUL1996,0.2912,0.2912,0.2912,,0.3147,0.3147,-0.0235
+RET4.3,,10JUL1996,10JUL1996,10JUL1996,0.4161,0.4161,0.4161,,0.5824,0.5824,-0.1663
+RET4.3,,24JUL1996,24JUL1996,24JUL1996,0.2758,0.2758,0.2758,,0.2934,0.2934,-0.0176
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,0.4623,0.4623,0.4623,,0.5121,0.5121,-0.0498
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,0.6678,0.6678,0.6678,,0.7512,0.7512,-0.0834
+RET4.3,,23JUL1997,23JUL1997,23JUL1997,0.2270,0.2270,0.2270,,0.3847,0.3847,-0.1577
+RET5.2,,23SEP1997,23SEP1997,23SEP1997,0.5124,0.5124,0.5124,,0.4507,0.4507,0.0617
+SBE5,,08JUL1996,08JUL1996,08JUL1996,0.4472,0.4472,0.4472,,0.4954,0.4954,-0.0482
+SBE5,,23JUL1996,23JUL1996,23JUL1996,0.3818,0.3818,0.3818,,0.2526,0.2526,0.1292
+SBE5,,08JUL1997,08JUL1997,08JUL1997,0.3633,0.3633,0.3633,,0.1705,0.1705,0.1928
+WE4.2,,24JUL1996,24JUL1996,24JUL1996,0.0492,0.0492,0.0492,,0.0193,0.0193,0.0299
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,0.1204,0.1204,0.1204,,0.0706,0.0706,0.0498
+---------------------,---------------------,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,IBI_METRIC=SIMPSON_DIVERSITY,---------------------,---------------------
+,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,
+,,,Variable:,Variable:,Variable:,diff,diff,,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,
+Location,Location,,,,,,Variability,Variability,Variability,,
+Mean,0.01423,0.01423,,Std,Deviation,Deviation,Deviation,,,0.12863,0.12863
+Median,-0.00095,-0.00095,,Variance,Variance,Variance,,,,0.01654,0.01654
+Mode,.,,,Range,Range,,,,,0.58750,0.58750
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.14160,0.14160
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------
+Student's,Student's,t,t,0.585344,0.585344,,Pr,>,|t|,0.5632,0.5632
+Sign,,,M,,-1,,Pr,>=,|M|,0.8506,0.8506
+Signed,Rank,Rank,S,,1.5,,Pr,>=,|S|,0.9735,0.9735
+,,,,,,40,,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-------------------------,-------------------------,-------------------------,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,--------------------------,--------------------------,--------------------------
+,,,,,VERSAR_,VERSAR_,VERSAR_,,ODU_IBI_,
+STATION,,dateonly,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,,09JUL1996,09JUL1996,09JUL1996,0.3540,0.3540,0.3540,,0.4817,-0.1277
+CB6.1,,24JUL1996,24JUL1996,24JUL1996,0.1799,0.1799,0.1799,,0.0628,0.1171
+CB6.1,,05AUG1996,05AUG1996,05AUG1996,0.1837,0.1837,0.1837,,0.0012,0.1825
+CB6.1,,26AUG1996,26AUG1996,26AUG1996,0.0623,0.0623,0.0623,,0.0582,0.0041
+CB6.1,,08SEP1997,08SEP1997,08SEP1997,0.6316,0.6316,0.6316,,0.3329,0.2987
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,0.1744,0.1744,0.1744,,0.4212,-0.2468
+CB6.4,,12AUG1997,12AUG1997,12AUG1997,1.0451,1.0451,1.0451,,0.2088,0.8363
+CB7.3E,,07AUG1996,07AUG1996,07AUG1996,0.8147,0.8147,0.8147,,0.2416,0.5731
+CB7.3E,,15JUL1997,15JUL1997,15JUL1997,0.8690,0.8690,0.8690,,0.9873,-0.1183
+CB7.4,,22JUL1996,22JUL1996,22JUL1996,0.6852,0.6852,0.6852,,0.7026,-0.0174
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,1.4035,1.4035,1.4035,,1.4952,-0.0917
+LE3.6,,09JUL1996,09JUL1996,09JUL1996,0.2683,0.2683,0.2683,,0.4000,-0.1317
+LE3.6,,24JUL1996,24JUL1996,24JUL1996,0.1598,0.1598,0.1598,,0.1651,-0.0053
+LE3.6,,05AUG1996,05AUG1996,05AUG1996,0.2457,0.2457,0.2457,,0.0913,0.1544
+LE3.6,,26AUG1996,26AUG1996,26AUG1996,0.0536,0.0536,0.0536,,0.0708,-0.0172
+LE3.6,,15JUL1997,15JUL1997,15JUL1997,0.0768,0.0768,0.0768,,0.0207,0.0561
+LE5.5,,22JUL1996,22JUL1996,22JUL1996,0.7054,0.7054,0.7054,,0.7423,-0.0369
+RET4.3,,10JUL1996,10JUL1996,10JUL1996,0.8863,0.8863,0.8863,,1.2166,-0.3303
+RET4.3,,24JUL1996,24JUL1996,24JUL1996,0.7198,0.7198,0.7198,,0.7237,-0.0039
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,0.7861,0.7861,0.7861,,0.9234,-0.1373
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,1.7470,1.7470,1.7470,,1.6337,0.1133
+RET4.3,,23JUL1997,23JUL1997,23JUL1997,0.5403,0.5403,0.5403,,0.9503,-0.4100
+RET5.2,,23SEP1997,23SEP1997,23SEP1997,0.7826,0.7826,0.7826,,0.6741,0.1085
+SBE5,,08JUL1996,08JUL1996,08JUL1996,0.8680,0.8680,0.8680,,0.9395,-0.0715
+SBE5,,23JUL1996,23JUL1996,23JUL1996,0.6989,0.6989,0.6989,,0.4948,0.2041
+SBE5,,08JUL1997,08JUL1997,08JUL1997,0.6940,0.6940,0.6940,,0.4430,0.2510
+WE4.2,,24JUL1996,24JUL1996,24JUL1996,0.1583,0.1583,0.1583,,0.0609,0.0974
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,0.3103,0.3103,0.3103,,0.1992,0.1111
+-------------------------,-------------------------,-------------------------,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,IBI_METRIC=SW_INDEX,--------------------------,--------------------------,--------------------------
+,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,Variable:,diff,diff,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,Location,,,,,,Variability,Variability,Variability,
+Mean,0.048632,0.048632,,Std,Deviation,Deviation,Deviation,,,0.25064
+Median,0.000100,0.000100,,Variance,Variance,Variance,,,,0.06282
+Mode,.,,,Range,Range,,,,,1.24630
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.24075
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,Student's,t,t,1.026738,1.026738,,Pr,>,|t|,0.3137
+Sign,,,M,,0,,Pr,>=,|M|,1.0000
+Signed,Rank,Rank,S,,28,,Pr,>=,|S|,0.5335
+,,,,,,41,,,,
+,,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-----------------------,-----------------------,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,-----------------------,-----------------------,-----------------------
+,,,,VERSAR_,VERSAR_,VERSAR_,VERSAR_,ODU_IBI_,ODU_IBI_,
+STATION,,dateonly,dateonly,IBI_VALUE,IBI_VALUE,IBI_VALUE,IBI_VALUE,VALUE,VALUE,diff
+CB6.1,,09JUL1996,09JUL1996,,,15,,,10,5
+CB6.1,,24JUL1996,24JUL1996,,,15,,,5,10
+CB6.1,,05AUG1996,05AUG1996,,,10,,,2,8
+CB6.1,,26AUG1996,26AUG1996,,,20,,,12,8
+CB6.1,,08SEP1997,08SEP1997,,,22,,,12,10
+CB6.4,,05AUG1996,05AUG1996,,,19,,,10,9
+CB6.4,,12AUG1997,12AUG1997,,,29,,,5,24
+CB7.3E,,07AUG1996,07AUG1996,,,20,,,9,11
+CB7.3E,,15JUL1997,15JUL1997,,,28,,,16,12
+CB7.4,,22JUL1996,22JUL1996,,,20,,,12,8
+CB7.4,,13AUG1997,13AUG1997,,,30,,,12,18
+LE3.6,,09JUL1996,09JUL1996,,,5,,,7,-2
+LE3.6,,24JUL1996,24JUL1996,,,8,,,7,1
+LE3.6,,05AUG1996,05AUG1996,,,13,,,9,4
+LE3.6,,26AUG1996,26AUG1996,,,16,,,9,7
+LE3.6,,15JUL1997,15JUL1997,,,11,,,6,5
+LE5.5,,22JUL1996,22JUL1996,,,22,,,12,10
+RET4.3,,10JUL1996,10JUL1996,,,7,,,10,-3
+RET4.3,,24JUL1996,24JUL1996,,,19,,,9,10
+RET4.3,,06AUG1996,06AUG1996,,,10,,,8,2
+RET4.3,,10JUL1997,10JUL1997,,,19,,,10,9
+RET4.3,,23JUL1997,23JUL1997,,,14,,,9,5
+RET5.2,,23SEP1997,23SEP1997,,,10,,,7,3
+SBE5,,08JUL1996,08JUL1996,,,14,,,7,7
+SBE5,,23JUL1996,23JUL1996,,,15,,,7,8
+SBE5,,08JUL1997,08JUL1997,,,12,,,12,0
+WE4.2,,24JUL1996,24JUL1996,,,14,,,6,8
+WE4.2,,05AUG1996,05AUG1996,,,14,,,9,5
+-----------------------,-----------------------,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,IBI_METRIC=TAXA_RICHNESS,-----------------------,-----------------------,-----------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,
+,,,Variable:,Variable:,diff,diff,,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,,
+Mean,7.214286,7.214286,Std,Deviation,Deviation,Deviation,,,5.54682,5.54682
+Median,8.000000,8.000000,Variance,Variance,Variance,,,,30.76720,30.76720
+Mode,8.000000,8.000000,Range,Range,,,,,27.00000,27.00000
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,5.50000,5.50000
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------
+Student's,t,t,6.882218,6.882218,,Pr,>,|t|,"
+    ","
+    "
+Sign,,M,,11.5,,Pr,>=,|M|,"
+    ","
+    "
+Signed,Rank,S,,182,,Pr,>=,|S|,"
+    ","
+    "
+,,,,,42,,,,,
+,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,VERSAR MZ101C vs. ODU MZ102_C Comparisons,
+-------------------------,-------------------------,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,-------------------------,-------------------------
+,,,,VERSAR_,VERSAR_,,,ODU_IBI_,
+STATION,dateonly,dateonly,,IBI_VALUE,IBI_VALUE,IBI_VALUE,,VALUE,diff
+CB6.1,09JUL1996,09JUL1996,,822.09,822.09,822.09,,1263.16,-441.07
+CB6.1,24JUL1996,24JUL1996,,11138.59,11138.59,11138.59,,4020.55,7118.04
+CB6.1,05AUG1996,05AUG1996,,46749.76,46749.76,46749.76,,534576.27,-487826.51
+CB6.1,26AUG1996,26AUG1996,,58977.90,58977.90,58977.90,,38906.54,20071.36
+CB6.1,08SEP1997,08SEP1997,,3381.39,3381.39,3381.39,,10269.36,-6887.97
+CB6.4,05AUG1996,05AUG1996,,42121.41,42121.41,42121.41,,24723.31,17398.10
+CB6.4,12AUG1997,12AUG1997,,9511.42,9511.42,9511.42,,1380.98,8130.45
+CB7.3E,07AUG1996,07AUG1996,,40512.11,40512.11,40512.11,,82424.08,-41911.97
+CB7.3E,15JUL1997,15JUL1997,,10597.32,10597.32,10597.32,,7099.97,3497.35
+CB7.4,22JUL1996,22JUL1996,,2322.99,2322.99,2322.99,,2965.56,-642.57
+CB7.4,13AUG1997,13AUG1997,,19496.98,19496.98,19496.98,,2314.20,17182.78
+LE3.6,09JUL1996,09JUL1996,,558.04,558.04,558.04,,483.01,75.03
+LE3.6,24JUL1996,24JUL1996,,6691.06,6691.06,6691.06,,9896.56,-3205.50
+LE3.6,05AUG1996,05AUG1996,,43801.10,43801.10,43801.10,,10357.33,33443.77
+LE3.6,26AUG1996,26AUG1996,,15029.91,15029.91,15029.91,,8418.01,6611.90
+LE3.6,15JUL1997,15JUL1997,,7132.87,7132.87,7132.87,,7133.51,-0.64
+LE5.5,22JUL1996,22JUL1996,,9204.25,9204.25,9204.25,,7201.40,2002.85
+RET4.3,10JUL1996,10JUL1996,,80.93,80.93,80.93,,46.66,34.27
+RET4.3,24JUL1996,24JUL1996,,436.91,436.91,436.91,,454.86,-17.95
+RET4.3,06AUG1996,06AUG1996,,399.64,399.64,399.64,,611.18,-211.54
+RET4.3,10JUL1997,10JUL1997,,245.75,245.75,245.75,,161.43,84.32
+RET4.3,23JUL1997,23JUL1997,,431.26,431.26,431.26,,128.74,302.52
+RET5.2,23SEP1997,23SEP1997,,2644.49,2644.49,2644.49,,1753.59,890.90
+SBE5,08JUL1996,08JUL1996,,3687.46,3687.46,3687.46,,3711.08,-23.62
+SBE5,23JUL1996,23JUL1996,,779.53,779.53,779.53,,1403.94,-624.41
+SBE5,08JUL1997,08JUL1997,,18772.00,18772.00,18772.00,,689.99,18082.01
+WE4.2,24JUL1996,24JUL1996,,17950.38,17950.38,17950.38,,6379.98,11570.40
+WE4.2,05AUG1996,05AUG1996,,9942.77,9942.77,9942.77,,109416.89,-99474.12
+-------------------------,-------------------------,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,IBI_METRIC=TOT_ABUND,-------------------------,-------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-17670.4,,Std,Deviation,Deviation,Deviation,,,95005
+Median,79.7,,Variance,Variance,Variance,,,,9025929806
+Mode,.,,Range,Range,,,,,521270
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,8157
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.98419,-0.98419,,Pr,>,|t|,0.3338
+Sign,,M,,2,,Pr,>=,|M|,0.5716
+Signed,Rank,S,,48,,Pr,>=,|S|,0.2823
+,,,,,43,,,,
+44
+APPENDIX C. Statistical Comparisons Of Versar And ODU Hensen
+Stempel Method Count Samples By Parameter
+45
+,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,VERSAR MZ101C vs. ODU MZ103 Comparisons,
+-------------------------,-------------------------,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,-------------------------,-------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,8823.53,8823.53,,,7843.37,980.16
+CB6.1,11SEP2000,11SEP2000,11SEP2000,17507.63,17507.63,,,6616.73,10890.90
+CB6.1,14AUG2002,14AUG2002,14AUG2002,8303.47,8303.47,,110982.12,110982.12,-102678.66
+CB6.1,16SEP2002,16SEP2002,16SEP2002,2594.21,2594.21,,,4332.70,-1738.49
+CB6.4,05AUG1996,05AUG1996,05AUG1996,40958.39,40958.39,,,39042.65,1915.74
+CB6.4,06JUL1998,06JUL1998,06JUL1998,114.46,114.46,,,88.09,26.37
+CB6.4,07AUG2000,07AUG2000,07AUG2000,5631.49,5631.49,,,4654.35,977.14
+CB6.4,14SEP2000,14SEP2000,14SEP2000,8402.39,8402.39,,,9632.43,-1230.04
+CB6.4,15JUL2002,15JUL2002,15JUL2002,11863.49,11863.49,,,2722.16,9141.33
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,10144.06,10144.06,,,9592.52,551.54
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,641.68,641.68,,,729.86,-88.18
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,1726.71,1726.71,,,994.81,731.90
+CB7.4,13AUG1997,13AUG1997,13AUG1997,4221.73,4221.73,,,4588.64,-366.91
+CB7.4,06JUL1999,06JUL1999,06JUL1999,4607.55,4607.55,,,5818.31,-1210.75
+CB7.4,05AUG1999,05AUG1999,05AUG1999,524.37,524.37,,,437.78,86.60
+CB7.4,21SEP1999,21SEP1999,21SEP1999,375.57,375.57,,,759.49,-383.92
+CB7.4,11SEP2000,11SEP2000,11SEP2000,2189.57,2189.57,,,2250.78,-61.21
+LE3.6,09AUG2000,09AUG2000,09AUG2000,1688.58,1688.58,,,1173.26,515.32
+RET3.1,08JUL1999,08JUL1999,08JUL1999,2186.24,2186.24,,,1706.51,479.72
+RET3.1,09AUG2001,09AUG2001,09AUG2001,142.95,142.95,,,33.49,109.46
+RET3.1,12SEP2002,12SEP2002,12SEP2002,5123.74,5123.74,,,2519.30,2604.44
+RET4.3,06AUG1996,06AUG1996,06AUG1996,115.31,115.31,,,267.20,-151.89
+RET4.3,10JUL1997,10JUL1997,10JUL1997,136.58,136.58,,,501.49,-364.91
+RET4.3,09SEP1998,09SEP1998,09SEP1998,5750.66,5750.66,,,6268.32,-517.66
+SBE5,15SEP1999,15SEP1999,15SEP1999,4177.38,4177.38,,,4027.19,150.18
+SBE5,21SEP2000,21SEP2000,21SEP2000,6081.77,6081.77,,,7415.17,-1333.40
+WE4.2,05AUG1996,05AUG1996,05AUG1996,9316.48,9316.48,,,10697.31,-1380.83
+WE4.2,06JUL1998,06JUL1998,06JUL1998,866.29,866.29,,,758.45,107.84
+-------------------------,-------------------------,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,metric=ACARTIA_ABUND,-------------------------,-------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-2937.08,,Std,Deviation,Deviation,Deviation,,,19746
+Median,56.48,,Variance,Variance,Variance,,,,389914964
+Mode,.,,Range,Range,,,,,113570
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1093
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.78706,-0.78706,,Pr,>,|t|,0.4381
+Sign,,M,,1,,Pr,>=,|M|,0.8506
+Signed,Rank,S,,12,,Pr,>=,|S|,0.7902
+,,,,,46,,,,
+VERSAR,MZ101C,vs.,ODU,MZ103,Comparisons,Comparisons,Comparisons,Comparisons,,,,
+------------------------,------------------------,------------------------,------------------------,------------------------,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,------------------------,------------------------
+STATION,STATION,,,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,CB6.1,,,06JUL1999,06JUL1999,06JUL1999,14.504,14.504,14.504,,25.232,-10.728
+CB6.1,CB6.1,,,11SEP2000,11SEP2000,11SEP2000,3.635,3.635,3.635,,0.000,3.635
+CB6.1,CB6.1,,,14AUG2002,14AUG2002,14AUG2002,123.208,123.208,123.208,,947.448,-824.240
+CB6.1,CB6.1,,,16SEP2002,16SEP2002,16SEP2002,64.605,64.605,64.605,,74.559,-9.954
+CB6.4,CB6.4,,,05AUG1996,05AUG1996,05AUG1996,63.052,63.052,63.052,,75.664,-12.612
+CB6.4,CB6.4,,,06JUL1998,06JUL1998,06JUL1998,2.868,2.868,2.868,,3.670,-0.802
+CB6.4,CB6.4,,,07AUG2000,07AUG2000,07AUG2000,10.252,10.252,10.252,,10.935,-0.683
+CB6.4,CB6.4,,,14SEP2000,14SEP2000,14SEP2000,4.573,4.573,4.573,,15.177,-10.604
+CB6.4,CB6.4,,,15JUL2002,15JUL2002,15JUL2002,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,CB7.3E,,,06JUL1999,06JUL1999,06JUL1999,45.018,45.018,45.018,,45.021,-0.003
+CB7.3E,CB7.3E,,,11JUL2000,11JUL2000,11JUL2000,8.556,8.556,8.556,,8.021,0.535
+CB7.3E,CB7.3E,,,19SEP2002,19SEP2002,19SEP2002,131.669,131.669,131.669,,30.679,100.990
+CB7.4,CB7.4,,,13AUG1997,13AUG1997,13AUG1997,35.084,35.084,35.084,,0.000,35.084
+CB7.4,CB7.4,,,06JUL1999,06JUL1999,06JUL1999,20.091,20.091,20.091,,15.068,5.023
+CB7.4,CB7.4,,,05AUG1999,05AUG1999,05AUG1999,39.205,39.205,39.205,,9.801,29.404
+CB7.4,CB7.4,,,21SEP1999,21SEP1999,21SEP1999,48.658,48.658,48.658,,11.241,37.417
+CB7.4,CB7.4,,,11SEP2000,11SEP2000,11SEP2000,13.505,13.505,13.505,,6.077,7.428
+LE3.6,LE3.6,,,09AUG2000,09AUG2000,09AUG2000,6.055,6.055,6.055,,9.732,-3.677
+RET3.1,RET3.1,,,08JUL1999,08JUL1999,08JUL1999,5.693,5.693,5.693,,7.908,-2.215
+RET3.1,RET3.1,,,09AUG2001,09AUG2001,09AUG2001,6.903,6.903,6.903,,0.000,6.903
+RET3.1,RET3.1,,,12SEP2002,12SEP2002,12SEP2002,193.755,193.755,193.755,,630.642,-436.887
+RET4.3,RET4.3,,,06AUG1996,06AUG1996,06AUG1996,0.368,0.368,0.368,,0.000,0.368
+RET4.3,RET4.3,,,10JUL1997,10JUL1997,10JUL1997,14.586,14.586,14.586,,8.912,5.674
+RET4.3,RET4.3,,,09SEP1998,09SEP1998,09SEP1998,38.411,38.411,38.411,,19.753,18.658
+SBE5,SBE5,,,15SEP1999,15SEP1999,15SEP1999,9.372,9.372,9.372,,21.421,-12.049
+SBE5,SBE5,,,21SEP2000,21SEP2000,21SEP2000,35.136,35.136,35.136,,19.164,15.972
+WE4.2,WE4.2,,,05AUG1996,05AUG1996,05AUG1996,342.346,342.346,342.346,,247.590,94.756
+WE4.2,WE4.2,,,06JUL1998,06JUL1998,06JUL1998,1.600,1.600,1.600,,0.889,0.711
+------------------------,------------------------,------------------------,------------------------,------------------------,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,metric=BALANIDAE_ABUND,------------------------,------------------------
+,,,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,,,Variable:,Variable:,Variable:,diff,diff,,,
+,,,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+,Location,Location,Location,,,,,,Variability,Variability,Variability,
+,Mean,,-34.3534,-34.3534,,Std,Deviation,Deviation,Deviation,,,178.60557
+,Median,,0.4515,0.4515,,Variance,Variance,Variance,,,,31900
+,Mode,,.,,,Range,Range,,,,,925.23000
+,,,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,18.51550
+,,,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+,Test,,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+,Student's,Student's,Student's,t,t,-1.01778,-1.01778,,Pr,>,|t|,0.3178
+,Sign,,,,M,,1.5,,Pr,>=,|M|,0.7011
+,Signed,Signed,Rank,Rank,S,,29,,Pr,>=,|S|,0.4964
+,,,,,,,,47,,,,
+VERSAR,MZ101C,vs.,ODU,MZ103,Comparisons,Comparisons,Comparisons,Comparisons,,
+------------------------,------------------------,------------------------,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,------------------------,------------------------
+STATION,,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,0.000,,0.058,-0.058
+CB6.1,,11SEP2000,11SEP2000,11SEP2000,0.058,0.058,0.058,,0.000,0.058
+CB6.1,,14AUG2002,14AUG2002,14AUG2002,0.060,0.060,0.060,,0.000,0.060
+CB6.1,,16SEP2002,16SEP2002,16SEP2002,0.000,0.000,0.000,,0.000,0.000
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.000,0.000
+CB6.4,,06JUL1998,06JUL1998,06JUL1998,0.000,0.000,0.000,,0.000,0.000
+CB6.4,,07AUG2000,07AUG2000,07AUG2000,0.000,0.000,0.000,,0.000,0.000
+CB6.4,,14SEP2000,14SEP2000,14SEP2000,0.000,0.000,0.000,,2.168,-2.168
+CB6.4,,15JUL2002,15JUL2002,15JUL2002,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,0.000,,0.000,0.000
+CB7.3E,,11JUL2000,11JUL2000,11JUL2000,0.000,0.000,0.000,,9.625,-9.625
+CB7.3E,,19SEP2002,19SEP2002,19SEP2002,0.000,0.000,0.000,,0.000,0.000
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,0.000,0.000,0.000,,0.000,0.000
+CB7.4,,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,0.000,,0.000,0.000
+CB7.4,,05AUG1999,05AUG1999,05AUG1999,0.000,0.000,0.000,,0.000,0.000
+CB7.4,,21SEP1999,21SEP1999,21SEP1999,0.000,0.000,0.000,,0.246,-0.246
+CB7.4,,11SEP2000,11SEP2000,11SEP2000,0.000,0.000,0.000,,1.351,-1.351
+LE3.6,,09AUG2000,09AUG2000,09AUG2000,0.069,0.069,0.069,,0.000,0.069
+RET3.1,,08JUL1999,08JUL1999,08JUL1999,17.080,17.080,17.080,,17.397,-0.317
+RET3.1,,09AUG2001,09AUG2001,09AUG2001,0.000,0.000,0.000,,14.716,-14.716
+RET3.1,,12SEP2002,12SEP2002,12SEP2002,3.588,3.588,3.588,,5.882,-2.294
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,11.415,11.415,11.415,,14.729,-3.314
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,12.376,12.376,12.376,,12.963,-0.587
+RET4.3,,09SEP1998,09SEP1998,09SEP1998,30.180,30.180,30.180,,2.722,27.458
+SBE5,,15SEP1999,15SEP1999,15SEP1999,0.471,0.471,0.471,,2.678,-2.207
+SBE5,,21SEP2000,21SEP2000,21SEP2000,0.613,0.613,0.613,,1.916,-1.303
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,0.000,,0.094,-0.094
+WE4.2,,06JUL1998,06JUL1998,06JUL1998,0.000,0.000,0.000,,0.000,0.000
+------------------------,------------------------,------------------------,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,metric=BLUE_CRAB_ABUND,------------------------,------------------------
+,,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,,Variable:,Variable:,diff,diff,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+,Location,,,,,,Variability,Variability,Variability,
+Mean,-0.37982,-0.37982,-0.37982,Std,Deviation,Deviation,Deviation,,,6.35077
+Median,0.00000,0.00000,0.00000,Variance,Variance,Variance,,,,40.33231
+Mode,0.00000,0.00000,0.00000,Range,Range,,,,,42.17400
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1.32700
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,Student's,t,t,-0.31647,-0.31647,,Pr,>,|t|,0.7541
+Sign,,,M,,-4.5,,Pr,>=,|M|,0.0490
+Signed,Rank,Rank,S,,-51,,Pr,>=,|S|,0.0134
+,,,,,,48,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+-------------------------,-------------------------,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,-------------------------,-------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,0.000,0.000
+CB6.1,11SEP2000,11SEP2000,11SEP2000,,3.635,3.635,,0.000,3.635
+CB6.1,14AUG2002,14AUG2002,14AUG2002,,0.000,0.000,,0.000,0.000
+CB6.1,16SEP2002,16SEP2002,16SEP2002,,0.000,0.000,,0.000,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,9.458,-9.458
+CB6.4,06JUL1998,06JUL1998,06JUL1998,,0.000,0.000,,0.000,0.000
+CB6.4,07AUG2000,07AUG2000,07AUG2000,,0.000,0.000,,0.000,0.000
+CB6.4,14SEP2000,14SEP2000,14SEP2000,,0.000,0.000,,0.000,0.000
+CB6.4,15JUL2002,15JUL2002,15JUL2002,,3.386,3.386,,0.000,3.386
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,49.523,-49.523
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,,0.000,0.000,,0.000,0.000
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,,0.000,0.000,,0.000,0.000
+CB7.4,13AUG1997,13AUG1997,13AUG1997,,0.000,0.000,,0.000,0.000
+CB7.4,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,0.000,0.000
+CB7.4,05AUG1999,05AUG1999,05AUG1999,,0.000,0.000,,0.000,0.000
+CB7.4,21SEP1999,21SEP1999,21SEP1999,,0.000,0.000,,0.000,0.000
+CB7.4,11SEP2000,11SEP2000,11SEP2000,,1.351,1.351,,0.000,1.351
+LE3.6,09AUG2000,09AUG2000,09AUG2000,,0.000,0.000,,0.000,0.000
+RET3.1,08JUL1999,08JUL1999,08JUL1999,,8.540,8.540,,20.560,-12.020
+RET3.1,09AUG2001,09AUG2001,09AUG2001,11.007,11.007,11.007,,2.030,8.977
+RET3.1,12SEP2002,12SEP2002,12SEP2002,,0.000,0.000,,1.961,-1.961
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,1.105,1.105,,1.381,-0.276
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,4.862,4.862,,3.241,1.621
+RET4.3,09SEP1998,09SEP1998,09SEP1998,21.949,21.949,21.949,,74.074,-52.125
+SBE5,15SEP1999,15SEP1999,15SEP1999,13.389,13.389,13.389,,83.007,-69.618
+SBE5,21SEP2000,21SEP2000,21SEP2000,,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.000,0.000,,0.000,0.000
+WE4.2,06JUL1998,06JUL1998,06JUL1998,,0.000,0.000,,0.000,0.000
+-------------------------,-------------------------,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,metric=BOSMINA_ABUND,-------------------------,-------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-6.28611,,Std,Deviation,Deviation,Deviation,,,18.51662
+Median,0.00000,,Variance,Variance,Variance,,,,342.86513
+Mode,0.00000,,Range,Range,,,,,78.59500
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.13800
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-1.79638,-1.79638,,Pr,>,|t|,0.0836
+Sign,,M,,-1,,Pr,>=,|M|,0.7744
+Signed,Rank,S,,-16,,Pr,>=,|S|,0.2334
+,,,,,49,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons
+------------------------,------------------------,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,------------------------,------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,,value_VERSAR,value_VERSAR,value_VERSAR,,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,,8823.79,8823.79,,,7843.37,980.42
+CB6.1,11SEP2000,11SEP2000,,17511.27,17511.27,,,6618.55,10892.72
+CB6.1,14AUG2002,14AUG2002,,8318.64,8318.64,,111047.46,111047.46,-102728.82
+CB6.1,16SEP2002,16SEP2002,,4122.76,4122.76,,,5272.97,-1150.22
+CB6.4,05AUG1996,05AUG1996,,40971.10,40971.10,,,39042.95,1928.15
+CB6.4,06JUL1998,06JUL1998,,114.85,114.85,,,88.09,26.76
+CB6.4,07AUG2000,07AUG2000,,5662.25,5662.25,,,4661.19,1001.06
+CB6.4,14SEP2000,14SEP2000,,8430.33,8430.33,,,9638.93,-1208.60
+CB6.4,15JUL2002,15JUL2002,,12097.10,12097.10,,,2766.17,9330.93
+CB7.3E,06JUL1999,06JUL1999,,10391.66,10391.66,,,9736.59,655.07
+CB7.3E,11JUL2000,11JUL2000,,715.49,715.49,,,824.57,-109.08
+CB7.3E,19SEP2002,19SEP2002,,4477.89,4477.89,,,2464.93,2012.96
+CB7.4,13AUG1997,13AUG1997,,5683.55,5683.55,,,5541.15,142.39
+CB7.4,06JUL1999,06JUL1999,,5285.95,5285.95,,,6478.29,-1192.34
+CB7.4,05AUG1999,05AUG1999,,946.04,946.04,,,751.41,194.63
+CB7.4,21SEP1999,21SEP1999,,1099.69,1099.69,,,791.61,308.08
+CB7.4,11SEP2000,11SEP2000,,2292.29,2292.29,,,2422.29,-130.00
+LE3.6,09AUG2000,09AUG2000,,1688.58,1688.58,,,1173.26,515.32
+RET3.1,08JUL1999,08JUL1999,,2186.24,2186.24,,,1709.67,476.56
+RET3.1,09AUG2001,09AUG2001,,143.13,143.13,,,33.49,109.64
+RET3.1,12SEP2002,12SEP2002,,5202.69,5202.69,,,2527.14,2675.55
+RET4.3,06AUG1996,06AUG1996,,115.31,115.31,,,267.20,-151.89
+RET4.3,10JUL1997,10JUL1997,,137.46,137.46,,,503.92,-366.46
+RET4.3,09SEP1998,09SEP1998,,5992.45,5992.45,,,6401.65,-409.20
+SBE5,15SEP1999,15SEP1999,,4196.55,4196.55,,,4045.94,150.61
+SBE5,21SEP2000,21SEP2000,,6246.27,6246.27,,,7597.23,-1350.96
+WE4.2,05AUG1996,05AUG1996,,9316.48,9316.48,,,10699.94,-1383.46
+WE4.2,06JUL1998,06JUL1998,,866.85,866.85,,,758.45,108.40
+------------------------,------------------------,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,metric=CALANOIDA_ABUND,------------------------,------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-2809.71,,Std,Deviation,Deviation,Deviation,,,19780
+Median,126.02,,Variance,Variance,Variance,,,,391266514
+Mode,.,,Range,Range,,,,,113622
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1206
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.75163,-0.75163,,Pr,>,|t|,0.4588
+Sign,,M,,3,,Pr,>=,|M|,0.3449
+Signed,Rank,S,,36,,Pr,>=,|S|,0.4223
+,,,,,50,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+------------------------,------------------------,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,------------------------,------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,,7.21,7.21,,0.00,7.21
+CB6.1,11SEP2000,11SEP2000,11SEP2000,,3.64,3.64,,0.00,3.64
+CB6.1,14AUG2002,14AUG2002,14AUG2002,156.81,156.81,156.81,,1110.80,-953.99
+CB6.1,16SEP2002,16SEP2002,16SEP2002,,44.56,44.56,,29.00,15.56
+CB6.4,05AUG1996,05AUG1996,05AUG1996,346.81,346.81,346.81,,397.24,-50.43
+CB6.4,06JUL1998,06JUL1998,06JUL1998,,2.53,2.53,,1.84,0.69
+CB6.4,07AUG2000,07AUG2000,07AUG2000,,27.34,27.34,,24.61,2.73
+CB6.4,14SEP2000,14SEP2000,14SEP2000,,0.00,0.00,,0.00,0.00
+CB6.4,15JUL2002,15JUL2002,15JUL2002,1098.10,1098.10,1098.10,,150.67,947.43
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,,85.53,85.53,,58.53,27.01
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,2441.61,2441.61,2441.61,,2309.90,131.71
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,,16.17,16.17,,1.23,14.94
+CB7.4,13AUG1997,13AUG1997,13AUG1997,12314.35,12314.35,12314.35,,13095.01,-780.66
+CB7.4,06JUL1999,06JUL1999,06JUL1999,1781.41,1781.41,1781.41,,2944.31,-1162.90
+CB7.4,05AUG1999,05AUG1999,05AUG1999,9762.15,9762.15,9762.15,,4528.06,5234.09
+CB7.4,21SEP1999,21SEP1999,21SEP1999,,28.42,28.42,,1.61,26.82
+CB7.4,11SEP2000,11SEP2000,11SEP2000,,2.70,2.70,,0.00,2.70
+LE3.6,09AUG2000,09AUG2000,09AUG2000,,0.87,0.87,,1.08,-0.22
+RET3.1,08JUL1999,08JUL1999,08JUL1999,,9.49,9.49,,23.98,-14.49
+RET3.1,09AUG2001,09AUG2001,09AUG2001,,11.01,11.01,,2.03,8.98
+RET3.1,12SEP2002,12SEP2002,12SEP2002,,0.00,0.00,,13.72,-13.72
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,1.11,1.11,,1.38,-0.28
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,16.80,16.80,,27.55,-10.75
+RET4.3,09SEP1998,09SEP1998,09SEP1998,,21.95,21.95,,74.07,-52.13
+SBE5,15SEP1999,15SEP1999,15SEP1999,,18.75,18.75,,88.36,-69.62
+SBE5,21SEP2000,21SEP2000,21SEP2000,,0.00,0.00,,0.00,0.00
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.00,0.00
+WE4.2,06JUL1998,06JUL1998,06JUL1998,,0.00,0.00,,0.00,0.00
+------------------------,------------------------,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,metric=CLADOCERA_ABUND,------------------------,------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,118.3688,,Std,Deviation,Deviation,Deviation,,,1068
+Median,0.0000,,Variance,Variance,Variance,,,,1140849
+Mode,0.0000,,Range,Range,,,,,6397
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,26.06600
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,0.586411,0.586411,,Pr,>,|t|,0.5625
+Sign,,M,,1,,Pr,>=,|M|,0.8388
+Signed,Rank,S,,1,,Pr,>=,|S|,0.9779
+,,,,,51,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons
+------------------------,------------------------,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,-------------------------,-------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,,8838.21,8838.21,,,7843.37,994.83
+CB6.1,11SEP2000,11SEP2000,,17525.87,17525.87,,,6620.37,10905.50
+CB6.1,14AUG2002,14AUG2002,,8355.97,8355.97,,111406.84,111406.84,-103050.87
+CB6.1,16SEP2002,16SEP2002,,4606.18,4606.18,,,5707.90,-1101.72
+CB6.4,05AUG1996,05AUG1996,,41475.51,41475.51,,,39383.44,2092.07
+CB6.4,06JUL1998,06JUL1998,,116.54,116.54,,,89.01,27.53
+CB6.4,07AUG2000,07AUG2000,,5665.66,5665.66,,,4662.56,1003.11
+CB6.4,14SEP2000,14SEP2000,,8448.47,8448.47,,,9638.95,-1190.48
+CB6.4,15JUL2002,15JUL2002,,12198.78,12198.78,,,2791.15,9407.63
+CB7.3E,06JUL1999,06JUL1999,,10472.69,10472.69,,,9759.10,713.59
+CB7.3E,11JUL2000,11JUL2000,,720.84,720.84,,,832.60,-111.75
+CB7.3E,19SEP2002,19SEP2002,,5321.03,5321.03,,,2838.01,2483.02
+CB7.4,13AUG1997,13AUG1997,,6478.77,6478.77,,,5797.92,680.86
+CB7.4,06JUL1999,06JUL1999,,5456.72,5456.72,,,6704.31,-1247.59
+CB7.4,05AUG1999,05AUG1999,,1195.98,1195.98,,,836.35,359.62
+CB7.4,21SEP1999,21SEP1999,,1165.78,1165.78,,,801.24,364.53
+CB7.4,11SEP2000,11SEP2000,,2320.65,2320.65,,,2452.69,-132.03
+LE3.6,09AUG2000,09AUG2000,,1689.45,1689.45,,,1174.88,514.56
+RET3.1,08JUL1999,08JUL1999,,2187.18,2187.18,,,1716.05,471.13
+RET3.1,09AUG2001,09AUG2001,,143.51,143.51,,,33.49,110.02
+RET3.1,12SEP2002,12SEP2002,,5285.23,5285.23,,,2544.79,2740.45
+RET4.3,06AUG1996,06AUG1996,,115.67,115.67,,,267.20,-151.52
+RET4.3,10JUL1997,10JUL1997,,177.24,177.24,,,571.16,-393.93
+RET4.3,09SEP1998,09SEP1998,,6017.14,6017.14,,,6441.15,-424.01
+SBE5,15SEP1999,15SEP1999,,4219.31,4219.31,,,4077.28,142.03
+SBE5,21SEP2000,21SEP2000,,6252.66,6252.66,,,7597.23,-1344.57
+WE4.2,05AUG1996,05AUG1996,,9328.18,9328.18,,,10710.48,-1382.29
+WE4.2,06JUL1998,06JUL1998,,867.92,867.92,,,758.45,109.47
+------------------------,------------------------,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,metric=COPEPODA_ABUND,-------------------------,-------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-2764.67,,Std,Deviation,Deviation,Deviation,,,19854
+Median,126.02,,Variance,Variance,Variance,,,,394185468
+Mode,.,,Range,Range,,,,,113956
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1263
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.73684,-0.73684,,Pr,>,|t|,0.4676
+Sign,,M,,3,,Pr,>=,|M|,0.3449
+Signed,Rank,S,,38,,Pr,>=,|S|,0.3966
+,,,,,52,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons
+-----------------------,-----------------------,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,------------------------,------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,,3.604,3.604,,0.000,3.604
+CB6.1,11SEP2000,11SEP2000,11SEP2000,,7.329,7.329,,0.000,7.329
+CB6.1,14AUG2002,14AUG2002,14AUG2002,22.401,22.401,22.401,,261.365,-238.964
+CB6.1,16SEP2002,16SEP2002,16SEP2002,231.685,231.685,231.685,,190.539,41.146
+CB6.4,05AUG1996,05AUG1996,05AUG1996,119.798,119.798,119.798,,66.206,53.592
+CB6.4,06JUL1998,06JUL1998,06JUL1998,,0.000,0.000,,0.000,0.000
+CB6.4,07AUG2000,07AUG2000,07AUG2000,,1.709,1.709,,0.000,1.709
+CB6.4,14SEP2000,14SEP2000,14SEP2000,13.604,13.604,13.604,,0.019,13.585
+CB6.4,15JUL2002,15JUL2002,15JUL2002,67.822,67.822,67.822,,23.700,44.122
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,40.516,40.516,40.516,,9.004,31.512
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,,5.347,5.347,,6.416,-1.069
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,697.613,697.613,697.613,,328.895,368.718
+CB7.4,13AUG1997,13AUG1997,13AUG1997,596.422,596.422,596.422,,198.786,397.636
+CB7.4,06JUL1999,06JUL1999,06JUL1999,158.217,158.217,158.217,,207.940,-49.723
+CB7.4,05AUG1999,05AUG1999,05AUG1999,142.120,142.120,142.120,,32.670,109.450
+CB7.4,21SEP1999,21SEP1999,21SEP1999,25.615,25.615,25.615,,3.212,22.403
+CB7.4,11SEP2000,11SEP2000,11SEP2000,,8.103,8.103,,5.413,2.690
+LE3.6,09AUG2000,09AUG2000,09AUG2000,,0.000,0.000,,0.000,0.000
+RET3.1,08JUL1999,08JUL1999,08JUL1999,,0.949,0.949,,6.377,-5.428
+RET3.1,09AUG2001,09AUG2001,09AUG2001,,0.187,0.187,,0.000,0.187
+RET3.1,12SEP2002,12SEP2002,12SEP2002,50.250,50.250,50.250,,17.645,32.605
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.368,0.368,,0.000,0.368
+RET4.3,10JUL1997,10JUL1997,10JUL1997,38.895,38.895,38.895,,64.813,-25.918
+RET4.3,09SEP1998,09SEP1998,09SEP1998,,2.744,2.744,,0.000,2.744
+SBE5,15SEP1999,15SEP1999,15SEP1999,20.084,20.084,20.084,,25.989,-5.905
+SBE5,21SEP2000,21SEP2000,21SEP2000,,4.791,4.791,,0.000,4.791
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,2.926,2.926,,0.000,2.926
+WE4.2,06JUL1998,06JUL1998,06JUL1998,,0.533,0.533,,0.000,0.533
+-----------------------,-----------------------,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,metric=CYCLOPOIDA_ABUND,------------------------,------------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,29.09439,,Std,Deviation,Deviation,Deviation,,,114.18459
+Median,2.83500,,Variance,Variance,Variance,,,,13038
+Mode,0.00000,,Range,Range,,,,,636.60000
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,32.05850
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,1.348282,1.348282,,Pr,>,|t|,0.1888
+Sign,,M,,7,,Pr,>=,|M|,0.0094
+Signed,Rank,S,,87.5,,Pr,>=,|S|,0.0231
+,,,,,53,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons,,
+-----------------------,-----------------------,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,------------------------,------------------------,------------------------,------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,value_ODU,,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,,,0.000,0.000,,0.000
+CB6.1,11SEP2000,11SEP2000,11SEP2000,0.000,0.000,,,0.000,0.000,,0.000
+CB6.1,14AUG2002,14AUG2002,14AUG2002,0.000,0.000,,,0.000,0.000,,0.000
+CB6.1,16SEP2002,16SEP2002,16SEP2002,0.000,0.000,,,0.000,0.000,,0.000
+CB6.4,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,,,0.000,0.000,,0.000
+CB6.4,06JUL1998,06JUL1998,06JUL1998,0.000,0.000,,,0.000,0.000,,0.000
+CB6.4,07AUG2000,07AUG2000,07AUG2000,0.000,0.000,,,0.000,0.000,,0.000
+CB6.4,14SEP2000,14SEP2000,14SEP2000,0.000,0.000,,,0.000,0.000,,0.000
+CB6.4,15JUL2002,15JUL2002,15JUL2002,0.000,0.000,,,0.000,0.000,,0.000
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,,,0.000,0.000,,0.000
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,0.000,0.000,,,0.000,0.000,,0.000
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,0.000,0.000,,,0.000,0.000,,0.000
+CB7.4,13AUG1997,13AUG1997,13AUG1997,0.000,0.000,,,0.000,0.000,,0.000
+CB7.4,06JUL1999,06JUL1999,06JUL1999,0.000,0.000,,,0.000,0.000,,0.000
+CB7.4,05AUG1999,05AUG1999,05AUG1999,0.000,0.000,,,0.000,0.000,,0.000
+CB7.4,21SEP1999,21SEP1999,21SEP1999,0.000,0.000,,,0.000,0.000,,0.000
+CB7.4,11SEP2000,11SEP2000,11SEP2000,0.000,0.000,,,0.000,0.000,,0.000
+LE3.6,09AUG2000,09AUG2000,09AUG2000,0.000,0.000,,,0.000,0.000,,0.000
+RET3.1,08JUL1999,08JUL1999,08JUL1999,0.000,0.000,,,3.163,3.163,,-3.163
+RET3.1,09AUG2001,09AUG2001,09AUG2001,0.000,0.000,,,0.000,0.000,,0.000
+RET3.1,12SEP2002,12SEP2002,12SEP2002,0.000,0.000,,,7.842,7.842,,-7.842
+RET4.3,06AUG1996,06AUG1996,06AUG1996,0.000,0.000,,,0.000,0.000,,0.000
+RET4.3,10JUL1997,10JUL1997,10JUL1997,0.884,0.884,,,2.431,2.431,,-1.547
+RET4.3,09SEP1998,09SEP1998,09SEP1998,2.744,2.744,,,133.333,133.333,-130.589,-130.589
+SBE5,15SEP1999,15SEP1999,15SEP1999,0.000,0.000,,,0.000,0.000,,0.000
+SBE5,21SEP2000,21SEP2000,21SEP2000,0.000,0.000,,,0.000,0.000,,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,0.000,0.000,,,0.000,0.000,,0.000
+WE4.2,06JUL1998,06JUL1998,06JUL1998,0.533,0.533,,,0.000,0.000,,0.533
+-----------------------,-----------------------,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,metric=EURYTEMORA_ABUND,------------------------,------------------------,------------------------,------------------------
+,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,,
+,,,Variable:,Variable:,diff,diff,,,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,,
+Location,,,,,,Variability,Variability,Variability,,,
+Mean,-5.09314,,Std,Deviation,Deviation,Deviation,,,24.64665,24.64665,24.64665
+Median,0.00000,,Variance,Variance,Variance,,,,607.45714,607.45714,607.45714
+Mode,0.00000,,Range,Range,,,,,131.12200,131.12200,131.12200
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,,,0
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------,
+Student's,t,t,-1.09347,-1.09347,,Pr,>,|t|,0.2838,0.2838,
+Sign,,M,,-1.5,,Pr,>=,|M|,0.3750,0.3750,
+,Signed,Signed,Rank,S,,-6.5,-6.5,Pr,>=,|S|,0.1250
+,,,,,54,,,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+----------------------,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,----------------------,----------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,0.000,0.000
+CB6.1,11SEP2000,11SEP2000,11SEP2000,,0.000,0.000,,0.000,0.000
+CB6.1,14AUG2002,14AUG2002,14AUG2002,,0.000,0.000,,32.671,-32.671
+CB6.1,16SEP2002,16SEP2002,16SEP2002,138.120,138.120,138.120,,169.829,-31.709
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,6.305,6.305,,0.000,6.305
+CB6.4,06JUL1998,06JUL1998,06JUL1998,,0.000,0.000,,0.000,0.000
+CB6.4,07AUG2000,07AUG2000,07AUG2000,,0.000,0.000,,1.367,-1.367
+CB6.4,14SEP2000,14SEP2000,14SEP2000,,0.000,0.000,,0.000,0.000
+CB6.4,15JUL2002,15JUL2002,15JUL2002,,0.000,0.000,,0.000,0.000
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,0.000,0.000
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,,0.000,0.000,,1.604,-1.604
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,,90.089,90.089,,30.679,59.410
+CB7.4,13AUG1997,13AUG1997,13AUG1997,,11.695,11.695,,8.283,3.412
+CB7.4,06JUL1999,06JUL1999,06JUL1999,,0.000,0.000,,0.000,0.000
+CB7.4,05AUG1999,05AUG1999,05AUG1999,,4.901,4.901,,13.068,-8.167
+CB7.4,21SEP1999,21SEP1999,21SEP1999,,4.336,4.336,,6.423,-2.087
+CB7.4,11SEP2000,11SEP2000,11SEP2000,,0.000,0.000,,3.376,-3.376
+LE3.6,09AUG2000,09AUG2000,09AUG2000,,0.000,0.000,,0.000,0.000
+RET3.1,08JUL1999,08JUL1999,08JUL1999,,0.000,0.000,,0.000,0.000
+RET3.1,09AUG2001,09AUG2001,09AUG2001,,0.000,0.000,,0.000,0.000
+RET3.1,12SEP2002,12SEP2002,12SEP2002,,10.764,10.764,,0.000,10.764
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.000,0.000,,0.000,0.000
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,0.884,0.884,,0.000,0.884
+RET4.3,09SEP1998,09SEP1998,09SEP1998,,0.000,0.000,,0.000,0.000
+SBE5,15SEP1999,15SEP1999,15SEP1999,,1.339,1.339,,5.355,-4.016
+SBE5,21SEP2000,21SEP2000,21SEP2000,,0.000,0.000,,0.000,0.000
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,2.926,2.926,,7.902,-4.976
+WE4.2,06JUL1998,06JUL1998,06JUL1998,,0.000,0.000,,0.000,0.000
+----------------------,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,metric=HARPACTICOIDA_ABUND,----------------------,----------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,,
+Location,,,,,,Variability,Variability,Variability,
+Mean,-0.32850,,Std,Deviation,Deviation,Deviation,,,14.77636
+Median,0.00000,,Variance,Variance,Variance,,,,218.34091
+Mode,0.00000,,Range,Range,,,,,92.08100
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1.84550
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,-0.11764,-0.11764,,Pr,>,|t|,0.9072
+Sign,,M,,-2,,Pr,>=,|M|,0.4240
+Signed,Rank,S,,-11.5,,Pr,>=,|S|,0.5016
+,,,,,55,,,,
+,VERSAR,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+------------------------,------------------------,------------------------,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,-------------------------,-------------------------
+STATION,,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,,06JUL1999,06JUL1999,06JUL1999,2.0754,2.0754,2.0754,,1.4426,0.6328
+CB6.1,,11SEP2000,11SEP2000,11SEP2000,2.0465,2.0465,2.0465,,0.6819,1.3646
+CB6.1,,14AUG2002,14AUG2002,14AUG2002,2.4229,2.4229,2.4229,,1.8030,0.6199
+CB6.1,,16SEP2002,16SEP2002,16SEP2002,2.1018,2.1018,2.1018,,2.0561,0.0457
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,1.6904,1.6904,1.6904,,1.0381,0.6523
+CB6.4,,06JUL1998,06JUL1998,06JUL1998,3.2935,3.2935,3.2935,,1.0923,2.2012
+CB6.4,,07AUG2000,07AUG2000,07AUG2000,2.4252,2.4252,2.4252,,2.0089,0.4163
+CB6.4,,14SEP2000,14SEP2000,14SEP2000,1.4371,1.4371,1.4371,,1.4165,0.0206
+CB6.4,,15JUL2002,15JUL2002,15JUL2002,2.3132,2.3132,2.3132,,1.7494,0.5638
+CB7.3E,,06JUL1999,06JUL1999,06JUL1999,3.0013,3.0013,3.0013,,2.2719,0.7294
+CB7.3E,,11JUL2000,11JUL2000,11JUL2000,2.3506,2.3506,2.3506,,1.9820,0.3686
+CB7.3E,,19SEP2002,19SEP2002,19SEP2002,3.2151,3.2151,3.2151,,2.8682,0.3469
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,2.9358,2.9358,2.9358,,2.3317,0.6041
+CB7.4,,06JUL1999,06JUL1999,06JUL1999,3.0183,3.0183,3.0183,,2.6044,0.4139
+CB7.4,,05AUG1999,05AUG1999,05AUG1999,4.2687,4.2687,4.2687,,3.1268,1.1419
+CB7.4,,21SEP1999,21SEP1999,21SEP1999,6.7181,6.7181,6.7181,,3.4063,3.3118
+CB7.4,,11SEP2000,11SEP2000,11SEP2000,3.2121,3.2121,3.2121,,2.4266,0.7855
+LE3.6,,09AUG2000,09AUG2000,09AUG2000,2.1476,2.1476,2.1476,,1.4110,0.7366
+RET3.1,,08JUL1999,08JUL1999,08JUL1999,1.9445,1.9445,1.9445,,1.7339,0.2106
+RET3.1,,09AUG2001,09AUG2001,09AUG2001,1.9186,1.9186,1.9186,,1.2218,0.6968
+RET3.1,,12SEP2002,12SEP2002,12SEP2002,1.7377,1.7377,1.7377,,1.2386,0.4991
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,1.5024,1.5024,1.5024,,1.3220,0.1804
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,3.2702,3.2702,3.2702,,2.2861,0.9841
+RET4.3,,09SEP1998,09SEP1998,09SEP1998,2.1707,2.1707,2.1707,,1.7034,0.4673
+SBE5,,15SEP1999,15SEP1999,15SEP1999,3.2117,3.2117,3.2117,,2.1478,1.0639
+SBE5,,21SEP2000,21SEP2000,21SEP2000,1.9319,1.9319,1.9319,,1.4459,0.4860
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,1.4123,1.4123,1.4123,,1.5014,-0.0891
+WE4.2,,06JUL1998,06JUL1998,06JUL1998,1.9164,1.9164,1.9164,,1.3540,0.5624
+------------------------,------------------------,------------------------,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,metric=MARGALEF_INDEX,-------------------------,-------------------------
+,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,Variable:,Variable:,Variable:,diff,diff,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,Location,,,,,,Variability,Variability,Variability,
+Mean,0.714907,0.714907,,Std,Deviation,Deviation,Deviation,,,0.68170
+Median,0.583950,0.583950,,Variance,Variance,Variance,,,,0.46472
+Mode,.,,,Range,Range,,,,,3.40090
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.36980
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,Student's,t,t,5.549239,5.549239,,Pr,>,|t|,"
+    "
+Sign,,,M,,13,,Pr,>=,|M|,"
+    "
+Signed,Rank,Rank,S,,200,,Pr,>=,|S|,"
+    "
+,,,,,,56,,,,
+,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+------------------------,------------------------,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,-------------------------,-------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,06JUL1999,06JUL1999,06JUL1999,,0.00,0.00,,0.00,0.00
+CB6.1,11SEP2000,11SEP2000,11SEP2000,,0.18,0.18,,0.04,0.13
+CB6.1,14AUG2002,14AUG2002,14AUG2002,,82.14,82.14,,490.06,-407.92
+CB6.1,16SEP2002,16SEP2002,16SEP2002,,0.00,0.00,,82.84,-82.84
+CB6.4,05AUG1996,05AUG1996,05AUG1996,,0.03,0.03,,387.78,-387.75
+CB6.4,06JUL1998,06JUL1998,06JUL1998,,2.02,2.02,,1.84,0.19
+CB6.4,07AUG2000,07AUG2000,07AUG2000,,27.61,27.61,,23.59,4.02
+CB6.4,14SEP2000,14SEP2000,14SEP2000,,4.54,4.54,,2.17,2.37
+CB6.4,15JUL2002,15JUL2002,15JUL2002,1094.82,1094.82,1094.82,,145.59,949.23
+CB7.3E,06JUL1999,06JUL1999,06JUL1999,,22.51,22.51,,9.00,13.51
+CB7.3E,11JUL2000,11JUL2000,11JUL2000,2438.40,2438.40,2438.40,,2309.90,128.50
+CB7.3E,19SEP2002,19SEP2002,19SEP2002,233.31,233.31,233.31,,78.54,154.77
+CB7.4,13AUG1997,13AUG1997,13AUG1997,1099.29,1099.29,1099.29,,331.31,767.98
+CB7.4,06JUL1999,06JUL1999,06JUL1999,,0.30,0.30,,3.01,-2.72
+CB7.4,05AUG1999,05AUG1999,05AUG1999,6905.06,6905.06,6905.06,,3147.61,3757.45
+CB7.4,21SEP1999,21SEP1999,21SEP1999,140.68,140.68,140.68,,13.65,127.03
+CB7.4,11SEP2000,11SEP2000,11SEP2000,,18.91,18.91,,6.75,12.16
+LE3.6,09AUG2000,09AUG2000,09AUG2000,,0.87,0.87,,1.08,-0.22
+RET3.1,08JUL1999,08JUL1999,08JUL1999,,0.95,0.95,,6.33,-5.38
+RET3.1,09AUG2001,09AUG2001,09AUG2001,,0.19,0.19,,0.00,0.19
+RET3.1,12SEP2002,12SEP2002,12SEP2002,,0.00,0.00,,0.00,0.00
+RET4.3,06AUG1996,06AUG1996,06AUG1996,,0.00,0.00,,0.00,0.00
+RET4.3,10JUL1997,10JUL1997,10JUL1997,,29.17,29.17,,64.00,-34.83
+RET4.3,09SEP1998,09SEP1998,09SEP1998,,0.53,0.53,,0.00,0.53
+SBE5,15SEP1999,15SEP1999,15SEP1999,,17.79,17.79,,15.28,2.51
+SBE5,21SEP2000,21SEP2000,21SEP2000,,0.00,0.00,,0.00,0.00
+WE4.2,05AUG1996,05AUG1996,05AUG1996,,0.00,0.00,,0.00,0.00
+WE4.2,06JUL1998,06JUL1998,06JUL1998,,1.07,1.07,,0.14,0.93
+------------------------,------------------------,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,metric=PREDITOR_ABUND,-------------------------,-------------------------
+,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,Variable:,Variable:,Variable:,diff,diff,,,
+,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,,,,,,Variability,Variability,Variability,
+Mean,178.5645,,Std,Deviation,Deviation,Deviation,,,747.79339
+Median,0.1880,,Variance,Variance,Variance,,,,559195
+Mode,0.0000,,Range,Range,,,,,4165
+,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,12.93800
+,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,t,t,1.26355,1.26355,,Pr,>,|t|,0.2172
+Sign,,M,,4.5,,Pr,>=,|M|,0.0931
+Signed,Rank,S,,46,,Pr,>=,|S|,0.1666
+,,,,,57,,,,
+,VERSAR,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,
+-----------------------,-----------------------,-----------------------,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,-----------------------,-----------------------
+STATION,,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,diff
+CB6.1,,06JUL1999,06JUL1999,06JUL1999,0.1291,0.1291,0.1291,,0.0840,0.0451
+CB6.1,,11SEP2000,11SEP2000,11SEP2000,0.0051,0.0051,0.0051,,0.0019,0.0032
+CB6.1,,14AUG2002,14AUG2002,14AUG2002,0.1047,0.1047,0.1047,,0.0584,0.0463
+CB6.1,,16SEP2002,16SEP2002,16SEP2002,0.6923,0.6923,0.6923,,0.5181,0.1742
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,0.0543,0.0543,0.0543,,0.0457,0.0086
+CB6.4,,06JUL1998,06JUL1998,06JUL1998,0.2082,0.2082,0.2082,,0.1775,0.0307
+CB6.4,,07AUG2000,07AUG2000,07AUG2000,0.0447,0.0447,0.0447,,0.0333,0.0114
+CB6.4,,14SEP2000,14SEP2000,14SEP2000,0.0194,0.0194,0.0194,,0.0090,0.0104
+CB6.4,,15JUL2002,15JUL2002,15JUL2002,0.2218,0.2218,0.2218,,0.1684,0.0534
+CB7.3E,,06JUL1999,06JUL1999,06JUL1999,0.1875,0.1875,0.1875,,0.1380,0.0495
+CB7.3E,,11JUL2000,11JUL2000,11JUL2000,0.3972,0.3972,0.3972,,0.4280,-0.0308
+CB7.3E,,19SEP2002,19SEP2002,19SEP2002,0.7577,0.7577,0.7577,,0.7299,0.0278
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,0.5984,0.5984,0.5984,,0.4948,0.1036
+CB7.4,,06JUL1999,06JUL1999,06JUL1999,0.5814,0.5814,0.5814,,0.5768,0.0046
+CB7.4,,05AUG1999,05AUG1999,05AUG1999,0.5954,0.5954,0.5954,,0.6208,-0.0254
+CB7.4,,21SEP1999,21SEP1999,21SEP1999,0.8643,0.8643,0.8643,,0.2113,0.6530
+CB7.4,,11SEP2000,11SEP2000,11SEP2000,0.1655,0.1655,0.1655,,0.1958,-0.0303
+LE3.6,,09AUG2000,09AUG2000,09AUG2000,0.0364,0.0364,0.0364,,0.0386,-0.0022
+RET3.1,,08JUL1999,08JUL1999,08JUL1999,0.0472,0.0472,0.0472,,0.1041,-0.0569
+RET3.1,,09AUG2001,09AUG2001,09AUG2001,0.3787,0.3787,0.3787,,0.6089,-0.2302
+RET3.1,,12SEP2002,12SEP2002,12SEP2002,0.1637,0.1637,0.1637,,0.3449,-0.1812
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,0.4623,0.4623,0.4623,,0.4966,-0.0343
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,0.6678,0.6678,0.6678,,0.4827,0.1851
+RET4.3,,09SEP1998,09SEP1998,09SEP1998,0.1731,0.1731,0.1731,,0.1167,0.0564
+SBE5,,15SEP1999,15SEP1999,15SEP1999,0.1273,0.1273,0.1273,,0.1460,-0.0187
+SBE5,,21SEP2000,21SEP2000,21SEP2000,0.1564,0.1564,0.1564,,0.1454,0.0110
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,0.1204,0.1204,0.1204,,0.0884,0.0320
+WE4.2,,06JUL1998,06JUL1998,06JUL1998,0.0377,0.0377,0.0377,,0.0306,0.0071
+-----------------------,-----------------------,-----------------------,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,metric=SIMPSON_DIVERSITY,-----------------------,-----------------------
+,,,The,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,,Variable:,Variable:,diff,diff,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+Location,Location,,,,,,Variability,Variability,Variability,
+Mean,0.032264,0.032264,,Std,Deviation,Deviation,Deviation,,,0.14677
+Median,0.010700,0.010700,,Variance,Variance,Variance,,,,0.02154
+Mode,.,,,Range,Range,,,,,0.88320
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.06995
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+Student's,Student's,t,t,1.163221,1.163221,,Pr,>,|t|,0.2549
+Sign,,,M,,5,,Pr,>=,|M|,0.0872
+Signed,Rank,Rank,S,,67,,Pr,>=,|S|,0.1293
+,,,,,,58,,,,
+,VERSAR,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons,Comparisons,
+---------------------------,---------------------------,---------------------------,metric=SW_INDEX,metric=SW_INDEX,metric=SW_INDEX,metric=SW_INDEX,----------------------------,----------------------------,----------------------------,----------------------------,----------------------------,----------------------------
+STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,value_ODU,,diff
+CB6.1,,06JUL1999,06JUL1999,06JUL1999,0.3471,0.3471,,,0.24744,0.24744,0.09966,0.09966
+CB6.1,,11SEP2000,11SEP2000,11SEP2000,0.0240,0.0240,,,0.00920,0.00920,0.01480,0.01480
+CB6.1,,14AUG2002,14AUG2002,14AUG2002,0.3232,0.3232,,,0.19790,0.19790,0.12530,0.12530
+CB6.1,,16SEP2002,16SEP2002,16SEP2002,1.5958,1.5958,,,1.32220,1.32220,0.27360,0.27360
+CB6.4,,05AUG1996,05AUG1996,05AUG1996,0.1744,0.1744,,,0.14678,0.14678,0.02762,0.02762
+CB6.4,,06JUL1998,06JUL1998,06JUL1998,0.5862,0.5862,,,0.45122,0.45122,0.13498,0.13498
+CB6.4,,07AUG2000,07AUG2000,07AUG2000,0.1597,0.1597,,,0.12640,0.12640,0.03330,0.03330
+CB6.4,,14SEP2000,14SEP2000,14SEP2000,0.0742,0.0742,,,0.03760,0.03760,0.03660,0.03660
+CB6.4,,15JUL2002,15JUL2002,15JUL2002,0.5319,0.5319,,,0.44680,0.44680,0.08510,0.08510
+CB7.3E,,06JUL1999,06JUL1999,06JUL1999,0.5530,0.5530,,,0.42884,0.42884,0.12416,0.12416
+CB7.3E,,11JUL2000,11JUL2000,11JUL2000,0.7876,0.7876,,,0.81250,0.81250,-0.02490,-0.02490
+CB7.3E,,19SEP2002,19SEP2002,19SEP2002,1.8431,1.8431,,,1.71800,1.71800,0.12510,0.12510
+CB7.4,,13AUG1997,13AUG1997,13AUG1997,1.4035,1.4035,,,1.04789,1.04789,0.35561,0.35561
+CB7.4,,06JUL1999,06JUL1999,06JUL1999,1.3050,1.3050,,,1.23360,1.23360,0.07140,0.07140
+CB7.4,,05AUG1999,05AUG1999,05AUG1999,1.3484,1.3484,,,1.41247,1.41247,-0.06407,-0.06407
+CB7.4,,21SEP1999,21SEP1999,21SEP1999,2.4559,2.4559,,,0.63382,0.63382,1.82208,1.82208
+CB7.4,,11SEP2000,11SEP2000,11SEP2000,0.4648,0.4648,,,0.53820,0.53820,-0.07340,-0.07340
+LE3.6,,09AUG2000,09AUG2000,09AUG2000,0.1289,0.1289,,,0.12740,0.12740,0.00150,0.00150
+RET3.1,,08JUL1999,08JUL1999,08JUL1999,0.1638,0.1638,,,0.31494,0.31494,-0.15114,-0.15114
+RET3.1,,09AUG2001,09AUG2001,09AUG2001,0.8424,0.8424,,,1.18500,1.18500,-0.34260,-0.34260
+RET3.1,,12SEP2002,12SEP2002,12SEP2002,0.4525,0.4525,,,0.61650,0.61650,-0.16400,-0.16400
+RET4.3,,06AUG1996,06AUG1996,06AUG1996,0.7861,0.7861,,,0.83316,0.83316,-0.04706,-0.04706
+RET4.3,,10JUL1997,10JUL1997,10JUL1997,1.7470,1.7470,,,1.19437,1.19437,0.55263,0.55263
+RET4.3,,09SEP1998,09SEP1998,09SEP1998,0.4957,0.4957,,,0.33987,0.33987,0.15583,0.15583
+SBE5,,15SEP1999,15SEP1999,15SEP1999,0.3500,0.3500,,,0.42694,0.42694,-0.07694,-0.07694
+SBE5,,21SEP2000,21SEP2000,21SEP2000,0.3861,0.3861,,,0.37070,0.37070,0.01540,0.01540
+WE4.2,,05AUG1996,05AUG1996,05AUG1996,0.3103,0.3103,,,0.24776,0.24776,0.06254,0.06254
+WE4.2,,06JUL1998,06JUL1998,06JUL1998,0.1322,0.1322,,,0.09824,0.09824,0.03396,0.03396
+---------------------------,---------------------------,---------------------------,metric=SW_INDEX,metric=SW_INDEX,metric=SW_INDEX,metric=SW_INDEX,----------------------------,----------------------------,----------------------------,----------------------------,----------------------------,----------------------------
+,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,,
+,,,Variable:,Variable:,Variable:,diff,,,,,,
+,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,,
+Location,Location,,,,,,Variability,Variability,Variability,,,
+Mean,0.114538,0.114538,,Std,Deviation,Deviation,Deviation,,,0.37342,0.37342,0.37342
+Median,0.035278,0.035278,,Variance,Variance,Variance,,,,0.13944,0.13944,0.13944
+Mode,.,,,Range,Range,,,,,2.16468,2.16468,2.16468
+,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,0.16118,0.16118,0.16118
+,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,,
+Test,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------,
+Student's,Student's,t,t,1.623033,1.623033,,Pr,>,|t|,0.1162,0.1162,
+Sign,,,M,,6,,Pr,>=,|M|,0.0357,0.0357,
+,Signed,Signed,Rank,Rank,S,,,83,Pr,>=,|S|,0.0572
+,,,,,,59,,,,,,
+,,,VERSAR,MZ101C,MZ101C,vs.,ODU,MZ103,MZ103,Comparisons,Comparisons,Comparisons,,,
+-------------------------,-------------------------,-------------------------,-------------------------,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------
+STATION,STATION,STATION,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,value_ODU,value_ODU,value_ODU,diff,diff,
+CB6.1,CB6.1,,06JUL1999,06JUL1999,06JUL1999,,20,,,,14,,6,6,
+CB6.1,CB6.1,,11SEP2000,11SEP2000,11SEP2000,,21,,,,7,,14,14,
+CB6.1,CB6.1,,14AUG2002,14AUG2002,14AUG2002,,23,,,,22,,1,1,
+CB6.1,CB6.1,,16SEP2002,16SEP2002,16SEP2002,,19,,,,19,,0,0,
+CB6.4,CB6.4,,05AUG1996,05AUG1996,05AUG1996,,19,,,,12,,7,7,
+CB6.4,CB6.4,,06JUL1998,06JUL1998,06JUL1998,,17,,,,6,,11,11,
+CB6.4,CB6.4,,07AUG2000,07AUG2000,07AUG2000,,22,,,,18,,4,4,
+CB6.4,CB6.4,,14SEP2000,14SEP2000,14SEP2000,,14,,,,14,,0,0,
+CB6.4,CB6.4,,15JUL2002,15JUL2002,15JUL2002,,23,,,,15,,8,8,
+CB7.3E,CB7.3E,CB7.3E,06JUL1999,06JUL1999,06JUL1999,,29,,,,22,,7,7,
+CB7.3E,CB7.3E,CB7.3E,11JUL2000,11JUL2000,11JUL2000,,20,,,,17,,3,3,
+CB7.3E,CB7.3E,CB7.3E,19SEP2002,19SEP2002,19SEP2002,,29,,,,24,,5,5,
+CB7.4,CB7.4,,13AUG1997,13AUG1997,13AUG1997,,30,,,,24,,6,6,
+CB7.4,CB7.4,,06JUL1999,06JUL1999,06JUL1999,,28,,,,25,,3,3,
+CB7.4,CB7.4,,05AUG1999,05AUG1999,05AUG1999,,41,,,,28,,13,13,
+CB7.4,CB7.4,,21SEP1999,21SEP1999,21SEP1999,,51,,,,24,,27,27,
+CB7.4,CB7.4,,11SEP2000,11SEP2000,11SEP2000,,26,,,,20,,6,6,
+LE3.6,LE3.6,,09AUG2000,09AUG2000,09AUG2000,,17,,,,11,,6,6,
+RET3.1,RET3.1,RET3.1,08JUL1999,08JUL1999,08JUL1999,,16,,,,14,,2,2,
+RET3.1,RET3.1,RET3.1,09AUG2001,09AUG2001,09AUG2001,,11,,,,6,,5,5,
+RET3.1,RET3.1,RET3.1,12SEP2002,12SEP2002,12SEP2002,,16,,,,11,,5,5,
+RET4.3,RET4.3,RET4.3,06AUG1996,06AUG1996,06AUG1996,,10,,,,9,,1,1,
+RET4.3,RET4.3,RET4.3,10JUL1997,10JUL1997,10JUL1997,,19,,,,16,,3,3,
+RET4.3,RET4.3,RET4.3,09SEP1998,09SEP1998,09SEP1998,,20,,,,16,,4,4,
+SBE5,SBE5,,15SEP1999,15SEP1999,15SEP1999,,28,,,,19,,9,9,
+SBE5,SBE5,,21SEP2000,21SEP2000,21SEP2000,,18,,,,14,,4,4,
+WE4.2,WE4.2,,05AUG1996,05AUG1996,05AUG1996,,14,,,,15,,-1,-1,
+WE4.2,WE4.2,,06JUL1998,06JUL1998,06JUL1998,,14,,,,10,,4,4,
+-------------------------,-------------------------,-------------------------,-------------------------,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,metric=TAXA_RICHNESS,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------,-------------------------
+,,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,,,,,
+,,,,Variable:,Variable:,Variable:,diff,diff,,,,,,,
+,,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,,,,,
+,,Location,,,,,,Variability,Variability,Variability,,,,,
+,Mean,Mean,5.821429,,Std,Deviation,Deviation,Deviation,,,5.53142,5.53142,5.53142,,
+,Median,Median,5.000000,,Variance,Variance,Variance,,,,30.59656,30.59656,30.59656,,
+,Mode,Mode,4.000000,,Range,Range,,,,,28.00000,28.00000,28.00000,,
+,,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,4.00000,4.00000,4.00000,,
+NOTE:,The,mode,displayed,is,the,smallest,smallest,of,2,modes,with,a,count,of,4.
+,,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,,,,,
+,,Test,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------,Value------,,,
+,,Student's,t,t,5.568937,5.568937,,Pr,>,|t|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,Sign,,M,,12,,Pr,>=,|M|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,Signed,Rank,S,,173.5,,Pr,>=,|S|,"
+    
+    
+    
+    ","
+    
+    
+    
+    ",,,
+,,,,,,,60,,,,,,,,
+VERSAR,MZ101C,vs.,ODU,MZ103,Comparisons,Comparisons,Comparisons,Comparisons,,,,
+---------------------------,---------------------------,---------------------------,---------------------------,---------------------------,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,---------------------------,---------------------------,---------------------------
+STATION,STATION,,SAMPLE_DATE,SAMPLE_DATE,SAMPLE_DATE,value_VERSAR,value_VERSAR,value_VERSAR,value_VERSAR,,value_ODU,diff
+CB6.1,CB6.1,,06JUL1999,06JUL1999,06JUL1999,,9462.40,9462.40,,,8089.03,1373.37
+CB6.1,CB6.1,,11SEP2000,11SEP2000,11SEP2000,,17552.86,17552.86,,,6623.14,10929.72
+CB6.1,CB6.1,,14AUG2002,14AUG2002,14AUG2002,,8778.08,8778.08,,114380.37,114380.37,-105602.30
+CB6.1,CB6.1,,16SEP2002,16SEP2002,16SEP2002,,5241.09,5241.09,,,6337.77,-1096.68
+CB6.4,CB6.4,,05AUG1996,05AUG1996,05AUG1996,,42121.41,42121.41,,,39950.92,2170.49
+CB6.4,CB6.4,,06JUL1998,06JUL1998,06JUL1998,,128.77,128.77,,,96.35,32.42
+CB6.4,CB6.4,,07AUG2000,07AUG2000,07AUG2000,,5761.97,5761.97,,,4733.99,1027.98
+CB6.4,CB6.4,,14SEP2000,14SEP2000,14SEP2000,,8484.96,8484.96,,,9675.94,-1190.99
+CB6.4,CB6.4,,15JUL2002,15JUL2002,15JUL2002,,13503.92,13503.92,,,2989.57,10514.35
+CB7.3E,CB7.3E,,06JUL1999,06JUL1999,06JUL1999,,11262.31,11262.31,,,10205.07,1057.23
+CB7.3E,CB7.3E,,11JUL2000,11JUL2000,11JUL2000,,3238.62,3238.62,,,3177.89,60.73
+CB7.3E,CB7.3E,,19SEP2002,19SEP2002,19SEP2002,,6056.64,6056.64,,,3038.34,3018.29
+CB7.4,CB7.4,,13AUG1997,13AUG1997,13AUG1997,,19496.98,19496.98,,,19224.70,272.28
+CB7.4,CB7.4,,06JUL1999,06JUL1999,06JUL1999,,7673.46,7673.46,,,9886.70,-2213.24
+CB7.4,CB7.4,,05AUG1999,05AUG1999,05AUG1999,,11738.41,11738.41,,,5606.02,6132.39
+CB7.4,CB7.4,,21SEP1999,21SEP1999,21SEP1999,,1707.08,1707.08,,,851.18,855.90
+CB7.4,CB7.4,,11SEP2000,11SEP2000,11SEP2000,,2399.64,2399.64,,,2514.81,-115.17
+LE3.6,LE3.6,,09AUG2000,09AUG2000,09AUG2000,,1720.24,1720.24,,,1196.65,523.59
+RET3.1,RET3.1,,08JUL1999,08JUL1999,08JUL1999,,2239.88,2239.88,,,1803.44,436.44
+RET3.1,RET3.1,,09AUG2001,09AUG2001,09AUG2001,,183.46,183.46,,,59.88,123.59
+RET3.1,RET3.1,,12SEP2002,12SEP2002,12SEP2002,,5608.37,5608.37,,,3208.79,2399.57
+RET4.3,RET4.3,,06AUG1996,06AUG1996,06AUG1996,,399.64,399.64,,,424.79,-25.15
+RET4.3,RET4.3,,10JUL1997,10JUL1997,10JUL1997,,245.75,245.75,,,707.27,-461.52
+RET4.3,RET4.3,,09SEP1998,09SEP1998,09SEP1998,,6329.63,6329.63,,,6672.18,-342.55
+SBE5,,,15SEP1999,15SEP1999,15SEP1999,,4476.82,4476.82,,,4358.44,118.39
+SBE5,,,21SEP2000,21SEP2000,21SEP2000,,6632.61,6632.61,,,8030.39,-1397.78
+WE4.2,WE4.2,,05AUG1996,05AUG1996,05AUG1996,,9942.77,9942.77,,,11205.85,-1263.08
+WE4.2,WE4.2,,06JUL1998,06JUL1998,06JUL1998,,883.11,883.11,,,770.38,112.73
+---------------------------,---------------------------,---------------------------,---------------------------,---------------------------,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,metric=TOT_ABUND,---------------------------,---------------------------,---------------------------
+,,,,The,UNIVARIATE,UNIVARIATE,UNIVARIATE,Procedure,Procedure,Procedure,,
+,,,,,Variable:,Variable:,Variable:,diff,diff,,,
+,,,,Basic,Basic,Statistical,Statistical,Statistical,Measures,Measures,Measures,
+,Location,Location,Location,,,,,,Variability,Variability,Variability,
+,Mean,,-2591.03,-2591.03,,Std,Deviation,Deviation,Deviation,,,20429
+,Median,,120.99,120.99,,Variance,Variance,Variance,,,,417327991
+,Mode,,,.,,Range,Range,,,,,116532
+,,,,,,Interquartile,Interquartile,Interquartile,Interquartile,Range,Range,1617
+,,,,Tests,Tests,for,Location:,Location:,Mu0=0,Mu0=0,,
+,Test,,,,-Statistic-,-Statistic-,-Statistic-,,-----p,-----p,Value------,Value------
+,Student's,Student's,Student's,t,t,-0.67114,-0.67114,,Pr,>,|t|,0.5078
+,Sign,,,,M,,4,,Pr,>=,|M|,0.1849
+,Signed,Signed,Rank,Rank,S,,56,,Pr,>=,|S|,0.2079
+,,,,,,,,61,,,,
+62
+63

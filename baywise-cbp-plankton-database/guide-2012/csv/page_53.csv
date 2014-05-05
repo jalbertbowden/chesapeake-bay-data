@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 53 of 170”,Name: “Table 1 of 1 on page 53 of 170”
+Table: 52,Table: 52
+,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+THE PHYTOPLANKTON INDEX OF BIOTIC INTEGRITY AND,THE PHYTOPLANKTON INDEX OF BIOTIC INTEGRITY AND
+CALCULATED METRICS,CALCULATED METRICS
+"Phytoplankton (free-floating, microscopic algae) form the base of the estuarine food web and are stringly","Phytoplankton (free-floating, microscopic algae) form the base of the estuarine food web and are stringly"
+influenced by nutrient and light conditions in the water column. Planktonic organisms have long been,influenced by nutrient and light conditions in the water column. Planktonic organisms have long been
+"used to assess pelagic environmental conditions (Stevenson & Pan, 1999). Plankton indicators have","used to assess pelagic environmental conditions (Stevenson & Pan, 1999). Plankton indicators have"
+"frequently been used in composite indexes of ecosystem health (Jordan & Vaas, 2000). Metrics","frequently been used in composite indexes of ecosystem health (Jordan & Vaas, 2000). Metrics"
+calculated from the long term monitoring data have been developed to characterize “reference,calculated from the long term monitoring data have been developed to characterize “reference
+"communities,” or populations of phytoplankton living in least-degraded water quality conditions (Alden et.","communities,” or populations of phytoplankton living in least-degraded water quality conditions (Alden et."
+"al. 1997, USEPA 2003, Marshall et. al 2006). Attributes of the reference communities described in","al. 1997, USEPA 2003, Marshall et. al 2006). Attributes of the reference communities described in"
+"Buchanan et al. 2005 were used to create a Phytoplankton Index of Biotic Integrity (PIBI), or quantitative","Buchanan et al. 2005 were used to create a Phytoplankton Index of Biotic Integrity (PIBI), or quantitative"
+scale for assessing phytoplankton community status relative to water quality (Lacouture et al. 2006). The,scale for assessing phytoplankton community status relative to water quality (Lacouture et al. 2006). The
+Chesapeake Bay PIBI is a tool for assessing the condition of the thidal phytoplankton communities in the,Chesapeake Bay PIBI is a tool for assessing the condition of the thidal phytoplankton communities in the
+bay. It has been incorporated into the Chesapeake Bay Health Index developed by Williams et al. 2009.,bay. It has been incorporated into the Chesapeake Bay Health Index developed by Williams et al. 2009.
+As part of the development of Chesapeake Bay Phytoplankton reference communities (Buchanan etal,As part of the development of Chesapeake Bay Phytoplankton reference communities (Buchanan etal
+2005) and a Phytoplankton Index of Biotic Integrity (PIBI) (Lacouture etal 2006) a series of summary,2005) and a Phytoplankton Index of Biotic Integrity (PIBI) (Lacouture etal 2006) a series of summary
+phytoplankton parameters were calculated for all monitoring events. While the majority of these,phytoplankton parameters were calculated for all monitoring events. While the majority of these
+"calculated values are not scored metrics in the PIBI, many users of monitoring data have found summary","calculated values are not scored metrics in the PIBI, many users of monitoring data have found summary"
+data to be more useful than “raw” taxa counts. Therefore the complete suite of these composite metrics is,data to be more useful than “raw” taxa counts. Therefore the complete suite of these composite metrics is
+being made available as the Phytoplankton Indicator dataset as well as the scored PIBI metric data set.,being made available as the Phytoplankton Indicator dataset as well as the scored PIBI metric data set.
+All values in this data set are above and below pycnocline layer-averaged values. See Appendix A for,All values in this data set are above and below pycnocline layer-averaged values. See Appendix A for
+details. The current list of available summary phytoplankton based parameters in the indicator dataset is,details. The current list of available summary phytoplankton based parameters in the indicator dataset is
+as follows:,
+CHLOROPHYTE ABUNDANCE,MICROCYSTIS AERUGINOSA ABUNDANCE
+CHLOROPHYTE BIOMASS,MICROCYSTIS AERUGINOSA BIOMASS
+CHRYSOPHYTE ABUNDANCE,PICOPLANKTON ABUNDANCE
+CHRYSOPHYTE BIOMASS,PICOPLANKTON BIOMASS
+COCHLODINIUM HETEROLOBATUM ABUNDANCE,PRASINOPHYTE ABUNDANCE
+COCHLODINIUM HETEROLOBATUM BIOMASS,PRASINOPHYTE BIOMASS
+CRYPTOPHYTE ABUNDANCE,PROROCENTRUM MINIMUM ABUNDANCE
+CRYPTOPHYTE BIOMASS,PROROCENTRUM MINIMUM BIOMASS
+CYANOPHYTE ABUNDANCE,TOTAL PHYTOPLANKTON ABUNDANCE
+CYANOPHYTE BIOMASS,TOT_PHYTOPLANKTON BIOMASS
+DIATOM ABUNDANCE,BIOMASS TO CHLOPHYLL RATIO
+DIATOM BIOMASS,AVERAGE CELL SIZE
+DINOFLAGGELATE ABUNDANCE,PERCENT CRYPTOPHYTE BIOMASS
+DINOFLAGGELATE BIOMASS,PERCENT CYANOPHYTE BIOMASS
+EUGLENOPHYTE ABUNDANCE,PERCENT DIATOM BIOMASS
+EUGLENOPHYTE BIOMASS,PERCENT DINOFLAGGELATE BIOMASS
+HAPTOPHYTE ABUNDANCE,
+HAPTOPHYTE BIOMASS,
+There are also a number of relevant water quality parameters which have been extracted from the,There are also a number of relevant water quality parameters which have been extracted from the
+Chesapeake Bay Program Water Quality Database. These parameters then had average layer values,Chesapeake Bay Program Water Quality Database. These parameters then had average layer values
+computed and were merged into the composite metric data set. These parameters include:,computed and were merged into the composite metric data set. These parameters include:
+SALINITY,DISSOLVED OXYGEN
+SURFACE CHLOROPHYLL,DISSOLVED ORGAINIC CARBON
+INORGANIC PHOSPHATE,PARTICULATE CARBON
+CHLOROPHYLL a,PHAEOPHYTEN
+SECCII DEPTH,TOTAL ORGANIC CARBON
+DISOLVED INORGANIC NITROGEN,WATER TEMPERATURE
+TOTAL SUSPENDED SOLIDS,
+,51

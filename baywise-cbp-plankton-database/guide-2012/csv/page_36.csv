@@ -1,0 +1,34 @@
+Name: “Table 1 of 1 on page 36 of 170”,Name: “Table 1 of 1 on page 36 of 170”
+Table: 35,Table: 35
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+OTHER ISSUES:,
+1),Mesozooplankton counts are reported in organisms per cubic meters. Microzooplankton counts are
+,reported in organisms per liter. One of the data sets must have its units converted before combining
+,the data sets The conversion is for converting mesozooplankton into microzooplankton units is:
+,DEN_M3 / 1000 = DEN_L
+2),Maryland Microzooplankton SAMPLE_ NUMBER: Note that the Maryland microzooplankton
+,SAMPLE_NUMBERs are sample identifiers; they are not synonymous with a replicate number.
+,"Please perform a count of SAMPLE_NUMBER by STATION, SAMPLE_DATE, LAYER and SOURCE"
+,to determine the number of replicate samples taken at a station.
+3),Virginia Specific Issue-Analysis of the July-December 1999 data deliverables revealed abnormally
+,high counts of Oligotrichs were found at numerous stations. It is unclear whether this increase was
+,due to natural phenomena or some kind of taxonomist bias due to the introduction of new personnel.
+4),Virginia Specific Issues-The 2002 split sample study revealed that the phytoplankton genus Ceratium
+,was being mistaken as rotifers in routine and split sample counts. Phytoplankton samples with high
+,Ceratium counts were identified and the corresponding microzooplankton samples were recounted
+,and resubmitted from the time period between July 1999-December 2001. ODU taxonomists were
+,also noted as finding high counts of Oligotrichs in split samples where Maryland personnel did not
+,find these. No explanation for this finding has been determined to date.
+OTHER DOCUMENTATION:,
+"USEPA Chesapeake Bay Program (2012, February 22). Maryland Chesapeake Bay Program","USEPA Chesapeake Bay Program (2012, February 22). Maryland Chesapeake Bay Program"
+Microzooplankton Monitoring Survey Data Dictionary. URL,Microzooplankton Monitoring Survey Data Dictionary. URL
+ftp://ftp.chesapeakebay.net/Pub/Living_Resources/plank/micro/mdmidoc.pdf,ftp://ftp.chesapeakebay.net/Pub/Living_Resources/plank/micro/mdmidoc.pdf
+"USEPA Chesapeake Bay Program (2012, February 22). Virginia Chesapeake Bay Program","USEPA Chesapeake Bay Program (2012, February 22). Virginia Chesapeake Bay Program"
+Microzooplankton Monitoring Survey Data Dictionary. URL,Microzooplankton Monitoring Survey Data Dictionary. URL
+ftp://ftp.chesapeakebay.net/Pub/Living_Resources/plank/micro/vamidoc.pdf,ftp://ftp.chesapeakebay.net/Pub/Living_Resources/plank/micro/vamidoc.pdf
+"USEPA Chesapeake Bay Program (2012, February 22). The 1998 - 1999 Split Sample Study for","USEPA Chesapeake Bay Program (2012, February 22). The 1998 - 1999 Split Sample Study for"
+"Chesapeake Bay Program Phytoplankton, Microzooplankton and Mesozooplankton Monitoring","Chesapeake Bay Program Phytoplankton, Microzooplankton and Mesozooplankton Monitoring"
+Components.URL ftp.chesapeakebay.net/Pub/Living_Resources/plank/qa/SplitSmplReport-1988-,Components.URL ftp.chesapeakebay.net/Pub/Living_Resources/plank/qa/SplitSmplReport-1988-
+1989.pdf,
+,34

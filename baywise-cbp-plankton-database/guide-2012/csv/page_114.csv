@@ -1,0 +1,106 @@
+Name: “Table 1 of 1 on page 114 of 170”,Name: “Table 1 of 1 on page 114 of 170”,Name: “Table 1 of 1 on page 114 of 170”,Name: “Table 1 of 1 on page 114 of 170”
+Table: 113,Table: 113,Table: 113,Table: 113
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+LIFE_STAGE,,LIFE_STAGE,
+_CODE,LIFE_STAGE_DESCRIPTION,_CODE,LIFE_STAGE_DESCRIPTION
+108,"20:49um Length 
+    ",168,100:199um Length 100:199um Width Cone
+109,"50:99um Length 
+    ",169,100:199um Length 100:199um Width Cup
+110,100:199um Length >20um Width,170,100:199um Length 20:49um Width Cone
+111,>20um Width,171,100:199um Length 20:49um Width Cup
+112,"
+    ",172,100:199um Length 50:99um Width Cone
+113,"
+    ",173,100:199um Length 50:99um Width Cup
+114,"
+    ",174,100:199um Length Cone
+115,"
+    ",175,100:199um Length Cup
+116,"
+    ",176,100:199um Length
+117,"20:49um Length 
+    ",177,100:199um Length Empty
+118,50:99um Length Empty,178,100:199um Length Full
+119,Species C 100:199um Length 100:199um Width,179,"20:49um Length 
+    "
+120,Species B 50:99um Length 50:99um Width,180,"20:49um Length 
+    "
+121,Species B 50:99um Length 20:49um Width,181,20:49um Length >20um Width Empty
+122,Parvula Group Full,182,20:49um Length >20um Width Full
+123,Parvula Group,183,20:49um Length 100:199um Width
+124,20:49um Length Full,184,20:49um Length 100:199um Width Cone
+125,Beroidea Group,185,20:49um Length 100:199um Width Cup
+126,Species C 100:199um Length 20:49um Width,186,20:49um Length 50:99um Width Cone
+127,50:99um Length,187,20:49um Length 50:99um Width Cup
+128,50:99um Length 50:99um Width Cup,188,20:49um Length Cone
+129,50:99um Length 50:99um Width Cone,189,20:49um Length Cup
+130,50:99um Length 20:49um Width Cup,190,20:49um Length Empty
+131,50:99um Length 20:49um Width Cone,191,Reserved For Future Use
+132,50:99um Length >20um Width,192,"50:99um Length 
+    "
+133,"
+    ",193,"50:99um Length 
+    "
+134,"
+    ",194,"50:99um Length 
+    "
+135,"
+    ",195,"50:99um Length 
+    "
+136,"
+    ",196,50:99um Length >20um Width Empty
+137,"
+    ",197,50:99um Length >20um Width Full
+138,"
+    ",198,50:99um Length 100:199um Width Cone
+139,"
+    ",199,50:99um Length 100:199um Width Cup
+140,"
+    ",200,50:99um Length Cone
+141,"
+    ",201,50:99um Length Cup
+142,"
+    ",202,Reserved For Future Use
+143,"
+    ",203,Reserved For Future Use
+144,"
+    ",204,50:99um Length Full
+145,"
+    ",205,Beroidea Group Empty
+146,"
+    ",206,Beroidea Group Full
+147,"
+    ",207,Larvae 20:49um Length
+148,>200um,208,Parvula Group Empty
+149,>200um Empty,209,Small Empty
+150,>200um Full,210,Small Full
+151,">200um Length 
+    ",211,Species B 50:99um Length
+152,">200um Length 
+    ",212,"Species B 50:99um Length 
+    "
+153,">200um Length 
+    ",213,Species B 50:99um Length 100:199um Width
+154,>200um Length >20um Width,214,Species C 100:199um Length
+155,>200um Length >20um Width Empty,215,"Species C 100:199um Length 
+    "
+156,>200um Length >20um Width Full,216,Species C 100:199um Length 50:99um Width
+157,>200um Length Empty,217,Species V
+158,>200um Length Full,218,Species W
+159,>20um Width Empty,219,Species X
+160,>20um Width Full,220,Species Y
+161,"100:199um Length 
+    ",221,Species Z
+162,"100:199um Length 
+    ",222,Species 1
+163,"100:199um Length 
+    ",223,Species 2
+164,"100:199um Length 
+    ",224,Species 3
+165,"100:199um Length 
+    ",225,Complex
+166,100:199um Length >20um Width Empty,226,Species G
+167,100:199um Length >20um Width Full,227,Species H
+,112,,

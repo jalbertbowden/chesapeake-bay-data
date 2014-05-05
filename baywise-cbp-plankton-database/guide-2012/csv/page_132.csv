@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 132 of 170”,Name: “Table 1 of 1 on page 132 of 170”,Name: “Table 1 of 1 on page 132 of 170”,Name: “Table 1 of 1 on page 132 of 170”
+Table: 131,Table: 131,Table: 131,Table: 131
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-31.,Detection Limit Codes (QUALIFIERS).,Detection Limit Codes (QUALIFIERS).,Detection Limit Codes (QUALIFIERS).
+This two-character code indicates when the Reporting_Value of the Reporting_Parameter is outside the,This two-character code indicates when the Reporting_Value of the Reporting_Parameter is outside the,This two-character code indicates when the Reporting_Value of the Reporting_Parameter is outside the,This two-character code indicates when the Reporting_Value of the Reporting_Parameter is outside the
+detection limits of the method being used.,detection limits of the method being used.,detection limits of the method being used.,The valid entries for this field are as follows:
+QUALIFIERS,QUALIFIERS_DESCRIPTION,QUALIFIERS_DESCRIPTION,QUALIFIERS_DESCRIPTION
+#,Trace (less than an unknown detectable value),Trace (less than an unknown detectable value),Trace (less than an unknown detectable value)
+"
+    ",Less than the detection limit of the method,Less than the detection limit of the method,Less than the detection limit of the method
+"
+    ",Less than the detection limit of the method value set to 0,Less than the detection limit of the method value set to 0,Less than the detection limit of the method value set to 0
+>,Greater than detection limit of method,Greater than detection limit of method,Greater than detection limit of method
+A,Acceptable Value-Within Range,Acceptable Value-Within Range,Acceptable Value-Within Range
+C,Data suspect use caution,Data suspect use caution,Data suspect use caution
+J,Estimated value,Estimated value,
+N,Not detected,,
+NA,Not recorded/parameter value not acceptable,Not recorded/parameter value not acceptable,Not recorded/parameter value not acceptable
+Table C-32.,Reporting Parameter Prevalence (REPORTING_PARAMETER_PREVALENCE),Reporting Parameter Prevalence (REPORTING_PARAMETER_PREVALENCE),Reporting Parameter Prevalence (REPORTING_PARAMETER_PREVALENCE)
+In some cases in non-tidal benthic studies the abundance of benthic organism were reported in,In some cases in non-tidal benthic studies the abundance of benthic organism were reported in,In some cases in non-tidal benthic studies the abundance of benthic organism were reported in,In some cases in non-tidal benthic studies the abundance of benthic organism were reported in
+abundance categories instead of actual organism counts. REPORTING_PARAMETER_PREVALENCE,abundance categories instead of actual organism counts. REPORTING_PARAMETER_PREVALENCE,abundance categories instead of actual organism counts. REPORTING_PARAMETER_PREVALENCE,abundance categories instead of actual organism counts. REPORTING_PARAMETER_PREVALENCE
+abundance classes are as follows:,abundance classes are as follows:,,
+REPORTING_,,,
+,REPORTING_PARAMETER REPORTING_PARAMETER,REPORTING_PARAMETER REPORTING_PARAMETER,REPORTING_PARAMETER REPORTING_PARAMETER
+PARAMETER_,_PREVALENCE_NAME,_PREVALENCE__RANGE,_PREVALENCE__RANGE
+PREVALENCE,,,
+A,Abundant,25-100,25-100
+C,Common,10-24,
+P,Present,3-9,
+R,Rare,"
+    ",
+VA,Very Abundant,>100,
+Table C-33.,Salinity Zone (SALZONE).,Salinity Zone (SALZONE).,
+Sampling Salinity Zone codes are used in numerous places in the tidal monitoring data and indexes of,Sampling Salinity Zone codes are used in numerous places in the tidal monitoring data and indexes of,Sampling Salinity Zone codes are used in numerous places in the tidal monitoring data and indexes of,Sampling Salinity Zone codes are used in numerous places in the tidal monitoring data and indexes of
+biotic integrity.,"If these data are collected, they are located in the EVENT DATA FILE.","If these data are collected, they are located in the EVENT DATA FILE.","If these data are collected, they are located in the EVENT DATA FILE."
+SALZONE,DESCRIPTION,,
+F,Freshwater- less than 0. 5 PSU,Freshwater- less than 0. 5 PSU,Freshwater- less than 0. 5 PSU
+O,Oligohaline- 0. 5 to 5. 0 PSU,Oligohaline- 0. 5 to 5. 0 PSU,
+M,Mesohaline- 5. 1 to 18. 0 PSU,Mesohaline- 5. 1 to 18. 0 PSU,Mesohaline- 5. 1 to 18. 0 PSU
+LM,Low Mesohaline- 5. 1 to 12. 5 PSU,Low Mesohaline- 5. 1 to 12. 5 PSU,Low Mesohaline- 5. 1 to 12. 5 PSU
+HM,High Mesohaline- 12. 5 to 18. 0 PSU,High Mesohaline- 12. 5 to 18. 0 PSU,High Mesohaline- 12. 5 to 18. 0 PSU
+P,Polyhaline- greater than 18. 0 PSU,Polyhaline- greater than 18. 0 PSU,Polyhaline- greater than 18. 0 PSU
+N,Not Recorded,,
+E,"An E accompanying an F, O, M, or P indicates an estimated salinity zone.","An E accompanying an F, O, M, or P indicates an estimated salinity zone.","An E accompanying an F, O, M, or P indicates an estimated salinity zone."
+,Salzone value based on salinity data NOT collected synchronous with biological data.,Salzone value based on salinity data NOT collected synchronous with biological data.,Salzone value based on salinity data NOT collected synchronous with biological data.
+,,,130

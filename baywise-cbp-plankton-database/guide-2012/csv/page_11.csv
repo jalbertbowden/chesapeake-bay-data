@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 11 of 170”,Name: “Table 1 of 1 on page 11 of 170”
+Table: 10,Table: 10
+,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+MONITORING DATA CURRENTLY AVAILABLE,MONITORING DATA CURRENTLY AVAILABLE
+THROUGH CIMS/CDE,THROUGH CIMS/CDE
+CHESAPEAKE BAY TIDAL MONITORING AND HISTORICAL,CHESAPEAKE BAY TIDAL MONITORING AND HISTORICAL
+BAY MONITORING DATA,BAY MONITORING DATA
+Point data collected as part of the CBP monitoring network are described briefly below. Point data are,Point data collected as part of the CBP monitoring network are described briefly below. Point data are
+defined as data collected at a single point that can be referred to by a single latitude and longitude. Data,defined as data collected at a single point that can be referred to by a single latitude and longitude. Data
+collected as part of the monitoring network may be directly funded by CBP or matching grant funded by a,collected as part of the monitoring network may be directly funded by CBP or matching grant funded by a
+program partner and reported as grant deliverables or funded by program partners and voluntarily,program partner and reported as grant deliverables or funded by program partners and voluntarily
+reported. CBP funded and match grant funded monitoring data sets are subject to higher levels of quality,reported. CBP funded and match grant funded monitoring data sets are subject to higher levels of quality
+assurance and data reporting requirements for data submission. Ideally all data (voluntary submissions,assurance and data reporting requirements for data submission. Ideally all data (voluntary submissions
+and grant deliverables) submitted by the data generators are in a standardized table structure suitable for,and grant deliverables) submitted by the data generators are in a standardized table structure suitable for
+"loading into the relational databases. The Living Resources Data Manager rigorously QA/QC's the data,","loading into the relational databases. The Living Resources Data Manager rigorously QA/QC's the data,"
+"loads them into the CIMS/CDE relational database structure, and updates the data documentation","loads them into the CIMS/CDE relational database structure, and updates the data documentation"
+provided. The data are published through an online searchable database as a) comma or tab delimited,provided. The data are published through an online searchable database as a) comma or tab delimited
+ASCII flat files or XML Schema formatted files. Data in alterative formats or data on media (compact disc),ASCII flat files or XML Schema formatted files. Data in alterative formats or data on media (compact disc)
+are available upon request.,
+All monitoring data collected as part of the formal Maryland and Virginia Chesapeake Bay tidal,All monitoring data collected as part of the formal Maryland and Virginia Chesapeake Bay tidal
+"monitoring programs including the current (1984-present) phytoplankton, fluorescence, tidal benthic and","monitoring programs including the current (1984-present) phytoplankton, fluorescence, tidal benthic and"
+historic (1984-2002) zooplankton monitoring and Primary Production (1984-2009) data are available from,historic (1984-2002) zooplankton monitoring and Primary Production (1984-2009) data are available from
+the CBP Internet web page. Sampling was usually coordinated with the CBP water quality survey unless,the CBP Internet web page. Sampling was usually coordinated with the CBP water quality survey unless
+otherwise noted. Data from active monitoring programs are routinely updated in six-month increments.,otherwise noted. Data from active monitoring programs are routinely updated in six-month increments.
+Data collected between January and June of the current calendar year are added to the databases in,Data collected between January and June of the current calendar year are added to the databases in
+December of the same year. Data collected between July and December are added to the database by,December of the same year. Data collected between July and December are added to the database by
+May of the following year. Monitoring data from voluntarily reporting programs are requested in biennial,May of the following year. Monitoring data from voluntarily reporting programs are requested in biennial
+data calls. Selected historical data sets are also being included in the online databases. Historic data are,data calls. Selected historical data sets are also being included in the online databases. Historic data are
+being provided to the CBP Data Center on an ongoing basis; please contact the Living Resources Data,being provided to the CBP Data Center on an ongoing basis; please contact the Living Resources Data
+Manager (see Appendix D) for details and data set availability.,Manager (see Appendix D) for details and data set availability.
+The URL of the CBP Internet web site is http://www.chesapeakebay.net/. Field names and attributes for,The URL of the CBP Internet web site is http://www.chesapeakebay.net/. Field names and attributes for
+data from the online databases are provided in Appendix A. A complete list of CIMS/CDE-compliant field,data from the online databases are provided in Appendix A. A complete list of CIMS/CDE-compliant field
+"names for biological data sets, their definitions and data types are provided in Appendix B. An","names for biological data sets, their definitions and data types are provided in Appendix B. An"
+explanation of field values and definitions of the parameter codes used in the CIMS/CDE databases are,explanation of field values and definitions of the parameter codes used in the CIMS/CDE databases are
+contained in Appendix C. A list of CBPO Data Center contacts are provided in Appendix D. A complete,contained in Appendix C. A list of CBPO Data Center contacts are provided in Appendix D. A complete
+list of general CIMS/CDE data reporting standards and biological specific data reporting formats for CBP,list of general CIMS/CDE data reporting standards and biological specific data reporting formats for CBP
+monitoring data submitters are included in Appendix E.,monitoring data submitters are included in Appendix E.
+Chesapeake Bay Program Supported Monitoring Data,Chesapeake Bay Program Supported Monitoring Data
+Phytoplankton,
+Maryland Phytoplankton Taxonomic Survey.,Data have been collected at fixed sampling stations in
+the upper Chesapeake Bay and tidal tributaries in Maryland since July of 1984. The formal baywide,the upper Chesapeake Bay and tidal tributaries in Maryland since July of 1984. The formal baywide
+"plankton monitoring program in Maryland was defunded in 2009. However, piecemeal funding has","plankton monitoring program in Maryland was defunded in 2009. However, piecemeal funding has"
+maintained a reduced spring and summer sampling program through the present. The surveys examine,maintained a reduced spring and summer sampling program through the present. The surveys examine
+phytoplankton community species composition and abundance. Data are collected by staff from Morgan,phytoplankton community species composition and abundance. Data are collected by staff from Morgan
+State University (MSU) for the Maryland Department of the Environment (MDE)/Maryland Department of,State University (MSU) for the Maryland Department of the Environment (MDE)/Maryland Department of
+Natural Resources (MDDNR).,
+Virginia Phytoplankton Taxonomic Survey.,Data have been collected at fixed sampling stations in the
+"Lower Chesapeake Bay mainstem since January 1985, in Virginia tidal tributaries since July 1986 and in","Lower Chesapeake Bay mainstem since January 1985, in Virginia tidal tributaries since July 1986 and in"
+,9

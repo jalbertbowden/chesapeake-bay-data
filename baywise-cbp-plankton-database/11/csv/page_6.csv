@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”,Name: “Table 1 of 1 on page 6 of 11”
+Table: 6,Table: 6,Table: 6,Table: 6,Table: 6
+,,,,
+,,,VAPDDOC.doc,
+Conductivity- uhhos/cm,Depth- meters,Depth- meters,,
+Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this,Prior to 1997 this depth was not recorded in the datasets and is reported as missing. All samples for this
+program are taken from the upper water column.,program are taken from the upper water column.,program are taken from the upper water column.,program are taken from the upper water column.,
+>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),>PARAMETER: SALZONE (Salinity zone),,
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is
+"determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline","determined. Salinity Ranges are as follows: Fresh 0-0.5 ppt (F), Oligohaline >0.5-5.0 ppt (O), Mesohaline"
+>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,>5.0-18 ppt (M) and Polyhaline >18 ppt (P).,,
+">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",">PARAMETER: TOTAL_DEPTH (Total station depth in meters),",
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is,prior to water sample collection. Salinity values are averaged over the entire water column and a zone is
+determined.,,,,
+>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),>PARAMETER: SAMPLE_TIME (Sample Collection Time),
+-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,-COLLECTION METHODS: Hydrolab CTD,,
+-SAMPLE PRESERVATIVES: None,-SAMPLE PRESERVATIVES: None,,,
+-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,-SAMPLE STORAGE ENVIRONMENT: None,,
+-TIME IN STORAGE: None,-TIME IN STORAGE: None,,,
+"-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded","-LAB TECHNIQUES WITH REFERENCES: Water column salinity, temperature and depth are recorded"
+prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,prior to water sample collection. Time is reported in 24-hour time.,
+>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and,>DATA ENTRY METHOD: From 1989 to 2000- Rate of carbon 14 fixation is calculated in LOTUS and
+extracted to ASCII files.,These files were then compared.,These files were then compared.,These files were then compared.,Data keypunched to microcomputer and/or
+mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO,mainframe terminal. From 2000-Present- Production results were entered and calculated in a FOXPRO
+Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.,Database system directly from the bench sheets by the principle investigator and output as ASCII files.
+>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.,>DATA VERIFICATION: From 1989 to 2000- Double entry with comparison of two files in SAS.
+Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into,Re-entry until both copies match exactly. From 2000-Present-Bench sheets were double entered into
+FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.,FOXPRO Database system and re-entered until copies matched bench sheets.
+# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,# SPECIED INHOUSE CODE AND SCIENTIFIC NAME,
+Not Applicable in this data set.,Not Applicable in this data set.,,,
+#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,#VARIABLE NAMES AND DESCRIPTIONS FOR DATA FILES,
+Structure for data files on:,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,http://www.chesapeakebay.net/,
+>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,>PRIMARY PRODUCTION SURVEY DATA FILES,
+Files of name format:VAPDCFyy.TXT,Files of name format:VAPDCFyy.TXT,,,
+Name,Type,Width,Variable Definition,
+SOURCE,Text,10,Data Collection agency,Data Collection agency
+SAMPLE_TYPE,Text,2,Collection type,
+STATION,Text,15,Sampling Station,
+SAMPLE_DATE,Date/Time,8,Sample date (YYYYMMDD),Sample date (YYYYMMDD)
+LAYER,Text,3,Layer in water column from which sample was Taken,Layer in water column from which sample was Taken
+SAMPLE_NUMBER,Number,4,Replicate number,
+GMETHOD,Text,3,Chesapeake Bay Program gear method,Chesapeake Bay Program gear method
+,,,6,1/11/2010

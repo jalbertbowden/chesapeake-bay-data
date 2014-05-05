@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”,Name: “Table 1 of 1 on page 6 of 13”
+Table: 6,Table: 6,Table: 6
+,,
+,,Page 6 of 13
+Data_Quality_Information:,,
+Attribute_Accuracy:,,
+Attribute_Accuracy_Report:,,
+Microzooplankton samples were collected by a staff member of the Academy of,Microzooplankton samples were collected by a staff member of the Academy of,Microzooplankton samples were collected by a staff member of the Academy of
+"Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section","Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section","Natural Sciences\MSU, Benedict Estuarine Research Center biomonitoring section"
+and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return,and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return,and are transferred to the ANS BERC/MSU microzooplankton taxonomist on return
+to the laboratory.,Sample concentrates are archived after counts and identifications,Sample concentrates are archived after counts and identifications
+are made.,,
+Logical_Consistency_Report:,,
+Not Applicable,,
+Completeness_Report:,,
+"For each monthly microzooplankton collection, one sample was randomly selected as the","For each monthly microzooplankton collection, one sample was randomly selected as the","For each monthly microzooplankton collection, one sample was randomly selected as the"
+QA/QC sample. Two separate counts of the one sample were performed using the same,QA/QC sample. Two separate counts of the one sample were performed using the same,QA/QC sample. Two separate counts of the one sample were performed using the same
+enumeration techniques.,,
+Positional_Accuracy:,,
+Horizontal_Positional_Accuracy:,,
+Horizontal_Positional_Accuracy_Report:,,
+Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.,Station positions in data set are approximations of actual positions in the field.
+Station latitudes and longitudes are input into a Loran-C or GPS receiver and,Station latitudes and longitudes are input into a Loran-C or GPS receiver and,Station latitudes and longitudes are input into a Loran-C or GPS receiver and
+sampling begins when boat reaches pre-programmed coordinates.,sampling begins when boat reaches pre-programmed coordinates.,Loran-C is
+accurate to plus or minus 1500 feet.,The actual Loran or GPS coordinates for,The actual Loran or GPS coordinates for
+each sampling event are not currently recorded in data set.,each sampling event are not currently recorded in data set.,
+COLLECTION METHODS:,"Loran-C, NAD27 from July 1984 to June 1997;","Loran-C, NAD27 from July 1984 to June 1997;"
+GPS NAD83 from June 1997 to October 2002.,,
+Vertical_Positional_Accuracy:,,
+Vertical_Positional_Accuracy_Report:,,
+Composited water samples pumped from 5 depths above the pycnocline and 5,Composited water samples pumped from 5 depths above the pycnocline and 5,Composited water samples pumped from 5 depths above the pycnocline and 5
+depths below the pycnocline. : Water column conductivity is recorded,depths below the pycnocline. : Water column conductivity is recorded,depths below the pycnocline. : Water column conductivity is recorded
+immediately before plankton sampling. P_DEPTH is set at 0.5 meters above,immediately before plankton sampling. P_DEPTH is set at 0.5 meters above,immediately before plankton sampling. P_DEPTH is set at 0.5 meters above
+the pycnocline and is used as the cutoff depth between upper (AP) and lower,the pycnocline and is used as the cutoff depth between upper (AP) and lower,the pycnocline and is used as the cutoff depth between upper (AP) and lower
+(BP) water column layers. The pycnocline is determined to be the depth at,(BP) water column layers. The pycnocline is determined to be the depth at,(BP) water column layers. The pycnocline is determined to be the depth at
+which the greatest conductivity change is observed.,The minimum threshold,The minimum threshold
+change is 1000 umhos/cm.,WC is the entire water column from surface to,WC is the entire water column from surface to
+bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off,bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off,bottom without regards to P_DEPTH. P_DEPTH-Composite Sample cut off
+Depth-Depth 0.5 Meters Above the Pycnocline,,
+Lineage:,,
+Source_Information:,,
+Source_Citation:,,
+Citation_Information:,,
+Originator: Richard Lacouture,,
+Originator: Stella Sellner,,
+Publication_Date: 20030101,,
+Publication_Time: Unknown,,
+Title:,,
+,Maryland Chesapeake Bay Water Quality Monitoring,Maryland Chesapeake Bay Water Quality Monitoring
+,Program:Mainstem and Tributary Living Resource Component,Program:Mainstem and Tributary Living Resource Component
+Publication_Information:,,
+,"Publication_Place: Annapolis, Maryland USA",
+,Publisher: US EPA Chesapeake Bay Program,
+file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,file://C:\Documents and Settings\jjohnson\Local Settings\Temp\metadata16.htm,4/26/2012

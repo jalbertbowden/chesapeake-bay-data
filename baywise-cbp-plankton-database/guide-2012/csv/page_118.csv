@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 118 of 170”,Name: “Table 1 of 1 on page 118 of 170”,Name: “Table 1 of 1 on page 118 of 170”
+Table: 117,Table: 117,Table: 117
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+CLW,L02,Total Chloride By Ion Chromatography
+CLW,L03,Total Chloride By Automated Colorimetry - Automated Ferricyanide Aii
+COD,L01,Titrimetric; Mid-Level
+COD,L02,Titrimetric; High Level For Saline Waters
+COD,L03,Colorimetric; Automated Or Manual
+COLOR,L01,Visual Comparison Do Color Disc
+CR,L01,Total Chromium; Atomic Emission Spectrometric
+CU,L01,Total Copper; Atomic Emission Spectrometric
+DCA,L01,"Dissolved Metals - Calcium, Magnesium, Potassium & Sodium"
+DCU,L01,Dissolved Copper
+DIC,L01,Dissolved Inorganic Carbon
+DIN,D01,Database Calculated DIN - Method 1
+DIN,D01A,Database Calculated DIN - Method 1 – MDL
+DIN,D01B,Database Calculated DIN - Method 1 - 1/2 MDL
+DIN,D01D,Database Calculated DIN - Method 1
+DIN,D02,Database Calculated DIN - Method 2
+DIN,D02A,Database Calculated DIN - Method 2 – MDL
+DIN,D02B,Database Calculated DIN - Method 2 - 1/2 MDL
+DIN,D02D,Database Calculated DIN - Method 2
+DO,F01,In-Situ Membrane Electrode
+DO,F02,Dissolved Oxygen
+DO,F03,Dissolved Oxygen; Modified Winkler
+DO,F04,In-Situ Dissolved Oxygen; Optical Do Probe
+DO,F05,"Dissolved Oxygen, Specific Conductance, Unspecified Field Method"
+DO_SAT_M,D01,Database Calculated DO_SAT = Method 1
+DO_SAT_P,F01,Do Relative To Theoretical Value At Saturation (%)
+,,"Dissolved Oxygen Percent Saturation, Specific Conductance, Unspecified Field"
+DO_SAT_P,F05,Method
+DOC,L01,Combustion Infrared Method
+DOC,L02,Wet Oxidation Method
+DOC,L03,UV Or Heated Persulfate Oxidation
+DOC,L04,"Doc, 0. 45u Silver, Persulfate LR"
+DON,D01,Database Calculated DON - Method 1
+DON,D01A,Database Calculated DON - Method 1 – MDL
+DON,D01B,Database Calculated DON - Method 1 - 1/2 MDL
+DON,D01D,Database Calculated DON - Method 1
+DON,D02,Database Calculated DON - Method 2
+DON,D02A,Database Calculated DON - Method 2 – MDL
+DON,D02B,Database Calculated DON - Method 2 - 1/2 MDL
+DON,D02D,Database Calculated DON - Method 2
+DON,D03,Database Calculated DON - Method 3
+DON,D03A,Database Calculated DON - Method 3 – MDL
+DON,D03B,Database Calculated DON - Method 3 - 1/2 MDL
+DON,D03D,Database Calculated DON - Method 3
+DON,L01,"Dissolved Organic Nitrogen, Unspecified Lab Method"
+DOP,D01,Database Calculated DOP - Method 1
+DOP,D01A,Database Calculated DOP - Method 1 – MDL
+DOP,D01B,Database Calculated DOP - Method 1 - 1/2 MDL
+DOP,D01D,Database Calculated DOP - Method 1
+DZN,L01,Dissolved Zinc
+EPAR_S,F01,EPAR At Surface
+EPARD_Z,F01,In-Situ; Light Sensor Down; Upwelling Par
+EPARU_Z,F01,In-Situ; Light Sensor Up; Down welling Par
+FCOLI_C,L02,Fecal Coliform Membrane Filter; M-FC Medium
+,,116

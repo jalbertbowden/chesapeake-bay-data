@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 28 of 44”,Name: “Table 1 of 1 on page 28 of 44”,Name: “Table 1 of 1 on page 28 of 44”,Name: “Table 1 of 1 on page 28 of 44”,Name: “Table 1 of 1 on page 28 of 44”,Name: “Table 1 of 1 on page 28 of 44”
+Table: 28,Table: 28,Table: 28,Table: 28,Table: 28,Table: 28
+,,,,,
+TAB_LL_DATUMS,,,,,
+Field,,Description,Type,,Length
+LL_DATUM,GEOGRAPHIC DATUM CODE,GEOGRAPHIC DATUM CODE,CHAR,,5
+(PK),Latitude/longitude datum code,Latitude/longitude datum code,,,
+LL_DATUM_,Description/definition of GEOGRAPHIC DATUM,Description/definition of GEOGRAPHIC DATUM,VARCHAR,VARCHAR,50
+DESCRIPTION,,,,,
+(NN),,,,,
+GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM,GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM,GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM,GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM,GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM,GENERAL- The LL_DATUM TABLE contains latitude/longitude datum and descriptions The LL_DATUM
+code defines the datum under which the latitude and longitude measurements for a particular station were,code defines the datum under which the latitude and longitude measurements for a particular station were,code defines the datum under which the latitude and longitude measurements for a particular station were,code defines the datum under which the latitude and longitude measurements for a particular station were,code defines the datum under which the latitude and longitude measurements for a particular station were,code defines the datum under which the latitude and longitude measurements for a particular station were
+calculated. ). The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,calculated. ). The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,calculated. ). The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,calculated. ). The currently accepted LL_DATUM and DESCRIPTIONS are as follows:,,
+LL_DATUM,,LL_DATUM_DESCRIPTION,,,
+NAD27,,1927 NORTH AMERICAN DATUM,,,
+NAD83,,1983 NORTH AMERICAN DATUM,,,
+WGS84,,WORLD GEODETIC SYSTEM 1984,,,
+UNID,,UNKNOWN DATUM,,,
+TAB_METHODS,,,,,
+Field Name,Description,Description,Data Type,Length,Length
+METHOD,ANALYTICAL METHOD CODE,ANALYTICAL METHOD CODE,CHAR,8,
+,- Method Description code,,,,
+"(PK,FK)",,,,,
+TITLE,DATA GENERATOR METHOD IDENDIFICATION,DATA GENERATOR METHOD IDENDIFICATION,VARCHAR,50,50
+DESCRIPTION,METHOD DESCRIPTION,,VARCHAR,400,400
+(NN),,,,,
+DETAILS,DETAILED METHOD DESCRIPTION,DETAILED METHOD DESCRIPTION,TEXT,-,
+General:,"This table stores information related exclusively to METHOD codes in the PHYTO_PICO TABLE,","This table stores information related exclusively to METHOD codes in the PHYTO_PICO TABLE,","This table stores information related exclusively to METHOD codes in the PHYTO_PICO TABLE,","This table stores information related exclusively to METHOD codes in the PHYTO_PICO TABLE,","This table stores information related exclusively to METHOD codes in the PHYTO_PICO TABLE,"
+"ZOO_TAX TABLE, BIOMASS_SETVOL TABLE and the PRIMARY_PROD TABLE.","ZOO_TAX TABLE, BIOMASS_SETVOL TABLE and the PRIMARY_PROD TABLE.","ZOO_TAX TABLE, BIOMASS_SETVOL TABLE and the PRIMARY_PROD TABLE.","ZOO_TAX TABLE, BIOMASS_SETVOL TABLE and the PRIMARY_PROD TABLE.",This table contains,This table contains
+descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to,descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to,descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to,descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to,descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to,descriptions of the field and laboratory methods for parameter determination. The METHOD code is used to
+define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS,define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS,define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS,define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS,define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS,define the field or lab procedure used to obtain the parameter value. Currently accepted METHODS
+designations are as follows (PLEASE SEE DATABASE FOR DETAILS):,designations are as follows (PLEASE SEE DATABASE FOR DETAILS):,designations are as follows (PLEASE SEE DATABASE FOR DETAILS):,,,
+METHOD,,METHOD,METHOD,,
+BM101,,MI101A,PD101,,
+BM101B,,MI102,PD102,,
+BM102,,MZ101A,PH101,,
+BV101,,MZ101B,PH102,,
+JF101,,MZ101C,PH102M,,
+JF102,,MZ102,PH103,,
+JF103,,MZ102B,PP101,,
+MI101,,MZ103,PP102,,
+TAB_PARAMETERS,,,,,
+,,26,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

@@ -1,0 +1,50 @@
+Name: “Table 1 of 1 on page 34 of 44”,Name: “Table 1 of 1 on page 34 of 44”,Name: “Table 1 of 1 on page 34 of 44”,Name: “Table 1 of 1 on page 34 of 44”
+Table: 34,Table: 34,Table: 34,Table: 34
+,,,
+Field Name,Description,Data Type,Length
+"(FK,NN)",is located,,
+TS_BASIN,BASIN OR TRIBUTARY CODE,VARCHAR,30
+,Largest drainage basin (aside from Chesapeake Bay),,
+(NN),with which the station is associated,,
+BASIN,BASIN- largest body of water with which the monitoring,VARCHAR,30
+,station is associated aside from chesapeake bay,,
+SUBBASIN,SUBBASIN (TRIBUTARY RIVER),VARCHAR,30
+,Second largest drainage basin with which the station,,
+,is associated (some stations will not have this,,
+,attribute),,
+CBSEG_1985,1985 BAY SEGMENT,CHAR,4
+,Code specifying the 1985 Chesapeake Bay,,
+"(FK,NN)",watershed segment in which the station is located,,
+CBSEG_2003,2003 BAY SEGMENT,CHAR,6
+,Code specifying the 2003 Chesapeake Bay,,
+"(FK,NN)",watershed segment in which the station is located,,
+HUC8,8 DIGIT USGS HYDROLOGIC UNIT CODE,CHAR,8
+"(FK,NN)",8-digit USGS hydrologic unit code,,
+FIPS,FEDERAL INFORMATION PROCESSING SYSTEM,CHAR,5
+,CODE - identifying the state and county in which the,,
+"(FK,NN)",station is located,,
+FALL_LINE,Code specifying whether the station is located above,CHAR,1
+,or below the geologic fall line or the zone of tidal,,
+,"influence (A =above, B =below)",,
+UTM_X,UTM_X- X position for station Universal Transverse,INT,
+,Mercator ZONE 18 coordinates.,,
+(NN),,,
+UTM_Y,UTM_Y- Y position for station position in Universal,INT,
+,Transverse Mercator ZONE 18 coordinates.,,
+(NN),,,
+STATION_,COMMENTS-,VARCHAR,300
+DETAILS,ANY COMMENTS RELATED TO THE MONITORING,,
+,STATION,,
+NOTES:,,,
+GENERAL:,The TAB_STATIONS table contains CBP water quality station names and associated,The TAB_STATIONS table contains CBP water quality station names and associated,The TAB_STATIONS table contains CBP water quality station names and associated
+attributes.,Its primary use will be to establish common geographic referencing across data types.,Its primary use will be to establish common geographic referencing across data types.,Because
+"the Chesapeake Bay Program has historically used several “basin” designations (e.g. CBP_BASIN,","the Chesapeake Bay Program has historically used several “basin” designations (e.g. CBP_BASIN,","the Chesapeake Bay Program has historically used several “basin” designations (e.g. CBP_BASIN,","the Chesapeake Bay Program has historically used several “basin” designations (e.g. CBP_BASIN,"
+"TS_BASIN) to provide summary information to program participants and the public, these naming","TS_BASIN) to provide summary information to program participants and the public, these naming","TS_BASIN) to provide summary information to program participants and the public, these naming",
+conventions must be preserved in order to maintain historical perspectives of the data.,conventions must be preserved in order to maintain historical perspectives of the data.,conventions must be preserved in order to maintain historical perspectives of the data.,The newly proposed
+"“basin” designations (e.g. WATER_BODY, BASIN, SUBASIN, SUBASIN2) are meant to provide the user","“basin” designations (e.g. WATER_BODY, BASIN, SUBASIN, SUBASIN2) are meant to provide the user","“basin” designations (e.g. WATER_BODY, BASIN, SUBASIN, SUBASIN2) are meant to provide the user","“basin” designations (e.g. WATER_BODY, BASIN, SUBASIN, SUBASIN2) are meant to provide the user"
+with a more detailed geographic representation of point data to the sub-watershed or local level.,with a more detailed geographic representation of point data to the sub-watershed or local level.,with a more detailed geographic representation of point data to the sub-watershed or local level.,By doing
+"so, users will be able to retrieve information for water quality stations located within small creeks possibly in","so, users will be able to retrieve information for water quality stations located within small creeks possibly in","so, users will be able to retrieve information for water quality stations located within small creeks possibly in","so, users will be able to retrieve information for water quality stations located within small creeks possibly in"
+their neighborhoods.,They will no longer be restricted to large basins. Stations currently used for biological,They will no longer be restricted to large basins. Stations currently used for biological,They will no longer be restricted to large basins. Stations currently used for biological
+monitoring are as follows:,,,
+,32,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

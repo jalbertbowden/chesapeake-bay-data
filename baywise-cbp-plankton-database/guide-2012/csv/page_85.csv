@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 85 of 170”,Name: “Table 1 of 1 on page 85 of 170”,Name: “Table 1 of 1 on page 85 of 170”,Name: “Table 1 of 1 on page 85 of 170”
+Table: 84,Table: 84,Table: 84,Table: 84
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+SEASON,Index of Biotic Integrity- Season Classification ................................................ Field,Text,6
+SEDIMENT_METHOD,CBP Benthic Sediment Analytical Method Code ............................................. Field,Text,6
+SEDIMENT_METHOD_DESCRIPTION,SEDIMENT_METHOD_DESCRIPTION,,
+,CBP Benthic Sediment Analytical Method Code Description .......................... Field,Text,50
+SEDIMENT_METHOD_DETAILS,SEDIMENT_METHOD_DETAILS,,
+,CBP Benthic Sediment Analytical Method Detailed Description ..................... Field,Memo,
+SEDIMENT_METHOD_TITLE,SEDIMENT_METHOD_TITLE,,
+,CBP Benthic Sediment Analytical Method Title,,
+SEDIMENT_TYPE,Benthic Sediment Profile Image Analysis Sediment Characterization Type ... Field,Text,2
+SEDIMENT_TYPE_DESCRIPTION,SEDIMENT_TYPE_DESCRIPTION,,
+,Benthic Sediment Profile Image Analysis Sediment Characterization Description,,
+,......................................................................................................................... Field,Text,50
+SER_NUM,Data Collection Agency Sample Serial Number .............................................. Field,Text,12
+SITE_LOCATION,Source Agency Site Location Description ........................................................ Field,Text,225
+SITE_TYPE_CODE,CBP Sampling Site Type Code ........................................................................ Field,Text,5
+SITE_TYPE_DESCRIPTION,SITE_TYPE_DESCRIPTION,,
+,Formal Description of Sampling Site Type ...................................................... Field,Text,225
+SITE_TYPE_NAME,Name of Sampling Site Type ........................................................................... Field,Text,25
+SIZE_RANGE,Organism Size Range ...................................................................................... Field,Text,50
+SOURCE,CBP Data Source Code ................................................................................... Field,Text,10
+SOURCE_DESCRIPTION,SOURCE_DESCRIPTION,,
+,CBP Data Source Description .......................................................................... Field,Text,100
+SOURCE_DETAILS,CBP Data Source Detailed Description ........................................................... Field,Text,150
+SOURCE_G_CODE,Data Generator In-house Sampling Gear Designation Code .......................... Field,Text,10
+SPEC_CODE,Data Generator In-house Species Identification Code .................................... Field,Text,15
+START_DATE,Start Date of Sampling Effort or Cruise (MM/DD/YYYY) ................................. Field,Date/Time,8
+STATE_INITIALS,FIPS State Alpha Code .................................................................................... Filed,Text,2
+STATE_NAME,FIPS Formal State Name ................................................................................. Field,Text,50
+STATION,Sampling Station Name ................................................................................... Field,Text,Variable
+STATION_DESCRIPTION,STATION_DESCRIPTION,,
+,Sampling Station Description ........................................................................... Field,Text,250
+STATION_DETAILS,Detailed Sampling Station Description ............................................................ Field,Test,Memo
+STATION_ID,Sampling Station Idetifier ................................................................................ Field,Text,Variable
+STORET_CODE,EPA STORET Analytical Parameter Code ...................................................... Field,Text,5
+STORET_STATION,EPA STORET Sampling Station Name ........................................................... Field,Text,8
+STRAHLER_STREAM_ORDER,STRAHLER_STREAM_ORDER,,
+,"Strahler Stream Order based on USGS NHD 1:100,000 scale Stream Coverage",,
+,......................................................................................................................... Field,Numeric,1
+STRATUM,CPB Tidal Benthic Sampling Stratum Code .................................................... Field,Text,6
+,83,,

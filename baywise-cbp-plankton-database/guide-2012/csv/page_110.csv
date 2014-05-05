@@ -1,0 +1,62 @@
+Name: “Table 1 of 1 on page 110 of 170”,Name: “Table 1 of 1 on page 110 of 170”
+Table: 109,Table: 109
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+IBI_PARAMETER,IBI_PARAMETER_DESCRIPTION
+PCT_TOLERANT_R,Percent Of Individuals That Have Family-Level Tolerance Values >= 7 -
+,Calculated On Rarefaction Data
+PCT_TRICHOPTERA,Percent Of Individuals That Are Trichoptera
+PCT_TRICHOPTERA_NO_TOL,Percent Of Individuals That Are Trichoptera Excluding Hydropsychidae
+PCT_TRICHOPTERA_NO_TOL_R,Percent Of Individuals That Are Trichoptera Excluding Hydropsychidae -
+,Calculated On Rarefaction Data
+PCT_TRICHOPTERA_R,Percent Of Individuals That Are Trichoptera -Calculated On Rarefaction Data
+PHEO,Average Layer Pheophytin Concentration In Mg/L
+PHYTO_TOT_ABUND,Total Phytoplankton Abundance In Number/Liter
+PHYTO_TOT_BIOMASS,Total Phytoplankton Biomass In μG Carbon/
+PICO_ABUND_,Total Picoplankton Abundance In Number/Liter Above Pycnocline
+PICO_BIOMASS,Total Picoplankton Biomass In μG Carbon/Liter
+PLECOPTERA_TAXA_CNT,Count Of Plecoptera Families
+PLECOPTERA_TAXA_CNT_R,Count Of Plecoptera Families-Calculated On Rarefaction Data
+PO4,Average Layer PO4 Concentration In Mg/L
+PRASINO_ABUND,Total Prasinophyte Abundance In Number/Liter
+PRASINO_BIOMASS,Total Prasinophyte Biomass In μG Carbon/
+PROROCENTRUM_MIN_ABUND,Prorocentrum_Minimum Abundance In Number/Liter
+PROROCENTRUM_MIN_BIOMASS,Prorocentrum_Minimum Biomass In μG Carbon/Liter
+RATIO_SC_TO_CF,Ratio Of Scrapers To Collector-Filterers
+RATIO_SC_TO_CF_R,Ratio Of Scrapers To Collector-Filterers-Calculated On Rarefaction Data
+RATIO_SC_TO_SH,Ratio Of Scrapers To Shredders
+RATIO_SC_TO_SH_R,Ratio Of Scrapers To Shredders-Calculated On Rarefaction Data
+RATIO_SH_TO_CG,Ratio Of Shredders To Collector-Gatherers
+RATIO_SH_TO_CG_R,Ratio Of Shredders To Collector-Gatherers-Calculated On Rarefaction Data
+SALINITY_,Ave Layer Salinity In PSU
+SCRAPER_TAXA_CNT,Count Of Scraper Families
+SCRAPER_TAXA_CNT_R,Count Of Scraper Families-Calculated On Rarefaction Data
+Secchi,Secchi Depth In Meters
+SENSITIVE_TAXA_COUNT,"Count Of Families That Have Family-Level Tolerance Values 
+    "
+SENSITIVE_TAXA_COUNT_R,"Count Of Families That Have Family-Level Tolerance Values 
+    "
+,On Rarefaction Data
+SIMPSON_DIVERSITY,Simpson Diversity Index Based On Family-Level Taxonomy
+SIMPSON_DIVERSITY_R,Simpson Diversity Index Based On Family-Level Taxonomy-Calculated On
+,Rarefaction Data
+SW,Shannon Wiener Index -Taxonomic Level Will Vary By Index
+SW_R,Shannon Wiener Index Based On Family-Level Taxonomy-Calculated On
+,Rarefaction Data
+TAXA_RICH,Count Of Families In Sample
+TAXA_RICH_R,Count Of Families In Sample -Calculated On Rarefaction Data
+TOC,Average Layer Total Organic Carbon Conc. In Mg/L
+TOLERANCE,Tidal Benthic Pollution Tolerance Index
+TOLERANT_TAXA_COUNT,Count Of Families That Have Family-Level Tolerance Values >= 7
+TOLERANT_TAXA_COUNT_R,Count Of Families That Have Family-Level Tolerance Values >= 7-Calculated
+,On Rarefaction Data
+TOT_BIOMASS,Total Species Biomass In (Units Will Vary)
+TOT_TXA_DP05,Species Abundance Found Greater Than 5 Cm Below Sediment Water
+,Interface
+TOTAL_ABUNDANCE,Total Number Of Individuals (Units Will Vary)
+TOTAL_ABUNDANCE_R,Total Number Of Individuals In Sample-Calculated On Rarefaction Data
+TOTAL_SCORE,Total Benthic Restoration Goal Score For Sample
+TRICHOPTERA_TAXA_CNT,Count Of Trichoptera Families
+TRICHOPTERA_TAXA_CNT_R,Count Of Trichoptera Families -Calculated On Rarefaction Data
+TRICHOPTERA_TAXA_COUNT_NO_HYDR,Trichoptera Taxa Count Excluding Hydropsychidae
+,108

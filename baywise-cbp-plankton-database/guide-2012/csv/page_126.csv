@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 126 of 170”,Name: “Table 1 of 1 on page 126 of 170”
+Table: 125,Table: 125
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,REPORTING_PARAMETER_DECRIPTION
+PARAMETER,
+ORP,Oxidation Reduction Potential
+PB,Total Lead
+PC,Particulate Carbon; Inorganic + Organic
+PENETR,Gear Penetration Depth
+PERIPHY,Periphyton Biomass; Water
+PH,Ph Corrected For Temperature (25 Deg C)
+PHEO,Pheophytin
+PHI25,25 Percent Quartile Diameter(Phi)
+PHI50,50 Percent Quartile Diameter(Phi)
+PHI75,75 Percent Quartile Diameter(Phi)
+PIC,Particulate Inorganic Carbon
+PIP,Particulate Inorganic Phosphorus
+PN,Particulate Nitrogen
+PO4F,Orthophosphate Phosphorus As P (Filtered Sample)
+PO4W,Orthophosphate Phosphorus As P (Whole Sample)
+POC,Total Suspended Organic Carbon
+PON,Particulate Organic Nitrogen
+PP,Particulate Phosphorus
+QUARTDEV,Quartile Deviation
+SALINITY,Salinity Units Are Parts Per Thousand (PPT) And Are Equal To Practical Salinity Units (PSU).
+SAND,"Sand Content, Percent"
+SE,Total Selenium
+SECCHI,Secchi Depth
+SET_VOL,Settled Volume Zooplankton And Detritus (Ml/M**3)
+SET_VOLZ,Settled Volume Of Zooplankton (Ml/M**3)
+SETVOL,Settled Volume Zooplankton And Detritus (Ml/Sample)
+SETVOLZ,Settled Volume Of Zooplankton (Ml/Sample)
+SI,Total Silicon As Si
+SIF,Silica As Si (Filtered Sample)
+SIGMA_T,Water Density; Dependent On Salinity And Water Temperature
+SILT,"Silt Content, Percent"
+SILTCLAY,"Silt Clay Content, Percent"
+SIW,Silica As Si (Whole Sample)
+SKEWNESS,Skewness
+SN,Total Tin
+SO3,Total Sulfite As SO3
+SO4F,Sulfate
+SO4W,Total Sulfate As SO4
+SORT,Sorting
+SPCOND,Conductivity Corrected For Temperature (25 Deg C) And Salinity
+SSC_%FINE,Calculated Percent Fine Sand
+SSC_%SAND,Calculated Percent Sand
+SSC_FINE,Suspended Sediment Particles Passing Through A 0. 062 Mm Sieve
+SSC_SAND,Suspended Sediment Particles Retained On A 0. 062 Mm Sieve
+SSC_TOTAL,Total Suspended Sediment Concentration
+TALK,Total Alkalinity As CaCO3
+TC,Total Carbon Content
+TCHL_PRE_CAL,Total Chlorophyll; From A Precalibrated Fluorescence Probe Reading
+TCOLI_C,Total Coliforms (Colonies)
+TCOLI_M,Total Coliforms (Most Probable Number)
+TDN,Total Dissolved Nitrogen
+TDP,Total Dissolved Phosphorus
+TDS,Total Dissolved Solids;Gravimetric;Dried At 180 C
+TDZN,Total Dissolved Zink
+,124

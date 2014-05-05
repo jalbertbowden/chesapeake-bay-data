@@ -1,0 +1,41 @@
+Name: “Table 1 of 1 on page 18 of 44”,Name: “Table 1 of 1 on page 18 of 44”,Name: “Table 1 of 1 on page 18 of 44”,Name: “Table 1 of 1 on page 18 of 44”,Name: “Table 1 of 1 on page 18 of 44”
+Table: 18,Table: 18,Table: 18,Table: 18,Table: 18
+,,,,
+PRINCIPAL LOOK-UP TABLES,PRINCIPAL LOOK-UP TABLES,,,
+The primary tables also contain many fields containing codes that are described or defined in detail in,The primary tables also contain many fields containing codes that are described or defined in detail in,The primary tables also contain many fields containing codes that are described or defined in detail in,The primary tables also contain many fields containing codes that are described or defined in detail in,The primary tables also contain many fields containing codes that are described or defined in detail in
+related lookup tables.,By creating one-to-many relationships between lookup tables and the primary data,By creating one-to-many relationships between lookup tables and the primary data,By creating one-to-many relationships between lookup tables and the primary data,By creating one-to-many relationships between lookup tables and the primary data
+"tables and enforcing referential integrity, data managers are restricted to entering only valid lookup table","tables and enforcing referential integrity, data managers are restricted to entering only valid lookup table","tables and enforcing referential integrity, data managers are restricted to entering only valid lookup table","tables and enforcing referential integrity, data managers are restricted to entering only valid lookup table","tables and enforcing referential integrity, data managers are restricted to entering only valid lookup table"
+values into the primary data tables.,values into the primary data tables.,"Again, this provides an automatic layer of quality assurance that will","Again, this provides an automatic layer of quality assurance that will","Again, this provides an automatic layer of quality assurance that will"
+improve the utility of the database for all users.,improve the utility of the database for all users.,,,
+TAB_CBP_BASINS,TAB_CBP_BASINS,,,
+Field,Description,,Type,Length
+CBP_BASIN,CHESAPEAKE BAY PROGRAM BASIN,CHESAPEAKE BAY PROGRAM BASIN,VARCHAR,30
+(PK),,,,
+CBP_BASIN_,BASIN DESCRIPTION-,,VARCHAR,100
+DESCRIPTION,Location of the monitoring station with respect to the,Location of the monitoring station with respect to the,,
+(NN),geologic fall line or the zone of tidal influence,geologic fall line or the zone of tidal influence,,
+GENERAL-,The TAB_CBP_BASINS TABLE,contains Chesapeake Bay program basins and descriptions,contains Chesapeake Bay program basins and descriptions,contains Chesapeake Bay program basins and descriptions
+of the Bay Program basin in which the station is located.,of the Bay Program basin in which the station is located.,of the Bay Program basin in which the station is located.,These basin designations have been used by the,These basin designations have been used by the
+Chesapeake bay Program since its inception to summarize watershed model loads from all sources.,Chesapeake bay Program since its inception to summarize watershed model loads from all sources.,Chesapeake bay Program since its inception to summarize watershed model loads from all sources.,Chesapeake bay Program since its inception to summarize watershed model loads from all sources.,Point
+"related data naturally fall into one of these basins, so this field has been retained in order to maintain the","related data naturally fall into one of these basins, so this field has been retained in order to maintain the","related data naturally fall into one of these basins, so this field has been retained in order to maintain the","related data naturally fall into one of these basins, so this field has been retained in order to maintain the","related data naturally fall into one of these basins, so this field has been retained in order to maintain the"
+ability to summarize information using this scheme,ability to summarize information using this scheme,"For stations located within Chesapeake Bay, the CBP","For stations located within Chesapeake Bay, the CBP","For stations located within Chesapeake Bay, the CBP"
+may want to consider assigning the most proximal CBP_BASIN to these stations as a means of providing,may want to consider assigning the most proximal CBP_BASIN to these stations as a means of providing,may want to consider assigning the most proximal CBP_BASIN to these stations as a means of providing,may want to consider assigning the most proximal CBP_BASIN to these stations as a means of providing,may want to consider assigning the most proximal CBP_BASIN to these stations as a means of providing
+the ability to determine cause and effect relationships.,the ability to determine cause and effect relationships.,The CBP_BASIN code OUTSIDE is included,The CBP_BASIN code OUTSIDE is included,
+because there are water quality stations as well as point source facilities located outside the watershed that,because there are water quality stations as well as point source facilities located outside the watershed that,because there are water quality stations as well as point source facilities located outside the watershed that,because there are water quality stations as well as point source facilities located outside the watershed that,because there are water quality stations as well as point source facilities located outside the watershed that
+are tracked for specific purposes. ). The currently accepted CBP_BASINS AND DESCRIPTIONS are as,are tracked for specific purposes. ). The currently accepted CBP_BASINS AND DESCRIPTIONS are as,are tracked for specific purposes. ). The currently accepted CBP_BASINS AND DESCRIPTIONS are as,are tracked for specific purposes. ). The currently accepted CBP_BASINS AND DESCRIPTIONS are as,are tracked for specific purposes. ). The currently accepted CBP_BASINS AND DESCRIPTIONS are as
+follows:,,,,
+CBP_BASIN,CBP_BASIN_DESCRIPTION,,,
+CHESAPEAKE BAY,Chesapeake Bay,,,
+JAMES RIVER,James River Watershed,,,
+MD EASTERN SHORE,Maryland East Of Chesapeake Bay,,,
+MD WESTERN SHORE,"Maryland West Of Chaesapeake Bay, Excluding The Potomac And Patuxent Watersheds","Maryland West Of Chaesapeake Bay, Excluding The Potomac And Patuxent Watersheds",,
+OUTSIDE,Outside Of The Chesapeake Bay Watershed,,,
+PATUXENT RIVER,Patuxent River Watershed,,,
+POTOMAC RIVER,Potomac River Watershed,,,
+RAPPAHANNOCK RIVER Rappahannock River Watershed,RAPPAHANNOCK RIVER Rappahannock River Watershed,,,
+SUSQUEHANNA RIVER,Susquehanna River Watershed,,,
+VA EASTERN SHORE,Virginia East Of Chesapeake Bay,,,
+VA WESTERN SHORE,"Virginia West Of Chesapeake Bay, Excluding The Potomac, James, Rappahannock And York Watersheds","Virginia West Of Chesapeake Bay, Excluding The Potomac, James, Rappahannock And York Watersheds","Virginia West Of Chesapeake Bay, Excluding The Potomac, James, Rappahannock And York Watersheds",
+YORK RIVER,York River Watershed,,,
+,,16,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

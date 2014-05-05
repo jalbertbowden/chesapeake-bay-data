@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 8 of 64”,Name: “Table 1 of 1 on page 8 of 64”
+Table: 8,Table: 8
+,
+Three basic comparisons are shown: comparisons of Versar HS counts vs. corrected ODU CVS counts,Three basic comparisons are shown: comparisons of Versar HS counts vs. corrected ODU CVS counts
+"(MZ101C/MZ102_C), Versar HS counts vs. ODU HS counts (MZ101C/MZ103) and ODU HS counts vs.","(MZ101C/MZ102_C), Versar HS counts vs. ODU HS counts (MZ101C/MZ103) and ODU HS counts vs."
+corrected ODU CVS counts (MZ103/MZ102_C). Note that in the MZ101C/MZ102_C and MZ101C/MZ103,corrected ODU CVS counts (MZ103/MZ102_C). Note that in the MZ101C/MZ102_C and MZ101C/MZ103
+"comparisons, the MZ101C counts data are represented on the y-axis. The red one to one line indicates","comparisons, the MZ101C counts data are represented on the y-axis. The red one to one line indicates"
+where data points should fall if there were no significant differences between labs and counting methods.,where data points should fall if there were no significant differences between labs and counting methods.
+Differences in the various methods were evaluated using the Wilcoxon Matched- Pairs Signed-Ranks,Differences in the various methods were evaluated using the Wilcoxon Matched- Pairs Signed-Ranks
+Test on untransformed abundance values (Appendix B- Statistical Comparison of Versar Hensen-,Test on untransformed abundance values (Appendix B- Statistical Comparison of Versar Hensen-
+"Stempel counts and ODU Corrected Controlled Variability Sampling Method Counts by Parameter,","Stempel counts and ODU Corrected Controlled Variability Sampling Method Counts by Parameter,"
+Appendix C- Statistical Comparisons of Versar and ODU Hensen-Stempel Counts By Parameter).,Appendix C- Statistical Comparisons of Versar and ODU Hensen-Stempel Counts By Parameter).
+Table 2. Commonly computed mesozooplankton metrics used for method comparison. Parameters in the,Table 2. Commonly computed mesozooplankton metrics used for method comparison. Parameters in the
+zooplankton index of biotic integrety are denotes by * for polyhaline and # for mesohaline.,zooplankton index of biotic integrety are denotes by * for polyhaline and # for mesohaline.
+ACARTIA_ABUNDANCE #,BALANIDAE_ABUNDANCE ∗#
+BLUE_CRAB_ABUNDANCE,BOSMINA_ABUNDANCE
+CALANOIDA_ABUNDANCE,CLADOCERA_ABUNDANCE∗
+COPEPODA_ABUNDANCE ∗,CYCLOPOIDA_ABUNDANCE #
+EURYTEMORA_ABUNDANCE,HARPACTICOIDA_ABUNDANCE
+MARGALEFS_INDEX,PREDATOR_ABUNDANCE∗
+SIMPSON’S DIVERSITY,SHANNON- WEINER
+INDEX ∗,DIVERSITY INDEX
+TAXA_RICHNESS,TOTAL_ABUNDANCE ∗#
+"Through all comparisons Blue Crab abundance, Bosmina abundance, Eurytemora abundance, and","Through all comparisons Blue Crab abundance, Bosmina abundance, Eurytemora abundance, and"
+Harpacticoida abundance show significant variability. This variablility is likely a function of low organisms,Harpacticoida abundance show significant variability. This variablility is likely a function of low organisms
+encounter rates in the target season and/or salinity regimes rather than any method or laboratory biases.,encounter rates in the target season and/or salinity regimes rather than any method or laboratory biases.
+Versar HS vs. Corrected ODU CVS counts (MZ101C/MZ102_C) Comparisons,Versar HS vs. Corrected ODU CVS counts (MZ101C/MZ102_C) Comparisons
+The comparisons are based on 28 of the 78 recount samples and data are denoted as blue dots,The comparisons are based on 28 of the 78 recount samples and data are denoted as blue dots
+in all graphs in Appendix A with accompanying statistics in Appendix B. In zooplankton groups which are,in all graphs in Appendix A with accompanying statistics in Appendix B. In zooplankton groups which are
+"prevalent in summer (July- September) mesohaline and polyhaline waters (Acartia abundance, Balanidae","prevalent in summer (July- September) mesohaline and polyhaline waters (Acartia abundance, Balanidae"
+"abundance, Calanoida abundance, Cladocera abundance, Copepoda abundance, Predator abundance,","abundance, Calanoida abundance, Cladocera abundance, Copepoda abundance, Predator abundance,"
+Total Abundance) when density dropped below 1000 organisms*m -3 Versar was finding higher,Total Abundance) when density dropped below 1000 organisms*m -3 Versar was finding higher
+abundances. Above the 1000 organism per meter cubed threshold densities for all MZ102_C counts,abundances. Above the 1000 organism per meter cubed threshold densities for all MZ102_C counts
+between the labs converged. This seemed to be consistant with previous split sample findings (ICPRB,between the labs converged. This seemed to be consistant with previous split sample findings (ICPRB
+"2000). There was clear bias in Cyclopoida abundance, Versar counts were generally higher than ODU","2000). There was clear bias in Cyclopoida abundance, Versar counts were generally higher than ODU"
+"(Wilcoxon Signed Rank Test, S=113, P=
+    ","(Wilcoxon Signed Rank Test, S=113, P=
+    "
+polyhaline Zooplankton Index of Biotic Intergerty (ZIBI) (Carpenter etal. 2006) appear to be effective in,polyhaline Zooplankton Index of Biotic Intergerty (ZIBI) (Carpenter etal. 2006) appear to be effective in
+equilibrating abundance measurement to HS enumerated values in summer mesohaline and polyhaline,equilibrating abundance measurement to HS enumerated values in summer mesohaline and polyhaline
+region.,
+"Examination of the four measures of species diversity (Margalef’s index, Simpson’s diversity","Examination of the four measures of species diversity (Margalef’s index, Simpson’s diversity"
+"index, Shannon Weiner index, and taxa richness) provided mixed signals. Simple taxa richness (number","index, Shannon Weiner index, and taxa richness) provided mixed signals. Simple taxa richness (number"
+,8

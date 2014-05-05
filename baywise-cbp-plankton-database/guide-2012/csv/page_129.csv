@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 129 of 170”,Name: “Table 1 of 1 on page 129 of 170”,Name: “Table 1 of 1 on page 129 of 170”
+Table: 128,Table: 128,Table: 128
+,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-29.,Sampling Program Codes (PROGRAM).,Sampling Program Codes (PROGRAM).
+Within a given agency or organization there may be a subgroup or division who is responsible for,Within a given agency or organization there may be a subgroup or division who is responsible for,Within a given agency or organization there may be a subgroup or division who is responsible for
+processing and storing collected data.,processing and storing collected data.,Program_Code refers to the group within an entity responsible for
+data collection. Currently accepted PROGRAM_CODEs and PROGRAM_DESCRIPTIONS are as,data collection. Currently accepted PROGRAM_CODEs and PROGRAM_DESCRIPTIONS are as,data collection. Currently accepted PROGRAM_CODEs and PROGRAM_DESCRIPTIONS are as
+follows:,,
+AGENCY,PROGRAM,PROGRAM_DESCRIPTION
+AAC_DPW,AAWERS,Anne Arundel County-Watershed Ecosystem and Restoration Services
+BAL_DPW,BALSMP,City Of Baltimore- Stream Monitoring Program
+BC_DEP,BCWMP,Baltimore Co. Watershed Management and Monitoring
+DC_DDPE,DCSMP,District of Columbia-Stream Monitoring Program
+DNREC,DEBM,Delaware Biological Monitoring Program
+FC_DPW,FCWMP,Frederick County Watershed Management Program
+FC_SPS,FCSQAP,Fairfax County Stream Quality Assessment Program
+HC_DPW,HCBMSA,Howard Co Bio-Monitoring and Assessment Program
+ICPRB,HISTORIC,Pre-Chesapeake Bay Tidal Monitoring Programs
+LC_DBD,LCSAP,Loudoun County Stream Quality Assessment Program
+MC_SPS,MCSMP,Montgomery Co Dept. of Environmental Protection
+MDDNR,WQMP,Chesapeake Bay Mainstem And Tidal Tributary
+,,Water Quality Monitoring Program
+MDE,MDCT,Maryland Department of Environment Core/Trend Monitoring Network
+MDMNR,MBSS,Maryland Biological Stream Survey
+NYDEC,RSMP,New York Routine Statewide Monitoring Program
+PADEP,PAOWQA,Pennsylvania DEP Other Water Quality Assessments
+PADEP,PASWM,Pennsylvania DEP Surface Water Monitoring Program
+PADEP,PAUW,Pennsylvania DEP Unassessed Watersheds
+PGC_DER,PGCSS,Prince Georges Co Programs and Planning Division
+SRBC,TMDL,SRBC-Watershed Assessment and Protection-TMDL
+SRBC,WA,SRBC-Watershed Assessment Program
+USEPA,EMAP,EPA-EMAP Wadeable Streams Assessment
+USEPA,EPA\NCAS,EPA EMAP National Coastal Assessment Program
+USEPA,MAHA,EPA-Mid-Atlantic Highlands Assessment
+USEPA,WSA,EPA-Wadeable Stream Assessment Program
+USFS,NFSSA,National Forest Service Stream Assessment
+USGS,NAWQA,USGS-National Water Quality Assessment Program
+USGS,PAUSGS,Pennsylvania USGS Monitoring Program
+VADEQ,ERMP,Elizabeth River Monitoring Program
+VADEQ,SA,Virginia DEQ Non Tidal Stream Assessment Monitoring Program
+VADEQ,WQMP,Chesapeake Bay Mainstem And Tidal Tributary
+,,Water Quality Monitoring Program
+VCU,INSTAR,INteractive STream Assessment Resource
+WVDEP,SA,West Virginia Div. of Water and Waste Management
+,,127

@@ -1,0 +1,54 @@
+Name: “Table 1 of 1 on page 117 of 170”,Name: “Table 1 of 1 on page 117 of 170”,Name: “Table 1 of 1 on page 117 of 170”
+Table: 116,Table: 116,Table: 116
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-24.,Non Tidal Stream Habitat Condition Assessment Methods (HAB_METHOD).,Non Tidal Stream Habitat Condition Assessment Methods (HAB_METHOD).
+The HAB_METHOD codes identify methods for field evaluation of non-tidal stream habitat conditions.,The HAB_METHOD codes identify methods for field evaluation of non-tidal stream habitat conditions.,The HAB_METHOD codes identify methods for field evaluation of non-tidal stream habitat conditions.
+Currently accepted HAB_METHODS designations are as follows:,Currently accepted HAB_METHODS designations are as follows:,Currently accepted HAB_METHODS designations are as follows:
+HAB_METHOD HAB_METHOD_TITLE,HAB_METHOD HAB_METHOD_TITLE,
+HAB101,EPA Rapid Habitat Assessment Protocol,EPA Rapid Habitat Assessment Protocol
+HAB102,Montgomery County-Unspecified Protocol,Montgomery County-Unspecified Protocol
+HAB103,Fairfax County-RSAT And Modified RBP For Piedmont/Triassic Physiographic Provinces,Fairfax County-RSAT And Modified RBP For Piedmont/Triassic Physiographic Provinces
+HAB104,Fairfax County-RSAT And Modified RBP For Coastal Plain Physiographic Provinces,Fairfax County-RSAT And Modified RBP For Coastal Plain Physiographic Provinces
+HAB105,MACS Workgroup Modified EPA Rapid Habitat Assessment Protocol,MACS Workgroup Modified EPA Rapid Habitat Assessment Protocol
+HAB106,Virginia Commonwealth University Fast Habitat Assessment,Virginia Commonwealth University Fast Habitat Assessment
+HAB107,Virginia Commonwealth University,Virginia Commonwealth University
+,,
+Table C-25.,Sediment and Water Quality Parameter Methods (WQ_METHOD or SED_METHOD).,Sediment and Water Quality Parameter Methods (WQ_METHOD or SED_METHOD).
+The WQ_METHOD or SED_METHOD codes identify methods for field or laboratory evaluation of,The WQ_METHOD or SED_METHOD codes identify methods for field or laboratory evaluation of,The WQ_METHOD or SED_METHOD codes identify methods for field or laboratory evaluation of
+sediment or water quality parameters. Currently accepted WQ_METHOD or SED_METHOD,sediment or water quality parameters. Currently accepted WQ_METHOD or SED_METHOD,sediment or water quality parameters. Currently accepted WQ_METHOD or SED_METHOD
+designations are as follows:,designations are as follows:,
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+ACIDITY,L01,Acidity; Titrimetric
+AL,L01,Total Aluminum; Atomic Emission Spectrometric
+ANC,L01,Acid Neutralizing Capacity
+ANC,L02,Acid Neutralizing Capacity
+ANC,L03,"Acid Neutralizing Capacity, Unspecified Lab Method"
+AS,L01,Total Arsenic Atomic Absorption Furnace Technique
+ATEMP,F02,"Air Temperature, Unspecified Field Method"
+BATT,NA,Battery Voltage
+BIOSI,L01,Particulate Biogenic Silica
+BOAT_SPEED,NA,Boat Speed In Knots
+BOD20F,L01,20 Day BOD; Filtered
+BOD20W,L01,20 Day BOD; Unfiltered
+BOD5F,L01,5-Day Biochemical Oxygen Demand (Filtered)
+BOD5W,L01,5-Day Biochemical Oxygen Demand
+CA,L01,Calcium
+CAF,L01,"Calcium, Wf, Direct AAS"
+CAF,L02,"Metals, Wf, ICP-AES"
+CD,L01,Total Cadmium; Atomic Emission Spectrometric
+CDOM_440,L01,Dissolved Organic Matter Absorption Coefficient (Gelbstoff)
+CDOM_SLOPE,L01,Slope Of CDOM Absorption Coefficient Spectrum (400 To 500 Nm)
+CHL_A,L01,Trichromatic Chlorophyll A
+CHL_B,L01,Trichromatic Chlorophyll B
+CHL_C,L01,Trichromatic Chlorophyll C
+CHLA,F01,Fluorometric Chlorophyll Using Probe
+CHLA,L01,Monochromatic; Spectrophotometric
+CHLA,L02,Monochromatic; Spectrophotometric
+CHLA,L03,Fluorometric; In-Vitro Chlorophyll A
+CLAY,L01,"Sediment Clay Percentage, Folk Sediment Grain Size Analysis Protocol"
+CLF,L01,Chloride Filtered
+CLF,L02,Chloride Filtered-Determination Of Inorganic Anions By Ion Chromatography
+CLW,L01,Titrimetric; Mercuric Nitrate
+,,115

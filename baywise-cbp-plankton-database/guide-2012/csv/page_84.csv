@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 84 of 170”,Name: “Table 1 of 1 on page 84 of 170”,Name: “Table 1 of 1 on page 84 of 170”,Name: “Table 1 of 1 on page 84 of 170”,Name: “Table 1 of 1 on page 84 of 170”
+Table: 83,Table: 83,Table: 83,Table: 83,Table: 83
+,,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,,
+R_DATE,Version Date of Data (MM/DD/YYYY) ............................................................. Field,Version Date of Data (MM/DD/YYYY) ............................................................. Field,Date/Time,8
+REFERENCE1,Technical Reference #1 for Analytical Method ................................................ Field,Technical Reference #1 for Analytical Method ................................................ Field,Text,Memo
+REFERENCE2,Technical Reference #2 for Analytical Method ................................................ Field,Technical Reference #2 for Analytical Method ................................................ Field,Text,Memo
+REFERENCE3,Technical Reference #3 for Analytical Method ................................................ Field,Technical Reference #3 for Analytical Method ................................................ Field,Text,Memo
+REFERENCE4,Technical Reference #4 for Analytical Method ................................................ Field,Technical Reference #4 for Analytical Method ................................................ Field,Text,Memo
+REGION,USGS Two-Digit Hydrologic Units Code .......................................................... Field,USGS Two-Digit Hydrologic Units Code .......................................................... Field,Text,2
+REGION_DESCRIPTION,REGION_DESCRIPTION,,,
+,USGS Two-Digit Hydrologic Unit Code Description ........................................ Field,USGS Two-Digit Hydrologic Unit Code Description ........................................ Field,Text,50
+REP_TYPE,Sampling Replicate Type ................................................................................. Field,Sampling Replicate Type ................................................................................. Field,Text,5
+REPORTED_VALUE,Superseded See Reporting_Parameter_Value ............................................... Field,Superseded See Reporting_Parameter_Value ............................................... Field,Numeric,8.4
+REPORTING_PARAMETER,REPORTING_PARAMETER,,,
+,CBP Code for Reporting Parameter Measured ............................................... Field,CBP Code for Reporting Parameter Measured ............................................... Field,Text,20
+REPORTING_PARAMETER_DECRIPTION,REPORTING_PARAMETER_DECRIPTION,,,
+,Parameter Measured Description .................................................................... Field,Parameter Measured Description .................................................................... Field,Text,50
+REPORTING_PARAMETER_VALUE,REPORTING_PARAMETER_VALUE,,,
+,Reporting Value of Measured Parameter ........................................................ Field,Reporting Value of Measured Parameter ........................................................ Field,Numeric,8.4
+REPORTING_UNITS,CBP Reporting Units Code for Unit of Measure for Reporting Parameter....... Field,CBP Reporting Units Code for Unit of Measure for Reporting Parameter....... Field,Text,25
+REPORTING_UNITS_DESCRIPTION,REPORTING_UNITS_DESCRIPTION,,,
+,Description of Reporting Units Code .............................................................. Field,Description of Reporting Units Code .............................................................. Field,Text,50
+REPORTING_VALUE,Superseded See Reporting_Parameter_Value ............................................... Field,Superseded See Reporting_Parameter_Value ............................................... Field,Numeric,8.4
+REPORTING_VOLTS,Instrument Reporting Voltage Associated with Reporting_Parameter_Value . Field,Instrument Reporting Voltage Associated with Reporting_Parameter_Value . Field,Numeric,8.4
+SALZONE,CBP Code for Venice Salinity Category at Time of Sampling,....................... Field,Text,2
+SALZONE_DESCRIPTION,SALZONE_DESCRIPTION,,,
+,Description of Venice Salinity Category ........................................................... Field,Description of Venice Salinity Category ........................................................... Field,Text,50
+SALZONE_RANGES,Numeric Range for Venice Salinity in PSU ...................................................... Field,Numeric Range for Venice Salinity in PSU ...................................................... Field,Text,20
+SAMPLE_DATE,Date of Sample Collection (MM/DD/YYYY) ..................................................... Field,Date of Sample Collection (MM/DD/YYYY) ..................................................... Field,Date/Time,
+SAMPLE_DATE_TIME,Combined Date and Time of Sample Collection (MM/DD/YYYY HH:MM:SS),Combined Date and Time of Sample Collection (MM/DD/YYYY HH:MM:SS),,
+,......................................................................................................................... Field,......................................................................................................................... Field,Date/Time,
+SAMPLE_DEPTH,Sample Collection Depth in Meters.................................................................. Field,Sample Collection Depth in Meters.................................................................. Field,Numeric,8.1
+SAMPLE_NUMBER,Sample Replicate Number ............................................................................... Field,Sample Replicate Number ............................................................................... Field,Numeric,8.0
+SAMPLE_REPLICATE_TYPE,SAMPLE_REPLICATE_TYPE,,,
+SAMPLE_TIME,Sample Collection Time (HH:MM:SS-24 Hour Time) ...................................... Field,Sample Collection Time (HH:MM:SS-24 Hour Time) ...................................... Field,Date/Time,8
+SAMPLE_TIME_END,End Sample Collection Time (HH:MM:SS-24 Hour Time)-,,,
+,Used when sampling is conducted over time interval ...................................... Field,Used when sampling is conducted over time interval ...................................... Field,Date/Time,8
+SAMPLE_TIME_START Start Sample Collection Time (HH:MM:SS-24 Hour Time) ............................. Field,SAMPLE_TIME_START Start Sample Collection Time (HH:MM:SS-24 Hour Time) ............................. Field,SAMPLE_TIME_START Start Sample Collection Time (HH:MM:SS-24 Hour Time) ............................. Field,Date/Time,8
+,Used when sampling is conducted over time interval ...................................... Field,Used when sampling is conducted over time interval ...................................... Field,Date/Time,8
+SAMPLE_TYPE,Sample Collection Type ................................................................................... Field,Sample Collection Type ................................................................................... Field,Text,4
+SAMPLE_TYPE_DESCRIPTION,SAMPLE_TYPE_DESCRIPTION,,,
+,Sample Collection Type Description ................................................................ Field,Sample Collection Type Description ................................................................ Field,Text,4
+SAMVOL_L,Total Composite Sample Volume ................................................................... Field,Total Composite Sample Volume ................................................................... Field,Numeric,8.2
+,82,,,

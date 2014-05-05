@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 124 of 170”,Name: “Table 1 of 1 on page 124 of 170”,Name: “Table 1 of 1 on page 124 of 170”,Name: “Table 1 of 1 on page 124 of 170”
+Table: 123,Table: 123,Table: 123,Table: 123
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE,SEDIMENT/WQ_METHOD_TITLE
+TURB_NTU,F02,In-Situ Nephelometric (YSI 6026),In-Situ Nephelometric (YSI 6026)
+TURB_NTU,L01,Nephelometric,
+TURB_NTU,UNK,In-Situ Nephelometric-Unknown YSI,In-Situ Nephelometric-Unknown YSI
+VELOCITY,F01,Stream Current Velocity,Stream Current Velocity
+VELOCITY,F02,Stream Current Velocity,Stream Current Velocity
+VOLORG,L01,Volatile Organics-ODU Undocumented Method,Volatile Organics-ODU Undocumented Method
+VSS,L01,Gravimetric; Ignition At 550 C,Gravimetric; Ignition At 550 C
+WIDTH,F01,Total Channel Width,Total Channel Width
+WTEMP,F01,In-Situ Thermistor,In-Situ Thermistor
+WTEMP,F02,Thermometric,
+WTEMP,F03,"Water Temperature, Unspecified Field Method","Water Temperature, Unspecified Field Method"
+ZN,L01,Total Zinc; Atomic Emission Spectrometric,Total Zinc; Atomic Emission Spectrometric
+ZNF,L02,Dissolved Zinc,Dissolved Zinc
+Table C-26.,Reporting Parameters (REPORTING_PARAMETER).,Reporting Parameters (REPORTING_PARAMETER).,Reporting Parameters (REPORTING_PARAMETER).
+The following list of parameters represents those that are either directly measured in the field or analyzed,The following list of parameters represents those that are either directly measured in the field or analyzed,The following list of parameters represents those that are either directly measured in the field or analyzed,The following list of parameters represents those that are either directly measured in the field or analyzed
+in the laboratory as part of biological monitoring.,in the laboratory as part of biological monitoring.,in the laboratory as part of biological monitoring.,Additional codes may be added as needed. Currently
+accepted REPORTING_PARAMETERS and REPORTING_DESCRIPTION designations are as follows:,accepted REPORTING_PARAMETERS and REPORTING_DESCRIPTION designations are as follows:,accepted REPORTING_PARAMETERS and REPORTING_DESCRIPTION designations are as follows:,accepted REPORTING_PARAMETERS and REPORTING_DESCRIPTION designations are as follows:
+REPORTING_,REPORTING_PARAMETER_DECRIPTION,REPORTING_PARAMETER_DECRIPTION,REPORTING_PARAMETER_DECRIPTION
+PARAMETER,,,
+ACIDITY,Acidity,,
+AG,Total Silver,,
+AL,Total Aluminum,,
+ANC,Acid Neutralizing Capacity,,
+AS,Total Arsenic,,
+ASH_FRWT,Sample Ash Free Dry Weight (Mg/M**3),Sample Ash Free Dry Weight (Mg/M**3),Sample Ash Free Dry Weight (Mg/M**3)
+ASH_WT,Sample Total Ash Weight Sample (Mg/M**3),Sample Total Ash Weight Sample (Mg/M**3),Sample Total Ash Weight Sample (Mg/M**3)
+ASHFREWT,Sample Ash Free Dry Weight Sample (G/Sample),Sample Ash Free Dry Weight Sample (G/Sample),Sample Ash Free Dry Weight Sample (G/Sample)
+ASHWT,Sample Total Ash Weight (G/Sample),Sample Total Ash Weight (G/Sample),Sample Total Ash Weight (G/Sample)
+BATT,Battery Voltage,,
+BIOSI,Biogenic Silica,,
+BIOVOLUME,Biovolume(Ml/Sample),,
+BOAT_SPEED,Boat Speed In Knots,,
+BOD20F,20-Day Biochemical Oxygen Demand (Filtered Sample),20-Day Biochemical Oxygen Demand (Filtered Sample),20-Day Biochemical Oxygen Demand (Filtered Sample)
+BOD20W,20-Day Biochemical Oxygen Demand (Whole Sample),20-Day Biochemical Oxygen Demand (Whole Sample),20-Day Biochemical Oxygen Demand (Whole Sample)
+BOD5F,5-Day Biochemical Oxygen Demand (Filtered Sample),5-Day Biochemical Oxygen Demand (Filtered Sample),5-Day Biochemical Oxygen Demand (Filtered Sample)
+BOD5W,Whole 5-Day Biochemical Oxygen Demand,Whole 5-Day Biochemical Oxygen Demand,Whole 5-Day Biochemical Oxygen Demand
+CA,"Calcium, Total",,
+CAF,Dissolved Calcium As Ca,,
+CD,Total Cadmium,,
+CDOM_440,Absorption Due To Dissolved Organic Matter,Absorption Due To Dissolved Organic Matter,Absorption Due To Dissolved Organic Matter
+CDOM_SLOPE,Slope Of CDOM Absorption Coefficient Spectrum (400-500 Nm),Slope Of CDOM Absorption Coefficient Spectrum (400-500 Nm),Slope Of CDOM Absorption Coefficient Spectrum (400-500 Nm)
+CHL_A,Trichromatic Chlorophyll A,,
+CHL_B,Chlorophyll B,,
+CHL_C,Chlorophyll C,,
+CHLA,Active Chlorophyll-A,,
+CLAY,"Clay Content, Percent",,
+CLF,Total Chloride,,
+CLW,Total Chloride,,
+COD,Chemical Oxygen Demand,,
+COLOR,True Water Color,,
+,,,122

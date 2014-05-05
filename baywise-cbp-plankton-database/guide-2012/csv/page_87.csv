@@ -1,0 +1,12 @@
+Name: “Table 1 of 1 on page 87 of 170”,Name: “Table 1 of 1 on page 87 of 170”,Name: “Table 1 of 1 on page 87 of 170”,Name: “Table 1 of 1 on page 87 of 170”
+Table: 86,Table: 86,Table: 86,Table: 86
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+WQ_CATEGORY,Phytoplankton Index of Biotic Integrity Water Quality Category ...................... Field,Text,20
+WQ_DATE,Phytoplankton Index of Biotic Integrity Water Quality Sampling Date ............. Field,Date/Time,
+WQ_DESCRIPTION,CBP Water Quality Analytical Method Description .......................................... Field,Memo,
+WQ_DETAILS,CBP Water Quality Analytical Method Detailed Description ............................ Field,Memo,
+WQ_METHOD,CBP Water Quality Analytical Method Code .................................................... Field,Text,4
+WQ_TITLE,CBP Water Quality Analytical Method Title ..................................................... Field,Text,100
+ZIP,US Postal Service ZIP Code ............................................................................ Field,Text,10
+,85,,

@@ -1,0 +1,1253 @@
+Quality Assurance Documentation Plan for the,
+Maryland Phytoplankton Component of the,
+Chesapeake Bay Water Quality Monitoring Program,
+Prepared by:,
+Richard V. Lacouture,
+Morgan State University Estuarine Research Center,
+10545 Mackall Road,
+"St. Leonard, MD 20685",
+410-586-9721,
+"For the Period: July 1, 2008 – June 30, 2009",
+Approvals:,
+"Richard V. Lacouture, Project Manager, MSUERC",Date
+"Tristan Wohlford, Quality Assurance Officer, MSUERC",Date
+"Tom Parham, Project Officer, MDDNR",Date
+"Bruce Michael, Quality Assurance Officer, MDDNR",Date
+"Richard Batiuk, Project Officer, EPA-CBP",Date
+"Mary Ellen Ley, Quality Assurance Officer, EPA-CBP",Date
+Table of Contents,
+Quality Assurance Documentation Plan,
+Section,Page
+Distribution List............................................................................... 3,
+Project Organization........................................................................ 3,
+Problem Definition/Background......................................... 5,
+Project Description......................................................... 6,
+Quality Objectives and Criteria for Measurement Data...............7,
+Special Training and Certification...................................... 11,
+Documents and Records................................................. 11,
+Experimental Design..................................................... 12,
+Sampling Methods........................................................ 12,
+Sample Handling and Custody.......................................... 15,
+Analytical Methods....................................................... 16,
+Quality Control............................................................ 20,
+"Instrument/Equipment Testing, Inspection, Maintenance",
+and Calibration............................................................ 21,
+Inspection/Acceptance of Supplies and Consumables............... 22,
+Non-direct Measurement................................................. 22,
+Data Management......................................................... 22,
+Assessments and Response Actions.................................... 23,
+Reports to Management................................................... 24,
+"Data Review, Verification and Validation..............................24",
+References.................................................................. 25,
+Appendix A................................................................. 27,
+Appendix B..................................................................35,
+,2
+MD PHYTO QAPP,4/15/09
+Distribution List,
+Project Principal Investigator,Richard V. Lacouture
+Laboratory Director,Dr. Kelton Clark
+Project QA Officer/Data Processor,Tristan Wohlford
+Project QA Officer/Technician,Ann Marie Hartsig
+Project Technician,Stella Sellner
+Data Analyst/Modeler,Dr. Jon Anderson
+Project Officer – MDDNR,Tom Parham
+QA Officer – MDDNR,Bruce Michael
+Project Officer – EPA-CBP,Dr. Richard Batiuk
+QA Officer – EPA-CBP,Mary Ellen Ley
+Data Coordinator – EPA-CBP,Jacqueline Johnson
+Project Organization,
+The Maryland Phytoplankton Component of the Chesapeake Bay Water Quality,
+Monitoring is funded by the Maryland Department of Natural Resources (MDDNR). The,
+quality assurance of this component of the Monitoring Program is managed in accordance of,
+guidance provided by EPA-CBP. The quality control for the phytoplankton enumeration,
+element of the program is conducted by Mary Ellen Ley and the data is analyzed by Jacqueline,
+Johnson. The quality control for the chlorophyll element of the program is jointly conducted by,
+EPA-CBP and MDDNR under the auspice of the Analytical Methods and Quality Assurance,
+Workgroup of the Monitoring and Analysis Subcommittee of the EPA-CBP.,
+"Within Morgan State University Estuarine Research Center (MSUERC), the",
+phytoplankton component is managed by Richard Lacouture. He has been involved with the,
+"project since its inception, initially as the Project Manager and since 1993 as the Principal",
+"Investigator. His work is overseen by Dr. Kelton Clark, the Director of MSUERC. This",
+supervision occurs in the form of semi-annual job performance evaluations and attendance at,
+annual meetings with MDDNR to discuss issues related to the current fiscal year and plans for,
+,3
+MD PHYTO QAPP,4/15/09
+the following fiscal year. The technical support for the phytoplankton program comes from four,the following fiscal year. The technical support for the phytoplankton program comes from four,the following fiscal year. The technical support for the phytoplankton program comes from four,the following fiscal year. The technical support for the phytoplankton program comes from four
+"individuals – Tristan Wohlford who serves as the Quality Assurance Officer for the chlorophyll,","individuals – Tristan Wohlford who serves as the Quality Assurance Officer for the chlorophyll,","individuals – Tristan Wohlford who serves as the Quality Assurance Officer for the chlorophyll,","individuals – Tristan Wohlford who serves as the Quality Assurance Officer for the chlorophyll,"
+primary productivity and data submittals and as the Field Coordinator and Data Manager; Ann,primary productivity and data submittals and as the Field Coordinator and Data Manager; Ann,primary productivity and data submittals and as the Field Coordinator and Data Manager; Ann,
+Marie Hartsig who conducts the quality assurance for the phytoplankton enumerations and is the,Marie Hartsig who conducts the quality assurance for the phytoplankton enumerations and is the,Marie Hartsig who conducts the quality assurance for the phytoplankton enumerations and is the,Marie Hartsig who conducts the quality assurance for the phytoplankton enumerations and is the
+primary Phytoplankton Taxonomist and a Field Technician; Stella Sellner who is a,primary Phytoplankton Taxonomist and a Field Technician; Stella Sellner who is a,primary Phytoplankton Taxonomist and a Field Technician; Stella Sellner who is a,
+Phytoplankton Taxonomist and Field Technician and Dr. Jon Anderson who is a Data Analyst,Phytoplankton Taxonomist and Field Technician and Dr. Jon Anderson who is a Data Analyst,Phytoplankton Taxonomist and Field Technician and Dr. Jon Anderson who is a Data Analyst,
+and Modeler for the MD Phytoplankton Component of the Chesapeake Bay Water Quality,and Modeler for the MD Phytoplankton Component of the Chesapeake Bay Water Quality,and Modeler for the MD Phytoplankton Component of the Chesapeake Bay Water Quality,
+Monitoring Program. A depiction of the project organization hierarchy is presented in Figure 1.,Monitoring Program. A depiction of the project organization hierarchy is presented in Figure 1.,Monitoring Program. A depiction of the project organization hierarchy is presented in Figure 1.,Monitoring Program. A depiction of the project organization hierarchy is presented in Figure 1.
+Project Officer,,,
+Dr. Richard Batiuk,,,Project Officer
+EPA-CBP,,,Tom Parham
+batiuk.richard@epa.gov,,,MDDNR
+410-267-5731,,,tparham@dnr.state.md.us
+,,,41-260-8633
+QA Officer,Data Coordinator,,QA Officer
+Mary Ellen Ley,Jacqueline Johnson,,Bruce Michael
+EPA-CBP,EPA-CBP,,MDDNR
+MLey@chesapeakebay.net,jjohnson@chesapeakebay.net,,rkarrh@dnr.state.md.us
+410-267-5750,410-267-5729,,410-260-8628
+,Principal Investigator,Principal Investigator,Lab Director
+,Richard Lacouture,Richard Lacouture,Dr. Kelton Clark
+,MSUERC,,MSUERC
+,richard.lacouture@morgan.edu,richard.lacouture@morgan.edu,Kelton.Clark@morgan.edu
+,410-586-9721,,410-586-9706
+Phytoplankton Taxonomist/QA,Phytoplankton Taxonomist/,Project QA Officer /Data,Project Data Analyst/Modeler
+Officer/ Field Technician,Field Technician,Coordinator /Field,Dr. Jon Anderson
+Ann Marie Hartsig,Stella Sellner,Coordinator,MSUERC
+MSUERC,MSUERC,Tristan Wohlford,Jon.Anderson@morgan.edu
+AnnMarie.hartsig@morgan.edu,stella.sellner@morgan.edu,MSUERC,410-586-9711
+410-586-9700,410-586-9700,tristan.wohlford@morgan.edu,
+Figure 1: Project organization chart for the MD Phytoplankton Component of the Chesapeake,Figure 1: Project organization chart for the MD Phytoplankton Component of the Chesapeake,Figure 1: Project organization chart for the MD Phytoplankton Component of the Chesapeake,
+Bay Water Quality Monitoring Program.,Bay Water Quality Monitoring Program.,Bay Water Quality Monitoring Program.,
+,,,4
+MD PHYTO QAPP,,,4/15/09
+Problem Definition/Background,
+,"In September 1983, the United States Environmental Protection Agency published the"
+results of a seven-year study which focused on the health of the Chesapeake Bay. The study,results of a seven-year study which focused on the health of the Chesapeake Bay. The study
+concluded that the state of the ecosystem was in decline. The trends which dictated this,concluded that the state of the ecosystem was in decline. The trends which dictated this
+"conclusion included increasing levels of nutrients, increasing areas of low dissolved oxygen","conclusion included increasing levels of nutrients, increasing areas of low dissolved oxygen"
+"during the summer, the disappearance of submerged aquatic vegetation beds, the increase in","during the summer, the disappearance of submerged aquatic vegetation beds, the increase in"
+concentrations of heavy metals and toxic compounds in the sediments of the major industrial,concentrations of heavy metals and toxic compounds in the sediments of the major industrial
+"areas and the decline in stocks of valuable commercial resources such as oysters, shad, striped","areas and the decline in stocks of valuable commercial resources such as oysters, shad, striped"
+bass and several other species of finfish.,
+,"In 1984, the state governments of Maryland, Virginia, Pennsylvania and the governing"
+body of the District of Columbia passed legislation aimed at restoring the health of the Bay,body of the District of Columbia passed legislation aimed at restoring the health of the Bay
+"ecosystem. With the financial assistance of the federal government, a multi-faceted restoration","ecosystem. With the financial assistance of the federal government, a multi-faceted restoration"
+and protection program was instituted. A vital component of this restoration project is the,and protection program was instituted. A vital component of this restoration project is the
+Chesapeake Bay Water Quality Monitoring Program. The essential function of this program is,Chesapeake Bay Water Quality Monitoring Program. The essential function of this program is
+"to monitor the vital signs of the ecosystem, to ascertain the long-term trends of these vital signs","to monitor the vital signs of the ecosystem, to ascertain the long-term trends of these vital signs"
+and to make recommendations to managers and politicians for the development of best,and to make recommendations to managers and politicians for the development of best
+management practices.,
+,The Monitoring Program began in August 1984 and has evolved into a state-of-the art
+design which has targeted many of the problems identified in the EPA study. The problem of,design which has targeted many of the problems identified in the EPA study. The problem of
+increasing concentrations of nutrients has been the primary focus of the Chesapeake Bay,increasing concentrations of nutrients has been the primary focus of the Chesapeake Bay
+restoration effort. This overloading of nutrients was ultimately responsible for the decline in,restoration effort. This overloading of nutrients was ultimately responsible for the decline in
+"submerged aquatic vegetation, which serves as the nursery grounds of many animals, and for the","submerged aquatic vegetation, which serves as the nursery grounds of many animals, and for the"
+increase in the area of low dissolved oxygen water during the summer. The excessive loads of,increase in the area of low dissolved oxygen water during the summer. The excessive loads of
+"nutrients entering the Bay from sewage treatment plants, runoff from agriculture and industry","nutrients entering the Bay from sewage treatment plants, runoff from agriculture and industry"
+"and from atmospheric deposition, caused the proliferation of microscopic plants known as","and from atmospheric deposition, caused the proliferation of microscopic plants known as"
+"phytoplankton. Much as the grasses and grains in the terrestrial realm, these plants serve as the","phytoplankton. Much as the grasses and grains in the terrestrial realm, these plants serve as the"
+"base of the food pyramid and produce tremendous amounts of oxygen. But, when the","base of the food pyramid and produce tremendous amounts of oxygen. But, when the"
+"nutrient/phytoplankton balance is disturbed, either a choking or starvation response can","nutrient/phytoplankton balance is disturbed, either a choking or starvation response can"
+"potentially result within the ecosystem. In the case of the Chesapeake Bay, the excessive loading","potentially result within the ecosystem. In the case of the Chesapeake Bay, the excessive loading"
+"of nutrients to the ecosystem has disturbed the balance in the direction of a choking condition,","of nutrients to the ecosystem has disturbed the balance in the direction of a choking condition,"
+known as eutrophication. The monitoring of nutrient concentrations and the populations of the,known as eutrophication. The monitoring of nutrient concentrations and the populations of the
+microscopic plants and animals is crucial in the assessment of water quality conditions and,microscopic plants and animals is crucial in the assessment of water quality conditions and
+trends.,
+,The Morgan State University Estuarine Research Center (formerly the Academy of
+Natural Sciences Estuarine Research Center) has been monitoring these populations in the,Natural Sciences Estuarine Research Center) has been monitoring these populations in the
+"Maryland portion of Chesapeake Bay and the Potomac, Patuxent and Choptank Rivers and","Maryland portion of Chesapeake Bay and the Potomac, Patuxent and Choptank Rivers and"
+Baltimore Harbor since 1985. The types and densities of phytoplankton and the photosynthetic,Baltimore Harbor since 1985. The types and densities of phytoplankton and the photosynthetic
+production of the plants are some of the important parameters that are measured. The spatial and,production of the plants are some of the important parameters that are measured. The spatial and
+,5
+MD PHYTO QAPP,4/15/09
+temporal patterns and the natural variability inherent in these parameters have been determined.,
+There are very distinct patterns over space and time regarding the quantity and quality of the,
+plankton populations. The major cause of the natural variability in the patterns in the plankton,
+populations of the Bay is the amount of freshwater which enters the ecosystem from year to year.,populations of the Bay is the amount of freshwater which enters the ecosystem from year to year.
+"Other factors which contribute to the fluctuations in plankton populations include temperature,",
+"salinity and of course, nutrients. The primary factor which man can alter is the amount of",
+nutrient that enters the Bay ecosystem.,
+The primary objective of this program is to determine the health of phytoplankton habitat,The primary objective of this program is to determine the health of phytoplankton habitat
+and phytoplankton populations and to assess short and longterm changes in these conditions and,and phytoplankton populations and to assess short and longterm changes in these conditions and
+populations in Chesapeake Bay.,"More specifically, the objective of this component of the"
+Chesapeake Bay Water Quality Monitoring Program is to quantitatively and qualitatively,
+characterize the phytoplankton populations in the Maryland portion of the Chesapeake Bay and,
+several of its tributaries. The qualitative assessment takes place by microscopically enumerating,several of its tributaries. The qualitative assessment takes place by microscopically enumerating
+the taxonomic composition of the phytoplankton communities. This work allows one to,
+determine the quality of the phytoplankton community as it relates to water quality and as food,
+"for higher trophic levels. Quantitatively, the communities are analyzed for total biomass",
+(chlorophyll a) and photosynthetic rate (primary production measured by the 14 C technique).,
+The combination of these parameters allows for the assessment of community health of the,
+primary producers. This group is extremely important from the standpoint of monitoring water,
+quality since they are the first group to respond to changes in nutrient conditions in the estuary,
+"and since they are the base of the food chain, upon which all higher trophic groups ultimately",
+depend. The phytoplankton taxonomic data collected in the MD phytoplankton component of,
+the program is directly comparable to data collected as part of the VA phytoplankton component,the program is directly comparable to data collected as part of the VA phytoplankton component
+at Old Dominion University. The chlorophyll a data is comparable to the data collected by,
+MDDNR and VADEQ in their water quality monitoring programs. The primary production data,MDDNR and VADEQ in their water quality monitoring programs. The primary production data
+is comparable to data collected by Old Dominion University for the VA portion of the,
+Chesapeake Bay Water Quality Monitoring Program.,
+Project Description,
+The Phytoplankton Component of the Monitoring Program measures phytoplankton,
+"species composition abundances, primary productivity and vertical distributions of in vivo",
+fluorescence/chlorophyll a at all primary plankton stations and distributions of autotrophic,
+picoplankton in the mesohaline portion of the estuary in MD during May-September (Figure 2).,
+"In addition, vertical distributions of chlorophyll a are also determined at a series of additional",
+stations sampled for water quality by MDDNR in the Patuxent River and Chesapeake Bay.,
+Continuous underway measurements of chlorophyll a (horizontal in vivo fluorescence) are also,
+made between these MDDNR stations and the primary stations routinely sampled for,
+phytoplankton and productivity.,
+Quality Objectives and Criteria for Measurement Data,
+,6
+MD PHYTO QAPP,4/15/09
+The quality objectives and criteria for measurement data are expressed through a Data,The quality objectives and criteria for measurement data are expressed through a Data,
+Quality Objectives (DQO) Process. This process provides specifications required to support the,Quality Objectives (DQO) Process. This process provides specifications required to support the,Quality Objectives (DQO) Process. This process provides specifications required to support the
+design of the data collection process. The focus of this DQO process will be Acceptance Criteria,design of the data collection process. The focus of this DQO process will be Acceptance Criteria,design of the data collection process. The focus of this DQO process will be Acceptance Criteria
+for the different data sets of this study. These criteria will be represented by various data quality,for the different data sets of this study. These criteria will be represented by various data quality,for the different data sets of this study. These criteria will be represented by various data quality
+"indicators such as precision, bias, accuracy etc. These criteria are summarized in Table 1 as","indicators such as precision, bias, accuracy etc. These criteria are summarized in Table 1 as",
+Data Quality Indicators.,,
+,,CB1.1
+,,CB2.2
+,,ET 3.1
+,,WT5.1
+,WT 6.1,
+,CB3.3C,
+,,ET 4.2
+,WT 8.1,
+,TF2.3,
+,,ET5.2
+,,ET5.1
+,TF1.5,CB4.3C
+,TF1.7,
+,L E1.1,
+,RET 2.2,
+,,CB5.2
+,,L E2.2
+,Longterm plankton monitoring,
+,station,
+,New plankton monitoring,
+,station,
+Figure 2: Location of the MD phytoplankton monitoring sites in Chesapeake Bay.,Figure 2: Location of the MD phytoplankton monitoring sites in Chesapeake Bay.,
+Table 1:,Data Quality Indicators (DQI) for the MD Phytoplankton Component of the,
+,,7
+MD PHYTO QAPP,,4/15/09
+Chesapeake Bay Water Quality Monitoring Program.,
+Parameter:,Phytoplankton Taxonomy
+Data Quality Indicator,Methodologies
+Precision,The counting technique which is used (Utermohl technique)
+,requires a minimum of 200 individual cells to be counted in 10
+,random fields at the primary magnification (312.5X). This
+,"number of cells produces a precision of 80%, whereby a"
+,recount of a sample should produce a total cell density within
+,80% of the original count. Inter-lab recounts are done on 10%
+,of the samples and the resulting total density must be within
+,80% of the original or the re-count is done again until this
+,precision is attained.
+Bias,Bias within taxonomist is determined by enumerating the same
+,samples by different taxonomists. This is done annually
+,between the MD taxonomist (MSUERC) and the VA
+,taxonomist (ODU) in a split sample program. The results of
+,these split sample efforts are documented in reports.
+Accuracy,Accuracy has not been tested for phytoplankton enumerations.
+,The reason for this is that there is no way to know the
+,absolute composition of phytoplankton in a field sample. It
+,has been discussed to mix several algal cultures into one
+,sample and have a particle counter provide an estimate of the
+,"densities of the various algae, but this has not been carried out."
+Representativeness,The phytoplankton samples are collected by compositing the
+,same volume of water from five distinct depths in replicate.
+,The replicate composites are combined and the sample is
+,removed from this replicate composite. This enhances the
+,representativeness of the sample and is aimed at reducing the
+,effects of ‘patchiness’ inherent in phytoplankton populations.
+Comparability,The split sample program between MD and VA is aimed at
+,producing a Baywide phytoplankton data set which is
+,comparable. Many steps have been taken over the years to
+,maximize this comparability between the two phytoplankton
+,labs.
+Completeness,The MD phytoplankton program has recently added four
+,additional sampling sites because of incomplete spatial
+,coverage. Only the portion of the water column above the
+,pycnocline is analyzed because of funding issues. Temporally
+,key months are sampled bi-weekly while other months are not
+,sampled – this was done because of knowledge gained about
+,phytoplankton population dynamics and a recent power
+,analysis supported this decision.
+,8
+MD PHYTO QAPP,4/15/09
+Sensitivity,The enumeration technique employs three different
+,magnifications which allows for the detection and optimal
+,enumeration of cells of different size and density within a
+,sample. A low magnification scan (125X) of the entire
+,"chamber provides maximum sensitivity for the rare, larger"
+,taxa.
+Table 1 (continued):,Data Quality Indicators (DQI) for the MD Phytoplankton
+Component of the Chesapeake Bay Water Quality Monitoring Program.,
+Parameter: Chlorophyll,
+Data Quality Indicator,Methodologies
+Precision,The chlorophyll technique is standardized within the lab.
+,Blanks are run on the spectrophotometer during each set of
+,samples. A split sample program has been established
+,whereby replicate samples from the same carboy of Bay water
+,are sent to 8 different labs for analysis. The comparison of
+,these replicate samples allows for an indication of inter-lab
+,precision.
+Bias,The split sample program previously mentioned enables
+,MSUERC to monitor bias in these results since the program is
+,carried out 4 times/year over a twenty-five year period. The
+,comparison of MSUERC chlorophyll concentrations to other
+,labs’ results enables the detection of bias. With detection of
+,"bias, there are a series of steps which are taken to attempt to"
+,detect the source of the bias.
+Accuracy,Chlorophyll standards (known concentration) are periodically
+,used to assess the accuracy of the chlorophyll technique.
+Representativeness,On many of the cruises chlorophyll samples are filtered
+,relative to in vivo fluorescence readings (a unitless measure of
+,chlorophyll). These samples are purposefully taken at as wide
+,a range of in vivo fluorescence readings as possible which
+,thereby provides representativeness relative to a wide range of
+,chlorophyll concentrations.
+Comparability,Since the split sample program includes 8 different
+,"laboratories, comparability of data is tested routinely as part of"
+,this program.
+Completeness,Chlorophyll samples are taken in conjunction with a
+,continuous flow-through measure of in vivo fluorescence at
+,the surface of the water column and at each 1-2 meters
+,throughout the water column at many sampling sites
+,(mainstem Bay and Patuxent River). The other sampling sites
+,9
+MD PHYTO QAPP,4/15/09
+,produce vertical profiles with in vivo fluorescence measured
+,every1-3 meters. This level of sampling produces a
+,comprehensive data set for chlorophyll.
+Sensitivity,The chlorophyll technique which is used at MSUERC is
+,sensitive to ~ 1 ug chl/L. Below that level the detection limit
+,is exceeded. This has been determined from standards that
+,have been run for a variety of different chlorophyll
+,concentrations.
+Table 1 (continued):,Data Quality Indicators (DQI) for the MD Phytoplankton
+Component of the Chesapeake Bay Water Quality Monitoring Program.,
+Parameter: Primary Productivity,
+Data Quality Indicator,Methodologies
+Precision,Precision for this metric is determined by the
+,carbon:chlorophyll (assimilation ratio) for the two composite
+,samples which are collected at each sampling site. Since these
+,"composites are not replicates, the way to normalize them"
+,relative to carbon fixation (primary productivity) is by using
+,the chlorophyll concentrations of the two carboys to calculate
+,the assimilation ratio.
+Bias,A QA/QC split sample comparison was made with ODU’s
+,primary productivity lab in 2002. The results of this split
+,sample effort indicated a bias between the two labs that was
+,partially attributed to differences in protocols in determining
+,carbon fixation rates. A report is on file that documents the
+,results of this comparison.
+Accuracy,It is difficult to assess the accuracy of this measure since there
+,is not a standard to test experimental results against.
+Representativeness,"The distribution of sample sites, the variety of biomass"
+,conditions and the seasonal array of collections contribute to
+,"representativeness. In addition, the replication of composite"
+,samples in the euphotic zone aids in compensating for patchy
+,distributions of phytoplankton.
+Comparability,Inter-lab comparability is accomplished from replicate
+,samples which are normalized with chlorophyll concentrations
+,to provide an assimilation ratio which should be similar
+,between the two replicate composites. Intra-lab comparability
+,was assessed in 2002 with a split sample analysis with ODU.
+Completeness,Primary productivity measures are taken at the highest
+,possible frequency and at all of the primary phytoplankton
+,stations in the monitoring program.
+,10
+MD PHYTO QAPP,4/15/09
+Sensitivity,The measure of productivity is made with stock solution
+,which is very concentrated. This enables sufficient readings
+,(disintegrations of the radioisotope) to take place during short
+,"incubations, when biomass is low and during times of the year"
+,when phytoplankton metabolism is inherently low (winter).
+Special Training and Certification,
+"In order to work with radioisotopes, the phytoplankton monitoring program needs to be","In order to work with radioisotopes, the phytoplankton monitoring program needs to be"
+certified by the Maryland Department of the Environment Radiological Health Program. A,certified by the Maryland Department of the Environment Radiological Health Program. A
+portion of this certification process mandates that the personnel who work on this project are,portion of this certification process mandates that the personnel who work on this project are
+required to complete a Radiation Safety training course. This is done at the beginning of a,required to complete a Radiation Safety training course. This is done at the beginning of a
+person’s tenure on the project. MSUERC has a Radiation Safety Officer and the phytoplankton,person’s tenure on the project. MSUERC has a Radiation Safety Officer and the phytoplankton
+program has its own Radiation Safety Officer.,
+Documents and Records,
+The Quality Assurance Project Plan and all Standard Operating Procedures for the,The Quality Assurance Project Plan and all Standard Operating Procedures for the
+Phytoplankton Component of the Chesapeake Bay Water Quality Monitoring Program are,Phytoplankton Component of the Chesapeake Bay Water Quality Monitoring Program are
+available to all staff in an accessible subdirectory on MSUERC computer network and in,available to all staff in an accessible subdirectory on MSUERC computer network and in
+hardcopy versions kept in a file in the MSUERC library. These documents are updated when,hardcopy versions kept in a file in the MSUERC library. These documents are updated when
+required and e-mail notices are sent to all pertinent personnel notifying them of the changes.,required and e-mail notices are sent to all pertinent personnel notifying them of the changes.
+The documents which are maintained and stored at MSUERC for this project include: 1),The documents which are maintained and stored at MSUERC for this project include: 1)
+field binders which contain all field data sheets and associated lab work (in vivo fluorescence,field binders which contain all field data sheets and associated lab work (in vivo fluorescence
+"measures, discrete chlorophyll a filtration volumes, in vivo fluorescence/chlorophyll regressions,","measures, discrete chlorophyll a filtration volumes, in vivo fluorescence/chlorophyll regressions,"
+primary productivity incubation data and alkalinity titration data) 2) chlorophyll lab logbooks,primary productivity incubation data and alkalinity titration data) 2) chlorophyll lab logbooks
+which contain all of the data from the spectrophotometric analysis of chlorophyll a 3),which contain all of the data from the spectrophotometric analysis of chlorophyll a 3)
+phytoplankton binders which contain all of the hardcopy print-outs from the taxonomic,phytoplankton binders which contain all of the hardcopy print-outs from the taxonomic
+enumerations 4) phytoplankton binders which contain all of the inter-lab QA/QC taxonomic,enumerations 4) phytoplankton binders which contain all of the inter-lab QA/QC taxonomic
+counts 5) primary productivity binders which contain the liquid scintillation counter printouts,counts 5) primary productivity binders which contain the liquid scintillation counter printouts
+for all samples 6) primary productivity data entry binders which contain all of the data which is,for all samples 6) primary productivity data entry binders which contain all of the data which is
+entered to calculate carbon fixation rates 7) data management binders which contain all of the,entered to calculate carbon fixation rates 7) data management binders which contain all of the
+documentation of the various programs which are used in the project.,documentation of the various programs which are used in the project.
+"Instrument calibration records are maintained for fluorometers, spectrophotometers,","Instrument calibration records are maintained for fluorometers, spectrophotometers,"
+"underwater light meters and microscopes in files kept by the project QA officer. In addition, this","underwater light meters and microscopes in files kept by the project QA officer. In addition, this"
+individual maintains all purchase orders and billing receipts.,individual maintains all purchase orders and billing receipts.
+Progress reports are electronically delivered to MDDNR in order to summarize the work,Progress reports are electronically delivered to MDDNR in order to summarize the work
+which is accomplished for the prior three months of the project. Electronic files and hardcopies,which is accomplished for the prior three months of the project. Electronic files and hardcopies
+are maintained by the project QA officer.,
+Experimental Design,
+The experimental design for the Phytoplankton Component of the Chesapeake Bay Water,The experimental design for the Phytoplankton Component of the Chesapeake Bay Water
+,11
+MD PHYTO QAPP,4/15/09
+Quality Monitoring Program was developed by the Principle Investigators and the State (MD,
+and VA) and Federal (EPA-CBP) Managers in a holistic fashion in order to consolidate the level,and VA) and Federal (EPA-CBP) Managers in a holistic fashion in order to consolidate the level
+of effort while still providing the necessary data for each component of the program in order to,of effort while still providing the necessary data for each component of the program in order to
+provide a comprehensive and integrated overall monitoring effort. The spatial and temporal,
+aspects of the design of the sampling strategy took into account such things as even spacing of,aspects of the design of the sampling strategy took into account such things as even spacing of
+"sites, having sites within the mainstem Bay and major tributaries within each salinity regime",
+"(generally tidal fresh, oligohaline and either mesohaline or polyhaline), locating sites in",
+"proximity to major point sources of nutrients and other pollutants, sampling at a frequency that","proximity to major point sources of nutrients and other pollutants, sampling at a frequency that"
+reflects the population dynamics of the various living resources and sampling a variety of,
+"physical, chemical and biological parameters as synoptically as possible for scientific and",
+economic purposes.,
+The parameters that were selected for the Phytoplankton Component of the Monitoring,The parameters that were selected for the Phytoplankton Component of the Monitoring
+Program are chlorophyll (vertical profiles and in some systems continuously recorded horizontal,Program are chlorophyll (vertical profiles and in some systems continuously recorded horizontal
+"measurements), primary productivity, light attenuation, micro/nanophytoplankton species",
+composition and picoplankton densities. These metrics provide important data relative to the,
+quantity of phytoplankton (chlorophyll and phytoplankton carbon that is generated from the,
+"species composition data), the quality of the phytoplankton (species composition relative to size","species composition data), the quality of the phytoplankton (species composition relative to size"
+and utility as food by higher trophic levels) and the metabolic activity of the populations,
+(primary productivity relative to specific light attenuation conditions).,
+Sampling Methods,
+Samples for chlorophyll a and productivity are collected at 14 stations (the,
+thirteen primary plankton stations and CB1.1) over the Maryland portion of the Chesapeake Bay,thirteen primary plankton stations and CB1.1) over the Maryland portion of the Chesapeake Bay
+"13 times per year, while phytoplankton species composition samples are collected at 13 stations,","13 times per year, while phytoplankton species composition samples are collected at 13 stations,"
+13 times per year in conjunction with sampling programs by MDDNR staff. Field collections in,13 times per year in conjunction with sampling programs by MDDNR staff. Field collections in
+"Chesapeake Bay, Patuxent River, Potomac River, Patapsco River and Choptank River are",
+"monthly during March, June, September, October and December, and twice per month during",
+"April, May, July and August. There are no samplings in November and only one sampling",
+"during June and September. Beginning in March, 2007, phytoplankton samples were collected at","during June and September. Beginning in March, 2007, phytoplankton samples were collected at"
+"four new stations, ET3.1, ET4.2, WT6.1 and WT8.1. These stations will be sampled by",
+MDDNR staff in the same frequency which they are sampled for water quality parameters.,
+"Autotrophic picoplankton are sampled twice per month during May, July, and August and",
+"monthly during June and September at the following stations – WT5.1, ET5.2, LE1.1, LE2.2,",
+"CB3.3C, CB4.3C, and CB5.2.",
+Chlorophyll a,
+Vertical profiles of in vivo fluorescence (IVF) are obtained at 14 stations (the thirteen,
+primary plankton stations and CB1.1) routinely sampled in the plankton component and in all,
+other MDDNR stations routinely sampled in the main Bay and Patuxent River. Measurements of,other MDDNR stations routinely sampled in the main Bay and Patuxent River. Measurements of
+"IVF and consequently, chlorophyll a","are made at 0.5, 1, 2, 3, AP and BP (1 meter above and"
+,12
+MD PHYTO QAPP,4/15/09
+below the pycnocline) and every 3 meters thereafter to a depth of 1 meter above the bottom at,below the pycnocline) and every 3 meters thereafter to a depth of 1 meter above the bottom at
+"stations in the Potomac, Choptank and Patapsco Rivers. Measurements are made at 0.5, 2.3 and","stations in the Potomac, Choptank and Patapsco Rivers. Measurements are made at 0.5, 2.3 and"
+"every 2.3 m thereafter in the Patuxent River. Measurements are made at 0.5, 1, 2, 3 and no more","every 2.3 m thereafter in the Patuxent River. Measurements are made at 0.5, 1, 2, 3 and no more"
+than every 2 meters thereafter in the mainstem Bay to a depth 1 meter above the bottom.,
+Horizontal distributions of chlorophyll a are obtained from continuous measurements of IVF,Horizontal distributions of chlorophyll a are obtained from continuous measurements of IVF
+collected between stations in the main Bay and Patuxent River. This is accomplished by,collected between stations in the main Bay and Patuxent River. This is accomplished by
+pumping water from a pump in the hull of the research vessel through a fluorometer and storing,pumping water from a pump in the hull of the research vessel through a fluorometer and storing
+the subsequent data on a laptop computer. Discrete samples are collected during each trip for,the subsequent data on a laptop computer. Discrete samples are collected during each trip for
+"subsequent determination of active chlorophyll a (μg*L-1 ; Strickland and Parsons, 1972).","subsequent determination of active chlorophyll a (μg*L-1 ; Strickland and Parsons, 1972)."
+Conversion of IVF values to chlorophyll a will be estimated from regressions between IVF and,Conversion of IVF values to chlorophyll a will be estimated from regressions between IVF and
+chlorophyll a measured in discrete samples collected in the field. A total of approximately 528,chlorophyll a measured in discrete samples collected in the field. A total of approximately 528
+stations are sampled for chlorophyll a over the course of a year.,
+IVF values are measured on a Turner Designs Model 10-AU digital fluorometer. The,IVF values are measured on a Turner Designs Model 10-AU digital fluorometer. The
+fluorometers are calibrated from phytoplankton cultures in order to generate IVF values that are,fluorometers are calibrated from phytoplankton cultures in order to generate IVF values that are
+mid-range for the range of chlorophyll concentrations which are encountered in the Chesapeake,mid-range for the range of chlorophyll concentrations which are encountered in the Chesapeake
+Bay during the course of the year. The different flourometers used in the study are equilibrated,Bay during the course of the year. The different flourometers used in the study are equilibrated
+to generate similar IVF values for specific chlorophyll concentrations. All horizontal IVF,to generate similar IVF values for specific chlorophyll concentrations. All horizontal IVF
+readings will be accompanied by a latitude-longitude measured by a GPS unit and stored in the,readings will be accompanied by a latitude-longitude measured by a GPS unit and stored in the
+data file with the mean IVF values.,
+Each discrete sample is collected in a 1L Nalgene bottle after the bottle has been rinsed,Each discrete sample is collected in a 1L Nalgene bottle after the bottle has been rinsed
+"with sample water 3 times. When sampling on the Bay or on the Patuxent, the sample is filtered","with sample water 3 times. When sampling on the Bay or on the Patuxent, the sample is filtered"
+"immediately. For the tributary sampling, the samples are put into a cooler of ambient water and","immediately. For the tributary sampling, the samples are put into a cooler of ambient water and"
+are filtered either at the end of the day (4-7 hours later) or at the completion of the station,are filtered either at the end of the day (4-7 hours later) or at the completion of the station
+(approx. 1 hour later). The sample bottle is inverted 3 times to mix the sample. The sample is,(approx. 1 hour later). The sample bottle is inverted 3 times to mix the sample. The sample is
+poured into a 500 ml graduated cylinder after the gc has been rinsed 3 times with the sample,poured into a 500 ml graduated cylinder after the gc has been rinsed 3 times with the sample
+water. The sample is filtered through a 47mm Whatman glass fiber filter with a pore size of,water. The sample is filtered through a 47mm Whatman glass fiber filter with a pore size of
+0.7um that has been placed on the base of a 47mm Gelman Magnetic Filter Funnel using a pair,0.7um that has been placed on the base of a 47mm Gelman Magnetic Filter Funnel using a pair
+of forceps. The vacuum pressure is set at 10 psi. The amount filtered is determined by,
+observing the output from the filter funnel. When the sample water starts to drip slowly through,observing the output from the filter funnel. When the sample water starts to drip slowly through
+"the filter, the volume of water used is noted. This should occur with only 25-30 mls of water left","the filter, the volume of water used is noted. This should occur with only 25-30 mls of water left"
+"to go through the filter. When there is only 15-20 mls of water left, 7-8 drops of magnesium","to go through the filter. When there is only 15-20 mls of water left, 7-8 drops of magnesium"
+carbonate is added to the sample water to be drawn onto the filter as well. After all the water has,carbonate is added to the sample water to be drawn onto the filter as well. After all the water has
+"passed the filter, the magnetic filter funnel is removed and the vacuum pump is turned off.","passed the filter, the magnetic filter funnel is removed and the vacuum pump is turned off."
+"Using a pair of forceps, the filter is folded into quarters and placed inside a piece of foil. The","Using a pair of forceps, the filter is folded into quarters and placed inside a piece of foil. The"
+foil is folded over the filter and the ends are secured by a label that is put onto the outside of the,foil is folded over the filter and the ends are secured by a label that is put onto the outside of the
+foil. The sample is then immediately put into a freezer or a cooler of ice.,
+Blanks are measured in order to assess the dissolved fraction of fluorescence by initially,Blanks are measured in order to assess the dissolved fraction of fluorescence by initially
+"filtering a sample through a 47mm Whatman glass fiber filter with a pore size of 0.7um,",
+followed by filtration through a Millipore GS filter with a pore size of 0.22 um.,
+,13
+MD PHYTO QAPP,4/15/09
+The samples are transported back to the lab at the end of the cruise in a cooler of ice.,
+"Once at the lab, the samples are transferred from the cooler into a freezer. In some cases, the",
+filtration process has taken place at the lab and the samples are put in the freezer after each one,filtration process has taken place at the lab and the samples are put in the freezer after each one
+has been filtered. The samples stay in the freezer until the grinding process.,
+Primary Productivity and Light Attenuation,
+Photosynthetic rates in phytoplankton assemblages are measured at 14 stations (the,
+thirteen plankton stations and CB1.1) by using 14 C-techniques outlined in Strickland and Parsons,thirteen plankton stations and CB1.1) by using 14 C-techniques outlined in Strickland and Parsons
+"(1972). During the course of a year, 555 samples are processed for primary production. The",
+samples for primary production are taken from the replicate surface composite carboys (15-l),
+which have been previously subsampled for the phytoplankton species composition samples.,
+There is a period of 0.5-6 h between the time that the samples are collected and when they are,
+"processed. On the Patuxent River and mainstem Chesapeake Bay cruises, the carboys are kept in","processed. On the Patuxent River and mainstem Chesapeake Bay cruises, the carboys are kept in"
+"a flow-through box at ambient water temperature and light conditions. For the other stations, the","a flow-through box at ambient water temperature and light conditions. For the other stations, the"
+carboys are kept in the shade at ambient air temperatures until being processed.,
+Light attenuation at each of the 14 primary stations will be determined with a LiCor,
+quantum sensor and/or secchi disk. The light attenuation of a water column is determined,
+directly by measuring photosynthetically available radiation (PAR 400-720 nm) at different,
+depths in the water column. A profile is accomplished by measuring PAR at the surface (with,
+the sensor just below the surface of the water) and at either 0.25m or 0.50m intervals until,
+achieving a value 10% of the surface reading. Simultaneous deck cell readings are recorded for,achieving a value 10% of the surface reading. Simultaneous deck cell readings are recorded for
+each reading at depth. The important depth in regards to photosynthesis by phytoplankton is the,each reading at depth. The important depth in regards to photosynthesis by phytoplankton is the
+compensation depth. This is the depth at which respiration is equivalent to the level of gross,
+photosyntheis. This depth can be approximated by the depth at which there is 1% of the surface,photosyntheis. This depth can be approximated by the depth at which there is 1% of the surface
+radiation. It is used in extrapolating a photosynthetic rate for a particular water column or,
+sampling site.,
+Phytoplankton Species Composition,
+"At each station, two surface composite samples (15-l) (5 depths above the pycnocline)",
+"are collected using a small diaphragm pump and hose. Once collected, 500-ml subsamples from","are collected using a small diaphragm pump and hose. Once collected, 500-ml subsamples from"
+"the surface layer are pooled, yielding one phytoplankton sample from the surface mixed layer.",
+At primary stations typified by shallow depths and/or generally homogeneous water columns,
+"(CB2.2, TF1.7, TF1.5, RET2.2, ET3.1 and ET5.1), one sample produced from a composite",
+sample from the entire water column (30-l from ten discrete depths) will be subsampled for,
+"phytoplankton. At the other primary stations (CB3.3C, CB4.3C, LE1.1, TF2.3, LE2.2, ET4.2,",
+"ET5.2, WT5.1, WT6.1 and WT8.1) phytoplankton will be enumerated and identified in a",
+subsample from the surface composite sample (below pycnocline samples were enumerated,
+"through 1995). For the year, 185 samples (including QA/QC samples) will be analyzed. The",
+,14
+MD PHYTO QAPP,4/15/09
+samples are fixed with acid Lugol=s solution (final concentration of ~ 1.5% by volume) and,
+preserved with buffered formalin (final concentration of 2% by volume).,
+Autotrophic Picoplankton,
+Phytoplankton populations have been monitored in Chesapeake Bay and its tributaries,
+"since the outset of the monitoring program in August, 1984. During this time, it has been",
+documented in several studies that the picoplankton component of the phytoplankton,
+"assemblages is extremely important during the warmer months of the year, from the perspective","assemblages is extremely important during the warmer months of the year, from the perspective"
+"of their contribution to total cell densities, biomass and primary productivity (Ray et al. 1989;",
+Falkenhayn 1990; Lacouture et al. 1990; Affronti and Marshall 1994; Marshall and Nesius,
+1996). Virginia incorporated a phototrophic picoplankton component to their monitoring,
+program in 1989 and Maryland decided to include this element in the Maryland portion of the,
+Chesapeake Bay Water Quality Monitoring Program beginning in 2002.,
+"Sampling will occur bi-weekly during May, July and August and monthly during June",
+and September. Samples will be collected and composited from five discrete depths above the,
+"pycnocline at seven mesohaline stations (CB3.3C, CB4.3C, CB5.2, WT5.1, ET5.2, LE1.1 and",
+LE2.2). Note that this is the same water from which the nano/microplankton samples are taken.,LE2.2). Note that this is the same water from which the nano/microplankton samples are taken.
+A 125-ml subsample will be removed and placed in a Nalgene bottle containing 2-ml of,
+gluteraldehyde. The labeled sample bottle will be placed in a cooler with ice and transported,
+back to the lab for processing. A total of 61 samples will be processed (includes 5 QA/QC,
+recounts) during the year.,
+Sample Handling and Custody,
+With the exception of the four new stations that are sampled for phytoplankton species,
+"composition (ET3.1, ET4.2, WT6.1 and WT8.1), all samples for all parameters are collected by","composition (ET3.1, ET4.2, WT6.1 and WT8.1), all samples for all parameters are collected by"
+MSUERC staff and there is no chain of custody protocol necessary. The MSUERC staff has,
+been trained to know the proper handling protocol for the various metrics which are sampled in,been trained to know the proper handling protocol for the various metrics which are sampled in
+the Phytoplankton Component of the Monitoring Program (as described in the previous section –,the Phytoplankton Component of the Monitoring Program (as described in the previous section –
+Sampling Methods). If samples are not collected for some reason the MSUERC staff makes note,Sampling Methods). If samples are not collected for some reason the MSUERC staff makes note
+of the discrepancy in the Comments Section of the field data sheets and these are subsequently,
+transferred to a bound notebook dedicated to lost samples. This notebook is maintained by the,
+"Project QA Officer. For the samples which are not collected by MSUERC staff (see above), the","Project QA Officer. For the samples which are not collected by MSUERC staff (see above), the"
+phytoplankton species composition samples are delivered to MSUERC by members of MDDNR,phytoplankton species composition samples are delivered to MSUERC by members of MDDNR
+field staff within 6 weeks of collection and logged into a chain of custody notebook at the time,
+of delivery.,
+Analytical Methods,
+Chlorophyll a,
+,15
+MD PHYTO QAPP,4/15/09
+Chlorophyll samples are stored in a freezer for no more than 3 months before processing.,Chlorophyll samples are stored in a freezer for no more than 3 months before processing.
+"In a virtually dark lab, a sample is taken from the freezer. The label is removed and placed in a","In a virtually dark lab, a sample is taken from the freezer. The label is removed and placed in a"
+"data book. The foil is unwrapped and using a pair of forceps, the filter is folded in half again so","data book. The foil is unwrapped and using a pair of forceps, the filter is folded in half again so"
+that it will fit into the grinding vessel (Thomas Scientific Size B). Approximately 3-5 mls of J.T.,that it will fit into the grinding vessel (Thomas Scientific Size B). Approximately 3-5 mls of J.T.
+Baker HPLC grade acetone that has been diluted with DI to 90% strength is added to the,Baker HPLC grade acetone that has been diluted with DI to 90% strength is added to the
+"grinding vessel. The sample is then ground using a Black & Decker 3/8"": variable speed electric","grinding vessel. The sample is then ground using a Black & Decker 3/8"": variable speed electric"
+drill and a pestile that has been put into the chock of the drill. The grinding vessel is held against,drill and a pestile that has been put into the chock of the drill. The grinding vessel is held against
+the pestile in a plastic beaker filled with ice for half of the grinding time. The grinding vessel is,the pestile in a plastic beaker filled with ice for half of the grinding time. The grinding vessel is
+lifted out of the ice in order to see the condition of the filter. The filter is ground until it is an,lifted out of the ice in order to see the condition of the filter. The filter is ground until it is an
+applesauce type mush.,
+"After grinding is complete, a small amount of acetone is used to rinse any filter debris","After grinding is complete, a small amount of acetone is used to rinse any filter debris"
+from the pestile into the grinding vessel and to rinse any filter debris from the sides of the,from the pestile into the grinding vessel and to rinse any filter debris from the sides of the
+grinding vessel. A metal rod which is wiped off with a Kimwipe after each use is sometimes,grinding vessel. A metal rod which is wiped off with a Kimwipe after each use is sometimes
+used to loosen the filter mush from the bottom of the grinding vessel. The sample is then,used to loosen the filter mush from the bottom of the grinding vessel. The sample is then
+transferred to a 13 ml Kimax glass centrifuge tube using a small plastic funnel. The metal rod,transferred to a 13 ml Kimax glass centrifuge tube using a small plastic funnel. The metal rod
+may be used again to poke the filter mush through the funnel into the centrifuge tube. A small,may be used again to poke the filter mush through the funnel into the centrifuge tube. A small
+amount of acetone is used to rinse any of the remains of the sample from the grinding vessel and,amount of acetone is used to rinse any of the remains of the sample from the grinding vessel and
+the funnel into the centrifuge tube. The centrifuge tube is then capped and placed in a light proof,the funnel into the centrifuge tube. The centrifuge tube is then capped and placed in a light proof
+box inside a dark refrigerator.,
+The grinding process is repeated with each filter. The number of samples processed at,The grinding process is repeated with each filter. The number of samples processed at
+"one time is at the discretion of the lab technician. Sometimes, the samples are ground, placed in","one time is at the discretion of the lab technician. Sometimes, the samples are ground, placed in"
+"the dark refrigerator, and stored there overnight before continuing the rest of the process. Most","the dark refrigerator, and stored there overnight before continuing the rest of the process. Most"
+"of the time, the samples are completed from grinding to running them through the","of the time, the samples are completed from grinding to running them through the"
+spectrophotometer in one day.,
+"Still in virtual darkness, the samples are taken from the dark refrigerator and loaded into","Still in virtual darkness, the samples are taken from the dark refrigerator and loaded into"
+the centrifuge. The Beckman refrigerated centrifuge is run at 2400 rpm=s for 30 minutes or more,the centrifuge. The Beckman refrigerated centrifuge is run at 2400 rpm=s for 30 minutes or more
+at a temperature of 8 degrees C.,
+"After the centrifuge has stopped, the samples are removed while still in the centrifuge","After the centrifuge has stopped, the samples are removed while still in the centrifuge"
+racks (8-10 at a time) and taken to the spectrophotometer located in the same lab. The,racks (8-10 at a time) and taken to the spectrophotometer located in the same lab. The
+supernatant/sample is carefully poured off into a plastic 25 ml graduated cylinder. The volume,supernatant/sample is carefully poured off into a plastic 25 ml graduated cylinder. The volume
+of the sample is measured and recorded in the data book. The sample is poured into a 1 cm,of the sample is measured and recorded in the data book. The sample is poured into a 1 cm
+spectrophotometric cuvette (3-4 mls generally). The cuvette is wiped off carefully with a,spectrophotometric cuvette (3-4 mls generally). The cuvette is wiped off carefully with a
+Kimwipe and placed in the spectrophotometer. The spectrophotometer has a moving rack that,Kimwipe and placed in the spectrophotometer. The spectrophotometer has a moving rack that
+"holds 5 cuvettes, 4 are samples and 1 is a blank (filled with 90% acetone). The","holds 5 cuvettes, 4 are samples and 1 is a blank (filled with 90% acetone). The"
+spectrophotometer is zeroed with the blank at 750nm. Each sample is read at this wavelength,spectrophotometer is zeroed with the blank at 750nm. Each sample is read at this wavelength
+and the value is recorded in the data book. The spectrophotometer is then changed to a,and the value is recorded in the data book. The spectrophotometer is then changed to a
+wavelength of 665nm and the above process is repeated. After the initial reading at 665nm is,wavelength of 665nm and the above process is repeated. After the initial reading at 665nm is
+"recorded, 3 drops of 2N HCl is added to each sample. The samples are then read again at 665nm","recorded, 3 drops of 2N HCl is added to each sample. The samples are then read again at 665nm"
+"and 750nm. After this process is complete, the samples are removed from the cuvettes and each","and 750nm. After this process is complete, the samples are removed from the cuvettes and each"
+,16
+MD PHYTO QAPP,4/15/09
+cuvette is rinsed with 90% acetone 3 times before being filled again.,cuvette is rinsed with 90% acetone 3 times before being filled again.,
+All values that have been recorded in the data book are entered into a spreadsheet that,All values that have been recorded in the data book are entered into a spreadsheet that,
+contains the equation for calculating chlorophyll concentration. The equation used is from,contains the equation for calculating chlorophyll concentration. The equation used is from,
+"Standard Methods: Chl, ug/l = 26.73 (665b-665a) x V1 / V2, where, 665b and 665a are the","Standard Methods: Chl, ug/l = 26.73 (665b-665a) x V1 / V2, where, 665b and 665a are the",
+"optical densities of the 90% acetone extract before and after acidification, V1 is the volume of","optical densities of the 90% acetone extract before and after acidification, V1 is the volume of",
+the extract and V2 is the sample volume that was filtered.,the extract and V2 is the sample volume that was filtered.,
+Primary Productivity,Primary Productivity,
+"At the end of a sampling day, four 100 ml subsamples per station are decanted from the two","At the end of a sampling day, four 100 ml subsamples per station are decanted from the two","At the end of a sampling day, four 100 ml subsamples per station are decanted from the two"
+surface-layer composite samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles,surface-layer composite samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles,
+"(or polycarbonate bottles after July, 1989), one for time-zero C14 blank (t0), one for alkalinity","(or polycarbonate bottles after July, 1989), one for time-zero C14 blank (t0), one for alkalinity",
+"determination, and one from each composite for C14 incubation. The two incubation samples per","determination, and one from each composite for C14 incubation. The two incubation samples per","determination, and one from each composite for C14 incubation. The two incubation samples per"
+station are placed in a constant light incubator (>250 uE per sq m per sec) receiving running-,station are placed in a constant light incubator (>250 uE per sq m per sec) receiving running-,
+water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of,water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of,water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of
+1-2 uCi labeled NaHCO3 is added and samples are returned to the incubator for >1 h. After,1-2 uCi labeled NaHCO3 is added and samples are returned to the incubator for >1 h. After,
+"incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter, rinsed with filtered","incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter, rinsed with filtered",
+sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and,sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and,sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and
+"fumed, immediately following the addition of the radioisotope. The filters are placed in","fumed, immediately following the addition of the radioisotope. The filters are placed in",
+scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94 and,scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94 and,
+Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard,Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard,Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard
+Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards and,Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards and,
+serviced twice a year by the Packard technician.,serviced twice a year by the Packard technician.,
+Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25,Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25,Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25
+mCi C14,NaCO3 stock solutions with pH of 10-10.2 de-ionized water. Final field stock,
+"activity approximates 2 uCi C14 per ml, determined from liquid scintillation counting of field","activity approximates 2 uCi C14 per ml, determined from liquid scintillation counting of field",
+stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded,stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded,stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded
+in a laboratory log and are assigned a date interval corresponding to the period that the field,in a laboratory log and are assigned a date interval corresponding to the period that the field,
+stock is employed in the program.,stock is employed in the program.,
+Carbon fixation rates [μgC*(L*h) -1 ] are calculated according to a formula in Strickland,Carbon fixation rates [μgC*(L*h) -1 ] are calculated according to a formula in Strickland,
+and Parsons (1972):,and Parsons (1972):,
+,mgC/ m3 / h = [(dpm1 - dpm0) * 1.05 * CA] / ( Rs/t1),
+where: dpm1= dpm of replicate 1 sub-sample,where: dpm1= dpm of replicate 1 sub-sample,
+,dpm0= dpm of time zero sub-sample,
+,V= volume of sub-sample filtered,
+,CA= carbonate alkalinity in mgC/m3,
+,Rs= total C14 dpm in 100 ml sample,
+,,17
+MD PHYTO QAPP,MD PHYTO QAPP,4/15/09
+t1= incubation time (hrs) for replicate 1 sub-sample,t1= incubation time (hrs) for replicate 1 sub-sample
+Chlorophyll-normalized rates will be determined from the ratio of the carbon fixation rate and,Chlorophyll-normalized rates will be determined from the ratio of the carbon fixation rate and
+chlorophyll a concentration from each composite sample.,chlorophyll a concentration from each composite sample.
+Routine wipe tests are conducted in order to assess radiation levels in the laboratories,Routine wipe tests are conducted in order to assess radiation levels in the laboratories
+where isotopes are used. The results of these tests are stored in a wipe log maintained by the,where isotopes are used. The results of these tests are stored in a wipe log maintained by the
+radiation safety officer. The liquid waste generated from the 14 C technique is neutralized by,radiation safety officer. The liquid waste generated from the 14 C technique is neutralized by
+acidification and disposed of down the drain. The solid waste is stored on site at MSUERC until,acidification and disposed of down the drain. The solid waste is stored on site at MSUERC until
+a sufficient quantity is generated whereupon it is removed and disposed of by a radiation safety,a sufficient quantity is generated whereupon it is removed and disposed of by a radiation safety
+company.,
+Phytoplankton Species Composition,
+Samples fixed with acid Lugol=s solution and subsequently preserved with buffered,Samples fixed with acid Lugol=s solution and subsequently preserved with buffered
+"formalin, are brought into the laboratory to prepare for counting. The sample preparation utilizes","formalin, are brought into the laboratory to prepare for counting. The sample preparation utilizes"
+"a gravitational settling technique (Utermohl, 1958). The sample bottle is gently inverted 10-12","a gravitational settling technique (Utermohl, 1958). The sample bottle is gently inverted 10-12"
+times and an appropriate aliquot is removed with a macropipette. This volume is generally,times and an appropriate aliquot is removed with a macropipette. This volume is generally
+"between 1-50 mls, depending upon the density of cells and amount of sediment and detritus in","between 1-50 mls, depending upon the density of cells and amount of sediment and detritus in"
+"the sample. The aliquot is transferred to a two-piece settling chamber which, if necessary, is","the sample. The aliquot is transferred to a two-piece settling chamber which, if necessary, is"
+topped off with distilled water. The settling chamber is capped and allowed to settle for an,topped off with distilled water. The settling chamber is capped and allowed to settle for an
+"appropriate time (1-48 hrs). Upon settling, the upper portion of the chamber is removed and","appropriate time (1-48 hrs). Upon settling, the upper portion of the chamber is removed and"
+replaced with a glass plate. The sample is then transferred to a Leitz Diavert inverted,replaced with a glass plate. The sample is then transferred to a Leitz Diavert inverted
+microscope (condenser numerical aperture 0.70/L4; objectives 40X/0.70 and 25X/0.50; oculars,microscope (condenser numerical aperture 0.70/L4; objectives 40X/0.70 and 25X/0.50; oculars
+12.5X/18M) with phase contrast optics.,
+"Until 2005, the sample is initially enumerated at 500X using a random fields technique","Until 2005, the sample is initially enumerated at 500X using a random fields technique"
+"(Venrick, 1978). A minimum of twenty random fields and 200 individual cells are enumerated.","(Venrick, 1978). A minimum of twenty random fields and 200 individual cells are enumerated."
+Additional fields are counted until the minimum count is attained. When there are a large,Additional fields are counted until the minimum count is attained. When there are a large
+"number of cells of a particular taxon in a sample, fewer than twenty random fields are","number of cells of a particular taxon in a sample, fewer than twenty random fields are"
+enumerated with a minimum of 5 random fields examined for this taxon. Individual cells are,enumerated with a minimum of 5 random fields examined for this taxon. Individual cells are
+"enumerated, whether in chains, filaments or colonies.",This allows for a more accurate estimate
+of biomass which is determined from the cell densities. Upon achieving twenty random fields,of biomass which is determined from the cell densities. Upon achieving twenty random fields
+"and 200 individual cells, a low magnification scan (312.5X) of 20 random fields is used to","and 200 individual cells, a low magnification scan (312.5X) of 20 random fields is used to"
+"estimate the rarer, larger forms within the sample.",
+"Beginning in 2005, the following enumeration technique was instituted:","Beginning in 2005, the following enumeration technique was instituted:"
+"(1) At 312X magnification, a minimum of ten random fields and 200 cells of taxa > 10","(1) At 312X magnification, a minimum of ten random fields and 200 cells of taxa > 10"
+"microns in largest dimension will be counted. If 200 cells are not tallied in 10 fields,","microns in largest dimension will be counted. If 200 cells are not tallied in 10 fields,"
+cells in additional fields will be enumerated until 200 cells have been enumerated.,cells in additional fields will be enumerated until 200 cells have been enumerated.
+"(2) At 500X magnification, twenty random fields will be counted for taxa 
+    ","(2) At 500X magnification, twenty random fields will be counted for taxa 
+    "
+,18
+MD PHYTO QAPP,4/15/09
+in largest dimension.,
+"(3) At 125X magnification, the entire chamber will be scanned for taxa which were not","(3) At 125X magnification, the entire chamber will be scanned for taxa which were not"
+enumerated at the other two magnifications.,
+"The sample enumeration is carried out with the assistance of a computer program,",
+whereby the sample is counted directly onto a computer which in turn transforms the raw counts,whereby the sample is counted directly onto a computer which in turn transforms the raw counts
+"into normalized counts (#/l), sums the total density in the sample and provides a summary of",
+phylogenetic densities. A subsequent program is run on the sample which transforms the,
+"individual taxa cell densities into a carbon equivalent, provides a total carbon value for the",
+sample and phylogenetic summaries of carbon. The carbon program is based on carbon values,sample and phylogenetic summaries of carbon. The carbon program is based on carbon values
+which have been calculated by mean cell dimensions and conversion equations for different,
+"taxonomic groups (Strathmann, 1970; Smayda, 1978). These phytoplankton biomass data are",
+"not part of the routine deliverable of this program, but EPA-CBP converts the abundance data to","not part of the routine deliverable of this program, but EPA-CBP converts the abundance data to"
+carbon for use in the Phytoplankton Index of Biotic Integrity.,
+Autotrophic Picoplankton,
+The field samples are returned to the lab and held in a refrigerator (40 C) until processing,The field samples are returned to the lab and held in a refrigerator (40 C) until processing
+"begins (no longer than 7 days). Using a 25-mm millipore filtration apparatus, a 0.45 μm backing","begins (no longer than 7 days). Using a 25-mm millipore filtration apparatus, a 0.45 μm backing"
+filter is placed on the filter holder and moistened with distilled water. A 0.2 μm Irgalan black-,filter is placed on the filter holder and moistened with distilled water. A 0.2 μm Irgalan black-
+stained nucleopore filter is placed on top of the backing filter and the filter chimney attached to,stained nucleopore filter is placed on top of the backing filter and the filter chimney attached to
+the base. An appropriate volume of sample water (generally 1-2 ml) is placed in the chimney,
+and filtered at a low vacuum pressure (~ 5 kPa). The chimney is rinsed with DI water before the,and filtered at a low vacuum pressure (~ 5 kPa). The chimney is rinsed with DI water before the
+nucleopore filter is removed from the base and placed in the center of a glass microscope slide,
+that has been moistened with breath condensation. A drop of immersion oil is placed in the,
+center of the filter and a cover slip is placed on top of the filter. The slide is gently tamped with,center of the filter and a cover slip is placed on top of the filter. The slide is gently tamped with
+a paper towel and either examined immediately or placed in a slide box in a freezer until,
+microscopic inspection occurs (no more than two weeks holding time).,
+The glass slide holding the sample filter is placed on a Leitz Laborlux compound,
+microscope outfitted with a 50-W mercury bulb and inspected at a magnification of 1250X. The,microscope outfitted with a 50-W mercury bulb and inspected at a magnification of 1250X. The
+autofluorescence characteristics of the phototrophic picoplankton cells are detected by using two,autofluorescence characteristics of the phototrophic picoplankton cells are detected by using two
+different filter sets - one with an excitation wavelength of 450-490 nm which excites the,
+chlorophyll a and type I phycoerythrins (common to the dominant group of picoplankton -,
+"cyanobacteria), the other a yellow-green wavelength of 520-560 nm which illuminates the type II","cyanobacteria), the other a yellow-green wavelength of 520-560 nm which illuminates the type II"
+phycoerythrins and the phycocyanins. A minimum of 200 cells and 20 random fields will be,
+"counted. These counts will supplement the Utermohl counts of the nano- and microplankton,",
+"and since ANSERC does not attempt to enumerate picoplankton with the Utermohl technique,",
+there will be no replication of cells counted by the two techniques.,
+Quality Control,
+,19
+MD PHYTO QAPP,4/15/09
+Chlorophyll a,
+Quarterly blind audits are run on discrete chlorophyll samples between seven different,Quarterly blind audits are run on discrete chlorophyll samples between seven different
+laboratories that participate in the Monitoring Program. The results of these comparative tests,laboratories that participate in the Monitoring Program. The results of these comparative tests
+are distributed amongst the labs and to the EPA-CBP. Interlab tests are done every several years,are distributed amongst the labs and to the EPA-CBP. Interlab tests are done every several years
+by using chlorophyll standards and testing MSUERC results to these standards. If the calculated,by using chlorophyll standards and testing MSUERC results to these standards. If the calculated
+"chlorophylls are > ±25% of the standards, the test is re-run. If the results remain skewed, the","chlorophylls are > ±25% of the standards, the test is re-run. If the results remain skewed, the"
+analytical procedure is examined through each step in order to determine the source of the,analytical procedure is examined through each step in order to determine the source of the
+discrepancy. These results are maintained in a logbook by the Project Quality Assurance,discrepancy. These results are maintained in a logbook by the Project Quality Assurance
+Officer.,
+Primary Productivity,
+Measures of primary productivity (carbon fixation) are carried out on two composite,Measures of primary productivity (carbon fixation) are carried out on two composite
+samples/station. These samples are not duplicates as some variability exists related to spatial,samples/station. These samples are not duplicates as some variability exists related to spatial
+variability of phytoplankton assemblages (patchiness). The samples are ‘normalized’ based,variability of phytoplankton assemblages (patchiness). The samples are ‘normalized’ based
+upon the phytoplankton biomass (chlorophyll a concentration) measured directly from each,upon the phytoplankton biomass (chlorophyll a concentration) measured directly from each
+sample. This normalized value is the assimilation ratio of the sample. In the event that the,sample. This normalized value is the assimilation ratio of the sample. In the event that the
+"assimilation ratio of the two samples differs by more than 50%, the data are flagged within the","assimilation ratio of the two samples differs by more than 50%, the data are flagged within the"
+data set in order to alert data users that there is a possible problem with these data.,data set in order to alert data users that there is a possible problem with these data.
+A QA/QC split sample comparison was made with ODU’s primary productivity lab in 2002.,A QA/QC split sample comparison was made with ODU’s primary productivity lab in 2002.
+The results of this split sample effort indicated a bias between the two labs that was partially,The results of this split sample effort indicated a bias between the two labs that was partially
+attributed to differences in protocols in determining carbon fixation rates. A report is on file that,attributed to differences in protocols in determining carbon fixation rates. A report is on file that
+documents the results of this comparison (White Paper on Maryland vs Virginia Measurements,documents the results of this comparison (White Paper on Maryland vs Virginia Measurements
+"of Primary Production- Submitted to EPA-CBP by Claire Buchanan - July 30, 2002.)","of Primary Production- Submitted to EPA-CBP by Claire Buchanan - July 30, 2002.)"
+Phytoplankton Species Composition,
+Quality assurance counts are enumerated for 5% of the total number of samples. The QA,Quality assurance counts are enumerated for 5% of the total number of samples. The QA
+sample must have a total density and dominant taxa densities within 80% of the original count,sample must have a total density and dominant taxa densities within 80% of the original count
+(80% is dictated by the precision calculated for the counting protocol). If the recount sample,(80% is dictated by the precision calculated for the counting protocol). If the recount sample
+"does not meet these criteria, the sample is re-counted until the densities compare within the 80%","does not meet these criteria, the sample is re-counted until the densities compare within the 80%"
+guidelines and these new values are thereby reported. The computer print-outs of the quality,guidelines and these new values are thereby reported. The computer print-outs of the quality
+assurance counts and the original counts are maintained in a binder kept in the microscope,assurance counts and the original counts are maintained in a binder kept in the microscope
+laboratory at ANSERC. Quality control counts will also be done between ANSERC and the VA,laboratory at ANSERC. Quality control counts will also be done between ANSERC and the VA
+"phytoplankton monitoring program at ODU. During the course of the year, four fixed samples","phytoplankton monitoring program at ODU. During the course of the year, four fixed samples"
+will be exchanged between the two laboratories. These samples will be collected and,will be exchanged between the two laboratories. These samples will be collected and
+enumerated using the protocol specified by each laboratory for the routine processing of,enumerated using the protocol specified by each laboratory for the routine processing of
+phytoplankton samples for the Chesapeake Bay Water Quality Monitoring Program. The results,phytoplankton samples for the Chesapeake Bay Water Quality Monitoring Program. The results
+of the initial QA/QC split sampling between the states identified several discrepancies in,of the initial QA/QC split sampling between the states identified several discrepancies in
+"taxonomic identifications (Seaborn et. al., 1999). Subsequent split sample analyses between the","taxonomic identifications (Seaborn et. al., 1999). Subsequent split sample analyses between the"
+two states have uncovered other discrepancies which have resulted in specific changes aimed at,two states have uncovered other discrepancies which have resulted in specific changes aimed at
+making the data more comparable for the two phytoplankton laboratories.,
+,20
+MD PHYTO QAPP,4/15/09
+Autotrophic Picoplankton,
+Quality assurance counts are enumerated for 10% of the total number of samples. The,Quality assurance counts are enumerated for 10% of the total number of samples. The
+QA sample must have a total density within 80% of the original count. The sample is re-counted,QA sample must have a total density within 80% of the original count. The sample is re-counted
+until the densities compare within the 80% guidelines and these new values are thereby reported.,until the densities compare within the 80% guidelines and these new values are thereby reported.
+"Instrument/Equipment Testing, Inspection, Maintenance and Calibration",
+Microscopes and light meters are inspected and maintained on an annual basis.,
+"Technicians from an optical company come to the laboratory annually to inspect, clean and align","Technicians from an optical company come to the laboratory annually to inspect, clean and align"
+the microscopes. This allows for the maintenance of consistently high optical quality in the,
+microscopes which are used in the Phytoplankton Monitoring Program. The underwater light,
+meters and deck cells are sent back to Li-Cor Corp. annually for inspection and calibration. The,meters and deck cells are sent back to Li-Cor Corp. annually for inspection and calibration. The
+three meters are periodically tested against one another to test for potential drift between,
+"calibrations. If there is significant drift in a unit (>20%), it is returned to the manufacturer for",
+re-calibration.,
+The performance of the spectrophotometer used in chlorophyll a analysis is tested,
+indirectly during the QA tests run on the chlorophyll protocol. If there is discrepancy in,
+"chlorophyll concentrations during inter or intralab QA efforts, the instrument is one of the",
+variables which is tested for causing the discrepancy. The interlab QA test for chlorophyll a,
+involves use of a chlorophyll standard which acts as a test of the accuracy of the,
+spectrophotometer.,
+The fluorometers (3) are tested against one another annually and calibrated to give,
+readings which are within 10% of one another. The in vivo fluorescence data which is converted,readings which are within 10% of one another. The in vivo fluorescence data which is converted
+to chlorophyll a concentrations is somewhat of a relative measure since the IVF data is regressed,to chlorophyll a concentrations is somewhat of a relative measure since the IVF data is regressed
+against discrete chlorophyll concentrations. The resulting transformed IVF data rely on the,
+chlorophyll a concentrations to provide their accuracies.,
+Inspection/Acceptance of Supplies and Consumables,
+The Project QA Officer is responsible for inspecting and accepting supplies and,
+consumables for the MD Phytoplankton Monitoring Program. These responsibilities include,
+"inspecting reagents, chemicals, filters, sample bottles and other supplies for compatibility with","inspecting reagents, chemicals, filters, sample bottles and other supplies for compatibility with"
+"those previously, dating chemicals and reagents relative to their delivery dates, and assuring that","those previously, dating chemicals and reagents relative to their delivery dates, and assuring that"
+"proper data storage devices are used in the project. In addition, de-ionized (DI) water which is","proper data storage devices are used in the project. In addition, de-ionized (DI) water which is"
+used for phytoplankton sample dilution during the taxonomic analyses is microscopically,
+examined for contaminants. This is done in addition to routine servicing of the de-ionized water,examined for contaminants. This is done in addition to routine servicing of the de-ionized water
+system at MSUERC by the company which installed the DI water system.,
+Non-direct Measurements,
+The Phytoplankton Monitoring Program has developed a carbon data set which results,
+,21
+MD PHYTO QAPP,4/15/09
+from converting the phytoplankton species composition data set from a measure of cell densities,from converting the phytoplankton species composition data set from a measure of cell densities
+"to one of cell carbon concentrations. More specifically, every phytoplankton taxon used by the","to one of cell carbon concentrations. More specifically, every phytoplankton taxon used by the"
+project has been assigned a specific carbon value. This carbon value has been calculated based,project has been assigned a specific carbon value. This carbon value has been calculated based
+on cell volume which is applied to one of two conversion equations in order to generate a carbon,on cell volume which is applied to one of two conversion equations in order to generate a carbon
+measure. The cell volume is calculated by applying either directly measured cell dimensions or,measure. The cell volume is calculated by applying either directly measured cell dimensions or
+dimensions taken from the literature for rarer forms to the appropriate geometric volume,
+equation. Those generated from direct cell measurements are based upon the measurements of,equation. Those generated from direct cell measurements are based upon the measurements of
+twenty individual cells taken from samples collected at different times of the year. Those,
+generated from literature cell dimensions use a mean value for specific dimensions based upon a,generated from literature cell dimensions use a mean value for specific dimensions based upon a
+mean range of dimensions from various taxonomic keys.,
+The carbon list used by the Phytoplankton Monitoring Program has been compared to,
+other lists which have been generated by other researchers and modifications to the Chesapeake,other lists which have been generated by other researchers and modifications to the Chesapeake
+Bay Phytoplankton Carbon List have been made as a result of these comparisons.,
+Data Management,
+The data generated by the MD Phytoplankton Monitoring Program is under the control of,The data generated by the MD Phytoplankton Monitoring Program is under the control of
+the Data Coordinator. The data undergoes a series of electronic QA checks and is followed up,the Data Coordinator. The data undergoes a series of electronic QA checks and is followed up
+"by a series of proofing steps by the Data Coordinator, Phytoplankton Taxonomy QA Officer and","by a series of proofing steps by the Data Coordinator, Phytoplankton Taxonomy QA Officer and"
+ultimately by the project PI.,
+The first step in this process is the inspection of raw data which is entered either,
+automatically electronically through software programs (IVF data) or by individual technicians,automatically electronically through software programs (IVF data) or by individual technicians
+"with the assistance of software programs (phytoplankton taxonomy, light attenuation and",
+primary productivity data). These raw data which are in an ASCII format are checked by,
+"specific software programs for formatting, omissions, and logic (within specific error ranges).",
+These raw data sets are subsequently inspected by the appropriate personnel (i.e. taxonomist for,These raw data sets are subsequently inspected by the appropriate personnel (i.e. taxonomist for
+"phytoplankton data, field technician for data collected in the field) for accuracy,",
+comprehensiveness and proper formatting. After making any necessary edits to the raw data,
+"sets, they are run through another series of software programs which convert them to a final",
+ASCII data set. Another series of electronic and visual proofing steps are made by the,
+appropriate software programs and personnel. Specific edits are documented on the hardcopies,appropriate software programs and personnel. Specific edits are documented on the hardcopies
+used for visual inspection of the data. These final ASCII data sets are then proofed by the,
+"Principal Investigator for logic (data within error ranges), formatting and comprehensiveness.",
+These final ASCII data sets are then electronically converted to SAS data sets by software,
+"programs. A series of check programs is run on these SAS data sets to check for data ranges,",
+comprehensiveness and formatting. Any error messages are addressed by the Data Coordinator,comprehensiveness and formatting. Any error messages are addressed by the Data Coordinator
+of the project. The final SAS data sets are then visually inspected by the Principal Investigator,of the project. The final SAS data sets are then visually inspected by the Principal Investigator
+"for logic, comprehensiveness and accuracy. During each step of this process, the person running","for logic, comprehensiveness and accuracy. During each step of this process, the person running"
+"the electronic QA programs and those doing the visual proofing of the data, sign off and date the","the electronic QA programs and those doing the visual proofing of the data, sign off and date the"
+completion and results of their work.,
+The format of the final SAS data sets which are submitted to MDDNR and EPA-CBP,
+data managers is a prescribed EPA data format that contains all of the necessary header,
+"information, qualifiers, personnel descriptors, sampling site descriptors and other data",
+,22
+MD PHYTO QAPP,4/15/09
+documentation. This prescribed format allows for these data to be transferred to an EPA-CBP,documentation. This prescribed format allows for these data to be transferred to an EPA-CBP
+data hub for all of the data collected in the Chesapeake Bay Water Quality Monitoring Program.,data hub for all of the data collected in the Chesapeake Bay Water Quality Monitoring Program.
+Assessments and Response Actions,
+The chlorophyll a and phytoplankton taxonomy components of the Phytoplankton,
+Monitoring Program have regular QA assessments. The chlorophyll a component is part of a,Monitoring Program have regular QA assessments. The chlorophyll a component is part of a
+blind audit program which takes place quarterly. This audit is conducted by the EPA-CBP,
+Analytical Methods and Quality Assurance Workgroup. This audit includes results from eight,Analytical Methods and Quality Assurance Workgroup. This audit includes results from eight
+different laboratories. A summary report is produced with the results for each blind audit and,different laboratories. A summary report is produced with the results for each blind audit and
+this report is distributed amongst the various participants. The phytoplankton taxonomy,
+component utilizes a split sample assessment in conjunction with the VA Phytoplankton,
+Monitoring Program under the auspices of the EPA-CBP Quality Assurance Officer. This split,Monitoring Program under the auspices of the EPA-CBP Quality Assurance Officer. This split
+sample assessment is conducted annually and the focus and design change from year to year.,
+The results of this assessment are presented at a meeting of the two phytoplankton laboratories,The results of this assessment are presented at a meeting of the two phytoplankton laboratories
+"(MSUERC and Old Dominion University) in association with MDDNR, VADEQ and EPA-CBP","(MSUERC and Old Dominion University) in association with MDDNR, VADEQ and EPA-CBP"
+"personnel. Following this meeting, a report is produced which documents and interprets the",
+results of the split sample assessment. This report includes recommendations for improving the,results of the split sample assessment. This report includes recommendations for improving the
+precision of the two laboratories taxonomic enumeration techniques and for the focus of the,
+following year’s assessment. The EPA-CBP addresses the recommendations made in this report,following year’s assessment. The EPA-CBP addresses the recommendations made in this report
+and dictates specific changes to the protocol when necessary. Within The MD Phytoplankton,and dictates specific changes to the protocol when necessary. Within The MD Phytoplankton
+"Monitoring Program, 5% of taxonomy samples are re-counted. The recounts must fall within","Monitoring Program, 5% of taxonomy samples are re-counted. The recounts must fall within"
+80% of the original count for total density and for the 2-3 dominant taxa. If these criteria are not,80% of the original count for total density and for the 2-3 dominant taxa. If these criteria are not
+"met, the sample is recounted until they are realized.",
+Reports to Management,
+Quarterly progress reports are delivered electronically to MDDNR. These reports,
+"document the progress which is made in sample collection, sample processing, data management","document the progress which is made in sample collection, sample processing, data management"
+"tasks, professional meetings attended and any problems which may have occurred with any of","tasks, professional meetings attended and any problems which may have occurred with any of"
+"these tasks (i.e. samples that were not collected, problems with typical laboratory protocols). In","these tasks (i.e. samples that were not collected, problems with typical laboratory protocols). In"
+"addition, the bi-annual data deliveries require that an updated data dictionary be submitted that","addition, the bi-annual data deliveries require that an updated data dictionary be submitted that"
+"documents any issues which occur with field, laboratory, analytical or data management",
+protocols. This information ultimately ends up being displayed in the EPA-CBP data hub as,
+either flagged data or as information displayed in the data dictionary/QAPP.,
+"Data Review, Verification and Validation",
+The chlorophyll data is generated from a linear regression of discrete chlorophyll sample,The chlorophyll data is generated from a linear regression of discrete chlorophyll sample
+"concentrations and associated in vivo fluorescence values. Generally, the r-square value of the","concentrations and associated in vivo fluorescence values. Generally, the r-square value of the"
+regression must exceed a value of 0.8. When this criterion is not met the individual data points,regression must exceed a value of 0.8. When this criterion is not met the individual data points
+are inspected and aberrant outliers are considered for omission from the regression data set.,
+,23
+MD PHYTO QAPP,4/15/09
+"Once the regression is accepted, the chlorophyll a values which result are inspected for logic and","Once the regression is accepted, the chlorophyll a values which result are inspected for logic and"
+values which appear to fall out of the logical range are compared to chlorophyll data which is,values which appear to fall out of the logical range are compared to chlorophyll data which is
+collected simultaneously by MDDNR staff. The extreme result of this comparison is to,collected simultaneously by MDDNR staff. The extreme result of this comparison is to
+substitute the MDDNR chlorophyll data for the MSUERC data which entails the calculation of a,substitute the MDDNR chlorophyll data for the MSUERC data which entails the calculation of a
+new linear regression in order to convert the IVF data to chlorophyll.,new linear regression in order to convert the IVF data to chlorophyll.
+The primary productivity data which is collected as two composite samples from the,The primary productivity data which is collected as two composite samples from the
+upper half of the water column is checked for comparability and logic. The logic criterion is,upper half of the water column is checked for comparability and logic. The logic criterion is
+based upon the amount of carbon fixation relative to the chlorophyll a concentration for that,based upon the amount of carbon fixation relative to the chlorophyll a concentration for that
+composite sample (a specific discrete chlorophyll a sample is analyzed for each composite,composite sample (a specific discrete chlorophyll a sample is analyzed for each composite
+sample). The resulting ratio of carbon fixation : chlorophyll a is termed the assimilation ratio.,sample). The resulting ratio of carbon fixation : chlorophyll a is termed the assimilation ratio.
+There are typical ranges of the assimilation ratio for different seasons and salinity regimes. For,There are typical ranges of the assimilation ratio for different seasons and salinity regimes. For
+the instances when the assimilation ratio falls outside of these ranges the data is flagged and,the instances when the assimilation ratio falls outside of these ranges the data is flagged and
+inspected for error (either the carbon fixation or the chlorophyll data is likely to be in error).,inspected for error (either the carbon fixation or the chlorophyll data is likely to be in error).
+Another means of verifying the primary productivity data is comparing the time zero sample to,Another means of verifying the primary productivity data is comparing the time zero sample to
+the samples which incubate for ≥ one hour. This comparison will indicate a sample which was,the samples which incubate for ≥ one hour. This comparison will indicate a sample which was
+not spiked with 14 –carbon or one in which the 14- carbon had lost its activity (this occurs when,not spiked with 14 –carbon or one in which the 14- carbon had lost its activity (this occurs when
+an ampoule is not properly sealed and is exposed to the air prior to its use). On occasions when,an ampoule is not properly sealed and is exposed to the air prior to its use). On occasions when
+this is detected the carbon fixation data is deleted from the data set.,this is detected the carbon fixation data is deleted from the data set.
+The phytoplankton taxonomic data is generated by manually entering counts (raw counts),The phytoplankton taxonomic data is generated by manually entering counts (raw counts)
+into a software program which converts these data into normalized counts (# cells/liter). The,into a software program which converts these data into normalized counts (# cells/liter). The
+taxonomist has the ability to alter raw counts before the sample is completed. There is no way to,taxonomist has the ability to alter raw counts before the sample is completed. There is no way to
+proof the raw counts since they are entered directly into the program rather than transferred from,proof the raw counts since they are entered directly into the program rather than transferred from
+"a clicker or data sheet tally into the program. Upon completion of the sample, the taxonomist","a clicker or data sheet tally into the program. Upon completion of the sample, the taxonomist"
+inspects the data sheet which is produced by the software program for any errors. The errors,inspects the data sheet which is produced by the software program for any errors. The errors
+which are detected at this point would be incorrect species codes or some of the header,which are detected at this point would be incorrect species codes or some of the header
+"information for the sample (station, date, volume settled, fields counted). When these types of","information for the sample (station, date, volume settled, fields counted). When these types of"
+errors are detected the sample is re-entered with the correct information.,errors are detected the sample is re-entered with the correct information.
+"The chain-of-custody for data review, validation and verification begins with the","The chain-of-custody for data review, validation and verification begins with the"
+individual who creates the data (lab technician/research assistant/field technician) initially,individual who creates the data (lab technician/research assistant/field technician) initially
+"reviewing the data. In the event of suspicious data, the technician confers with the Data","reviewing the data. In the event of suspicious data, the technician confers with the Data"
+Coordinator and the Principal Investigator in order to determine the necessary action. The,Coordinator and the Principal Investigator in order to determine the necessary action. The
+necessary assessment is made followed by the appropriate response action. The suspicious data,necessary assessment is made followed by the appropriate response action. The suspicious data
+"is either accepted, altered or deleted. There are also instances whereby data is altered or deleted","is either accepted, altered or deleted. There are also instances whereby data is altered or deleted"
+during the proofing stages of data verification. This can only occur with the approval of the,during the proofing stages of data verification. This can only occur with the approval of the
+"Principal Investigator. In the case of data which is altered or deleted, documentation of these","Principal Investigator. In the case of data which is altered or deleted, documentation of these"
+actions takes place in the data dictionary which is delivered to EPA-CBP with each bi-annual,actions takes place in the data dictionary which is delivered to EPA-CBP with each bi-annual
+data delivery.,
+REFERENCES,
+"Affronti, L.F. and H.G. Marshall. 1994. Using frequency of dividing cells in estimating","Affronti, L.F. and H.G. Marshall. 1994. Using frequency of dividing cells in estimating"
+,24
+MD PHYTO QAPP,4/15/09
+autotrophic picoplankton growth and productivity in the Chesapeake Bay. Hydrobiologia 284:,autotrophic picoplankton growth and productivity in the Chesapeake Bay. Hydrobiologia 284:
+193-203.,
+"Falkenhayn, C.J. 1990. Growth rate and grazing dynamics of coccoid cyanobacteria in","Falkenhayn, C.J. 1990. Growth rate and grazing dynamics of coccoid cyanobacteria in"
+"the lower Chesapeake Bay. Unpubl. M.A. Thesis, School of Marine Science, College of William","the lower Chesapeake Bay. Unpubl. M.A. Thesis, School of Marine Science, College of William"
+"and Mary, Williamsburg, VA",
+"Keefe, C.W., W.R. Boynton and W.M. Kemp. 1981. A review of Phytoplankton","Keefe, C.W., W.R. Boynton and W.M. Kemp. 1981. A review of Phytoplankton"
+"processes in estuarine environments. UMCEES Ref. 81-193 CBL. University of Maryland,","processes in estuarine environments. UMCEES Ref. 81-193 CBL. University of Maryland,"
+"Solomons, MD. 4 pp.",
+"Lacouture, R.V., B.B. Wagoner, E. Nealley and K.G. Sellner. 1990. Dynamics of the","Lacouture, R.V., B.B. Wagoner, E. Nealley and K.G. Sellner. 1990. Dynamics of the"
+microbial food web in the Patuxent River: Autotrophic picoplankton. In: (eds. J.A. Mihursky,microbial food web in the Patuxent River: Autotrophic picoplankton. In: (eds. J.A. Mihursky
+and A. Chaney) New Perspectives in the Chesapeake System: A Research and Management,and A. Chaney) New Perspectives in the Chesapeake System: A Research and Management
+"Partnership. Chesapeake Research Consortium Publication # 137. Solomons, MD","Partnership. Chesapeake Research Consortium Publication # 137. Solomons, MD"
+"Marshall, H.G. and K.K. Nesius. 1996. Phytoplankton composition in relation to","Marshall, H.G. and K.K. Nesius. 1996. Phytoplankton composition in relation to"
+primary production in Chesapeake Bay. Mar. Biol. 125: 611-617.,primary production in Chesapeake Bay. Mar. Biol. 125: 611-617.
+"Ray, R.T., L.W. Haas and M.E. Sieracki. 1989. Autotrophic picoplankton dynamics in a","Ray, R.T., L.W. Haas and M.E. Sieracki. 1989. Autotrophic picoplankton dynamics in a"
+Chesapeake Bay sub-estuary. Mar. Ecol. Prog. Ser.,
+"Seaborn, D.W, H.G.Marshall and R.V. Lacouture. 1999. A review of split sample","Seaborn, D.W, H.G.Marshall and R.V. Lacouture. 1999. A review of split sample"
+results regarding phytoplankton composition and abundance in samples examined by Old,results regarding phytoplankton composition and abundance in samples examined by Old
+Dominion University and the Academy of Natural Sciences Estuarine Research Center.,Dominion University and the Academy of Natural Sciences Estuarine Research Center.
+Interstate Commission on the Potomac River Basin. 6 pp.,Interstate Commission on the Potomac River Basin. 6 pp.
+"Smayda, T.J., 1978 in Phytoplankton Manual ed. A. Sournia. From phytoplankters to","Smayda, T.J., 1978 in Phytoplankton Manual ed. A. Sournia. From phytoplankters to"
+biomass. UNESCO Monographs on oceanographic methodology 6. Paris. p.273-279.,biomass. UNESCO Monographs on oceanographic methodology 6. Paris. p.273-279.
+"Standard Methods for the Examination of Water and Wastewater. Sixteenth Edition.,","Standard Methods for the Examination of Water and Wastewater. Sixteenth Edition.,"
+"1985. APHA, AWWA and WPCF. Washington, D.C. 1268 pp.","1985. APHA, AWWA and WPCF. Washington, D.C. 1268 pp."
+"Strathmann, R. R., 1967. Estimating the organic carbon content of phytoplankton from","Strathmann, R. R., 1967. Estimating the organic carbon content of phytoplankton from"
+"cell volume or plasma volume. Limnol. Oceanogr., vol.12, no.3, p.411-418.","cell volume or plasma volume. Limnol. Oceanogr., vol.12, no.3, p.411-418."
+"Strickland, J.D.H. and T.R. Parsons. 1972. A practical handbook of seawater analysis.","Strickland, J.D.H. and T.R. Parsons. 1972. A practical handbook of seawater analysis."
+"Fisheries Res. Bd. Canada Bull. 167, Ottawa. 310 pp.",
+"Utermohl, H., 1931. Neue Wege in der quantitativen Erfassung des Planktons (mit","Utermohl, H., 1931. Neue Wege in der quantitativen Erfassung des Planktons (mit"
+"besonderer Berucksichtigung des Ultraplanktons). Verh. Int. Ver. Thoer. Angew. Limnol., vol.","besonderer Berucksichtigung des Ultraplanktons). Verh. Int. Ver. Thoer. Angew. Limnol., vol."
+"5, no. 2, p. 567-596.",
+,25
+MD PHYTO QAPP,4/15/09
+"Venrick, E.L. 1978. How many cells to count? Pages 167-180 in A. Sournia (ed.),",
+"Phytoplankton manual. UNESCO, Paris.",
+,APPENDIX A
+CHANGES MADE to the MD PHYTOPLANKTON MONITORING PROGRAM 1985-2008,CHANGES MADE to the MD PHYTOPLANKTON MONITORING PROGRAM 1985-2008
+IVF/ Chlorophyll a,
+Field,
+Fluorescence data were collected at stations in the Chesapeake Bay and Bay tributaries,Fluorescence data were collected at stations in the Chesapeake Bay and Bay tributaries
+(vertical profiles) and between stations in Chesapeake Bay and the Patuxent River (horizontal,
+"transects) as a part of the Chesapeake Bay Water Quality Monitoring Program. Prior to 1996,",
+data were collected 18 times over the course of the year; monthly from October - March and,
+twice monthly from April - September (with the exception of the Choptank River stations and,
+"the station in Baltimore Harbor, which were not sampled in January and February). Beginning","the station in Baltimore Harbor, which were not sampled in January and February). Beginning"
+"in January, 1996, the Patuxent River was the only sampling done in January, there was no",
+"sampling done in February and November, and only one sampling cruise in June and September.","sampling done in February and November, and only one sampling cruise in June and September."
+Mainstem sampling in January was reinstituted in 1999-2002 and then discontinued again in,
+"2003. The outer station of the Patuxent cruise, XCG8613, was dropped from the sampling",
+"scheme beginning in March, 1992. A deviation in the normal cruise track of the Main Bay",
+"cruises occurred between April, 1994 and December, 1995 in that MDDNR added two extra",
+stations between MCB3.1 and MCB2.2. The two extra stations were only sampled by MDDNR.,stations between MCB3.1 and MCB2.2. The two extra stations were only sampled by MDDNR.
+The horizontal fluorescence program was paused during MDDNR sampling at these stations. On,The horizontal fluorescence program was paused during MDDNR sampling at these stations. On
+"May 9 2005, the Patuxent River was sampled as usual. However, the data was unrecoverable",
+,26
+MD PHYTO QAPP,4/15/09
+"from the disk to which it had been saved. On May 24, 2006 and June 19, 2006, the Chesapeake","from the disk to which it had been saved. On May 24, 2006 and June 19, 2006, the Chesapeake","from the disk to which it had been saved. On May 24, 2006 and June 19, 2006, the Chesapeake"
+"Bay was sampled as usual. However, some of the data was unrecoverable from the disk to which","Bay was sampled as usual. However, some of the data was unrecoverable from the disk to which","Bay was sampled as usual. However, some of the data was unrecoverable from the disk to which"
+it had been saved.,,
+"For the period 1991-1993, the chlorophyll data in the vertical profiles from the tributaries","For the period 1991-1993, the chlorophyll data in the vertical profiles from the tributaries","For the period 1991-1993, the chlorophyll data in the vertical profiles from the tributaries"
+"(Potomac, Choptank and Patapsco) was miscalculated as we subtracted the blank of the","(Potomac, Choptank and Patapsco) was miscalculated as we subtracted the blank of the","(Potomac, Choptank and Patapsco) was miscalculated as we subtracted the blank of the"
+dissolved fraction twice from each sample. This mistake was realized and those data have been,dissolved fraction twice from each sample. This mistake was realized and those data have been,dissolved fraction twice from each sample. This mistake was realized and those data have been
+corrected as of the 4/15/95 data submittal. The implication of this mistake was also reflected in,corrected as of the 4/15/95 data submittal. The implication of this mistake was also reflected in,corrected as of the 4/15/95 data submittal. The implication of this mistake was also reflected in
+the productivity data set since assimilation ratios are calculated as part of this program.,the productivity data set since assimilation ratios are calculated as part of this program.,the productivity data set since assimilation ratios are calculated as part of this program.
+In vivo fluorescence (IVF) is measured on a Turner Designs Model 10000,In vivo fluorescence (IVF) is measured on a Turner Designs Model 10000,In vivo fluorescence (IVF) is measured on a Turner Designs Model 10000
+"fluorometer and beginning in June of 1996, a Turner Designs Model 10-AU-005 was used for","fluorometer and beginning in June of 1996, a Turner Designs Model 10-AU-005 was used for","fluorometer and beginning in June of 1996, a Turner Designs Model 10-AU-005 was used for"
+"some of the tributary stations. Beginning in March, 1999, a Turner Designs Model 10-AU-005","some of the tributary stations. Beginning in March, 1999, a Turner Designs Model 10-AU-005","some of the tributary stations. Beginning in March, 1999, a Turner Designs Model 10-AU-005"
+was used for all stations.,was used for all stations.,
+Lab,,
+"Generally, a volume between 100-500 ml is filtered at 
+    ","Generally, a volume between 100-500 ml is filtered at 
+    ","Generally, a volume between 100-500 ml is filtered at 
+    "
+Whatman GF/F filters with ~ 10 drops of MgCO3 added just prior to completion of filtration.,Whatman GF/F filters with ~ 10 drops of MgCO3 added just prior to completion of filtration.,Whatman GF/F filters with ~ 10 drops of MgCO3 added just prior to completion of filtration.
+The chlorophyll is extracted from each sample in 90% acetone using a grinding technique,The chlorophyll is extracted from each sample in 90% acetone using a grinding technique,The chlorophyll is extracted from each sample in 90% acetone using a grinding technique
+involving an electric drill and a pestle. The samples are then centrifuged before being,involving an electric drill and a pestle. The samples are then centrifuged before being,involving an electric drill and a pestle. The samples are then centrifuged before being
+spectrophotometrically analyzed with a Genesis 10 UV Spectrophotometer (prior to January,spectrophotometrically analyzed with a Genesis 10 UV Spectrophotometer (prior to January,spectrophotometrically analyzed with a Genesis 10 UV Spectrophotometer (prior to January
+"2008, a Milton Roy Spectronic 501 was used). Each sample is first read at an absorbance of 750","2008, a Milton Roy Spectronic 501 was used). Each sample is first read at an absorbance of 750","2008, a Milton Roy Spectronic 501 was used). Each sample is first read at an absorbance of 750"
+nm to determine turbidity and then read again at an absorbance of 665 nm. Each sample is then,nm to determine turbidity and then read again at an absorbance of 665 nm. Each sample is then,nm to determine turbidity and then read again at an absorbance of 665 nm. Each sample is then
+acidified with 3 drops of 2N HCl and reread at 664 nm and at 750 nm. Final chlorophyll a,acidified with 3 drops of 2N HCl and reread at 664 nm and at 750 nm. Final chlorophyll a,acidified with 3 drops of 2N HCl and reread at 664 nm and at 750 nm. Final chlorophyll a
+"concentrations are then calculated using the formula outlined in Strickland and Parsons, Standard","concentrations are then calculated using the formula outlined in Strickland and Parsons, Standard","concentrations are then calculated using the formula outlined in Strickland and Parsons, Standard"
+Methods for Seawater Analysis.,Methods for Seawater Analysis.,
+"Beginning in March, 1999, a new technique for determining chl a was initiated. The new","Beginning in March, 1999, a new technique for determining chl a was initiated. The new","Beginning in March, 1999, a new technique for determining chl a was initiated. The new"
+procedure is as follows: The spectrophotometer is zeroed with the blank at 750nm. Each sample,procedure is as follows: The spectrophotometer is zeroed with the blank at 750nm. Each sample,procedure is as follows: The spectrophotometer is zeroed with the blank at 750nm. Each sample
+is read at this wavelength and the value is recorded in the data book. The spectrophotometer is,is read at this wavelength and the value is recorded in the data book. The spectrophotometer is,is read at this wavelength and the value is recorded in the data book. The spectrophotometer is
+"then changed to a wavelength of 665nm and re-zeroed. Then, the above process is repeated.","then changed to a wavelength of 665nm and re-zeroed. Then, the above process is repeated.","then changed to a wavelength of 665nm and re-zeroed. Then, the above process is repeated."
+"After the initial reading at 665nm is recorded, 2 drops of 1N HCl are added to each sample. The","After the initial reading at 665nm is recorded, 2 drops of 1N HCl are added to each sample. The","After the initial reading at 665nm is recorded, 2 drops of 1N HCl are added to each sample. The"
+spectrophotometer is then changed to a wavelength of 664nm and re-zeroed. The samples are,spectrophotometer is then changed to a wavelength of 664nm and re-zeroed. The samples are,spectrophotometer is then changed to a wavelength of 664nm and re-zeroed. The samples are
+"then read again at 664nm and 750nm. After this process is complete, the samples are removed","then read again at 664nm and 750nm. After this process is complete, the samples are removed","then read again at 664nm and 750nm. After this process is complete, the samples are removed"
+from the cuvettes and each cuvette is rinsed with 90% acetone 3 times before being filled again.,from the cuvettes and each cuvette is rinsed with 90% acetone 3 times before being filled again.,from the cuvettes and each cuvette is rinsed with 90% acetone 3 times before being filled again.
+All values that have been recorded in the data book are entered into a spreadsheet that contains,All values that have been recorded in the data book are entered into a spreadsheet that contains,All values that have been recorded in the data book are entered into a spreadsheet that contains
+the formula for calculating chlorophyll concentration.,the formula for calculating chlorophyll concentration.,
+The formula used is from Standard Methods:,The formula used is from Standard Methods:,
+chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * v,chl a (mg/m3) = 26.7((665b-750b)-(664a-750a)) * v,
+,V * l,
+where v = volume of extracted sample,where v = volume of extracted sample,
+and,V = volume filtered,
+,,27
+MD PHYTO QAPP,MD PHYTO QAPP,4/15/09
+The chlorophyll a concentrations are used to formulate a linear regression of chlorophyll,The chlorophyll a concentrations are used to formulate a linear regression of chlorophyll
+a against IVF (in vivo fluorescence). These linear regressions are then used to convert the,a against IVF (in vivo fluorescence). These linear regressions are then used to convert the
+"remaining IVF values to chlorophyll a. Only the resulting CHLA, and not the IVF itself, is","remaining IVF values to chlorophyll a. Only the resulting CHLA, and not the IVF itself, is"
+"contained in this data file. Beginning October, 1990, for the Patuxent, and for all systems in","contained in this data file. Beginning October, 1990, for the Patuxent, and for all systems in"
+"November, all IVF values were corrected for background dissolved fluorescence. This","November, all IVF values were corrected for background dissolved fluorescence. This"
+fluorescence was estimated on samples passing 0.22 um Millipore filters. The y-intercept of the,fluorescence was estimated on samples passing 0.22 um Millipore filters. The y-intercept of the
+regression is analyzed with a t-test to determine whether it is significantly different from zero. If,regression is analyzed with a t-test to determine whether it is significantly different from zero. If
+"the intercept is not significantly different, zero is substituted in the regression equation.","the intercept is not significantly different, zero is substituted in the regression equation."
+"Beginning in March, 2000, separate regressions were generated for horizontal transects","Beginning in March, 2000, separate regressions were generated for horizontal transects"
+and vertical profiles and for the upper and lower portions of the Maryland Bay and for the,and vertical profiles and for the upper and lower portions of the Maryland Bay and for the
+horizontal transects and vertical profiles of the Patuxent River. These regressions were applied,horizontal transects and vertical profiles of the Patuxent River. These regressions were applied
+to the corresponding data. Negative CHLA values reflect values below detection threshold of,to the corresponding data. Negative CHLA values reflect values below detection threshold of
+"methods. In the ASCII version of the data set, prior to cruise 47, values preceded by '>'indicate","methods. In the ASCII version of the data set, prior to cruise 47, values preceded by '>'indicate"
+IVF values where the fluorometer was offscale indicating values greater than the highest value,IVF values where the fluorometer was offscale indicating values greater than the highest value
+for that scale.,
+"Prior to March, 1987, horizontal IVF data was recorded directly onto a strip chart","Prior to March, 1987, horizontal IVF data was recorded directly onto a strip chart"
+"recorder. For purposes of determining the actual geographical location of a reading, the","recorder. For purposes of determining the actual geographical location of a reading, the"
+following assumptions are made:,
+(1) The total distance between the two stations is represented by the total length of the,(1) The total distance between the two stations is represented by the total length of the
+strip chart.,
+(2) The course from one station to the next was a straight line.,
+(3) The speed was constant from one station to the next so that there is a linear relationship,(3) The speed was constant from one station to the next so that there is a linear relationship
+between units along the chart (or readings on the computer) and distance from the start station.,between units along the chart (or readings on the computer) and distance from the start station.
+The actual geographical location is a distance of DIST away from the start station along a,The actual geographical location is a distance of DIST away from the start station along a
+straight line toward the destination station.,
+"For horizontal transects on cruises conducted after January, 1987, IVF values are","For horizontal transects on cruises conducted after January, 1987, IVF values are"
+automatically transcribed onto a personal computer (instead of a strip chart recorder used on,automatically transcribed onto a personal computer (instead of a strip chart recorder used on
+earlier cruises) directly from the fluorometer. The computer takes fluorescence readings every 5,earlier cruises) directly from the fluorometer. The computer takes fluorescence readings every 5
+seconds and records a mean value of these readings every 45 seconds.,Beginning in March
+"1999, a Lowrance 212 GPS receiver is being used to record latitude and longitude coordinates","1999, a Lowrance 212 GPS receiver is being used to record latitude and longitude coordinates"
+for each mean fluorescence value.,
+Phytoplankton,
+Field,
+Phytoplankton counts were obtained from replicate surface layer and bottom layer,Phytoplankton counts were obtained from replicate surface layer and bottom layer
+composite samples taken at 16 stations in the Maryland portion of the Chesapeake Bay and its,composite samples taken at 16 stations in the Maryland portion of the Chesapeake Bay and its
+"tributaries. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Beginning","tributaries. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Beginning"
+"January, 1996, stations MCB1.1 and MCB5.2 were no longer sampled. Sampling at MCB5.2 was","January, 1996, stations MCB1.1 and MCB5.2 were no longer sampled. Sampling at MCB5.2 was"
+,28
+MD PHYTO QAPP,4/15/09
+"re-instituted in March, 1998. Samples are currently collected 13 times during the course of the","re-instituted in March, 1998. Samples are currently collected 13 times during the course of the"
+"year. Monthly sampling occurs in March, June, September, October and December while twice","year. Monthly sampling occurs in March, June, September, October and December while twice"
+"monthly sampling takes place in April, May, July and August. Beginning in January, 1996, the","monthly sampling takes place in April, May, July and August. Beginning in January, 1996, the"
+"Patuxent River is the only sampling done in January. Prior to January 1996, samples were","Patuxent River is the only sampling done in January. Prior to January 1996, samples were"
+collected monthly October - March and bi-weekly April - September. No sampling took place in,collected monthly October - March and bi-weekly April - September. No sampling took place in
+"the Choptank River and Baltimore Harbor during January and February. Beginning July, 1989,","the Choptank River and Baltimore Harbor during January and February. Beginning July, 1989,"
+"whole water column samples were enumerated from stations XDA1177, XED4892, PXT0402,","whole water column samples were enumerated from stations XDA1177, XED4892, PXT0402,"
+"MET5.1, MCB1.1 and MCB2.2. Beginning in July, 1995, only surface composite samples were","MET5.1, MCB1.1 and MCB2.2. Beginning in July, 1995, only surface composite samples were"
+enumerated for those stations where a surface layer and bottom layer sample are collected.,enumerated for those stations where a surface layer and bottom layer sample are collected.
+"Bottom layer composite samples were collected until August, 2003 and archived for potential","Bottom layer composite samples were collected until August, 2003 and archived for potential"
+"enumeration in the future. Note, that the data for XEA6596 from 4/24/00 and 5/22/00 are for the","enumeration in the future. Note, that the data for XEA6596 from 4/24/00 and 5/22/00 are for the"
+"bottom composite, since the surface composite was not collected. Beginning in April, 2007, four","bottom composite, since the surface composite was not collected. Beginning in April, 2007, four"
+new stations were sampled during spring and summer months. The four new stations are:,new stations were sampled during spring and summer months. The four new stations are:
+"MET3.1 (Sassafras R.), MET 4.2 (Chester R.), MWT6.1 (Magothy R.), and MWT8.1 (South R.).","MET3.1 (Sassafras R.), MET 4.2 (Chester R.), MWT6.1 (Magothy R.), and MWT8.1 (South R.)."
+"Enumeration of autotrophic picoplankton began in 2002 and is carried out bi-weekly in May,","Enumeration of autotrophic picoplankton began in 2002 and is carried out bi-weekly in May,"
+"July, and August and monthly in June and September. Counts for picoplankton are done at the","July, and August and monthly in June and September. Counts for picoplankton are done at the"
+"following stations: CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, ET5.2, and WT5.1.","following stations: CB3.3C, CB4.3C, CB5.2, LE1.1, LE2.2, ET5.2, and WT5.1."
+Lab,
+Samples are gently mixed and a 1-25 ml aliquot is transferred to a settling chamber. The,Samples are gently mixed and a 1-25 ml aliquot is transferred to a settling chamber. The
+aliquot is made up to 2.5-25 ml with deionized water (depending on the volume of the settling,aliquot is made up to 2.5-25 ml with deionized water (depending on the volume of the settling
+chamber). After a settling period of 2-48 hours (depending on the volume of the settling,chamber). After a settling period of 2-48 hours (depending on the volume of the settling
+"chamber), the settled material is examined at 400X or 500X and 250X or 312X using a Leitz","chamber), the settled material is examined at 400X or 500X and 250X or 312X using a Leitz"
+"Diavert inverted microscope, equipped with phase contrast optics. Identification and","Diavert inverted microscope, equipped with phase contrast optics. Identification and"
+"enumeration of the dominant taxa, including detailed counts of the species are made yielding","enumeration of the dominant taxa, including detailed counts of the species are made yielding"
+densities (cells/L) of individual taxa as well as the total assemblage. A minimum of twenty,densities (cells/L) of individual taxa as well as the total assemblage. A minimum of twenty
+random fields and 200 individual cells (not including blue-green spheres- 815 5) are counted at,random fields and 200 individual cells (not including blue-green spheres- 815 5) are counted at
+500X-400X. The 312X-250X count consists of the examination of twenty random fields for the,500X-400X. The 312X-250X count consists of the examination of twenty random fields for the
+"rarer forms not encountered in the high magnification portion of the counts. In 1989, after doing","rarer forms not encountered in the high magnification portion of the counts. In 1989, after doing"
+"a comparison with epifluorescence microscopy, 815 5, or unidentified blue-green spheres were","a comparison with epifluorescence microscopy, 815 5, or unidentified blue-green spheres were"
+no longer enumerated due to the inaccuracy of the Utermohl technique in estimating numbers of,no longer enumerated due to the inaccuracy of the Utermohl technique in estimating numbers of
+"these cells. THEREFORE, PLEASE DISREGARD ALL 815-5 ENTRIES IN THE DATA SET.","these cells. THEREFORE, PLEASE DISREGARD ALL 815-5 ENTRIES IN THE DATA SET."
+The remainder of the sample is permitted to settle for at least 48 hours before,The remainder of the sample is permitted to settle for at least 48 hours before
+concentration to a volume of 20-25 mL for archiving.,
+"Beginning in 2005, the following enumeration technique was instituted:","Beginning in 2005, the following enumeration technique was instituted:"
+"(1) At 312X magnification, a minimum of ten random fields and 200 cells of taxa > 10","(1) At 312X magnification, a minimum of ten random fields and 200 cells of taxa > 10"
+"microns in largest dimension will be counted. If 200 cells are not tallied in 10 fields, cells in","microns in largest dimension will be counted. If 200 cells are not tallied in 10 fields, cells in"
+additional fields will be enumerated until 200 cells have been enumerated.,additional fields will be enumerated until 200 cells have been enumerated.
+"(2) At 500X magnification, twenty random fields will be counted for taxa 
+    ","(2) At 500X magnification, twenty random fields will be counted for taxa 
+    "
+in largest dimension.,
+"(3) At 125X magnification, the entire chamber will be scanned for taxa which were not","(3) At 125X magnification, the entire chamber will be scanned for taxa which were not"
+enumerated at the other two magnifications.,
+,29
+MD PHYTO QAPP,4/15/09
+During the 6 month period (7/91-12/91) the species list was overhauled in an attempt to,During the 6 month period (7/91-12/91) the species list was overhauled in an attempt to
+standardize the descriptive language (i.e. UNK. and UNI. were changed to UNID. in describing,standardize the descriptive language (i.e. UNK. and UNI. were changed to UNID. in describing
+"an unidentified cell; CYCLOTELLA SP#1 
+    ","an unidentified cell; CYCLOTELLA SP#1 
+    "
+"standardized to a form similar to CYCLOTELLA SP#1 DIAM 
+    ","standardized to a form similar to CYCLOTELLA SP#1 DIAM 
+    "
+major change which was made to the species list was the addition of asterisks by a number of,major change which was made to the species list was the addition of asterisks by a number of
+genera. This asterisk denotes a genus which has been subdivided into various size categories.,genera. This asterisk denotes a genus which has been subdivided into various size categories.
+These genera will no longer be used in the counts since the creation of more specific categories,These genera will no longer be used in the counts since the creation of more specific categories
+for these genera have been formulated. These size categories were added to the species list in,for these genera have been formulated. These size categories were added to the species list in
+7/91 thereby producing changes as in the following example:,7/91 thereby producing changes as in the following example:
+Early species list -,058 1 COSCINODISCUS SP. *
+"Post 7/91 species list - 023 1 COSCINODISCUS SP#1 DIAM 
+    ","Post 7/91 species list - 023 1 COSCINODISCUS SP#1 DIAM 
+    "
+MICRONS,
+026 1 COSCINODISCUS SP#2 DIAM,026 1 COSCINODISCUS SP#2 DIAM
+40-100 MICRONS,
+030 1 COSCINODISCUS SP#3 DIAM >100,030 1 COSCINODISCUS SP#3 DIAM >100
+MICRONS,
+"In January, 1993, taxonomic nomenclature was updated for all taxa","In January, 1993, taxonomic nomenclature was updated for all taxa"
+in the species list according to:,
+"1) Parke, M. and Dixon, P.S. 1976. Check list of British marine algae - third revision. J. mar.","1) Parke, M. and Dixon, P.S. 1976. Check list of British marine algae - third revision. J. mar."
+"biol. Ass. U.K. 56, 527-594.",
+"2) Hartley, B. 1986. A check list of the freshwater, brackish and marine diatoms of the British","2) Hartley, B. 1986. A check list of the freshwater, brackish and marine diatoms of the British"
+"Isles and adjoining coastal waters. J. mar. biol. Ass. U.K. 66, 531-610.","Isles and adjoining coastal waters. J. mar. biol. Ass. U.K. 66, 531-610."
+"On the updated species list the new name appears on the left of the page, while the old name","On the updated species list the new name appears on the left of the page, while the old name"
+which was changed appears on the right-hand side of the page.,which was changed appears on the right-hand side of the page.
+"In November, 1998, several new taxa were added to the species list - 234 1, 270 5, 562 5,","In November, 1998, several new taxa were added to the species list - 234 1, 270 5, 562 5,"
+were used for the first time largely in response to improve the carbon estimate for these new taxa,were used for the first time largely in response to improve the carbon estimate for these new taxa
+"relative to similar existing taxa. In July, 1999, two new taxa were added to the species list - 271","relative to similar existing taxa. In July, 1999, two new taxa were added to the species list - 271"
+"5, 306 2, were used for the first time also to improve carbon estimates. In April, 2002, two new","5, 306 2, were used for the first time also to improve carbon estimates. In April, 2002, two new"
+"taxa were added to species list - 24413, 463 2. In April, 2003, two new taxa were added to the","taxa were added to species list - 24413, 463 2. In April, 2003, two new taxa were added to the"
+"species list - 345 2, 346 2. In December, 2006, one new taxon was added to the species list - 283","species list - 345 2, 346 2. In December, 2006, one new taxon was added to the species list - 283"
+"2. In October 2007, three new taxa were added to the species list - 246 7, 247 1, and 328 2.","2. In October 2007, three new taxa were added to the species list - 246 7, 247 1, and 328 2."
+Primary Productivity,
+Field,
+Carbon fixation rates (C-14) were obtained from replicate surface layer composite,Carbon fixation rates (C-14) were obtained from replicate surface layer composite
+samples at 16 stations in the Maryland portion of the Chesapeake Bay and its tributaries through,samples at 16 stations in the Maryland portion of the Chesapeake Bay and its tributaries through
+"June, 1986. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Prior to","June, 1986. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Prior to"
+"1996, samples were collected 18 times over the year, with monthly samples in October through","1996, samples were collected 18 times over the year, with monthly samples in October through"
+"March, and biweekly samples in April through September. In January and February, the stations","March, and biweekly samples in April through September. In January and February, the stations"
+,30
+MD PHYTO QAPP,4/15/09
+"in the Choptank River and Baltimore Harbor were not sampled. Stations in the Potomac River,","in the Choptank River and Baltimore Harbor were not sampled. Stations in the Potomac River,"
+"(MLE2.2, XDA1177, and XEA6596) were sampled sporadically in January and February.",
+"Beginning in January 1996, the Patuxent River was the only sampling done in January, there was","Beginning in January 1996, the Patuxent River was the only sampling done in January, there was"
+"no sampling done in February and November, and there was only one sampling cruise in June",
+and September. Mainstem sampling was reinstituted in January in 1999-2002 and then,
+"discontinued again in 2003. Beginning in June 2005, productivity measures were temporarily",
+stopped because of licensing issues with MSU and the state of Maryland. Between late July,
+"2007 and November 2007, productivity data was not calculated because of the lack of stock",
+solution used in the procedure. New stock solution was made for the sampling cruise in,
+December 2007 and has continued uninterrupted since that time.,
+"For the period 1991-1993, the chlorophyll data in the vertical profiles from the tributaries","For the period 1991-1993, the chlorophyll data in the vertical profiles from the tributaries"
+"(Potomac, Choptank, and Patapsco) was miscalculated as we subtracted the blank of the",
+dissolved fraction twice from each sample. This mistake was realized and those data have been,dissolved fraction twice from each sample. This mistake was realized and those data have been
+corrected as of the 4/15/95 data submittal. The implication of this mistake was also reflected in,corrected as of the 4/15/95 data submittal. The implication of this mistake was also reflected in
+the productivity data set since assimilation ratios are calculated as part of this program.,
+Lab,
+"At the end of a sampling day, four 100 ml subsamples per station are decanted from the","At the end of a sampling day, four 100 ml subsamples per station are decanted from the"
+two surface-layer composite samples (15 liters each) into sample-rinsed Pyrex milk dilution,
+"bottles (or polycarbonate bottles after July, 1989), one for alkalinity determination, one for time-","bottles (or polycarbonate bottles after July, 1989), one for alkalinity determination, one for time-"
+"zero C-14 blank (t0), and one from each composite for C-14 incubation. The two incubation",
+samples per station are placed in a constant light incubator (>250 uE per sq m per sec) receiving,samples per station are placed in a constant light incubator (>250 uE per sq m per sec) receiving
+running water from the study area for temperature control for an acclimation period >0.5 h.,
+Then 1-2 uCi labeled NaHCO3 is added and samples are returned to the incubator for >1 h.,
+"After incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter, rinsed with",
+filtered sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly,
+"filtered and fumed, immediately following the addition of the radioisotope. The filters are",
+placed in scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94,placed in scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94
+and Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a,
+Packard Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards,Packard Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards
+and serviced twice a year by the Packard technician.,
+Field stock solutions of radiolabelled NaHCO3 are obtained from mixing portions of 25,
+mCi C-14 NaCO3 stock solutions with pH of 10-10.2 deionized water. Final field stock,
+"activities approximate 2 uCi C-14 per ml, determined from liquid scintillation counting of field","activities approximate 2 uCi C-14 per ml, determined from liquid scintillation counting of field"
+stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded,stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded
+in a laboratory log and are assigned a date interval corresponding to the period that the field,
+stock is employed in the program. Because of problems with determinations of initial field stock,stock is employed in the program. Because of problems with determinations of initial field stock
+"activities for the time interval May 1993 - March 1994, activity of the field NaHCO3 stock was","activities for the time interval May 1993 - March 1994, activity of the field NaHCO3 stock was"
+determined from the mean of six previous field NaHCO3 stocks mixed from the same 25 mCi,
+stock solution.,
+,31
+MD PHYTO QAPP,4/15/09
+The following equations were used to determine the rate of carbon fixation in ugC/L/hr. Note,The following equations were used to determine the rate of carbon fixation in ugC/L/hr. Note
+that the raw data used in these calculations are not presented in the associated data set. Only the,that the raw data used in these calculations are not presented in the associated data set. Only the
+resulting carbon fixation rate is included.,
+1) CARBALK = 12000 * (Total Alkalinity),
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK *,
+1.05 / DPMSP * (ETIME-BTIME),
+where CARBFIX = Carbon fixation rate in ug C/L/hr,
+IVOL = Volume incubated,
+FVOL = Volume filtered,
+DPMSAM = Disintegrations per minute from incubated,
+sample,
+DPMT0 = Disintegrations per minute from corresponding,
+unincubated (time zero - t0) sample,
+DPMSP = Total disintegrations per minute for C-14,
+spike,
+BTIME = Beginning time of incubation (h),
+ETIME = Ending time of incubation (h),
+CARBALK = Total inorganic carbonate from 1),
+Calculation of Assimilation Ratio,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior,
+to rounding the CARBFIX value,
+where ASMRATIO = Assimilation ratio,
+CARBFIX = Carbon fixation in ug C/L/h from 2),
+CHLA = Chlorophyll a in ug/L,
+,32
+MD PHYTO QAPP,4/15/09
+,APPENDIX B
+,CHANGES MADE during 2008
+Field Sampling,
+Water depths were too shallow for the research boat to reach station ET5.1 during the,Water depths were too shallow for the research boat to reach station ET5.1 during the
+"Choptank cruise on 16 December 2008. On 16 September 2008, one of the 2 replicate samples","Choptank cruise on 16 December 2008. On 16 September 2008, one of the 2 replicate samples"
+was lost (pp1) for ET5.1.,
+"On 18 August and 15 December 2008, both the active pump and the back-up pump were","On 18 August and 15 December 2008, both the active pump and the back-up pump were"
+"not working on the Patuxent cruise, so the DNR pump was used to collect the samples.","not working on the Patuxent cruise, so the DNR pump was used to collect the samples."
+IVF/Chlorophyll a,
+The January-June IVF/Chlorophyll a data submittal was re-submitted by using the discrete,The January-June IVF/Chlorophyll a data submittal was re-submitted by using the discrete
+"chlorophyll samples which were collected, processed and calculated by MDDNR personnel.","chlorophyll samples which were collected, processed and calculated by MDDNR personnel."
+These samples are collected simultaneously with the MSUERC IVF data therefore justifying the,These samples are collected simultaneously with the MSUERC IVF data therefore justifying the
+substitution. The reasons for this substitution of MDDNR chlorophyll data in order to re-,substitution. The reasons for this substitution of MDDNR chlorophyll data in order to re-
+construct the IVF/Chlorophyll linear regressions are as follows:,construct the IVF/Chlorophyll linear regressions are as follows:
+1. There may have been a holding time issue with the March cruise. The March cruise,1. There may have been a holding time issue with the March cruise. The March cruise
+was not processed until June 10 which is right at the maximum stipulated holding time. This,was not processed until June 10 which is right at the maximum stipulated holding time. This
+was caused by the change in personnel within the Biomonitoring group at MSUERC. Discrete,was caused by the change in personnel within the Biomonitoring group at MSUERC. Discrete
+chlorophyll samples since that time have been processed within the allotted holding time.,chlorophyll samples since that time have been processed within the allotted holding time.
+2. The spectrophotometer which has been used for many years in the chlorophyll lab at,2. The spectrophotometer which has been used for many years in the chlorophyll lab at
+MSUERC was very difficult to operate and gave some suspicious readings at one of the,MSUERC was very difficult to operate and gave some suspicious readings at one of the
+"wavelengths. Beginning with the March Bay cruise, the chlorophylls were run on a new","wavelengths. Beginning with the March Bay cruise, the chlorophylls were run on a new"
+spectrophotometer and a number of comparisons were made between the two instruments. These,spectrophotometer and a number of comparisons were made between the two instruments. These
+,33
+MD PHYTO QAPP,4/15/09
+data are available for posting in a QA/QC document or web page.,
+3. The refrigerated centrifuge which is used in processing the chlorophyll samples was found to,3. The refrigerated centrifuge which is used in processing the chlorophyll samples was found to
+be showing the RPMs at which it was ‘spinning’ but in actuality the instrument was not,
+spinning. This was not discovered until after the June chlorophyll samples had been processed.,spinning. This was not discovered until after the June chlorophyll samples had been processed.
+The instrument was repaired and is functioning as it should currently.,
+4. The discrete chlorophyll filters were not ground in a tube which was placed in a container of,4. The discrete chlorophyll filters were not ground in a tube which was placed in a container of
+ice to reduce a potentially degrading heat build-up for the sample. This oversight in the protocol,ice to reduce a potentially degrading heat build-up for the sample. This oversight in the protocol
+has been corrected for all samples processed after June.,
+5. The chlorophyll concentrations from the MSUERC lab were compared to those processed at,5. The chlorophyll concentrations from the MSUERC lab were compared to those processed at
+the MDDNR laboratory. This comparison showed some large discrepancies for some of the,
+cruises and these data are presented in a separate file.,
+"Due to instrumentation issues, chlorophyll samples for the entire July – December 2008","Due to instrumentation issues, chlorophyll samples for the entire July – December 2008"
+period were stored (frozen) for 49 – 141 days prior to being analyzed.,
+GPS coordinates were not recorded for the horizontal transects during the 21 – 23 July,GPS coordinates were not recorded for the horizontal transects during the 21 – 23 July
+"cruise on Main Bay, the 4 August 2008 cruise on the Patuxent, and the 11 August 2008 cruise on","cruise on Main Bay, the 4 August 2008 cruise on the Patuxent, and the 11 August 2008 cruise on"
+Main Bay.,
+Primary Productivity,
+Samples were stored for 1-4 months before being analyzed due to problems with the,
+liquid scintillation counter.,
+Calculated productivity from experiments done on the 16 October and 16 December,
+cruises on the Patuxent were very low for the amount of chlorophyll present. The activity of the,cruises on the Patuxent were very low for the amount of chlorophyll present. The activity of the
+14C is suspect and therefore these values were deleted from the dataset.,
+"For the Main Bay cruises on 21 – 23 July, 16 – 18 September, and 20 – 22 October 2008,","For the Main Bay cruises on 21 – 23 July, 16 – 18 September, and 20 – 22 October 2008,"
+data for the Upper and Lower portions of the Bay were combined for each of the vertical and,
+"horizontal transect regressions (chlorophyll versus IVF), the horizontal transect regression, and","horizontal transect regressions (chlorophyll versus IVF), the horizontal transect regression, and"
+"the vertical profile regression, respectively. Data for the vertical and horizontal transects were","the vertical profile regression, respectively. Data for the vertical and horizontal transects were"
+combined for the chlorophyll versus IVF regressions for the following Patuxent River cruises: 17,combined for the chlorophyll versus IVF regressions for the following Patuxent River cruises: 17
+July and 16 October 2008. Data collected during the 8 January 2009 Patuxent River cruise were,July and 16 October 2008. Data collected during the 8 January 2009 Patuxent River cruise were
+combined with data from the 15 December 2008 cruise to create useable regressions for the,
+latter.,
+Phytoplankton,
+The phytoplankton sample for CB2.2 collected on 13 August 2008 was surface water,
+"only, not a whole water sample as usual.",
+,34
+MD PHYTO QAPP,4/15/09
+,35
+MD PHYTO QAPP,4/15/09

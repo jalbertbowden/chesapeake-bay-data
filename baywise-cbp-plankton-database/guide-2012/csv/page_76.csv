@@ -1,0 +1,74 @@
+Name: “Table 1 of 1 on page 76 of 170”,Name: “Table 1 of 1 on page 76 of 170”,Name: “Table 1 of 1 on page 76 of 170”,Name: “Table 1 of 1 on page 76 of 170”
+Table: 75,Table: 75,Table: 75,Table: 75
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-21.,Composite Non-Tidal Benthic Metric Data File Format,Composite Non-Tidal Benthic Metric Data File Format,Composite Non-Tidal Benthic Metric Data File Format
+Field Name,Type,Width,Description
+EVENT_ID,Number,8,Database Generated Event Identification Number
+SOURCE,Text,6,Data Collection Agency
+STATION,Text,15,Sampling Station
+SAMPLE_DATE,Date/Time,8,Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,8,Sample Collection Time (HH:MM:SS)
+ASPT_MOD,Number,8.4,Average tolerance Score per Taxon modified to family level
+ASPT_MOD_R,Number,8.4,Average tolerance Score per Taxon modified to family level
+,,,Calculated on Rarefaction Data
+BECK,Number,8.4,Beck's Index-classical calculation
+BECK_R,Number,8.4,Beck's Index-classical calculation-calculated on Rarefaction Data
+DIPTERA_TAXA_CNT,Number,8.4,Number of Diptera Taxa
+DIPTERA_TAXA_CNT_R,Number,8.4,Number of Diptera Taxa -calculated on Rarefaction Data
+EPHEMEROPTERA_TAXA_CNT,EPHEMEROPTERA_TAXA_CNT,,
+,Number,8.4,Number of Ephemeroptera Taxa
+EPHEMEROPTERA_TAXA_CNT_R,EPHEMEROPTERA_TAXA_CNT_R,,
+,Number,8.4,Number of Ephemeroptera Taxa-calculated on Rarefaction Data
+EPT_TAXA_ABUND,Number,8.4,"Total abundance of Ephemeroptera, Plecoptera & Trichoptera"
+EPT_TAXA_ABUND_R,Number,8.4,"Total abundance of Ephemeroptera, Plecoptera & Trichoptera"
+,,,-calculated on Rarefaction Data
+EPT_TAXA_COUNT,Number,8.4,"Number of Ephemeroptera, Plecoptera & Trichoptera taxa"
+EPT_TAXA_COUNT_NO_TOL,EPT_TAXA_COUNT_NO_TOL,,
+,Number,8.4,"Number of Ephemeroptera, Plecoptera & Trichoptera taxa excluding tolerant taxa"
+EPT_TAXA_COUNT_NO_TOL_R,EPT_TAXA_COUNT_NO_TOL_R,,
+,Number,8.4,"Number of Ephemeroptera, Plecoptera & Trichoptera taxa excluding tolerant taxa-"
+,,,Calculated on Rarefaction Data
+EPT_TAXA_COUNT_R,Number,8.4,"Number of Ephemeroptera, Plecoptera & Trichoptera taxa-"
+,,,Calculated on Rarefaction Data
+FBI,Number,8.4,Family level Hilsenhoff Biotic Index
+FBI_R,Number,8.4,Family level Hilsenhoff Biotic Index-calculated on Rarefaction Data
+GOLD,Number,8.4,"1- relative percentage abundance of Gastropods, Oligochaeta and Diptera"
+GOLD_R,Number,8.4,"1- relative percentage abundance of Gastropods, Oligochaeta and Diptera"
+,,,-calculated on Rarefaction Data
+MARGALEFS,Number,8.4,Margalef Index of community diversity
+MARGALEFS_R,Number,8.4,Margalef Index of community diversity-calculated on Rarefaction Data NCO_TAXA_CNT
+,Number,8.4,Total Taxa Count omitting chironomidae and oligochaeta
+NCO_TAXA_CNT_R,Number,8.4,Total Taxa Count omitting chironomidae and oligochaeta
+,,,-calculated on Rarefaction Data
+NON_INSECT_TAXA_CNT,Number,8.4,Non-Insect Taxa Count
+NON_INSECT_TAXA_CNT_R Number,NON_INSECT_TAXA_CNT_R Number,8.4,Non-Insect Taxa Count-calculated on Rarefaction Data
+PCT_BURROWER,Number,8.4,Percent Burrower Abundance
+PCT_BURROWER_R,Number,8.4,Percent Burrower Abundance-calculated on Rarefaction Data
+PCT_CHIRONOMIDAE,Number,8.4,Percent Chironomidae Abundance
+PCT_CHIRONOMIDAE_R,Number,8.4,Percent Chironomidae Abundance-calculated on Rarefaction Data
+PCT_CLIMB,Number,8.4,Percent Climbers Abundance
+PCT_CLIMB_R,Number,8.4,Percent Climbers Abundance-calculated on Rarefaction Data
+PCT_CLING,Number,8.4,Percent Clinger Abundance
+PCT_CLING_R,Number,8.4,Percent Clinger Abundance-calculated on Rarefaction Data
+PCT_CLINGER_TAXA,Number,8.4,Percent Clinger taxa
+PCT_CLINGER_TAXA_R,Number,8.4,Percent Clinger taxa-calculated on Rarefaction Data
+PCT_COLLECT,Number,8.4,Percent Collector Abundance
+PCT_COLLECT_R,Number,8.4,Percent Collector Abundance-calculated on Rarefaction Data
+PCT_DIPTERA,Number,8.4,Percent Diptera Abundance
+PCT_DIPTERA_R,Number,8.4,Percent Diptera Abundance-calculated on Rarefaction Data
+PCT_DOM1,Number,8.4,Percent Dominant taxa
+PCT_DOM1_R,Number,8.4,Percent Dominant taxa-calculated on Rarefaction Data
+PCT_DOM2,Number,8.4,Percent Two Dominant taxa
+PCT_DOM2_R,Number,8.4,Percent Two Dominant taxa-calculated on Rarefaction Data
+PCT_DOM3,Number,8.4,Percent Three Dominant taxa
+PCT_DOM3_R,Number,8.4,Percent Three Dominant taxa-calculated on Rarefaction Data
+PCT_EPHEMEROPTERA,Number,8.4,Percent Ephemeroptera Abundance
+PCT_EPHEMEROPTERA_R,Number,8.4,Percent Ephemeroptera Abundance-calculated on Rarefaction Data
+PCT_EPT,Number,8.4,"Percent Ephemeroptera, Plecoptera & Trichoptera Abundance"
+PCT_EPT_R,Number,8.4,"Percent Ephemeroptera, Plecoptera & Trichoptera Abundance"
+,,,-calculated on Rarefaction Data
+PCT_EPT_TAXA_RICH,Number,8.4,"Percent Ephemeroptera, Plecoptera & Trichoptera Taxa"
+PCT_EPT_TAXA_RICH_R,Number,8.4,"Percent Ephemeroptera, Plecoptera & Trichoptera Taxa"
+,,,-calculated on Rarefaction Data
+,,,74

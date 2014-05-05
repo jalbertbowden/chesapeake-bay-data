@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 79 of 170”,Name: “Table 1 of 1 on page 79 of 170”,Name: “Table 1 of 1 on page 79 of 170”,Name: “Table 1 of 1 on page 79 of 170”
+Table: 78,Table: 78,Table: 78,Table: 78
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+ACCOUNTING_UNIT,USGS Six-Digit Hydrologic Units Code- Name changed to Basin Unit in 2000,,
+,See Appendix C Table 13 for Details .............................................................. Field,Text,6
+ACCOUNTING_UNIT_DESCRIPTION,ACCOUNTING_UNIT_DESCRIPTION,,
+,USGS Six-Digit Hydrologic Unit Code Description-Name changed to Basin Unit in 2000,,
+,See Appendix C Table 13 for Details .............................................................. Field,Text,40
+ADDRESS,Physical Mailing Address of Contact................................................................ Field,Text,50
+AEPENETR,Actual or Estimated Gear Penetration Depth Indicator .................................... Field,Text,2
+AGENCY_CODE,State or Federal Agency Responsible for a Monitoring Program .................... Field,Text,7
+AGENCY_PROGRAM_NAME,AGENCY_PROGRAM_NAME,,
+,State or Federal Agency Monitoring Program Name ....................................... Field,Text,50
+ASMRATIO,Production Efficiency Ratio (ug-C/ug-chl A) .................................................... Field,Numeric,8.2
+BASIN,USGS Six-Digit Hydrologic Units Code ........................................................... Field,Text,6
+BASIN_DESCRIPTION Basin Described By the Six Digit USGS HUC Code ........................................ Field,BASIN_DESCRIPTION Basin Described By the Six Digit USGS HUC Code ........................................ Field,Text,80
+BIO_METHOD,CBP Non-Tidal Benthic Biological Enumeration Method Code ...................... Value,Text,6
+BIO_METHOD_DESCRIPTION,BIO_METHOD_DESCRIPTION,,
+,Description of Non-Tidal Benthic Biological Enumeration Method ................ Value,Text,100
+BIO_METHOD_DETAILS,BIO_METHOD_DETAILS,,
+,Detailed Description of Non-Tidal Benthic Biological Enumeration Protocol .. Value,Text,MEMO
+BIO_METHOD_TITLE,CBP Non-Tidal Benthic Biological Enumeration Method Title ........................ Value,Text,100
+BIO_PARAMETER_DESCRIPTION,BIO_PARAMETER_DESCRIPTION,,
+,CBP Description of Biological Reporting Parameter ....................................... Value,Text,100
+BIO_REPORTING_PARAMETER,BIO_REPORTING_PARAMETER,,
+,CBP Biological Reporting Parameter ............................................................. Value,Text,15
+BIO_REPORTING_UNITS,BIO_REPORTING_UNITS,,
+,CBP Biological Reporting Parameter Units .................................................... Value,Text,15
+BOUNDING_LATITUDE_NORTH,BOUNDING_LATITUDE_NORTH,,
+,The northern-most coordinate of the limit of coverage expressed in latitude,,
+,. ........................................................................................................................ Field,Numeric,8.5
+BOUNDING_LATITUDE_SOUTH,BOUNDING_LATITUDE_SOUTH,,
+,The Southern-most coordinate of the limit of coverage expressed in latitude,,
+,. ........................................................................................................................ Field,Numeric,8.5
+BOUNDING_LATITUDE_EAST,BOUNDING_LATITUDE_EAST,,
+,The Eastern-most coordinate of the limit of coverage expressed in longitude,,
+,. ........................................................................................................................ Field,Numeric,8.5
+BOUNDING_LATITUDE_West,BOUNDING_LATITUDE_West,,
+,The Western-most coordinate of the limit of coverage expressed in longitude,,
+,. ........................................................................................................................ Field,Numeric,8.5
+CALCULATED_UNITS,Calculated Parameter Reporting Units ............................................................ Field,Text,50
+CALCULATED_VALUE Calculated Parameter Reporting Value ........................................................... Field,CALCULATED_VALUE Calculated Parameter Reporting Value ........................................................... Field,Numeric,8
+,77,,

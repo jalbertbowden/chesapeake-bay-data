@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 8 of 44”,Name: “Table 1 of 1 on page 8 of 44”,Name: “Table 1 of 1 on page 8 of 44”,Name: “Table 1 of 1 on page 8 of 44”,Name: “Table 1 of 1 on page 8 of 44”,Name: “Table 1 of 1 on page 8 of 44”
+Table: 8,Table: 8,Table: 8,Table: 8,Table: 8,Table: 8
+,,,,,
+PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE,PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE,PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE,PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE,PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE,PHYTOPLANKTON AND ZOOPLANKTON DATABASE STRUCTURE
+PRIMARY DATA TABLES,PRIMARY DATA TABLES,,,,
+"Within the current design, the primary tables are the TAB_BIOTA_EVENT TABLE,","Within the current design, the primary tables are the TAB_BIOTA_EVENT TABLE,","Within the current design, the primary tables are the TAB_BIOTA_EVENT TABLE,","Within the current design, the primary tables are the TAB_BIOTA_EVENT TABLE,","Within the current design, the primary tables are the TAB_BIOTA_EVENT TABLE,",
+"BIOMASS_SETVOL TABLE , TAB_PHYTO_PICO TABLE, TAB_PRIMARY_PROD TABLE","BIOMASS_SETVOL TABLE , TAB_PHYTO_PICO TABLE, TAB_PRIMARY_PROD TABLE","BIOMASS_SETVOL TABLE , TAB_PHYTO_PICO TABLE, TAB_PRIMARY_PROD TABLE","BIOMASS_SETVOL TABLE , TAB_PHYTO_PICO TABLE, TAB_PRIMARY_PROD TABLE","BIOMASS_SETVOL TABLE , TAB_PHYTO_PICO TABLE, TAB_PRIMARY_PROD TABLE",
+",TAB_ZOO_TAX TABLE, TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRICS.",",TAB_ZOO_TAX TABLE, TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRICS.",",TAB_ZOO_TAX TABLE, TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRICS.",",TAB_ZOO_TAX TABLE, TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRICS.",",TAB_ZOO_TAX TABLE, TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRICS.",The BIOTA
+EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining,EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining,EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining,EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining,EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining,EVENT TABLE contains all sampling event data for all types of sample collection events. The remaining
+table all store data of the type designated in the table name.,table all store data of the type designated in the table name.,table all store data of the type designated in the table name.,,,
+TAB_BIOTA_EVENT,TAB_BIOTA_EVENT,,,,
+Field Name,,Description,,Data Type,Length
+SURVEY_ID,PRIMARY_ID KEY-,,,INTEGER,
+,(STATION+SAMPLE_DATE+SAMPLE_TIME+,(STATION+SAMPLE_DATE+SAMPLE_TIME+,,,
+"(AK,PK)",SOURCE+LAYER+DATA_TYPE),SOURCE+LAYER+DATA_TYPE),,,
+STATION,SAMPLING STATION-,,,VARCHAR,15
+,Sampling station identifier,,,,
+"(PK,NN,FK)",,,,,
+SAMPLE_DATE,SAMPLING DATE/TIME-,,,DATE/TIME,8
+_TIME,Date and time of sample collection,Date and time of sample collection,,,
+"(PK,NN)",,,,,
+LAYER,LAYER-,,,CHAR,3
+,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken,Layer of Water Column in which Sample was Taken,,
+"(PK,NN,FK)",,,,,
+SOURCE,AGENCY/CONTRACTOR DATA SOURCE CODE-,AGENCY/CONTRACTOR DATA SOURCE CODE-,AGENCY/CONTRACTOR DATA SOURCE CODE-,VARCHAR,10
+,Code identifying data generator,Code identifying data generator,,,
+"(PK,NN,FK)",,,,,
+DATA_TYPE,SAMPLE TYPE CODE-,,,CHAR,2
+,Denotes type of biological,sample collected,,,
+"(PK,NN)",,,,,
+SAMPLE_TYPE,SAMPLE COLLECTION TYPE CODE,SAMPLE COLLECTION TYPE CODE,,VARCHAR,2
+,Denotes type of sample collected for analysis of,Denotes type of sample collected for analysis of,a given,,
+"(PK,NN,FK)",Data_type,,,,
+TOTAL_DEPTH,TOTAL STATION DEPTH-,TOTAL STATION DEPTH-,,DECIMAL,
+,Total Station Depth in Meters,Total Station Depth in Meters,,,
+P_DEPTH,COMPOSITE SAMPLE CUT-OFF DEPTH-,COMPOSITE SAMPLE CUT-OFF DEPTH-,,DECIMAL,
+,Depth used as the cutoff depth between upper (AP) and,Depth used as the cutoff depth between upper (AP) and,Depth used as the cutoff depth between upper (AP) and,,
+,lower (BP) LAYERS during a sampling event.,lower (BP) LAYERS during a sampling event.,,,
+TOTAL_,TOTAL VOLUME OF SAMPLE,TOTAL VOLUME OF SAMPLE,,DECIMAL,
+SAMPLE_,,,,,
+VOLUME,,,,,
+(NN),,,,,
+TOTAL_,REPORTING UNITS OF SAMPLE VOLUME,REPORTING UNITS OF SAMPLE VOLUME,,DECIMAL,
+SAMPLE_,,,,,
+VOLUME_UNITS,,,,,
+(NN),,,,,
+,,6,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

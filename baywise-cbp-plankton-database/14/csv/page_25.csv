@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 25 of 44”,Name: “Table 1 of 1 on page 25 of 44”,Name: “Table 1 of 1 on page 25 of 44”,Name: “Table 1 of 1 on page 25 of 44”,Name: “Table 1 of 1 on page 25 of 44”
+Table: 25,Table: 25,Table: 25,Table: 25,Table: 25
+,,,,
+02080105,MATTAPONI,02080202,MAURY,
+02080106,PAMUNKEY,02080203,MIDDLE JAMES-BUFFALO,
+02080107,YORK,02080204,RIVANNA,
+02080108,LYNNHAVEN-POQUOSON,02080205,MIDDLE JAMES-WILLIS,
+02080109,WESTERN LOWER DELMARVA,02080206,LOWER JAMES,
+02080110,EASTERN LOWER DELMARVA,02080207,APPOMATTOX,
+02080201,UPPER JAMES,02080208,HAMPTON ROADS,
+TAB_IBI_PARAMETER,TAB_IBI_PARAMETER,,,
+Field Name,Field Name,Description,Data Type,Length
+IBI_PARAMETER,IBI_PARAMETER,IBI PARAMETER CODE,VARCHAR,25
+"(PK,FK)",,,,
+IBI_PARAMETER_,IBI_PARAMETER_,IBI PARAMETER DESCRIPTION,VARCHAR,75
+DESCRIPTION,DESCRIPTION,,,
+(NN),,,,
+General:,This table stores information related exclusively to the IBI_PARAMETER codes in codes in the,This table stores information related exclusively to the IBI_PARAMETER codes in codes in the,This table stores information related exclusively to the IBI_PARAMETER codes in codes in the,
+IBI_METRICS_TABLE.,IBI_METRICS_TABLE.,This table contains information to parameter names. Currently accepted,This table contains information to parameter names. Currently accepted,
+PARAMETER and DESCRIPTION designations are as follows:,PARAMETER and DESCRIPTION designations are as follows:,PARAMETER and DESCRIPTION designations are as follows:,,
+IBI_PARAMETER,,IBI_PARAMETER_DESCRIPTION,,
+BIOMASS_CHL_RATIO,BIOMASS_CHL_RATIO,TOTAL PHYTOPLANKTON BIOMASS TO AP CHL RATIO,,
+CHLA_SURF,,SURFACE CHLOROPHYLL A (0.5 M) UG/L,,
+CRYPTO_BIO_PCT,CRYPTO_BIO_PCT,PERCENT CRYPTOPHYTE BIOMASS,,
+CYANO_BIOMASS,CYANO_BIOMASS,TOTAL CYANOPHYTE BIOMASS IN UG CARBON/LITER,,
+DIATOM_BIOMASS,DIATOM_BIOMASS,TOTAL DIATOM BIOMASS IN UG CARBON/LITER,,
+DINO_BIOMASS,,TOTAL DINOFLAGGELATE BIOMASS IN UG CARBON/LITER,,
+DOC,,AVE LAYER DISSOLVED ORGANIC CARBON CONC IN MG/L,,
+MICROCYSTIS_AER_ABUND,MICROCYSTIS_AER_ABUND,TOTAL MICROCYSTIS BIOMASS IN UG CARBON/LITER,,
+PHEO,,AVE LAYER PHEOOHYTIN CONC IN MG/L,,
+PICO_ABUND,,TOTAL PICOPLANKTON ABUNDANCE IN NUMBER/LITER,,
+PROROCENTRUM_MIN_ABUND PROROCENTRUM_MINIMUM ABUNDANCE IN NUMBER/LITER,PROROCENTRUM_MIN_ABUND PROROCENTRUM_MINIMUM ABUNDANCE IN NUMBER/LITER,PROROCENTRUM_MIN_ABUND PROROCENTRUM_MINIMUM ABUNDANCE IN NUMBER/LITER,,
+TOT_BIOMASS,,TOTAL PHYTOPLANKTON BIOMASS IN UG CARBON/LITER,,
+TOTAL_SCORE,,AVERAGE PIBI SCORE FOR SAMPLING EVENT,,
+TAB_IBI_SALZONE,TAB_IBI_SALZONE,,,
+Field Name,Field Name,Description,Data Type,Length
+IBI_SALZONE,IBI_SALZONE,IBI SALINITY ZONE CODE,char,1
+"(PK,FK)",,,,
+IBI_SALZONE,IBI_SALZONE,DESCRIPTION,varchar,25
+_DESCRIPTION,_DESCRIPTION,,,
+(NN),,,,
+SALZONE_RANGES,SALZONE_RANGES,SALINITY RANGE-in PSU,varchar,15
+GENERAL:,This table stores information related exclusively to IBI SALZONE codes in the,This table stores information related exclusively to IBI SALZONE codes in the,This table stores information related exclusively to IBI SALZONE codes in the,
+TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRIC tables . In many cases the Water Quality and,TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRIC tables . In many cases the Water Quality and,TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRIC tables . In many cases the Water Quality and,TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRIC tables . In many cases the Water Quality and,TAB_IBI_METRICS and TAB_PHYTO_INDICATOR_METRIC tables . In many cases the Water Quality and
+Living Resource monitoring programs performed field sample collection at the same time. Therefore salinity,Living Resource monitoring programs performed field sample collection at the same time. Therefore salinity,Living Resource monitoring programs performed field sample collection at the same time. Therefore salinity,Living Resource monitoring programs performed field sample collection at the same time. Therefore salinity,Living Resource monitoring programs performed field sample collection at the same time. Therefore salinity
+,,23,,
+,,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

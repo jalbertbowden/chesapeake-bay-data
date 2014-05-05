@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 121 of 170”,Name: “Table 1 of 1 on page 121 of 170”,Name: “Table 1 of 1 on page 121 of 170”
+Table: 120,Table: 120,Table: 120
+,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,SEDIMENT/WQ_,
+PARAMETER,METHOD,SEDIMENT/WQ_METHOD_TITLE
+PON,D01,Database Calculated PON - Method 1
+PON,D01A,Database Calculated PON - Method 1 – MDL
+PON,D01B,Database Calculated PON - Method 1 - 1/2 MDL
+PON,D01D,Database Calculated PON - Method 1
+PP,D01,Database Calculated PP - Method 1
+PP,D01A,Database Calculated PP - Method 1 - MDL
+PP,D01B,Database Calculated PP - Method 1 - 1/2 MDL
+PP,D01D,Database Calculated PP - Method 1
+PP,L01,Particulate Phosphorus; Semi-Automated; Direct
+,,Sediment Quartile Deviation- Army Corp Of Engineers Sediment Grain Size
+QUARTDEV,L02,Analysis Protocol
+SALINITY,F01,In-Situ Measurement With Probe
+SALINITY,F02,Calculated From SPCOND
+SALINITY,F03,Calculated From SPCOND
+SALINITY,F04,UNESCO '83 Calculation
+SAND,L01,Sediment Percent Sand-Folk Sediment Grain Size Analysis Protocol
+,,Sediment Percent Sand-Army Corp Of Engineers Sediment Grain Size Analysis
+SAND,L02,Protocol
+SAND,L03,Sediment Percent Sand-VIMS Undocumented Method
+SE,L01,Total Selenium; Atomic Absorption; Furnace Technique
+SECCHI,F01,20 CM Secchi Depth
+SECCHI,F02,30 CM Secchi Depth
+SIF,L01,Colorimetric; Automated; Molybdenum Blue
+SIF,L02,Spectrophotometric; Manual; Molybdosilicate
+SIF,L03,Silica; Atomic Absorption Spectrometry; Direct
+SIF,L04,"Metals, Wf, ICP-AES"
+SIGMA_T,D01,Database Calculated Sigma_T - Method 1
+SILT,L01,Folk Sediment Grain Size Analysis Protocol
+SILTCLAY,L01,Percent Silt clay-Folk Sediment Grain Size Analysis Protocol
+SILTCLAY,L02,Percent Silt clay -Army Corp Of Engineers Sediment Grain Size Analysis Protocol
+SILTCLAY,L03,Percent Silt clay -VIMS Undocumented Method
+SIW,L01,Colorimetric; Automated; Molybdenum Blue
+SIW,L02,Spectrophotometric; Manual; Molybdosilicate
+SIW,L03,Silica By Inductively Coupled Plasma - Mass Spectrometry
+SKEWNESS,L01,Folk Sediment Grain Size Analysis Protocol
+SKEWNESS,L02,Army Corp Of Engineers Sediment Grain Size Analysis Protocol
+SO4F,L01,Sulfate; Turbidimetric Method
+SO4F,L02,Sulfate By Ion Chromatography
+SO4F,L03,Automated Colorimetric; Methylthymol Blue
+SO4F,L04,Sulfate By Ion Chromatography-Similar To 300. 0
+SO4W,L01,Sulfate; Turbidimetric Method
+SO4W,L02,"Anions, Wf, IC"
+SORT,L01,Folk Sediment Grain Size Analysis Protocol
+SPCOND,F01,In-Situ Specific Conductance At 25 C
+SPCOND,F02,Specific Conductance At 25 C - Field Grab
+SPCOND,F03,"Specific Conductance, Unspecified Field Method"
+SPCOND,F04,"Specific Conductance, Unspecified Field Method 2"
+SPCOND,L01,Laboratory Measured Conductivity
+SPCOND,L02,"Specific Conductivity, Lab, Auto Bridge"
+SSC_%FINE,D01,Percent Of Suspended Sediment Particles Passing Through 0. 062 Mm Sieve
+SSC_%SAND,D01,Percent Of Suspended Sediment Particles Retained On 0. 062 Mm Sieve
+SSC_FINE,L01,Suspended Sediment Particles Passing Through A 0. 062 Mm Sieve
+SSC_FINE,L02,Suspended Sediment Particles Passing Through A 0. 062 Mm Sieve
+SSC_SAND,L01,Suspended Sediment Particles Retained On A 0. 062 Mm Sieve
+,,119

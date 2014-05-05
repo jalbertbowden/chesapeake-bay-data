@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 125 of 170”,Name: “Table 1 of 1 on page 125 of 170”
+Table: 124,Table: 124
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,REPORTING_PARAMETER_DECRIPTION
+PARAMETER,
+COUNT,Number Per Unit Measure
+COUNT_7,Seven Day Average Count
+CR,Total Chromium
+CU,Total Copper
+DCA,Dissolved Calcium
+DCU,Dissolved Copper
+DIC,"Carbon, Inorganic, Total"
+DIN,Dissolved Inorganic Nitrogen
+DO,Dissolved Oxygen In Mg/L
+DO_SAT_M,Do Saturation Concentration In Mg/L
+DO_SAT_P,Do Saturation Using Probe Units In Percent
+DOC,Dissolved Organic Carbon
+DON,Dissolved Organic Nitrogen
+DOP,Dissolved Organic Phosphorus
+DRYWT,Sample Total Dry Weight
+DZN,Dissolved Zinc
+EPAR_S,Par Measured In Air Or On Deck
+EPARD_Z,Par With Sensor Pointing Down; Measures Upwelling
+EPARU_Z,Par With Sensor Pointed Up; Measures Down welling
+FCOLI_C,Fecal Coliforms (Colonies)
+FCOLI_M,Fecal Coliforms (Most Probable Number)
+FE_M,Total Iron
+FE_U,Total Iron
+FLOW_AVG,Stream Flow; Mean Daily
+FLOW_INS,Stream Flow; Instantaneous
+FLUORESCENCE,Fluorescence
+FS,Fixed Solids
+FSS,Fixed Suspended Solids
+GAGE_HEIGHT,Stream Stage In Feet
+HARDNESS,Hardness As CaCO3
+HG,Total Mercury
+IBOD5F,Inhibited 5-Day Biochemical Oxygen Demand (Filtered Sample)
+IBOD5W,Inhibited 5-Day Biochemical Oxygen Demand (Whole Sample)
+INTSAL,Interstitial Salinity
+K,"Potassium, Total"
+KD,Light Attenuation
+KF,Dissolved Potassium As K
+KURTOSIS,Kurtosis
+MEANDIAM,Mean Sediment Diameter
+MEASURED_DEPTH,Measured Depth
+MEDDIAM,Median Sediment Diameter
+MGF,Dissolved Magnesium As Mg
+MN,Total Manganese
+MOIST,Moisture Content
+NAF,Dissolved Sodium As Na
+NH4F,Ammonium Nitrogen As N (Filtered Sample)
+NH4W,Ammonium Nitrogen As N (Whole Sample)
+NI,Total Nickel
+NO23F,Nitrite+Nitrate Nitrogen As N (Filtered Sample)
+NO23W,Nitrite+Nitrate Nitrogen As N (Whole Sample)
+NO2F,Nitrite Nitrogen As N (Filtered Sample)
+NO2W,Nitrite Nitrogen As N (Whole Sample)
+NO3F,Nitrate Nitrogen As N (Filtered Sample)
+NO3W,Nitrate Nitrogen As N (Whole Sample)
+,123

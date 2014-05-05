@@ -1,0 +1,38 @@
+Name: “Table 1 of 1 on page 9 of 64”
+Table: 9
+""
+of species counted) and Margalef’s index both graphically and statistically shows a clear bias toward HS
+method consistently identifying more taxa than corrected CVS method counts (MZ101C/MZ102_C and
+MZ103/MZ102_C comparisons). This trend is consitant with previous split sample finding (ICPRB 2000)
+and contrary to the belief that the strength of the CVS method was that it allowed for rare and common
+abundant species to be enumerated with equal precision (Alden etal 1982) . These analyses also showed
+that Simpson’s diversity index and Shannon-Weiner index do not have the same bias. This was not
+unexpected because both Simpson’s and Shannon Weiner indexes are based on species proportion as
+"part of total abundance, which itself did not show any method biases (ICES, 2000)."
+Versar HS vs. ODU HS Count (MZ101C/MZ103) Comparisons
+"MZ101C/MZ103 comparisons were based 28 of the 78 recount samples, are denoted as green"
+dots in all graphs in Appendix A with accompanying statistics in Appendix C. Overall mesozooplankton
+data enumerated by Old Dominion University using Hensen-Stempel methodology are reasonably
+"compatible with Versar results. Just like the MZ101C/MZ102_C data, MZ101C/MZ103 also showed"
+density decline in common groups below 1000 organisms*m-3 with the same Versar bias. In regards to
+"species diversity Versar consistently found more taxa per sample than ODU (Wilcoxon Signed Rank Test,"
+"S=173.5, P= 
+    "
+Genus or other larger taxonomic levels before calculating diversity metrics.
+Refinement of CVS correction Factors
+"One short coming of the CVS correction factors developed for the ZIBI (Carpenter etal, 2006) was that"
+genus specific correction factors could not be calculated for all major groups due a low number of
+organism occurrences in the original 189 ODU Hensen Stempel recount samples. With the addition of
+the 72 Versar recounts samples it is possible to refine existing correction factors and calculate taxa
+"specific correction factors for Evadne sp., Labidocera sp., Leptodora sp., Podon sp, and Penilia sp.."
+Previously these taxa had been lumped into group correction factors. Updated correction factors were
+"calculated using the same procedure used in Carpenter et.al. 2006. First, all ""exclusion"" taxa were"
+removed from the data set (Table 2). Exclusion taxa are defined as those taxa appearing in the data set
+not considered to be true mesozooplankton or plankton not well sampled by bongo net protocols. Counts
+of all taxa identified to species were group to genus and summed. CVS and HS data were then matched
+"by station, date and taxa. Since zooplankton population usually have an underlying log normal"
+"distribution, correction factors were estimated using a log normalized geometric mean procedure"
+"(Gilbert,1987). The updated and ZIBI correction factors can be found in Table 3. For taxa groups where"
+"sample size was less than 5 in most cases, groups were pooled to calculate order or other higher level"
+taxonomic level conversion factor.
+9

@@ -1,0 +1,53 @@
+Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”,Name: “Table 1 of 1 on page 101 of 170”
+Table: 100,Table: 100,Table: 100,Table: 100,Table: 100,Table: 100,Table: 100
+,,,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table C-9. Sampling Event Type (EVENT_TYPE).,Table C-9. Sampling Event Type (EVENT_TYPE).,Table C-9. Sampling Event Type (EVENT_TYPE).,Table C-9. Sampling Event Type (EVENT_TYPE).,,,
+This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling,This table contains information to type of samples collected during tidal and non-tidal benthic sampling
+events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or,events. The following list of data types represent those which either directly measured in the field or
+analyzed in the laboratory.,analyzed in the laboratory.,,,,,
+EVENT_TYPE,,EVENT_TYPE_DESCRIPTION,EVENT_TYPE_DESCRIPTION,,,
+BEN,,Benthic Taxa Assessment Only,Benthic Taxa Assessment Only,,,
+BEN\BIOM\SED,BEN\BIOM\SED,"Benthic Taxa, Benthic Biomass And Sediment Assessments","Benthic Taxa, Benthic Biomass And Sediment Assessments","Benthic Taxa, Benthic Biomass And Sediment Assessments","Benthic Taxa, Benthic Biomass And Sediment Assessments","Benthic Taxa, Benthic Biomass And Sediment Assessments"
+BEN\HAB,,Benthic Taxa And Habitat Assessment,Benthic Taxa And Habitat Assessment,Benthic Taxa And Habitat Assessment,,
+BEN\SED,,Benthic Taxa And Sediment Assessments,Benthic Taxa And Sediment Assessments,Benthic Taxa And Sediment Assessments,Benthic Taxa And Sediment Assessments,
+BIOM,,Benthic Biomass Assessment Only,Benthic Biomass Assessment Only,Benthic Biomass Assessment Only,,
+HAB,,,Habitat Only,,,
+IMG,,Sediment Image Analysis,Sediment Image Analysis,,,
+QBEN,,Qualitative Benthic Taxa Assessment Only,Qualitative Benthic Taxa Assessment Only,Qualitative Benthic Taxa Assessment Only,Qualitative Benthic Taxa Assessment Only,
+QBEN\HAB,,Qualitative Benthic\Habitat,Qualitative Benthic\Habitat,,,
+SED,,Sediment Assessment Only,Sediment Assessment Only,,,
+WQ,,Water Quality Assessment Only,Water Quality Assessment Only,,,
+WQ\BEN,,Water Quality And Benthic Taxa Assessment,Water Quality And Benthic Taxa Assessment,Water Quality And Benthic Taxa Assessment,Water Quality And Benthic Taxa Assessment,
+WQ\BEN\BIOM,,"Water Quality, Benthic Taxa And Biomass Assessment","Water Quality, Benthic Taxa And Biomass Assessment","Water Quality, Benthic Taxa And Biomass Assessment","Water Quality, Benthic Taxa And Biomass Assessment","Water Quality, Benthic Taxa And Biomass Assessment"
+WQ\BEN\BIOM\SED,WQ\BEN\BIOM\SED,"Water Quality, Benthic Taxa, Biomass And Sediment Assessments","Water Quality, Benthic Taxa, Biomass And Sediment Assessments","Water Quality, Benthic Taxa, Biomass And Sediment Assessments","Water Quality, Benthic Taxa, Biomass And Sediment Assessments","Water Quality, Benthic Taxa, Biomass And Sediment Assessments"
+WQ\BEN\HAB,,"Water Quality, Benthic Taxa And Habitat Assessment","Water Quality, Benthic Taxa And Habitat Assessment","Water Quality, Benthic Taxa And Habitat Assessment","Water Quality, Benthic Taxa And Habitat Assessment",
+WQ\BEN\SED,,"Water Quality, Benthic taxa And Sediment Analysis","Water Quality, Benthic taxa And Sediment Analysis","Water Quality, Benthic taxa And Sediment Analysis","Water Quality, Benthic taxa And Sediment Analysis",
+WQ\HAB,,Water Quality And Habitat Assessment,Water Quality And Habitat Assessment,Water Quality And Habitat Assessment,,
+WQ\QBEN,,Water Quality And Qualitative Benthic Taxa Assessment,Water Quality And Qualitative Benthic Taxa Assessment,Water Quality And Qualitative Benthic Taxa Assessment,Water Quality And Qualitative Benthic Taxa Assessment,Water Quality And Qualitative Benthic Taxa Assessment
+WQ\QBEN\HAB,,"Water Quality, Qualitative Benthic Taxa And Habitat","Water Quality, Qualitative Benthic Taxa And Habitat","Water Quality, Qualitative Benthic Taxa And Habitat","Water Quality, Qualitative Benthic Taxa And Habitat",
+WQ\SED,,Water Quality And Sediment Analysis,Water Quality And Sediment Analysis,Water Quality And Sediment Analysis,,
+Table C-10.,Fall Line Designation (FALL_LINE).,Fall Line Designation (FALL_LINE).,Fall Line Designation (FALL_LINE).,,,
+Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of,Designation of sampling station position relative to fall line. These codes are found in the stations table of
+the plankton database.,the plankton database.,,,,,
+FALL_LINE,DESCRIPTION,DESCRIPTION,,,,
+A,Above Fall Line or Non-tidal Portion of Tributary,Above Fall Line or Non-tidal Portion of Tributary,Above Fall Line or Non-tidal Portion of Tributary,Above Fall Line or Non-tidal Portion of Tributary,,
+B,Below Fall Line or Tidal Portion of Tributary,Below Fall Line or Tidal Portion of Tributary,Below Fall Line or Tidal Portion of Tributary,,,
+Table C-11. FIPS Codes (FIPS).,Table C-11. FIPS Codes (FIPS).,Table C-11. FIPS Codes (FIPS).,,,,
+This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county,This table contains Federal Information Processing System (FIPS) codes identifying state and county
+type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional,type of field samples taken at given site. This code is used in the STATIONS tables. Additional
+codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:,codes may be added as needed. Currently accepted FIPS CODE designations are as follows:
+FIPS,STATE,,NAME,FIPS,STATE,NAME
+10001,DE,,KENT,24019,MD,DORCHESTER
+10003,DE,NEW CASTLE,,24021,MD,FREDERICK
+10005,DE,,SUSSEX,24023,MD,GARRETT
+11001,DC,DISTRICT OF COLUMBIA,,24025,MD,HARFORD
+24001,MD,ALLEGANY,,24027,MD,HOWARD
+24003,MD,ANNE ARUNDEL,,24029,MD,KENT
+24005,MD,BALTIMORE,,24031,MD,MONTGOMERY
+24009,MD,CALVERT,,24033,MD,PRINCE GEORGES
+24011,MD,CAROLINE,,24035,MD,QUEEN ANNES
+24013,MD,CARROLL,,24037,MD,SAINT MARYS
+24015,MD,,CECIL,24039,MD,SOMERSET
+24017,MD,CHARLES,,24041,MD,TALBOT
+,,,99,,,

@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 28 of 35”,Name: “Table 1 of 1 on page 28 of 35”
+Table: 28,Table: 28
+,
+The chlorophyll a concentrations are used to formulate a linear regression of chlorophyll,The chlorophyll a concentrations are used to formulate a linear regression of chlorophyll
+a against IVF (in vivo fluorescence). These linear regressions are then used to convert the,a against IVF (in vivo fluorescence). These linear regressions are then used to convert the
+"remaining IVF values to chlorophyll a. Only the resulting CHLA, and not the IVF itself, is","remaining IVF values to chlorophyll a. Only the resulting CHLA, and not the IVF itself, is"
+"contained in this data file. Beginning October, 1990, for the Patuxent, and for all systems in","contained in this data file. Beginning October, 1990, for the Patuxent, and for all systems in"
+"November, all IVF values were corrected for background dissolved fluorescence. This","November, all IVF values were corrected for background dissolved fluorescence. This"
+fluorescence was estimated on samples passing 0.22 um Millipore filters. The y-intercept of the,fluorescence was estimated on samples passing 0.22 um Millipore filters. The y-intercept of the
+regression is analyzed with a t-test to determine whether it is significantly different from zero. If,regression is analyzed with a t-test to determine whether it is significantly different from zero. If
+"the intercept is not significantly different, zero is substituted in the regression equation.","the intercept is not significantly different, zero is substituted in the regression equation."
+"Beginning in March, 2000, separate regressions were generated for horizontal transects","Beginning in March, 2000, separate regressions were generated for horizontal transects"
+and vertical profiles and for the upper and lower portions of the Maryland Bay and for the,and vertical profiles and for the upper and lower portions of the Maryland Bay and for the
+horizontal transects and vertical profiles of the Patuxent River. These regressions were applied,horizontal transects and vertical profiles of the Patuxent River. These regressions were applied
+to the corresponding data. Negative CHLA values reflect values below detection threshold of,to the corresponding data. Negative CHLA values reflect values below detection threshold of
+"methods. In the ASCII version of the data set, prior to cruise 47, values preceded by '>'indicate","methods. In the ASCII version of the data set, prior to cruise 47, values preceded by '>'indicate"
+IVF values where the fluorometer was offscale indicating values greater than the highest value,IVF values where the fluorometer was offscale indicating values greater than the highest value
+for that scale.,
+"Prior to March, 1987, horizontal IVF data was recorded directly onto a strip chart","Prior to March, 1987, horizontal IVF data was recorded directly onto a strip chart"
+"recorder. For purposes of determining the actual geographical location of a reading, the","recorder. For purposes of determining the actual geographical location of a reading, the"
+following assumptions are made:,
+(1) The total distance between the two stations is represented by the total length of the,(1) The total distance between the two stations is represented by the total length of the
+strip chart.,
+(2) The course from one station to the next was a straight line.,
+(3) The speed was constant from one station to the next so that there is a linear relationship,(3) The speed was constant from one station to the next so that there is a linear relationship
+between units along the chart (or readings on the computer) and distance from the start station.,between units along the chart (or readings on the computer) and distance from the start station.
+The actual geographical location is a distance of DIST away from the start station along a,The actual geographical location is a distance of DIST away from the start station along a
+straight line toward the destination station.,
+"For horizontal transects on cruises conducted after January, 1987, IVF values are","For horizontal transects on cruises conducted after January, 1987, IVF values are"
+automatically transcribed onto a personal computer (instead of a strip chart recorder used on,automatically transcribed onto a personal computer (instead of a strip chart recorder used on
+earlier cruises) directly from the fluorometer. The computer takes fluorescence readings every 5,earlier cruises) directly from the fluorometer. The computer takes fluorescence readings every 5
+seconds and records a mean value of these readings every 45 seconds.,Beginning in March
+"1999, a Lowrance 212 GPS receiver is being used to record latitude and longitude coordinates","1999, a Lowrance 212 GPS receiver is being used to record latitude and longitude coordinates"
+for each mean fluorescence value.,
+Phytoplankton,
+Field,
+Phytoplankton counts were obtained from replicate surface layer and bottom layer,Phytoplankton counts were obtained from replicate surface layer and bottom layer
+composite samples taken at 16 stations in the Maryland portion of the Chesapeake Bay and its,composite samples taken at 16 stations in the Maryland portion of the Chesapeake Bay and its
+"tributaries. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Beginning","tributaries. After June, 1986, stations MET4.2 and MEE3.1 were no longer sampled. Beginning"
+"January, 1996, stations MCB1.1 and MCB5.2 were no longer sampled. Sampling at MCB5.2 was","January, 1996, stations MCB1.1 and MCB5.2 were no longer sampled. Sampling at MCB5.2 was"
+,28
+MD PHYTO QAPP,4/15/09

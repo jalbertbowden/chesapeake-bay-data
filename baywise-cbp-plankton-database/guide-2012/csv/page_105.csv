@@ -1,0 +1,57 @@
+Name: “Table 1 of 1 on page 105 of 170”,Name: “Table 1 of 1 on page 105 of 170”,Name: “Table 1 of 1 on page 105 of 170”,Name: “Table 1 of 1 on page 105 of 170”,Name: “Table 1 of 1 on page 105 of 170”
+Table: 104,Table: 104,Table: 104,Table: 104,Table: 104
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+G_METHOD,GEAR METHOD DESCRIPTION,GEAR METHOD DESCRIPTION,GEAR METHOD DETAILS,GEAR METHOD DETAILS
+68,BOX TRAP,,,
+69,PUSH NET,,,
+70,GREAT LAKE SHOAL,GREAT LAKE SHOAL,1-2 INCHES,
+71,GREAT LAKE SHOAL,GREAT LAKE SHOAL,2-4 INCHES,
+72,GREAT LAKE SHOAL,GREAT LAKE SHOAL,4-7 INCHES,
+73,GREAT LAKE SHOAL,GREAT LAKE SHOAL,7-14 INCHES,
+74,BEAM TRAWL,,,
+75,BONGO NET,,"202 μ, 20 CM OPENING, 0.76 M LENGTH","202 μ, 20 CM OPENING, 0.76 M LENGTH"
+76,BONGO NET,,"202 μ, 50 CM OPENING, 4 M LENGTH","202 μ, 50 CM OPENING, 4 M LENGTH"
+77,RESERVED,,,
+78,SLAT TRAP,,,
+79,RESERVED,,,
+80,GIL NETS,,,
+81,USNOL SPADE CORE,USNOL SPADE CORE,0.06 M2 SPADE BOX CORE,0.06 M2 SPADE BOX CORE
+82,PONAR GRAB-ODU,PONAR GRAB-ODU,,
+83,DOUBLE PONAR GRAB-VA DEQ,DOUBLE PONAR GRAB-VA DEQ,50 SQ CM,
+84,RESERVED,,,
+86,KICK NET,,"23 CM x 46 CM, MESH OPEN SIZE 0.8MM BY 0.9 MM","23 CM x 46 CM, MESH OPEN SIZE 0.8MM BY 0.9 MM"
+87,KICK NET,,UNSPECIFIED,
+88,RESERVED,,,
+89,D-FRAME NET,,UNSPECIFIED,
+90,HESTER DENDY MULTIPLATE SAMPL,HESTER DENDY MULTIPLATE SAMPL,,
+91,SURBER SAMPLER,SURBER SAMPLER,,
+92,KICK SEINE,,,
+93,D-FRAME NET,,"600 MICRON, 12 INCH DIAMETER","600 MICRON, 12 INCH DIAMETER"
+94,KICK NET,,"600 MICRON, 1 SQUARE METER KICK SCREEN","600 MICRON, 1 SQUARE METER KICK SCREEN"
+96,HYDROLIC VAN VEEN GRAB,HYDROLIC VAN VEEN GRAB,0.1 SQUARE METERS,0.1 SQUARE METERS
+97,YOUNG MODIFIED VAN VEEN GRAB,YOUNG MODIFIED VAN VEEN GRAB,0.04 SQ M,
+98,PETITE PONAR GRAB,PETITE PONAR GRAB,25 SQUARE CM,
+99,SMITH-MACINTIRE GRAB,SMITH-MACINTIRE GRAB,0.3 SQUARE METER,0.3 SQUARE METER
+100,SMITH-MACINTIRE GRAB,SMITH-MACINTIRE GRAB,0.2 SQUARE METER,0.2 SQUARE METER
+Table C-13.,USGS Hydrologic Unit Codes (HUC_8).,USGS Hydrologic Unit Codes (HUC_8).,USGS Hydrologic Unit Codes (HUC_8).,
+"As part of the geographic referencing of stations, locations have been matched with its corresponding","As part of the geographic referencing of stations, locations have been matched with its corresponding","As part of the geographic referencing of stations, locations have been matched with its corresponding","As part of the geographic referencing of stations, locations have been matched with its corresponding","As part of the geographic referencing of stations, locations have been matched with its corresponding"
+"USGS hydrologic unit code (HUC). In 2010, USGS revised their HUC system to a six levels in the","USGS hydrologic unit code (HUC). In 2010, USGS revised their HUC system to a six levels in the","USGS hydrologic unit code (HUC). In 2010, USGS revised their HUC system to a six levels in the","USGS hydrologic unit code (HUC). In 2010, USGS revised their HUC system to a six levels in the","USGS hydrologic unit code (HUC). In 2010, USGS revised their HUC system to a six levels in the"
+"hierarchy, represented by hydrologic unit codes from 2 to 12 digits long, called regions, subregions,","hierarchy, represented by hydrologic unit codes from 2 to 12 digits long, called regions, subregions,","hierarchy, represented by hydrologic unit codes from 2 to 12 digits long, called regions, subregions,","hierarchy, represented by hydrologic unit codes from 2 to 12 digits long, called regions, subregions,","hierarchy, represented by hydrologic unit codes from 2 to 12 digits long, called regions, subregions,"
+"basins, subbasins, watersheds, and subwatersheds. The original delineation of units, down to subbasins","basins, subbasins, watersheds, and subwatersheds. The original delineation of units, down to subbasins","basins, subbasins, watersheds, and subwatersheds. The original delineation of units, down to subbasins","basins, subbasins, watersheds, and subwatersheds. The original delineation of units, down to subbasins","basins, subbasins, watersheds, and subwatersheds. The original delineation of units, down to subbasins"
+"(cataloging units), was done using 1:250,000 scale maps and data. The newer delineation work on","(cataloging units), was done using 1:250,000 scale maps and data. The newer delineation work on","(cataloging units), was done using 1:250,000 scale maps and data. The newer delineation work on","(cataloging units), was done using 1:250,000 scale maps and data. The newer delineation work on","(cataloging units), was done using 1:250,000 scale maps and data. The newer delineation work on"
+"watersheds and subwatersheds was done using 1:24,000 scale maps and data. As a result, the subbasin","watersheds and subwatersheds was done using 1:24,000 scale maps and data. As a result, the subbasin","watersheds and subwatersheds was done using 1:24,000 scale maps and data. As a result, the subbasin","watersheds and subwatersheds was done using 1:24,000 scale maps and data. As a result, the subbasin","watersheds and subwatersheds was done using 1:24,000 scale maps and data. As a result, the subbasin"
+boundaries were changed and adjusted in order to conform to the higher resolution watersheds within,boundaries were changed and adjusted in order to conform to the higher resolution watersheds within,boundaries were changed and adjusted in order to conform to the higher resolution watersheds within,boundaries were changed and adjusted in order to conform to the higher resolution watersheds within,boundaries were changed and adjusted in order to conform to the higher resolution watersheds within
+them. Changes to subbasin boundaries resulted in changes in area sizes.,them. Changes to subbasin boundaries resulted in changes in area sizes.,them. Changes to subbasin boundaries resulted in changes in area sizes.,them. Changes to subbasin boundaries resulted in changes in area sizes.,them. Changes to subbasin boundaries resulted in changes in area sizes.
+Digits,Old Reporting Units,New Reporting Units,Average size,Number of New
+,,,(square miles),Units in Watershed
+2,Region,Region,"177,560",1
+4,Subregion,Subregion,"16,800",5
+6,Accounting Unit,Basin,"10,596",8
+8,Cataloging Units,Subbasin,700,57
+10,Not Available,Watershed,277,427
+12,Not Available,Subwatershed,40,1980
+Currently in the Chesapeake Bay watershed Data bases focusing on sampling in tidal areas are,Currently in the Chesapeake Bay watershed Data bases focusing on sampling in tidal areas are,Currently in the Chesapeake Bay watershed Data bases focusing on sampling in tidal areas are,Currently in the Chesapeake Bay watershed Data bases focusing on sampling in tidal areas are,Currently in the Chesapeake Bay watershed Data bases focusing on sampling in tidal areas are
+georeferenced to the 8 Digit Hydrologic unit. Non-tidal databases are georeferenced to the full 12 digit,georeferenced to the 8 Digit Hydrologic unit. Non-tidal databases are georeferenced to the full 12 digit,georeferenced to the 8 Digit Hydrologic unit. Non-tidal databases are georeferenced to the full 12 digit,georeferenced to the 8 Digit Hydrologic unit. Non-tidal databases are georeferenced to the full 12 digit,georeferenced to the 8 Digit Hydrologic unit. Non-tidal databases are georeferenced to the full 12 digit
+hydrologic unit. Please see online data dictionaries for full details.,hydrologic unit. Please see online data dictionaries for full details.,hydrologic unit. Please see online data dictionaries for full details.,hydrologic unit. Please see online data dictionaries for full details.,
+,,,103,

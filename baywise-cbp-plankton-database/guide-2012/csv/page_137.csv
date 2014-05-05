@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”,Name: “Table 1 of 1 on page 137 of 170”
+Table: 136,Table: 136,Table: 136,Table: 136,Table: 136,Table: 136,Table: 136,Table: 136,Table: 136
+,,,,,,,,
+Table C-40.,Agency Species Codes (SPECCODE).,Agency Species Codes (SPECCODE).,Agency Species Codes (SPECCODE).,Agency Species Codes (SPECCODE).,,,,
+Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house,Many of the agencies reporting data containing species information have developed their own in-house
+species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,species codes. All of these codes are found in the SPECCODE column of a given data type.,Codes will
+vary by agency and data type.,vary by agency and data type.,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name,The agency code column in most cases has been given the agency name
+code in the data documentation.,code in the data documentation.,The valid alternate field names for SPECCODE are as follows:,The valid alternate field names for SPECCODE are as follows:,The valid alternate field names for SPECCODE are as follows:,The valid alternate field names for SPECCODE are as follows:,The valid alternate field names for SPECCODE are as follows:,The valid alternate field names for SPECCODE are as follows:,
+SPECCODE,DESCRIPTION,,,,,,,
+ANSCODE,"Academy of Natural Sciences, Benedict Estuarine Research Laboratory","Academy of Natural Sciences, Benedict Estuarine Research Laboratory","Academy of Natural Sciences, Benedict Estuarine Research Laboratory","Academy of Natural Sciences, Benedict Estuarine Research Laboratory","Academy of Natural Sciences, Benedict Estuarine Research Laboratory","Academy of Natural Sciences, Benedict Estuarine Research Laboratory",,
+MSUCODE,Morgan State University,Morgan State University,,,,,,
+ODUCODE,Old Dominion University,Old Dominion University,,,,,,
+VERCODE,Versar Incorporated–Maryland Power Plant Sighting Codes,Versar Incorporated–Maryland Power Plant Sighting Codes,Versar Incorporated–Maryland Power Plant Sighting Codes,Versar Incorporated–Maryland Power Plant Sighting Codes,Versar Incorporated–Maryland Power Plant Sighting Codes,,,
+VIMSCODE,Virginia Institute of Marine Sciences,Virginia Institute of Marine Sciences,Virginia Institute of Marine Sciences,,,,,
+Table C-41.,Alternate Sampling Station Identifier.,Alternate Sampling Station Identifier.,Alternate Sampling Station Identifier.,Alternate Sampling Station Identifier.,,,,
+The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,The following stations had their names changed to the standard CBP station names in July 1998.,
+Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data,Alternate names appearing in previous versions of the biological and water quality data sets and data
+users guides are as follows:,users guides are as follows:,,,,,,,
+AGENCY SATGAETNICOYN_,AGENCY SATGAETNICOYN_,STATION,AGENCY SATGAETNICOYN_,AGENCY SATGAETNICOYN_,STATION,AGENCY SATGAETNICOYN_,AGENCY SATGAETNICOYN_,STATION
+MDDNR,MEE3. 1,EE3. 1,MDDNR,XDF0407,LE1. 3,PADEP,WQN0201,WQN0202
+MDDNR,MET4. 2,ET4. 2,MDDNR,XEA1840,TF2. 4,PADEP,WQN0204,WQN0206
+MDDNR,MET5. 1,ET5. 1,MDDNR,XEA6596,TF2. 3,PADEP,WQN0214,WQN0241
+MDDNR,MET5. 2,ET5. 2,MDDNR,XED4892,TF1. 7,PADEP,WQN0217,WQN0218
+MDDNR,MLE2. 2,LE2. 2,MDDNR,XED9490,TF1. 6,PADEP,WQN0302,WQN0303
+MDDNR,MWT5. 1,WT5. 1,MDDNR,XFB1433,TF2. 2,PADEP,WQN0303,WQN0304
+MDDNR,MET5. 0A,ET5. 0A,MDDNR,XFB2470,TF2. 1,PADEP,WQN0311,WQN0312
+MDDNR,CHO0626,ET5. 0,MDDNR,XHF1373,CB3. 3C,PADEP,WQN0426,WQN0436
+MDDNR,PR01,TF2. 0,MDDNR,XJH6680,CB2. 1,USGS,01491000,ET5. 0
+MDDNR,PXT0402,TF1. 5,ODU,1,LE5. 5,USGS,01578310,CB1. 0
+MDDNR,PXT0456,TF1. 4,ODU,2,CB8. 1,USGS,01594440,TF1. 0
+MDDNR,PXT0494,TF1. 3,ODU,3,CB8. 1E,USGS,01646580,TF2. 0
+MDDNR,PXT0603,TF1. 0,ODU,4,CB7. 4,USGS,01668000,TF3. 0
+MDDNR,SUS0109,CB1. 0,ODU,5,CB7. 4N,USGS,01673000,TF4. 0P
+MDDNR,TF1. 1,TF1. 0,ODU,6,CB7. 3,USGS,01674500,TF4. 0M
+MDDNR,WXT0045,TF1. 2,ODU,7,CB7. 3E,USGS,02035000,TF5. 0J
+MDDNR,XCF8747,LE1. 4,ODU,8,CB6. 4,USGS,02041650,TF5. 0A
+MDDNR,XCF9575,CB5. 1W,ODU,9A,CB5. 4,VADEQ,TF3. 1,TF3. 0
+MDDNR,XCG8613,CB5. 1,ODU,9B,LE3. 7,VADEQ,TF4. 1,TF4. 0P
+MDDNR,XDA1177,RET2. 2,ODU,9C,WE4. 1,VADEQ,TF4. 3,TF4. 0M
+MDDNR,XDA4238,RET2. 1,ODU,9D,WE4. 4,VADEQ,TF5. 1,TF5. 0J
+MDDNR,XDB3321,RET2. 3,ODU,9E,CB7. 2E,VADEQ,TF5. 4A,TF5. 0A
+MDDNR,XDC1706,RET2. 4,ODU,9F,WE4. 2,VIMS,EE3. 1,EE3. 4
+MDDNR,XDE2792,LE1. 2,ODU,9G,WE4. 3,VIMS,EE3. 2,EE3. 5
+MDDNR,XDE5339,LE1. 1,ODU,9H,CB7. 1N,,,
+MDDNR,XDE9401,RET1. 1,ODU,9I,CB7. 1S,,,
+,,,,136,,,,

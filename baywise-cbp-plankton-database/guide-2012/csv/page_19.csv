@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 19 of 170”
+Table: 18
+""
+The 2012 Users Guide to CBP Biological Monitoring Data
+OBTAINING MONITORING DATA
+INFORMATION ACCESS THROUGH CHESAPEAKE DATA
+ENTERPRISE
+A major component of the CDE and its predecessor the CIMS network is to establish user interfaces for
+information retrieval. The primary user interface is the data users World Wide Web browser. Users can
+"search and download monitoring data, summary statistics and indicators, data documentation, key data"
+management documents and data inventories from several interfaces via the CBP web site. The
+"biological monitoring data can be obtained geographically, chronologically and programmatically."
+"Customized data sets are generated when a data user submits search criteria (time, geographic location,"
+"data type, etc.) to a monitoring database. Search results are returned to the user, as comma or tab"
+delimited ASCII flat files or XML Schema formatted files. Routine monitoring data is also becoming
+increasingly accessible through the GIS based Bay Stats web application. This interface enhancement
+will allow for geographic and graphical analysis of data online. Other CBP databases and data
+"management ""tools"" (e.g. QA/QC programs, documentation, and conversion tables and algorithms to"
+calculate indicators) are being added to the web page server in installments.
+CIMS/CDE WORLD WIDE WEB ACCESS
+The CBP has developed user-friendly graphical web interfaces for its relational databases of monitoring
+data to allow data users self serve data retrieval. All biological point data sets and data documentation
+"files are available online. A data user can now come to the web site, select basic data search criteria"
+"(data type, time range, geographic area of interest, etc) and then submit data search criteria to the"
+database. In turn the database will execute a search and return all the monitoring data which fits the
+search parameters. Data can then be saved to the users local PC in an increasing number of formats.
+Typical World Wide Web Data Retrieval from www.chesapeakebay.net
+1) Login to your local machine with Internet access as usual.
+2) Open your World Wide Web browser.
+3) Type in the URL www.chesapeakebay.net.
+4) Select the Bay Resource Library pull down menu on front of the CBP web page. Select Bay Data
+from the menu.
+5) Scroll down to the Data Download section and under the heading Living Resources where the following
+options are available:
+Baywide Benthic Database
+Baywide CBP Plankton Database
+Baywide Fluorescence Database
+Watershed Wide Benthic Invertebrate Database
+Baywide CBP Aerial SAV Survey (Exit CBP)
+Maryland Biological Stream Survey (Exit CBP)
+NOAA Fisheries Statistics and Economics Database (Exit CBP)
+17

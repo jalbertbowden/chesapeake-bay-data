@@ -1,0 +1,26 @@
+Name: “Table 1 of 1 on page 42 of 44”,Name: “Table 1 of 1 on page 42 of 44”,Name: “Table 1 of 1 on page 42 of 44”,Name: “Table 1 of 1 on page 42 of 44”,Name: “Table 1 of 1 on page 42 of 44”
+Table: 42,Table: 42,Table: 42,Table: 42,Table: 42
+,,,,
+Field Name,Description,Description,Data Type,Length
+TSN,TAXON SERIAL NUMBER-,,Text,7
+,ITIS Serial Number for Species Identification,ITIS Serial Number for Species Identification,,
+"(PK,PK,NN)",,,,
+R_DATE,VERSION DATE-,,Date/Time,8
+,Date denoting when data records were entered in to,Date denoting when data records were entered in to,,
+,database,,,
+VOLUME,BIOMASS CONVERSION VALUE,BIOMASS CONVERSION VALUE,Number (Double),8
+,Conversion factor to estimate biomass from a organism,Conversion factor to estimate biomass from a organism,,
+,count,,,
+SIZE,SPECIES CELL SIZE DESCRIPTOR-,SPECIES CELL SIZE DESCRIPTOR-,Text,30
+,Additional species identifier- PHYTO_PICO TABLE ONLY,Additional species identifier- PHYTO_PICO TABLE ONLY,,
+LIFE_STAGE,SPECIES LIFESTAGE-,,Text,3
+,Additional species identifier- ZOOTAX TABLE ONLY,Additional species identifier- ZOOTAX TABLE ONLY,,
+General:,This table stores information relating to the Source SPEC_CODE. This database uses the,This table stores information relating to the Source SPEC_CODE. This database uses the,This table stores information relating to the Source SPEC_CODE. This database uses the,This table stores information relating to the Source SPEC_CODE. This database uses the
+Interagency Taxonomic Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification,Interagency Taxonomic Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification,Interagency Taxonomic Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification,Interagency Taxonomic Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification,Interagency Taxonomic Identification System (ITIS) Taxon Serial Numbers (TSN) for species identification
+within the database.,For species with no TSN values temporary Chesapeake Bay TSN's are generated until,For species with no TSN values temporary Chesapeake Bay TSN's are generated until,For species with no TSN values temporary Chesapeake Bay TSN's are generated until,For species with no TSN values temporary Chesapeake Bay TSN's are generated until
+a species can be submitted to ITIS for recognition.,a species can be submitted to ITIS for recognition.,All data generators had developed and implemented,All data generators had developed and implemented,All data generators had developed and implemented
+internal species coding systems prior to the development of the ITIS standard.,internal species coding systems prior to the development of the ITIS standard.,internal species coding systems prior to the development of the ITIS standard.,This table is provided as a,This table is provided as a
+conversion table from Source in-house species codes to ITIS TSN’s prior to loading data to either the,conversion table from Source in-house species codes to ITIS TSN’s prior to loading data to either the,conversion table from Source in-house species codes to ITIS TSN’s prior to loading data to either the,conversion table from Source in-house species codes to ITIS TSN’s prior to loading data to either the,conversion table from Source in-house species codes to ITIS TSN’s prior to loading data to either the
+PHYTO_PICO TABLE or the ZOO_TAX TABLE.,PHYTO_PICO TABLE or the ZOO_TAX TABLE.,,,
+,,40,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

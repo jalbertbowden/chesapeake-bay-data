@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 55 of 170”,Name: “Table 1 of 1 on page 55 of 170”,Name: “Table 1 of 1 on page 55 of 170”
+Table: 54,Table: 54,Table: 54
+,,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+BASIN-WIDE BENTHIC INDEX OF BIOTIC INTEGRITY AND,BASIN-WIDE BENTHIC INDEX OF BIOTIC INTEGRITY AND,BASIN-WIDE BENTHIC INDEX OF BIOTIC INTEGRITY AND
+,CALCULATED METRICS,CALCULATED METRICS
+Healthy freshwater streams and rivers have local and regional importance. Clean waterways are a benefit,Healthy freshwater streams and rivers have local and regional importance. Clean waterways are a benefit,Healthy freshwater streams and rivers have local and regional importance. Clean waterways are a benefit
+"to residents who use them for drinking water, recreational activities, waste dilution and other purposes.","to residents who use them for drinking water, recreational activities, waste dilution and other purposes.","to residents who use them for drinking water, recreational activities, waste dilution and other purposes."
+"The watershed’s streams, creeks and rivers also eventually flow into the Chesapeake Bay, so their water","The watershed’s streams, creeks and rivers also eventually flow into the Chesapeake Bay, so their water","The watershed’s streams, creeks and rivers also eventually flow into the Chesapeake Bay, so their water"
+quality has a direct impact on the health of the estuary. An effective way to measure the health of,quality has a direct impact on the health of the estuary. An effective way to measure the health of,quality has a direct impact on the health of the estuary. An effective way to measure the health of
+freshwater streams and rivers is to study the oraganisms that live in these waters. The abundance and,freshwater streams and rivers is to study the oraganisms that live in these waters. The abundance and,freshwater streams and rivers is to study the oraganisms that live in these waters. The abundance and
+"diversity of snails, mussels, insects and other bottom-dwelling organisms - known as benthic","diversity of snails, mussels, insects and other bottom-dwelling organisms - known as benthic","diversity of snails, mussels, insects and other bottom-dwelling organisms - known as benthic"
+macroinvertebrates - are good indicators of the health of streams because these creatures can’t move,macroinvertebrates - are good indicators of the health of streams because these creatures can’t move,macroinvertebrates - are good indicators of the health of streams because these creatures can’t move
+very far and they respond in certain predictable ways to pollution and environmental stresses. The,very far and they respond in certain predictable ways to pollution and environmental stresses. The,very far and they respond in certain predictable ways to pollution and environmental stresses. The
+"Chesapeake Bay basin-wide Benthic Index of Biological Integrity, or “Chessie B-IBI,” was designed to","Chesapeake Bay basin-wide Benthic Index of Biological Integrity, or “Chessie B-IBI,” was designed to","Chesapeake Bay basin-wide Benthic Index of Biological Integrity, or “Chessie B-IBI,” was designed to"
+evaluate macroinvertebrate community health in non-tidal streams and wadeable rivers in a uniform,evaluate macroinvertebrate community health in non-tidal streams and wadeable rivers in a uniform,evaluate macroinvertebrate community health in non-tidal streams and wadeable rivers in a uniform
+manner across state boundaries and in the context of the entire Chesapeake Bay basin.,manner across state boundaries and in the context of the entire Chesapeake Bay basin.,manner across state boundaries and in the context of the entire Chesapeake Bay basin.
+As part of the development of Chessie BIBI raw data from over 25 stream monitoring programs were,As part of the development of Chessie BIBI raw data from over 25 stream monitoring programs were,As part of the development of Chessie BIBI raw data from over 25 stream monitoring programs were
+incorporated into a common database structure and a series of family-level macroinvertebrate metrics,incorporated into a common database structure and a series of family-level macroinvertebrate metrics,incorporated into a common database structure and a series of family-level macroinvertebrate metrics
+calculated from the data. Differences in monitoring program sampling and enumeration methodologies,calculated from the data. Differences in monitoring program sampling and enumeration methodologies,calculated from the data. Differences in monitoring program sampling and enumeration methodologies
+can strongly influence analysis done on raw data; however the differences may not greatly influence,can strongly influence analysis done on raw data; however the differences may not greatly influence,can strongly influence analysis done on raw data; however the differences may not greatly influence
+assessments when the monitoring programs have a common basis such as the US EPA RBP methods,assessments when the monitoring programs have a common basis such as the US EPA RBP methods,assessments when the monitoring programs have a common basis such as the US EPA RBP methods
+"(Astin 2006), family-level metrics are employed, and the metrics are unit-less (percent) or standardized","(Astin 2006), family-level metrics are employed, and the metrics are unit-less (percent) or standardized","(Astin 2006), family-level metrics are employed, and the metrics are unit-less (percent) or standardized"
+(100-count subsample). A suite of family-level metrics were calculated and tested as part of the Chessie,(100-count subsample). A suite of family-level metrics were calculated and tested as part of the Chessie,(100-count subsample). A suite of family-level metrics were calculated and tested as part of the Chessie
+BIBI development process. While the majority of these calculated values were not used in the Chessie,BIBI development process. While the majority of these calculated values were not used in the Chessie,BIBI development process. While the majority of these calculated values were not used in the Chessie
+"BIBI, many users of monitoring data have found the variety of metrics available to be useful. Therefore","BIBI, many users of monitoring data have found the variety of metrics available to be useful. Therefore","BIBI, many users of monitoring data have found the variety of metrics available to be useful. Therefore"
+the complete suite of these metrics is being made available as well as the scored Chessie BIBI metric,the complete suite of these metrics is being made available as well as the scored Chessie BIBI metric,the complete suite of these metrics is being made available as well as the scored Chessie BIBI metric
+data set. See Appendix A for details. The current list of available macroinvertebrate metrics are listed,data set. See Appendix A for details. The current list of available macroinvertebrate metrics are listed,data set. See Appendix A for details. The current list of available macroinvertebrate metrics are listed
+below. The “R_” suffix indicates the metric value is derived from a sample that has been randomly,below. The “R_” suffix indicates the metric value is derived from a sample that has been randomly,below. The “R_” suffix indicates the metric value is derived from a sample that has been randomly
+standardized to a 100-count subsample.,,
+ASPT_MOD,PCT_CLING_R,PCT_PREDATOR_R
+ASPT_MOD_R,PCT_CLINGER_TAXA,PCT_SCRAPER
+BECK,PCT_CLINGER_TAXA_R,PCT_SCRAPER_R
+BECK_R,PCT_COLLECT,PCT_SENSITIVE
+DIPTERA_TAXA_CNT,PCT_COLLECT_R,PCT_SENSITIVE_R
+DIPTERA_TAXA_CNT_R,PCT_DIPTERA,PCT_SHREDDER
+EPHEMEROPTERA_TAXA_CNT,PCT_DIPTERA_R,PCT_SHREDDER_R
+EPHEMEROPTERA_TAXA_CNT_R,PCT_DOM1,PCT_SIMULIIDAE
+EPT_TAXA_ABUND,PCT_DOM1_R,PCT_SIMULIIDAE_R
+EPT_TAXA_ABUND_R,PCT_DOM2,PCT_SWIMMER
+EPT_TAXA_COUNT,PCT_DOM2_R,PCT_SWIMMER_R
+EPT_TAXA_COUNT_NO_TOL,PCT_DOM3,PCT_TOLERANT
+EPT_TAXA_COUNT_NO_TOL_R,PCT_DOM3_R,PCT_TOLERANT_R
+EPT_TAXA_COUNT_R,PCT_EPHEMEROPTERA,PCT_TRICHOPTERA
+FBI,PCT_EPHEMEROPTERA_R,PCT_TRICHOPTERA_NO_TOL
+FBI_R,PCT_EPT,PCT_TRICHOPTERA_NO_TOL_R
+GOLD,PCT_EPT_R,PCT_TRICHOPTERA_R
+GOLD_R,PCT_EPT_TAXA_RICH,PLECOPTERA_TAXA_CNT
+GRAND_SCORE,PCT_EPT_TAXA_RICH_R,PLECOPTERA_TAXA_CNT_R
+MARGALEFS,PCT_FILTERERS,RATIO_SC_TO_CF
+MARGALEFS_R,PCT_FILTERERS_R,RATIO_SC_TO_CF_R
+NCO_TAXA_CNT,PCT_GATHER,RATIO_SC_TO_SH
+NCO_TAXA_CNT_R,PCT_GATHER_R,RATIO_SC_TO_SH_R
+NON_INSECT_TAXA_CNT,PCT_LIMESTONE,RATIO_SH_TO_CG
+NON_INSECT_TAXA_CNT_R,PCT_LIMESTONE_R,RATIO_SH_TO_CG_R
+PCT_BURROWER,PCT_NET_CADDISFLY,SCRAPER_TAXA_CNT
+PCT_BURROWER_R,PCT_NET_CADDISFLY_R,SCRAPER_TAXA_CNT_R
+PCT_CHIRONOMIDAE,PCT_NON_INSECT,SENSITIVE_TAXA_COUNT
+PCT_CHIRONOMIDAE_R,PCT_NON_INSECT_R,SENSITIVE_TAXA_COUNT_R
+PCT_CLIMB,PCT_PLECOPTERA,SIMPSON_DIVERSITY
+PCT_CLIMB_R,PCT_PLECOPTERA_R,SIMPSON_DIVERSITY_R
+PCT_CLING,PCT_PREDATOR,SW
+,53,

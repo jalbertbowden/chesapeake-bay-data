@@ -1,0 +1,47 @@
+Name: “Table 1 of 1 on page 8 of 35”,Name: “Table 1 of 1 on page 8 of 35”
+Table: 8,Table: 8
+,
+Chesapeake Bay Water Quality Monitoring Program.,
+Parameter:,Phytoplankton Taxonomy
+Data Quality Indicator,Methodologies
+Precision,The counting technique which is used (Utermohl technique)
+,requires a minimum of 200 individual cells to be counted in 10
+,random fields at the primary magnification (312.5X). This
+,"number of cells produces a precision of 80%, whereby a"
+,recount of a sample should produce a total cell density within
+,80% of the original count. Inter-lab recounts are done on 10%
+,of the samples and the resulting total density must be within
+,80% of the original or the re-count is done again until this
+,precision is attained.
+Bias,Bias within taxonomist is determined by enumerating the same
+,samples by different taxonomists. This is done annually
+,between the MD taxonomist (MSUERC) and the VA
+,taxonomist (ODU) in a split sample program. The results of
+,these split sample efforts are documented in reports.
+Accuracy,Accuracy has not been tested for phytoplankton enumerations.
+,The reason for this is that there is no way to know the
+,absolute composition of phytoplankton in a field sample. It
+,has been discussed to mix several algal cultures into one
+,sample and have a particle counter provide an estimate of the
+,"densities of the various algae, but this has not been carried out."
+Representativeness,The phytoplankton samples are collected by compositing the
+,same volume of water from five distinct depths in replicate.
+,The replicate composites are combined and the sample is
+,removed from this replicate composite. This enhances the
+,representativeness of the sample and is aimed at reducing the
+,effects of ‘patchiness’ inherent in phytoplankton populations.
+Comparability,The split sample program between MD and VA is aimed at
+,producing a Baywide phytoplankton data set which is
+,comparable. Many steps have been taken over the years to
+,maximize this comparability between the two phytoplankton
+,labs.
+Completeness,The MD phytoplankton program has recently added four
+,additional sampling sites because of incomplete spatial
+,coverage. Only the portion of the water column above the
+,pycnocline is analyzed because of funding issues. Temporally
+,key months are sampled bi-weekly while other months are not
+,sampled – this was done because of knowledge gained about
+,phytoplankton population dynamics and a recent power
+,analysis supported this decision.
+,8
+MD PHYTO QAPP,4/15/09

@@ -1,0 +1,48 @@
+Name: “Table 1 of 1 on page 33 of 44”,Name: “Table 1 of 1 on page 33 of 44”,Name: “Table 1 of 1 on page 33 of 44”,Name: “Table 1 of 1 on page 33 of 44”,Name: “Table 1 of 1 on page 33 of 44”,Name: “Table 1 of 1 on page 33 of 44”
+Table: 33,Table: 33,Table: 33,Table: 33,Table: 33,Table: 33
+,,,,,
+TAB_SOURCES,TAB_SOURCES,,,,
+,Name,,Description,Data Type,Length
+SOURCE,,DATA SOURCE CODE,,VARCHAR,10
+(PK),,,,,
+SOURCE_,,DATA SOURCE DESCRIPTION,DATA SOURCE DESCRIPTION,VARCHAR,100
+DESCRIPTION,DESCRIPTION,Definition of SOURCE,,,
+(NN),,,,,
+SOURCE_,,MONITORING DATA SOURCE DESCRIPTION Details,MONITORING DATA SOURCE DESCRIPTION Details,VARCHAR,150
+DETAILS,,,,,
+"GENERAL: These codes, taken directly from the currently in the water quality, and living resources","GENERAL: These codes, taken directly from the currently in the water quality, and living resources","GENERAL: These codes, taken directly from the currently in the water quality, and living resources","GENERAL: These codes, taken directly from the currently in the water quality, and living resources","GENERAL: These codes, taken directly from the currently in the water quality, and living resources","GENERAL: These codes, taken directly from the currently in the water quality, and living resources"
+databases.,"As data from other sources (e.g. DCRA, PADEP, SRBC) is added, their SOURCE codes must","As data from other sources (e.g. DCRA, PADEP, SRBC) is added, their SOURCE codes must","As data from other sources (e.g. DCRA, PADEP, SRBC) is added, their SOURCE codes must","As data from other sources (e.g. DCRA, PADEP, SRBC) is added, their SOURCE codes must","As data from other sources (e.g. DCRA, PADEP, SRBC) is added, their SOURCE codes must"
+first be added to this table. Currently accepted SOURCE designations are as follows:,first be added to this table. Currently accepted SOURCE designations are as follows:,first be added to this table. Currently accepted SOURCE designations are as follows:,first be added to this table. Currently accepted SOURCE designations are as follows:,first be added to this table. Currently accepted SOURCE designations are as follows:,
+SOURCE SOURCE_DESCRIPTION,SOURCE SOURCE_DESCRIPTION,,SOURCE_DETAILS,,
+MDE,MARYLAND DEPARTMENT OF THE ENVIRONMENT,MARYLAND DEPARTMENT OF THE ENVIRONMENT,,,
+MSU,MORGAN STATE UNIVERSITY,,"FORMERLY (ANS) ACADEMY OF NATURAL SCIENCES, BENEDICT ESTUARINE","FORMERLY (ANS) ACADEMY OF NATURAL SCIENCES, BENEDICT ESTUARINE","FORMERLY (ANS) ACADEMY OF NATURAL SCIENCES, BENEDICT ESTUARINE"
+,,,LABORATORY,,
+ODU,OLD DOMINION UNIVERSITY,,CONTRACTED BY THE STATE OF VIRGINIA,,
+OEP,MARYLAND OFFICE OF ENVIRONMENTAL,MARYLAND OFFICE OF ENVIRONMENTAL,,,
+,PROGRAMS,,,,
+VERSAR VERSAR INC.,VERSAR VERSAR INC.,,,,
+VIMS,VIRGINIA INSTITUTE OF MARINE SCIENCE,VIRGINIA INSTITUTE OF MARINE SCIENCE,CONTRACTED BY THE STATE OF VIRGINIA,,
+VSWCB,VIRGINIA STATE WATER CONTROL BOARD,VIRGINIA STATE WATER CONTROL BOARD,,,
+TAB_STATIONS,TAB_STATIONS,,,,
+Field Name,Field Name,,Description,Data Type,Length
+STATION,,SAMPLING STATION-,,VARCHAR,15
+,,CBP station name,,,
+"(PK, FK)",,,,,
+LATITUDE,,STATION LATITUDE-,,DECIMAL,
+,,Station Latitude in decimal degrees,Station Latitude in decimal degrees,,
+(PK),,,,,
+LONGITUDE,LONGITUDE,STATION LONGITUDE-,,DECIMAL,
+,,Station Longitude in negative decimal degrees,Station Longitude in negative decimal degrees,,
+(PK),,coordinates),,,
+LL_DATUM,LL_DATUM,LAT_LONG DATUM CODE,LAT_LONG DATUM CODE,CHAR,5
+,,Code specifying the associated datum of the latitude,Code specifying the associated datum of the latitude,,
+(FK),,and longitude values,,,
+STATION_,,SAMPLING STATION DESCRIPTION-,SAMPLING STATION DESCRIPTION-,VARCHAR,255
+DESCRIPTION,DESCRIPTION,Physical or Geographical description of Station,Physical or Geographical description of Station,,
+WATER_BODY,WATER_BODY,WATER BODY DESCRIPTION,WATER BODY DESCRIPTION,VARCHAR,50
+,,"Water body (i.e. river, bay, creek, run) in which the","Water body (i.e. river, bay, creek, run) in which the",,
+,,station is located,,,
+CBP_BASIN,CBP_BASIN,CHESAPEAKE BAY PROGRAM BASIN,CHESAPEAKE BAY PROGRAM BASIN,VARCHAR,30
+,,Chesapeake Bay Program basin in which the station,Chesapeake Bay Program basin in which the station,,
+,,,31,,
+,,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

@@ -1,0 +1,17 @@
+Name: “Table 1 of 1 on page 21 of 29”,Name: “Table 1 of 1 on page 21 of 29”,Name: “Table 1 of 1 on page 21 of 29”,Name: “Table 1 of 1 on page 21 of 29”,Name: “Table 1 of 1 on page 21 of 29”
+Table: 21,Table: 21,Table: 21,Table: 21,Table: 21
+,,,,
+2.3,Data V erification Procedures,Data V erification Procedures,Data V erification Procedures,
+,1.,Field and laborat ory dat a sheet s are coded and punched directly from t he origi-,Field and laborat ory dat a sheet s are coded and punched directly from t he origi-,Field and laborat ory dat a sheet s are coded and punched directly from t he origi-
+,,nals.,,
+,2.,"After punching, print outs are verified and corrected against the originals and re-","After punching, print outs are verified and corrected against the originals and re-","After punching, print outs are verified and corrected against the originals and re-"
+,,checked.,,
+,3.,SAS verific ation:,A SAS job is run on eac h new,dat a set w hich is designed to
+,,"check value ranges, valid species, stations, and dates, and various combinations","check value ranges, valid species, stations, and dates, and various combinations","check value ranges, valid species, stations, and dates, and various combinations"
+,,of condit ions unique to each data set (Appendix B).,of condit ions unique to each data set (Appendix B).,of condit ions unique to each data set (Appendix B).
+,4.,"Af ter SAS verif ication and subsequent correct ions, the SAS verif ication is run","Af ter SAS verif ication and subsequent correct ions, the SAS verif ication is run","Af ter SAS verif ication and subsequent correct ions, the SAS verif ication is run"
+,,again until no errors result.,again until no errors result.,
+,5.,Convert SAS data sets t o A SCII f iles f or submissions t o t he Liv ing Resources,Convert SAS data sets t o A SCII f iles f or submissions t o t he Liv ing Resources,Convert SAS data sets t o A SCII f iles f or submissions t o t he Liv ing Resources
+,,prog ram and annotat e any changes to the program in the Maryland Chesapeake,prog ram and annotat e any changes to the program in the Maryland Chesapeake,prog ram and annotat e any changes to the program in the Maryland Chesapeake
+,,Bay Program Mesozooplank ton Taxonomic Data Dictionary (Appendix C).,Bay Program Mesozooplank ton Taxonomic Data Dictionary (Appendix C).,Bay Program Mesozooplank ton Taxonomic Data Dictionary (Appendix C).
+,,,19,

@@ -1,0 +1,29 @@
+Name: “Table 1 of 1 on page 112 of 170”,Name: “Table 1 of 1 on page 112 of 170”,Name: “Table 1 of 1 on page 112 of 170”,Name: “Table 1 of 1 on page 112 of 170”
+Table: 111,Table: 111,Table: 111,Table: 111
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+LAB,LAB_DESCRIPTION,,
+ODU,Old Dominion University Laboratory,,
+OWML,Occoquan Watershed Monitoring Laboratory,,
+PADEP,Pennsylvania Department Of Environmental Protection Lab,Pennsylvania Department Of Environmental Protection Lab,
+SMRP,St Mary's River Project,,
+SRBC,Susquehanna River Basin Commission Lab,,
+UMCES-AL,University Of Maryland Appalachian Laboratory,,
+UNKNOWN,Unknown Or Lab Not Specified,,
+USGS-KDSL United States Geological Survey Kentucky District Sediment Laboratory,USGS-KDSL United States Geological Survey Kentucky District Sediment Laboratory,USGS-KDSL United States Geological Survey Kentucky District Sediment Laboratory,USGS-KDSL United States Geological Survey Kentucky District Sediment Laboratory
+USGS-NWQL United States Geological Survey National Water Quality Laboratory,USGS-NWQL United States Geological Survey National Water Quality Laboratory,USGS-NWQL United States Geological Survey National Water Quality Laboratory,
+USGS-SED,USGS Sediment Laboratory In Kentucky,,
+VADCLS,Virginia Division Of Consolidated Laboratory Services,,
+VCU,Virginia Commonwealth University,,
+VIMS,Virginia Institute Of Marine Science,,
+Table C-20.,Sample Layer (LAYER).,,
+These codes are used to describe the water layer or sediment being sampled.,These codes are used to describe the water layer or sediment being sampled.,These codes are used to describe the water layer or sediment being sampled.,These codes are used to describe the water layer or sediment being sampled.
+LAYER,DESCRIPTION,LAYER,DESCRIPTION
+S,Surface,AT,Above thermocline
+M,Middle,BT,Below thermocline
+B,Bottom,AE,Above euphotic zone
+SE,Sediment,BE,Below euphotic zone
+SW,Sediment/water interface (0 - 1cm),MI,Microlayer
+AP,Above pycnocline,WC,Whole water column
+BP,Below pycnocline,,
+,110,,

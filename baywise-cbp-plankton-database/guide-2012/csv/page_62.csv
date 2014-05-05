@@ -1,0 +1,67 @@
+Name: “Table 1 of 1 on page 62 of 170”,Name: “Table 1 of 1 on page 62 of 170”,Name: “Table 1 of 1 on page 62 of 170”,Name: “Table 1 of 1 on page 62 of 170”,Name: “Table 1 of 1 on page 62 of 170”
+Table: 61,Table: 61,Table: 61,Table: 61,Table: 61
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-1.,Station Information File Format for All Plankton Data,Station Information File Format for All Plankton Data,Station Information File Format for All Plankton Data,Station Information File Format for All Plankton Data
+"This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton"
+and primary production data.,and primary production data.,and primary production data.,,
+Field Name,Type,Width,Description,
+STATION,Text,15,Sampling Station,Sampling Station
+LATITUDE,Number,8.5,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,8.5,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+LL_DATUM,Text,5,Latitude-Longitude Datum Code,Latitude-Longitude Datum Code
+DESCRIPTION,Text,225,Sampling Station Description,Sampling Station Description
+WATER_BODY,Text,50,Water Body Description,Water Body Description
+CBP_BASIN,Text,30,Chesapeake Bay Program Basin,Chesapeake Bay Program Basin
+TS_BASIN,Text,30,Tributary Strategy Basin Designation,Tributary Strategy Basin Designation
+BASIN,Text,30,Major Basin Code,Major Basin Code
+SUBBASIN,Text,30,Subbasin Code,
+FALL_LINE,Text,2,Fall Line Designation,Fall Line Designation
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+LL_DATUM,Text,5,Latitude and Longitude Geographic Datum,Latitude and Longitude Geographic Datum
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,
+,Text,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+Table A-2.,Event Data File Format for All Plankton Data,Event Data File Format for All Plankton Data,Event Data File Format for All Plankton Data,Event Data File Format for All Plankton Data
+"This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton","This included phytoplankton, phytoplankton, mesozooplankton, microzooplankton, gelatinous zooplankton"
+and primary production data.,and primary production data.,and primary production data.,,
+Field Name,Type,Width,Description,
+SURVEY_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+DATA_TYPE,Text,3,Sample Type Code,Sample Type Code
+SOURCE,Text,10,Data Collection Agency,Data Collection Agency
+SAMPLE_TYPE,Text,2,Collection Type,
+SAMPLE_DATE,Date/Time,Date/Time,,
+,,8,Sampling date,(MM/DD/YYYY)
+LAYER,Text,3,Layer of Water Column in Which Sample Was Taken,Layer of Water Column in Which Sample Was Taken
+LATITUDE,Number,8.5,Latitude in Decimal Degrees (NAD83),Latitude in Decimal Degrees (NAD83)
+LONGITUDE,Number,8.5,Longitude in Decimal Degrees (NAD83),Longitude in Decimal Degrees (NAD83)
+P_DEPTH,Number,8.1,Composite Sample Cut-Off Depth,Composite Sample Cut-Off Depth
+R_DATE,Date/Time,Date/Time,,
+,,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+SALZONE,Text,2,Salinity Zone,
+SAMPLE_VOLUME Number,SAMPLE_VOLUME Number,8.3,Total Volume of Sample,Total Volume of Sample
+UNITS,Text,15,Reporting Units of Sample Volume,Reporting Units of Sample Volume
+STATION,Text,15,Sampling Station,Sampling Station
+TOTAL_DEPTH,Number,8.1,Total Station Depth (meters),Total Station Depth (meters)
+SAMPLE_TIME,Date/Time,Date/Time,,
+,,8,Sample Collection Time (HHMM ),Sample Collection Time (HHMM )
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,
+BASIN,Text,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,
+,Text,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+,,,,60

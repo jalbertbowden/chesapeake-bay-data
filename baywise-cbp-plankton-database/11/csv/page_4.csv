@@ -1,0 +1,55 @@
+Name: “Table 1 of 1 on page 4 of 11”,Name: “Table 1 of 1 on page 4 of 11”,Name: “Table 1 of 1 on page 4 of 11”
+Table: 4,Table: 4,Table: 4
+,,
+,VAPDDOC.doc,
+"# FORMULAS, CALCULATIONS, AND CONVERSIONS","# FORMULAS, CALCULATIONS, AND CONVERSIONS",
+>Calculation of Carbon Fixation,,
+The following equations were used to determine the rate of carbon fixation in ug/l/hr.,The following equations were used to determine the rate of carbon fixation in ug/l/hr.,Note that the raw
+data used in these calculations are not presented in the associated data set.,data used in these calculations are not presented in the associated data set.,Only the resulting carbon
+fixation rate is included.,,
+1) CARBALK = 120 * (Total Alkalinity),,
+2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-,2) CARBFIX = IVOL * ((DPMSAM/FVOL)-(DPMT0/FVOL)) * CARBALK * 1.05 / DPMSP * (ETIME-
+BTIME),,
+where CARBFIX = Carbon fixation rate in ug C/l/hr,where CARBFIX = Carbon fixation rate in ug C/l/hr,
+IVOL = Volume incubated,,
+FVOL = Volume filtered,,
+DPMSAM = Disintegrations per minute from incubated sample,DPMSAM = Disintegrations per minute from incubated sample,
+DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample,DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample,DPMT0 = Disintegrations per minute from corresponding unincubated (time zero - t0) sample
+DPMSP = Total disintegrations per minute for C-14 spike,DPMSP = Total disintegrations per minute for C-14 spike,
+BTIME = Beginning time of incubation (h),,
+ETIME = Ending time of incubation (h),,
+CARBALK = Total inorganic carbonate,,
+>Calculation of Assimilation Ratio,,
+ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value,ASMRATIO = CARBFIX / CHLA - this ratio is calculated prior to rounding the CARBFIX value
+where ASMRATIO = Assimilation ratio,,
+CARBFIX = Carbon fixation in ug C/l/h from 2,CARBFIX = Carbon fixation in ug C/l/h from 2,
+CHLA = Chlorophyll a in ug/l,,
+# MONITORING QA\QC PLAN FOR PROJECT,,
+Standard protocol procedures will be followed to guard against errors and maintain accuracy and,Standard protocol procedures will be followed to guard against errors and maintain accuracy and,Standard protocol procedures will be followed to guard against errors and maintain accuracy and
+"precision thought out the collection and analysis procedures (Strickland and Parsons, 1972).","precision thought out the collection and analysis procedures (Strickland and Parsons, 1972).",These
+"include first hand instruction to all assistants by the re-check and first hand observations by the PI., and","include first hand instruction to all assistants by the re-check and first hand observations by the PI., and","include first hand instruction to all assistants by the re-check and first hand observations by the PI., and"
+periodic duplicate analysis of samples collected.,The C14 work will be performed on four separate,The C14 work will be performed on four separate
+replicates taken from each composite sample.,Carbonate alkalinity will be determined on four separate,Carbonate alkalinity will be determined on four separate
+replicates. Comparison between replicates will be constantly monitored.,replicates. Comparison between replicates will be constantly monitored.,
+"# MONITORING VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS","# MONITORING VARIABLE NAMES, MEASUREMENT UNITS AND DESCRIPTIONS",
+> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.,> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.,> PARAMETER: Alkalinity for total inorganic carbon. (Used for determination of carbon fixation rate.
+Value not provided in data set),,
+- COLLECTION METHODS: See above.,,
+- SAMPLE PRESERVATION: Refrigerate over night or process immediately.,- SAMPLE PRESERVATION: Refrigerate over night or process immediately.,
+"-TIME IN STORAGE: 
+    ",,
+-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:,-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:,-LABORATORY TECHNIQUE WITH REFERENCES: Total alkalinity is calculated in the following manner:
+Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH,Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH,Initial pH is determined. Then 0.025N HCl is add in 0.2-milliliter aliquots until pH is 3.8-4.2. There after pH
+is recorded for five cumulative additions of 0.025N HCl.,is recorded for five cumulative additions of 0.025N HCl.,
+"Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for","Strickland, J.D.H. and T.R., Parsons. 1972. A Practical Handbook for",
+Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,Seawater Analysis. Fish. Res. Bd. Canada. Bull. 167. Ottawa 310pp.,
+>PARAMETER: CARBFIX (Carbon fixation rate in micrograms carbon per liter per hour),>PARAMETER: CARBFIX (Carbon fixation rate in micrograms carbon per liter per hour),
+-COLLECTION METHODS:,,
+Water sub-samples for the productivity measurements will be taken from each of the two composite water,Water sub-samples for the productivity measurements will be taken from each of the two composite water,Water sub-samples for the productivity measurements will be taken from each of the two composite water
+samples (carboys) taken from the upper water column series and within the euphotic zone at each station,samples (carboys) taken from the upper water column series and within the euphotic zone at each station,samples (carboys) taken from the upper water column series and within the euphotic zone at each station
+in the lower Bay and the four rivers.,"From each of the two carboys, 2 - 1 liter water samples (total of","From each of the two carboys, 2 - 1 liter water samples (total of"
+"4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory.","4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory.","4/station) are placed in labeled bottles and placed in a cooler, until their return to the laboratory."
+Water sub-samples for the productivity measurements were taken from each of the two composite water,Water sub-samples for the productivity measurements were taken from each of the two composite water,Water sub-samples for the productivity measurements were taken from each of the two composite water
+samples taken from above the pycnocline at each station. Two one-liter water samples were taken from,samples taken from above the pycnocline at each station. Two one-liter water samples were taken from,samples taken from above the pycnocline at each station. Two one-liter water samples were taken from
+each of the two composite sample carboys (a total of four samples per station). Samples were placed in,each of the two composite sample carboys (a total of four samples per station). Samples were placed in,each of the two composite sample carboys (a total of four samples per station). Samples were placed in
+,4,1/11/2010

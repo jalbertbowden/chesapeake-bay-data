@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”,Name: “Table 1 of 1 on page 30 of 44”
+Table: 30,Table: 30,Table: 30,Table: 30,Table: 30,Table: 30,Table: 30
+,,,,,,
+Field Name,Field Name,,Description,Data Type,Data Type,Length
+SALZONE,,SALINITY ZONE CODE,,CHAR,,2
+"(PK,FK)",,,,,,
+SALZONE _,SALZONE _,CODE DEFINITION,,VARCHAR,,50
+DESCRIPTION,DESCRIPTION,,,,,
+(NN),,,,,,
+SALZONE_RANGE,SALZONE_RANGE,SALINITY RANGE FOR ZONE,SALINITY RANGE FOR ZONE,VARCHAR,,15
+,,In Parts Per Thousand,,,,
+GENERAL:,,This table stores information related exclusively to SALZONE codes in the TAB_BIOTA_E,This table stores information related exclusively to SALZONE codes in the TAB_BIOTA_E,This table stores information related exclusively to SALZONE codes in the TAB_BIOTA_E,This table stores information related exclusively to SALZONE codes in the TAB_BIOTA_E,
+VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field,VENT TABLE. In many cases the Water Quality and Living Resource monitoring programs performed field
+sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality,sample collection at the same time. Therefore salinity zones were determined based on the water quality
+data.,"However, in cases where water quality measurements and Living Resources data were not collected","However, in cases where water quality measurements and Living Resources data were not collected","However, in cases where water quality measurements and Living Resources data were not collected","However, in cases where water quality measurements and Living Resources data were not collected","However, in cases where water quality measurements and Living Resources data were not collected","However, in cases where water quality measurements and Living Resources data were not collected"
+"synchronous, the SALZONE","synchronous, the SALZONE","synchronous, the SALZONE",is based on the water quality profile collected with in a one week window of the,is based on the water quality profile collected with in a one week window of the,is based on the water quality profile collected with in a one week window of the,is based on the water quality profile collected with in a one week window of the
+Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only,Living Resources sampling event. Salinity zones determined in this manner are noted as estimated. Only
+when water quality data was unavailable were SALZONES reported as missing.,when water quality data was unavailable were SALZONES reported as missing.,when water quality data was unavailable were SALZONES reported as missing.,when water quality data was unavailable were SALZONES reported as missing.,Salinity classes are as,Salinity classes are as,
+follows:,,,,,,
+SALZONE,,DESCRIPTION,,,,
+F,,FRESH (0-0.5 PPT),,,,
+FE,,ESTIMATED FRESH (0-0.5 PPT),,,,
+M,,MESOHALINE (5.1- 18.0 PPT),,,,
+ME,,ESTIMATED MESOHALINE (5.1- 18.0 PPT),,,,
+N,,NOT RECORDED,,,,
+O,,OLIGOHALINE (0.51-5.0 PPT),,,,
+OE,,ESTIMATED OLIGOHALINE (0.51-5.0 PPT),,,,
+P,,POLYHALINE (>18.0 PPT),,,,
+PE,,ESTIMATED POLYHALINE (>18.0 PPT),,,,
+TAB_SAMPLE_TYPES,TAB_SAMPLE_TYPES,TAB_SAMPLE_TYPES,,,,
+,Name,,Description,Data Type,Length,Length
+SAMPLE_TYPE,SAMPLE_TYPE,SAMPLE COLLECTION TYPE CODE,SAMPLE COLLECTION TYPE CODE,VARCHAR,5,
+(PK),,,,,,
+DESCRIPTION,DESCRIPTION,CODE DEFINITION,,VARCHAR,130,
+(NN),,,,,,
+GENERAL:,,This table stores information relating to the type of field samples taken at given site. These,This table stores information relating to the type of field samples taken at given site. These,This table stores information relating to the type of field samples taken at given site. These,This table stores information relating to the type of field samples taken at given site. These,
+codes are used in the TAB_BIOTA_EVENT table.,codes are used in the TAB_BIOTA_EVENT table.,codes are used in the TAB_BIOTA_EVENT table.,Additional codes may be added as needed. Currently,Additional codes may be added as needed. Currently,Additional codes may be added as needed. Currently,Additional codes may be added as needed. Currently
+accepted SAMPLE_TYPE designations are as follows:,accepted SAMPLE_TYPE designations are as follows:,accepted SAMPLE_TYPE designations are as follows:,accepted SAMPLE_TYPE designations are as follows:,,,
+C,= Composite Sample (May be composite of multiple samples from a site or multiple depths),= Composite Sample (May be composite of multiple samples from a site or multiple depths),= Composite Sample (May be composite of multiple samples from a site or multiple depths),,,
+D,= Discrete (GRAB) Sample (Single sample from site or depth),= Discrete (GRAB) Sample (Single sample from site or depth),,,,
+ISM_H,"= In-Situ Measurement, Collected as part of a Horizontal Transect","= In-Situ Measurement, Collected as part of a Horizontal Transect",,,,
+ISM_V,"= In-Situ Measurement, Collected as part of a Vertical Profile","= In-Situ Measurement, Collected as part of a Vertical Profile",,,,
+,,,28,,,
+,,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

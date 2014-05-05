@@ -1,0 +1,17 @@
+Name: “Table 1 of 1 on page 78 of 170”
+Table: 77
+""
+The 2012 Users Guide to CBP Biological Monitoring Data
+APPENDIX B – BIOLOGICAL DATA DICTIONARY
+June 2012
+This appendix contains the data dictionary of terms used in defining data fields in the CIMS/CDE
+biological databases. Its purpose is to provide consistency within the CIMS/CDE databases by making
+data submittal and retrieval compatible among institutions that participate in the program. This dictionary
+will be expanded as new parameter and field names are required. Institutions submitting data to the CBP
+monitoring database should use these variable names whenever possible so that names and units of
+measure are consistent within the CBP monitoring database. Some of the terms in previous versions of
+this dictionary have changed as the Chesapeake Bay Program Data Center implemented data dictionary
+consolidation among monitoring programs.
+"Each entry in this appendix lists the dictionary term name, a brief term description, and whether a term is"
+"an attribute or value in as attribute field, a data type and field length."
+76

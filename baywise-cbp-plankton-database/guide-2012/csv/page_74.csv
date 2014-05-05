@@ -1,0 +1,63 @@
+Name: “Table 1 of 1 on page 74 of 170”,Name: “Table 1 of 1 on page 74 of 170”,Name: “Table 1 of 1 on page 74 of 170”,Name: “Table 1 of 1 on page 74 of 170”,Name: “Table 1 of 1 on page 74 of 170”
+Table: 73,Table: 73,Table: 73,Table: 73,Table: 73
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-18.,Non-Tidal Benthic Count Data Files,Non-Tidal Benthic Count Data Files,Non-Tidal Benthic Count Data Files,Non-Tidal Benthic Count Data Files
+Field Name,Type,Width,Descriptions,Descriptions
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,,6,Data Collection Agency
+STATION,Text,15,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,Date/Time,,
+,,8,Sample Collection Time (HH:MM:SS),Sample Collection Time (HH:MM:SS)
+SAMPLE_NUMBER Number,SAMPLE_NUMBER Number,8.0,Sample Number,Sample Number
+TSN,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number
+NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+LATIN_NAME,Text,45,Species Latin Name,Species Latin Name
+LIFE_STAGE,Text,45,Species Life Stage,Species Life Stage
+REPORTING_PARAMETER,REPORTING_PARAMETER,,,
+,Number,12,Sample Reporting Parameter,Sample Reporting Parameter
+REPORTING_VALUE,REPORTING_VALUE,,,
+,Number,12,Total Count of Given Taxa in Sample,Total Count of Given Taxa in Sample
+REPORTING_UNITS,REPORTING_UNITS,,,
+,Text,15,Reporting Units of Value,Reporting Units of Value
+BIO_METHOD,Text,3,Chesapeake Bay Program Biological Enumeration Method Code,Chesapeake Bay Program Biological Enumeration Method Code
+G_METHOD,Text,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+SAMPLE_TYPE,Text,2,Sample Collection Type,Sample Collection Type
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE_INITIALS,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_NAME,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+HUC_8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+SUBBASINT_DESCRIPTION,SUBBASINT_DESCRIPTION,,,
+,Text,50,USGS Eight Digit Hydrologic Unit Code Description,USGS Eight Digit Hydrologic Unit Code Description
+ECOREGION_LEVEL3,ECOREGION_LEVEL3,,,
+,Text,5,Level 3 EPA Ecoregion Code,Level 3 EPA Ecoregion Code
+ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,ECOREGION_LEVEL3_NAME,,
+,Text,50,Level 3 EPA Ecoregion Description,Level 3 EPA Ecoregion Description
+Table A-19. Non-Tidal Benthic Water Quality Data Files,Table A-19. Non-Tidal Benthic Water Quality Data Files,Table A-19. Non-Tidal Benthic Water Quality Data Files,Table A-19. Non-Tidal Benthic Water Quality Data Files,Table A-19. Non-Tidal Benthic Water Quality Data Files
+Field Name,Type,Width,Descriptions,Descriptions
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,,6,Data Collection Agency
+STATION,Text,15,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_TIME,Date/Time,Date/Time,,
+,,8,Sample Collection Time (HH:MM:SS),Sample Collection Time (HH:MM:SS)
+SAMPLE_NUMBER Number,SAMPLE_NUMBER Number,8.0,Sample Number,Sample Number
+SAMPLE_TYPE,Text,2,Sample Collection Type,Sample Collection Type
+SAMPLE_REPLICATE_TYPE,SAMPLE_REPLICATE_TYPE,,,
+,Text,2,Sample Replicate Type Code,Sample Replicate Type Code
+LAYER,Text,3,Layer of Water Column in Which Sample Was Taken,Layer of Water Column in Which Sample Was Taken
+DEPTH,Number,8.1,Sample Depth in Meters,Sample Depth in Meters
+REPORTING_PARAMETER,REPORTING_PARAMETER,,,
+,Number,12,Sample Reporting Parameter,Sample Reporting Parameter
+REPORTING_VALUE,REPORTING_VALUE,,,
+,Number,12,Total Count of Given Taxa in Sample,Total Count of Given Taxa in Sample
+REPORTING_UNITS,REPORTING_UNITS,,,
+,Text,15,Reporting Units of Value,Reporting Units of Value
+QUALIFIER,Text,3,Chesapeake Bay Program Detection Limit Qualifier,Chesapeake Bay Program Detection Limit Qualifier
+WQ_METHOD,Text,3,Chesapeake Bay Program Analytical Method Code,Chesapeake Bay Program Analytical Method Code
+PROBLEM_CODE,Text,3,Chesapeake Bay Program Analytical Problem Code,Chesapeake Bay Program Analytical Problem Code
+DETAILS,Text,3,Analytical Problem Code Details,Analytical Problem Code Details
+,,,,72

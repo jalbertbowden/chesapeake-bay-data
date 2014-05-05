@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 106 of 170”,Name: “Table 1 of 1 on page 106 of 170”,Name: “Table 1 of 1 on page 106 of 170”,Name: “Table 1 of 1 on page 106 of 170”
+Table: 105,Table: 105,Table: 105,Table: 105
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+The following are currently accepted 8-digit HUC and SUBBASIN_UNIT_DESCRIPTIONS appearing in,The following are currently accepted 8-digit HUC and SUBBASIN_UNIT_DESCRIPTIONS appearing in,The following are currently accepted 8-digit HUC and SUBBASIN_UNIT_DESCRIPTIONS appearing in,The following are currently accepted 8-digit HUC and SUBBASIN_UNIT_DESCRIPTIONS appearing in
+tidal databases:,,,
+HUC_8,SUBBASIN_UNIT_DESCRIPTION,HUC_8,SUBBASIN_UNIT_DESCRIPTION
+02040303,CHINCOTEAGUE,02070011,LOWER POTOMAC
+02040304,EASTERN LOWER DELMARVA,02080101,LOWER CHESAPEAKE BAY
+02050306,LOWER SUSQUEHANNA,02080102,GREAT WICOMICO-PIANKATANK
+02060001,UPPER CHESAPEAKE BAY,02080104,LOWER RAPPAHANNOCK
+02060002,CHESTER-SASSAFRAS,02080105,MATTAPONI
+02060003,GUNPOWDER-PATAPSCO,02080106,PAMUNKEY
+02060004,SEVERN,02080107,YORK
+02060005,CHOPTANK,02080108,LYNNHAVEN-POQUOSON
+02060006,PATUXENT,02080109,WESTERN LOWER DELMARVA
+02060007,BLACKWATER-WICOMICO,02080110,EASTERN LOWER DELMARVA
+02060008,NANTICOKE,02080205,MIDDLE JAMES-WILLIS
+02060009,POCOMOKE,02080206,LOWER JAMES
+02060010,CHINCOTEAQUE,02080207,APPOMATTOX
+02070010,MIDDLE POTOMAC-ANACOSTIA-,02080208,HAMPTON ROADS
+,OCCOQUAN,,
+Table C-14.,B-IBI BOTTOM_TYPE Characterization (IBI_BOTTOM).,B-IBI BOTTOM_TYPE Characterization (IBI_BOTTOM).,B-IBI BOTTOM_TYPE Characterization (IBI_BOTTOM).
+These codes store information identifying bottom type classifications used in the calculation of Tidal,These codes store information identifying bottom type classifications used in the calculation of Tidal,These codes store information identifying bottom type classifications used in the calculation of Tidal,These codes store information identifying bottom type classifications used in the calculation of Tidal
+Benthic IBI metric values. Bottom type is based on the sand-to-clay percentages observed in the,Benthic IBI metric values. Bottom type is based on the sand-to-clay percentages observed in the,Benthic IBI metric values. Bottom type is based on the sand-to-clay percentages observed in the,Benthic IBI metric values. Bottom type is based on the sand-to-clay percentages observed in the
+sediment analysis from each site. The IBI_BOTTOM_TYPE codes used to classify site types as follows:,sediment analysis from each site. The IBI_BOTTOM_TYPE codes used to classify site types as follows:,sediment analysis from each site. The IBI_BOTTOM_TYPE codes used to classify site types as follows:,sediment analysis from each site. The IBI_BOTTOM_TYPE codes used to classify site types as follows:
+IBI_BOTTOM_TYPE,DESCRIPTION,SILT-CLAY CONTENT,
+M,MUD,>40% SILT-CLAY,
+S,SAND,0-40% SILT-CLAY,
+Table C-15.,B-IBI METHOD Description (IBI_METHOD).,B-IBI METHOD Description (IBI_METHOD).,
+These codes store information identifying analytical method used in the calculation of benthic IBI metric,These codes store information identifying analytical method used in the calculation of benthic IBI metric,These codes store information identifying analytical method used in the calculation of benthic IBI metric,These codes store information identifying analytical method used in the calculation of benthic IBI metric
+values. Method codes currently exist for benthic indexes only. The current IBI_METHOD codes are as,values. Method codes currently exist for benthic indexes only. The current IBI_METHOD codes are as,values. Method codes currently exist for benthic indexes only. The current IBI_METHOD codes are as,values. Method codes currently exist for benthic indexes only. The current IBI_METHOD codes are as
+follows:,,,
+IBI_METHOD,IBI_METHOD_TITLE,,
+CBP_2010,CHESAPEAKE BAY PROGRAM CHESSIE NON TIDAL BIBI 2010,CHESAPEAKE BAY PROGRAM CHESSIE NON TIDAL BIBI 2010,CHESAPEAKE BAY PROGRAM CHESSIE NON TIDAL BIBI 2010
+CBP_MACS,MID-ATLANTIC COASTAL STREAM IBI,,
+PADEP,PENSYLVANIA DEPARTMENT OF THE ENVIRONMENT PROTOCAL,PENSYLVANIA DEPARTMENT OF THE ENVIRONMENT PROTOCAL,PENSYLVANIA DEPARTMENT OF THE ENVIRONMENT PROTOCAL
+CBP,CBP 2004 IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI,CBP 2004 IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI,CBP 2004 IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI
+VERSAR,VERSAR IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI,VERSAR IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI,VERSAR IMPLEMENTATION OF THE TIDAL CHESAPEAKE BAY B-IBI
+,,104,

@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 14 of 44”,Name: “Table 1 of 1 on page 14 of 44”,Name: “Table 1 of 1 on page 14 of 44”,Name: “Table 1 of 1 on page 14 of 44”,Name: “Table 1 of 1 on page 14 of 44”,Name: “Table 1 of 1 on page 14 of 44”
+Table: 14,Table: 14,Table: 14,Table: 14,Table: 14,Table: 14
+,,,,,
+The type of organism targeted in a count,The type of organism targeted in a count,"(ex gelatinous zooplankton, mesozooplankton or microzoplankton)","(ex gelatinous zooplankton, mesozooplankton or microzoplankton)","(ex gelatinous zooplankton, mesozooplankton or microzoplankton)","(ex gelatinous zooplankton, mesozooplankton or microzoplankton)"
+is expressed in the method code.,is expressed in the method code.,,,,
+"2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,","2) SURVEY_ID: The primary key for this table is a composite key base on the following fields: STATION,",
+"SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,","SAMPLE_DATE_TIME, SOURCE, DATA_TYPE, SAMPLE_NUMBER, METHOD, VALUE_TYPE,",and,
+PARAMETER. The composite key of SURVEY_ID is base on the combination following fields:,PARAMETER. The composite key of SURVEY_ID is base on the combination following fields:,PARAMETER. The composite key of SURVEY_ID is base on the combination following fields:,PARAMETER. The composite key of SURVEY_ID is base on the combination following fields:,,
+"STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.","STATION, SAMPLE_DATE_TIME, LAYER, SOURCE AND DATA_TYPE.",An Auto-Key number is,,
+generated for each unique combination of these fields in the BIOTA_EVENT TABLE and must be merged,generated for each unique combination of these fields in the BIOTA_EVENT TABLE and must be merged,generated for each unique combination of these fields in the BIOTA_EVENT TABLE and must be merged,generated for each unique combination of these fields in the BIOTA_EVENT TABLE and must be merged,generated for each unique combination of these fields in the BIOTA_EVENT TABLE and must be merged,
+on to data before it can be loaded into this table.,on to data before it can be loaded into this table.,,,,
+TAB_IBI_METRICS,TAB_IBI_METRICS,,,,
+Field Name,,Description,,Data Type,Length
+SURVEY_ID,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,PRIMARY_ID KEY- AN AUTO-GENERATED FIELD,INT,,
+"(PK,FK)",,,,,
+STATION,SAMPLING STATION-,,VARCHAR,,15
+,Sampling station identifier,,,,
+"(PK,NN,FK)",,,,,
+SAMPLE_DATE_,SAMPLING DATE/TIME-,,SMALLDATE,,
+TIME,Date and time of sample collection,Date and time of sample collection,TIME,,
+"(PK,NN)",,,,,
+SAMPLE_NUMBER,SAMPLE NUMBER-,,TINYINT,,
+,Number of sample collected at Station(replicate number),Number of sample collected at Station(replicate number),,,
+(PK),,,,,
+IBI_PARAMETER,IBI PARAMETER- Name of,IBI Metric parameter,VARCHAR,,25
+"(PK, FK)",,,,,
+IBI_VALUE,IBI_VALUE- IBI metric parameter reported value.,IBI_VALUE- IBI metric parameter reported value.,DECIMAL,,
+IBI_SCORE,IBI SCORE VALUE- IBI metric reported IBI score value.,IBI SCORE VALUE- IBI metric reported IBI score value.,DECIMAL,,
+IBI_SALZONE,IBI SALINITY ZONE-IBI site salinity zone classification,IBI SALINITY ZONE-IBI site salinity zone classification,CHAR,,1
+"(FK, NN)",,,,,
+IBI_LAYER,IBI SAMPLING LAYER- IBI water column layer,IBI SAMPLING LAYER- IBI water column layer,CHAR,,2
+,classification.,,,,
+(NN),,,,,
+R_DATE,DATA VERSION DATE-,,SMALLDATE,,
+(NN),Date denoting when data records were entered in to,Date denoting when data records were entered in to,TIME,,
+,database,,,,
+SEASON,IBI SEASON CLASS-IBI season classification,IBI SEASON CLASS-IBI season classification,CHAR,,6
+(NN),,,,,
+,,12,,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,,

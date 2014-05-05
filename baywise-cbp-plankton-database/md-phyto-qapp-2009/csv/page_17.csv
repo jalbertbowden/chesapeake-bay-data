@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 17 of 35”,Name: “Table 1 of 1 on page 17 of 35”,Name: “Table 1 of 1 on page 17 of 35”
+Table: 17,Table: 17,Table: 17
+,,
+cuvette is rinsed with 90% acetone 3 times before being filled again.,cuvette is rinsed with 90% acetone 3 times before being filled again.,
+All values that have been recorded in the data book are entered into a spreadsheet that,All values that have been recorded in the data book are entered into a spreadsheet that,
+contains the equation for calculating chlorophyll concentration. The equation used is from,contains the equation for calculating chlorophyll concentration. The equation used is from,
+"Standard Methods: Chl, ug/l = 26.73 (665b-665a) x V1 / V2, where, 665b and 665a are the","Standard Methods: Chl, ug/l = 26.73 (665b-665a) x V1 / V2, where, 665b and 665a are the",
+"optical densities of the 90% acetone extract before and after acidification, V1 is the volume of","optical densities of the 90% acetone extract before and after acidification, V1 is the volume of",
+the extract and V2 is the sample volume that was filtered.,the extract and V2 is the sample volume that was filtered.,
+Primary Productivity,Primary Productivity,
+"At the end of a sampling day, four 100 ml subsamples per station are decanted from the two","At the end of a sampling day, four 100 ml subsamples per station are decanted from the two","At the end of a sampling day, four 100 ml subsamples per station are decanted from the two"
+surface-layer composite samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles,surface-layer composite samples (15 liters each) into sample-rinsed Pyrex milk dilution bottles,
+"(or polycarbonate bottles after July, 1989), one for time-zero C14 blank (t0), one for alkalinity","(or polycarbonate bottles after July, 1989), one for time-zero C14 blank (t0), one for alkalinity",
+"determination, and one from each composite for C14 incubation. The two incubation samples per","determination, and one from each composite for C14 incubation. The two incubation samples per","determination, and one from each composite for C14 incubation. The two incubation samples per"
+station are placed in a constant light incubator (>250 uE per sq m per sec) receiving running-,station are placed in a constant light incubator (>250 uE per sq m per sec) receiving running-,
+water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of,water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of,water from the study area for temperature control for an acclimation period >0.5 h. Then 1-ml of
+1-2 uCi labeled NaHCO3 is added and samples are returned to the incubator for >1 h. After,1-2 uCi labeled NaHCO3 is added and samples are returned to the incubator for >1 h. After,
+"incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter, rinsed with filtered","incubation, 15 ml is filtered through a 0.45 um Millipore membrane filter, rinsed with filtered",
+sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and,sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and,sample water and fumed over concentrated HCl. Fifteen ml of t0 sample is similarly filtered and
+"fumed, immediately following the addition of the radioisotope. The filters are placed in","fumed, immediately following the addition of the radioisotope. The filters are placed in",
+scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94 and,scintillation vials and stored in a freezer. Scintillation cocktail (Aquasol 8/84 - 10/94 and,
+Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard,Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard,Cytoscint 10/94 - present) is added to the scintillation vials and the samples are run on a Packard
+Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards and,Tri-Carb 2500TR Liquid Scintillation Analyzer equipped with internal quench standards and,
+serviced twice a year by the Packard technician.,serviced twice a year by the Packard technician.,
+Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25,Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25,Field stock solutions of radio-labeled NaHCO3 are obtained from mixing portions of 25
+mCi C14,NaCO3 stock solutions with pH of 10-10.2 de-ionized water. Final field stock,
+"activity approximates 2 uCi C14 per ml, determined from liquid scintillation counting of field","activity approximates 2 uCi C14 per ml, determined from liquid scintillation counting of field",
+stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded,stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded,stocks in phenethylamine and Biofluor. Field stock activities for each dilution are then recorded
+in a laboratory log and are assigned a date interval corresponding to the period that the field,in a laboratory log and are assigned a date interval corresponding to the period that the field,
+stock is employed in the program.,stock is employed in the program.,
+Carbon fixation rates [μgC*(L*h) -1 ] are calculated according to a formula in Strickland,Carbon fixation rates [μgC*(L*h) -1 ] are calculated according to a formula in Strickland,
+and Parsons (1972):,and Parsons (1972):,
+,mgC/ m3 / h = [(dpm1 - dpm0) * 1.05 * CA] / ( Rs/t1),
+where: dpm1= dpm of replicate 1 sub-sample,where: dpm1= dpm of replicate 1 sub-sample,
+,dpm0= dpm of time zero sub-sample,
+,V= volume of sub-sample filtered,
+,CA= carbonate alkalinity in mgC/m3,
+,Rs= total C14 dpm in 100 ml sample,
+,,17
+MD PHYTO QAPP,MD PHYTO QAPP,4/15/09

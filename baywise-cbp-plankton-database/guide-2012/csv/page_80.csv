@@ -1,0 +1,43 @@
+Name: “Table 1 of 1 on page 80 of 170”,Name: “Table 1 of 1 on page 80 of 170”,Name: “Table 1 of 1 on page 80 of 170”,Name: “Table 1 of 1 on page 80 of 170”
+Table: 79,Table: 79,Table: 79,Table: 79
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+CATALOGING_UNIT,USGS Eight-Digit Hydrologic Units Code-Name changed to Sub Basin Unit in 2000,,
+,See Appendix C Table 13 for Details .............................................................. Field,Text,8
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,USGS Eight-Digit Hydrologic Units Code Descriptor-Name changed to Sub basin Unit in 2000,USGS Eight-Digit Hydrologic Units Code Descriptor-Name changed to Sub basin Unit in 2000,
+,See Appendix C Table 13 for Details .............................................................. Field,Text,40
+CARBFIX,Carbon Fixation Rate (Percent) ....................................................................... Field,Numeric,8.2
+CBP_BASIN,CBP Monitoring Basin Designation .................................................................. Field,Text,30
+CBP_BASIN_DESCRIPTION,CBP_BASIN_DESCRIPTION,,
+,CBP Monitoring Basin Description ................................................................... Field,Text,100
+CBP_IBI_REGION,CBP Non-Tidal Benthic IBI Reporting Region Designation ............................. Field,Text,30
+CBP_IBI_REGION_DESCRIPTION,CBP_IBI_REGION_DESCRIPTION,,
+,CBP Non-Tidal Benthic IBI Reporting Region Description .............................. Field,Text,100
+CB_SEG1985,CBP Segment Designation Code (1985 Scheme) ........................................... Field,Text,8
+CB_SEG1985_Description,CB_SEG1985_Description,,
+,CBP Segment Designation Description (1995 Scheme) ................................. Field,Text,50
+CB_SEG1998,CBP Segment Designation Code (1998 Scheme) ........................................... Field,Text,8
+CB_SEG1988_Description,CB_SEG1988_Description,,
+,CBP Segment Designation Description (1998 Scheme) ................................. Field,Text,50
+CB_SEG2003,CBP Segment Designation Code (2003 Scheme) ........................................... Field,Text,8
+CB_SEG2003_Description,CB_SEG2003_Description,,
+,CBP Segment Designation Description (2003 Scheme) ................................. Field,Text,50
+CITY,City Name ....................................................................................................... Field,Text,50
+COMMENT,Comment Field ................................................................................................. Field,Memo,-
+COMMON_NAME,Species Common Name .................................................................................. Field,Text,45
+CONTACT,Monitoring Program Contact ............................................................................ Field,Text,25
+CONVFACT,Converts Number Per Sample to Normalized Count ...................................... Field,Numeric,8.2
+COUNTY_NAME,County .............................................................................................................. Field,Text,50
+CRUISE,Chesapeake Bay Program Cruise Identifier ................................................... Field,Text,6
+DATA_MANAGER,Agency Data Manager ..................................................................................... Field,Text,50
+DATA_MANAGER_EMAIL,DATA_MANAGER_EMAIL,,
+,Agency Data Manager Email ........................................................................... Field,Text,100
+DATA_MANAGER_PHONE,DATA_MANAGER_PHONE,,
+,Agency Data Manager Telephone Number ..................................................... Field,Text,25
+DATA_TYPE,Sampling Date Type Code ............................................................................... Field,Text,2
+DATA_TYPE_DESCRIPTION,DATA_TYPE_DESCRIPTION,,
+,Sampling Date Type Code Description ............................................................ Field,Text,2
+DIRECTOR,Agency Director ................................................................................................ Field,Text,50
+DIVISION,Agency Reporting Division ............................................................................... Field,Text,100
+,78,,

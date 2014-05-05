@@ -1,0 +1,74 @@
+Name: “Table 1 of 1 on page 66 of 170”,Name: “Table 1 of 1 on page 66 of 170”,Name: “Table 1 of 1 on page 66 of 170”,Name: “Table 1 of 1 on page 66 of 170”
+Table: 65,Table: 65,Table: 65,Table: 65
+,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-6.,Composite Phytoplankton Metric Data File Format,Composite Phytoplankton Metric Data File Format,Composite Phytoplankton Metric Data File Format
+Field Name,Type,Width,Description
+SURVEY_ID,Number,8,Database Generated Event Identification Number
+STATION,Text,15,CBP Sampling Station
+SAMPLE_DATE,Date/Time,8,Phytoplankton Sampling Date
+SAMPLE_TIME,Date/Time,8,Phytoplankton Sampling Time
+UP_DATE,Date/Time,8,Upper End of 3 Day Data Matching Window
+DN_DATE,Date/Time,8,Lower End of 3 Day Data Matching Window
+WQ_DATE,Date/Time,8,Water Quality Sampling Date
+SEASON,Text,6,CBP Season Designation
+IBI_LAYER,Text,2,Sample Layer
+IBI_SALZONE,Text,1,Water Layer Salinity Zone Designation
+CHL_SURF,Number,12.4,Surface Chlorophyll A (0.5 M) μG/L
+CHLORO_ABUND,Number,12.4,Chlorophyte Abundance in Number/Liter
+CHLORO_BIOMASS,Number,12.4,Chlorophyte Biomass in μG Carbon/Liter
+CHRYSO_ABUND,Number,12.4,Chrysophyte Abundance in Number/Liter
+CHRYSO_BIOMASS,Number,12.4,Chrysophyte Biomass in μG Carbon/Liter
+COCHLODINIUM_,,,
+HET_ABUND,Number,12.4,Cochlodinium Abundance in Number/Liter
+COCHLODINIUM_,,,
+HET_BIOMASS,Number,12.4,Cochlodinium Biomass in μG Carbon/Liter
+CRYPTO_ABUND,Number,12.4,Cryptophyte Abundance in Number/Liter
+CRYPTO_BIOMASS,Number,12.4,Cryptophyte Biomass in μG Carbon/Liter
+CYANO_ABUND,Number,12.4,Cyanophyte Abundance in Number/Liter
+CYANO_BIOMASS,Number,12.4,Cyanophyte Biomass in μG Carbon/Liter
+DIATOM_ABUND,Number,12.4,Diatom Abundance in Number/Liter
+DIATOM_BIOMASS,Number,12.4,Diatom Biomass in μG Carbon/Liter
+DINO_ABUND,Number,12.4,Dinoflaggelate Abundance in Number/Liter
+DINO_BIOMASS,Number,12.4,Dinoflaggelate Biomass in μG Carbon/Liter
+EUGLENO_ABUND,Number,12.4,Euglenophyte Abundance in Number/Liter
+EUGLENO_BIOMASS,Number,12.4,Euglenophyte Biomass in μG Carbon/Liter
+HAPTO_ABUND,Number,12.4,Haptophyte Abundance in Number/Liter
+HAPTO_BIOMASS,Number,12.4,Haptophyte Biomass in μG Carbon/Liter
+MICROCYSTIS_,,,
+AER_ABUND,Number,12.4,Microcystis Abundance in Number/Liter
+MICROCYSTIS_,,,
+AER_BIOMASS,Number,12.4,Microcystis Biomass in μG Carbon/Liter
+PICO_ABUND,Number,12.4,Picoplankton Abundance in Number/Liter
+PICO_BIOMASS,Number,12.4,Picoplankton Biomass in μG Carbon/Liter
+PRASINO_ABUND,Number,12.4,Prasinophyte Abundance in Number/Liter
+PRASINO_BIOMASS,Number,12.4,Prasinophyte Biomass in μG Carbon/Liter
+PROROCENTRUM_,,,
+MIN_ABUND,Number,12.4,Prorocentrum Minimum Abundance in Number/Liter
+PROROCENTRUM_,,,
+MIN_BIOMASS,Number,12.4,Prorocentrum Minimum Biomass in μG Carbon/Liter
+TOT_ABUND,Number,12.4,Total Phytoplankton Abundance in Number/Liter
+TOT_BIOMASS,Number,12.4,Total Phytoplankton Biomass in μG Carbon/Liter
+SALINITY,Number,12.4,Average Layer Salinity in PSU
+PO4,Number,12.4,Average Layer PO4 in MG/L
+DIN,Number,12.4,Average Layer Dissolved Organic N (NO2+NO3+NH4) In MG/L
+SECCHI,Number,12.4,Secchi Depth in Meters
+SECCHI_RANK,Text,8,Secchi Depth Rank-Relative Status Method
+PO4_RANK,Text,8,PO4 Rank-Tom Fisher Nutrient Limitation Thresholds
+DIN_RANK,Text,8,DIN Rank-Tom Fisher Nutrient Limitation Thresholds
+CHLA,Number,12.4,Average Layer Chlorophyll a in μG /L
+DO_VALUE,Number,12.4,Average Layer Dissolved Oxygen in MG/L
+DOC,Number,12.4,Average Layer Dissolved Organic Carbon in MG/L
+PC,Number,12.4,Average Layer Particulate Carbon in MG/L
+PHEO,Number,12.4,Average Layer Pheophytin In μG /L
+TSS,Number,12.4,Average Layer Total Suspended Solids MG/L
+WTEMP,Number,12.4,Average Layer Water Temp Degrees Celsius
+TOC,Number,12.4,Average Layer Total Organic Carbon in MG/L
+BIOMASS_CHL_RATIO Number,BIOMASS_CHL_RATIO Number,12.2,Total Phytoplankton Biomass to Surface Chlorophyll Ratio
+CELL_SIZE,Number,12.2,Average Cell Size PG/Cell
+CRYPTO_BIO_PCT,Number,12.2,Percent Cryptophyte Biomass
+CYANO_BIO_PCT,Number,12.2,Percent Cyanophyte Biomass
+DIATOM_BIO_PCT,Number,12.2,Percent Diatom Biomass
+DINO_BIO_PCT,Number,12.2,Percent Dinoflaggelate Biomass
+WQ_CATEGORY,Text,20,Fisher Water Quality Category
+,,,64

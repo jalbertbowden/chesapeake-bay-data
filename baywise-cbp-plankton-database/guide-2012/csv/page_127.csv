@@ -1,0 +1,39 @@
+Name: “Table 1 of 1 on page 127 of 170”,Name: “Table 1 of 1 on page 127 of 170”
+Table: 126,Table: 126
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+REPORTING_,REPORTING_PARAMETER_DECRIPTION
+PARAMETER,
+TIC,Total Inorganic Carbonate Content
+TKNF,Total Kjeldahl Nitrogen (Filtered Sample)
+TKNW,Total Kjeldahl Nitrogen (Whole Sample)
+TN,Total Nitrogen
+TOC,Total Organic Carbon
+TON,Total Organic Nitrogen
+TOP,Total Organic Phosphorus
+TOTAL_DEPTH,Total Station Depth
+TP,Total Phosphorus
+TS,Total Solids
+TSS,Total Suspended Solids
+TURB_FTU,Turbidity; Turbidimeter (Formazin Units)
+TURB_JTU,Turbidity; Jackson Candle Method (Forward Scatter)
+TURB_NTU,Turbidity; Nephelometric Method
+VELOCITY,Current Velocity
+VOLORG,"Volatile Organic, Percent"
+VSS,Volatile Suspended Solids
+WIDTH,Total Stream Channel Width
+WTEMP,Water Temperature
+ZN,Total Zinc
+ZNF,Dissolved Zinc
+Table C-27.,Sediment Profile Image Analysis Pellet and Tube Codes (PELLET and TUBES).
+"These codes store information identifying faunal tube, and fecal pellet abundance classifications from the","These codes store information identifying faunal tube, and fecal pellet abundance classifications from the"
+SPI camera images.,The current density classifications are as follows:
+TUBES or PELLETS,DESCRIPTION
+FEW,1 To 6 Tubes
+IND,Indeterminate
+LAYER,Pellets Cover Sediment Water Interface
+MANY,Greater Than 18 Tubes
+NA,No Analysis
+NONE,0 Tubes
+SOME,7 To 18 Tubes
+,125

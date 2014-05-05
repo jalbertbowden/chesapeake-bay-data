@@ -1,0 +1,46 @@
+Name: “Table 1 of 1 on page 15 of 44”,Name: “Table 1 of 1 on page 15 of 44”,Name: “Table 1 of 1 on page 15 of 44”,Name: “Table 1 of 1 on page 15 of 44”
+Table: 15,Table: 15,Table: 15,Table: 15
+,,,
+1) GENERAL: This table stores calculated Phytoplankton Index of Biotic Integrity (PIBI) metrics and scored,1) GENERAL: This table stores calculated Phytoplankton Index of Biotic Integrity (PIBI) metrics and scored,1) GENERAL: This table stores calculated Phytoplankton Index of Biotic Integrity (PIBI) metrics and scored,1) GENERAL: This table stores calculated Phytoplankton Index of Biotic Integrity (PIBI) metrics and scored
+"values. The PIBI’s are calculated based on the published in Lacouture RV, Johnson JM, Buchanan C, Marshall","values. The PIBI’s are calculated based on the published in Lacouture RV, Johnson JM, Buchanan C, Marshall","values. The PIBI’s are calculated based on the published in Lacouture RV, Johnson JM, Buchanan C, Marshall","values. The PIBI’s are calculated based on the published in Lacouture RV, Johnson JM, Buchanan C, Marshall"
+HG (2006) Phytoplankton Index of Biotic Integrity for Chesapeake Bay and its Tidal Tributaries. Estuaries and,HG (2006) Phytoplankton Index of Biotic Integrity for Chesapeake Bay and its Tidal Tributaries. Estuaries and,HG (2006) Phytoplankton Index of Biotic Integrity for Chesapeake Bay and its Tidal Tributaries. Estuaries and,HG (2006) Phytoplankton Index of Biotic Integrity for Chesapeake Bay and its Tidal Tributaries. Estuaries and
+"Coasts: Vol. 29, No. 4 pp. 598–616 . For more details on the calculation of specific parameters","Coasts: Vol. 29, No. 4 pp. 598–616 . For more details on the calculation of specific parameters","Coasts: Vol. 29, No. 4 pp. 598–616 . For more details on the calculation of specific parameters","Coasts: Vol. 29, No. 4 pp. 598–616 . For more details on the calculation of specific parameters"
+included in the database see the document: Methodology Applied in the Calculation of Chesapeake Bay,included in the database see the document: Methodology Applied in the Calculation of Chesapeake Bay,included in the database see the document: Methodology Applied in the Calculation of Chesapeake Bay,included in the database see the document: Methodology Applied in the Calculation of Chesapeake Bay
+Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be determined).,Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be determined).,Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be determined).,Program Phytoplankton Composite Metrics and Index of Biotic Integrity (PIBI) (url to be determined).
+"2) SURVEY_ID: Once the SURVEY_ID number is merged on to this table based on STATION,","2) SURVEY_ID: Once the SURVEY_ID number is merged on to this table based on STATION,","2) SURVEY_ID: Once the SURVEY_ID number is merged on to this table based on STATION,","2) SURVEY_ID: Once the SURVEY_ID number is merged on to this table based on STATION,"
+"SAMPLE_DATE, SAMPLE_TIME and SOURCE the fields may be deleted. The actual primary key for this","SAMPLE_DATE, SAMPLE_TIME and SOURCE the fields may be deleted. The actual primary key for this","SAMPLE_DATE, SAMPLE_TIME and SOURCE the fields may be deleted. The actual primary key for this","SAMPLE_DATE, SAMPLE_TIME and SOURCE the fields may be deleted. The actual primary key for this"
+"table is a composite key composed of the following field: STATION, SAMPLE_DATE_TIME,","table is a composite key composed of the following field: STATION, SAMPLE_DATE_TIME,","table is a composite key composed of the following field: STATION, SAMPLE_DATE_TIME,","table is a composite key composed of the following field: STATION, SAMPLE_DATE_TIME,"
+"SOURCE, SAMPLE NUMBER and IBI_PARAMETER..","SOURCE, SAMPLE NUMBER and IBI_PARAMETER..",,
+3) IBI_LAYER: The current Chesapeake Bay PIBI is valid for only above pycnocline (AP) or whole water,3) IBI_LAYER: The current Chesapeake Bay PIBI is valid for only above pycnocline (AP) or whole water,3) IBI_LAYER: The current Chesapeake Bay PIBI is valid for only above pycnocline (AP) or whole water,3) IBI_LAYER: The current Chesapeake Bay PIBI is valid for only above pycnocline (AP) or whole water
+"column sample. For data processing purposes WC sample have been reassign a layer code of AP, but are","column sample. For data processing purposes WC sample have been reassign a layer code of AP, but are","column sample. For data processing purposes WC sample have been reassign a layer code of AP, but are","column sample. For data processing purposes WC sample have been reassign a layer code of AP, but are"
+still matched to the appropriate WC TAB_BIOTA_EVENT survey_id event.,still matched to the appropriate WC TAB_BIOTA_EVENT survey_id event.,still matched to the appropriate WC TAB_BIOTA_EVENT survey_id event.,
+4) SEASON: The current Chesapeake Bay PIBI is a seasonal index. There are currently two index periods,4) SEASON: The current Chesapeake Bay PIBI is a seasonal index. There are currently two index periods,4) SEASON: The current Chesapeake Bay PIBI is a seasonal index. There are currently two index periods,4) SEASON: The current Chesapeake Bay PIBI is a seasonal index. There are currently two index periods
+"SPRING (March, April, May) and SUMMER(July, August, September). Sampling events are assigned to a","SPRING (March, April, May) and SUMMER(July, August, September). Sampling events are assigned to a","SPRING (March, April, May) and SUMMER(July, August, September). Sampling events are assigned to a","SPRING (March, April, May) and SUMMER(July, August, September). Sampling events are assigned to a"
+season by sample_date.,season by sample_date.,,
+TAB_PHYTO_INDICATOR_METRICS,TAB_PHYTO_INDICATOR_METRICS,,
+Field Name,Description,Data Type,Length
+SURVEY_ID,PRIMARY_ID KEY,INT,
+,(STATION+DATE+TIME+LAYER+SOURCE+DATATYPE+SAMPLE,,
+,_TYPE),,
+STATION,CBP SAMPLING STATION,VARCHAR,15
+SAMPLE_DATE,PHYTOPLANKTON SAMPLING DATE,SMALLDATETIME,
+UP_DATE,UPPER END OF 3 DAY DATA MATCHING WINDOW,SMALLDATETIME,
+DN_DATE,LOWER END OF 3 DAY DATA MATCHING WINDOW,SMALLDATETIME,
+WQ_DATE,WATER QUALITY SAMPLING DATE,SMALLDATETIME,
+SEASON,CBP SEASON DESIGNATION,CHAR,6
+IBI_LAYER,SAMPLE LAYER,CHAR,2
+IBI_SALZONE,WATER LAYER SALINITY ZONE DESIGNATION,CHAR,1
+CHL_SURF,SURFACE CHLOROPHYLL A (0.5 M) UG/L,DECIMAL,
+CHLORO_ABUND,TOTAL CHLOROPHYTE ABUNDANCE IN NUMBER/LITER,DECIMAL,
+CHLORO_,TOTAL CHLOROPHYTE BIOMASS IN UG CARBON/LITER,DECIMAL,
+BIOMASS,,,
+CHRYSO_ABUND,TOTAL CHRYSOPHYTE ABUNDANCE IN NUMBER/LITER,DECIMAL,
+CHRYSO_,TOTAL CHRYSOPHYTE BIOMASS IN UG CARBON/LITER,DECIMAL,
+BIOMASS,,,
+COCHLODINIUM_,TOTAL COCHLODINIUM ABUNDANCE IN NUMBER/LITER,DECIMAL,
+HET_ABUND,,,
+COCHLODINIUM_,TOTAL COCHLODINIUM BIOMASS IN UG CARBON/LITER,DECIMAL,
+HET_BIOMASS,,,
+CRYPTO_ABUND,TOTAL CRYPTOPHYTE ABUNDANCE IN NUMBER/LITER,DECIMAL,
+,13,,
+,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,Phytoplankton And Zooplankton Database Design And Data Dictionary: Version 3.0,

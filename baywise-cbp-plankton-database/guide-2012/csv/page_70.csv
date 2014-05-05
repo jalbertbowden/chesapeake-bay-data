@@ -1,0 +1,64 @@
+Name: “Table 1 of 1 on page 70 of 170”,Name: “Table 1 of 1 on page 70 of 170”,Name: “Table 1 of 1 on page 70 of 170”,Name: “Table 1 of 1 on page 70 of 170”,Name: “Table 1 of 1 on page 70 of 170”
+Table: 69,Table: 69,Table: 69,Table: 69,Table: 69
+,,,,
+,,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+Table A-11. Tidal Benthic Count Data Files,Table A-11. Tidal Benthic Count Data Files,Table A-11. Tidal Benthic Count Data Files,Table A-11. Tidal Benthic Count Data Files,Table A-11. Tidal Benthic Count Data Files
+Field Name,,Type,Width,Descriptions
+EVENT_ID,Number,8,Database Generated Event Identification Number,Database Generated Event Identification Number
+SOURCE,Text,6,Data Collection Agency,Data Collection Agency
+SAMPLE_TYPE,Text,7,Sample Collection Type,Sample Collection Type
+STATION,Text,15,Sampling Station,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,,
+,,8,Sampling Date (MM/DD/YYYY),Sampling Date (MM/DD/YYYY)
+SAMPLE_NUMBER Number,SAMPLE_NUMBER Number,8.0,Sample Number,Sample Number
+GMETHOD,Text,3,Chesapeake Bay Program Gear Method Code,Chesapeake Bay Program Gear Method Code
+CONVFACT,Number,8.2,Conversion Factor (# Individual/Sample to,Conversion Factor (# Individual/Sample to
+,,,# Individuals/Meter Squared),# Individuals/Meter Squared)
+NET_MESH,Number,8.2,Screen Mesh Width (Millimeters),Screen Mesh Width (Millimeters)
+TSN,Text,7,ITIS Taxon Serial Number,ITIS Taxon Serial Number
+LIFE_STAGE,Text,45,Species Life Stage,Species Life Stage
+LATIN_NAME,Text,45,Species Latin Name,Species Latin Name
+REPORTING_VALUE,,,,
+,Number,12,Total Count of Given Taxa in Sample,Total Count of Given Taxa in Sample
+REPORTING_UNITS,,,,
+,Text,15,Reporting Units of Value,Reporting Units of Value
+NODCCODE,Text,12,National Oceanographic Data Center Species Code,National Oceanographic Data Center Species Code
+SPEC_CODE,Text,14,Agency Species Code,Agency Species Code
+SER_NUM,Text,12,Sample Serial Number,Sample Serial Number
+R_DATE,Date/Time,Date/Time,,
+,,8,Data Version Date (MM/DD/YYYY),Data Version Date (MM/DD/YYYY)
+The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:,The following field may also appear in a downloaded data set:
+Name,Type,Width,Description,Description
+BASIN,Text,20,Chesapeake Bay Basin Designation,Chesapeake Bay Basin Designation
+HUC8,Text,8,USGS Eight Digit Hydrologic Unit Code,USGS Eight Digit Hydrologic Unit Code
+CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,CATALOGING_UNIT_DESCRIPTION,,
+,Text,50,USGS Cataloging Unit Code Description,USGS Cataloging Unit Code Description
+FIPS,Text,5,Federal Information Processing Code,Federal Information Processing Code
+STATE,Text,3,Federal Information Processing Code State Designation,Federal Information Processing Code State Designation
+COUNTY_CITY,Text,30,Federal Information Processing Code City/County Designation,Federal Information Processing Code City/County Designation
+CBSEG_2003,Text,6,2003 Chesapeake Bay Segment Designation,2003 Chesapeake Bay Segment Designation
+CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,CBSEG_2003_DESCRIPTION,,
+,Text,50,2003 Chesapeake Bay Segment Designation Description,2003 Chesapeake Bay Segment Designation Description
+Table A-12.,Benthic Biomass Data Files,Benthic Biomass Data Files,Benthic Biomass Data Files,
+Field Name,Type,Type,Width,Descriptions
+EVENT_ID,Number,Number,8,Database Generated Event Identification Number
+SOURCE,Text,Text,6,Data Collection Agency
+SAMPLE_TYPE,Text,Text,7,Sample Collection Type
+STATION,Text,Text,15,Sampling Station
+SAMPLE_DATE,Date/Time,Date/Time,8,Sampling Date (MM/DD/YYYY)
+SAMPLE_NUMBER,Number,Number,8.0,Sample Number
+GMETHOD,Text,Text,3,Chesapeake Bay Program Gear Method Code
+CONVFACT,Number,Number,8.2,Conversion Factor (# Individual/Sample to #
+,,,,Individuals/Meter Squared)
+NET_MESH,Number,Number,8.2,Screen Mesh Width (Millimeter)
+TSN,Text,Text,7,ITIS Taxon Serial Number
+LIFESTAGE,Text,Text,45,Organisms Life Stage
+LATIN_NAME,Text,Text,45,Species Latin Name
+VALUE_TYPE,Text,Text,10,Actual or Estimated Parameter Value
+REPORTING_VALUE,Number,Number,8.4,Taxon Biomass
+REPORTING_UNITS,Text,Text,15,Sampling Parameter Reporting Units
+NODCCODE,Text,Text,12,National Oceanographic Data Center Species Code
+SPEC_CODE,Text,Text,14,Agency Species Code
+SER_NUM,Text,Text,12,Agency Sample Serial Number
+R_DATE,Date/Time,Date/Time,8,Data Version Date (MM/DD/YYYY)
+,,,,68

@@ -1,0 +1,42 @@
+Name: “Table 1 of 1 on page 54 of 170”,Name: “Table 1 of 1 on page 54 of 170”
+Table: 53,Table: 53
+,
+The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data
+The Chesapeake Bay P-IBI is calculated by scoring each of several attributes of phytoplankton,The Chesapeake Bay P-IBI is calculated by scoring each of several attributes of phytoplankton
+"community structure and function (abundance, biomass, present/absence of HAB’s etc.) according to","community structure and function (abundance, biomass, present/absence of HAB’s etc.) according to"
+thresholds established from data distributions. Currently twelve metrics are used to calculate the PIBI:,thresholds established from data distributions. Currently twelve metrics are used to calculate the PIBI:
+Phytoplankton Total Biomass to Chlorophyll Ratio,Phytoplankton Total Biomass to Chlorophyll Ratio
+Surface Chlorophyll,
+Percent Cryptophytes Biomass,Percent Cryptophytes Biomass
+Cyanophyte Biomass,
+Diatom Biomass,
+Dinoflagellate Biomass,Dinoflagellate Biomass
+Dissolved Organic Carbon,Dissolved Organic Carbon
+Microcystis aeruginosa Abundance,Microcystis aeruginosa Abundance
+Pheophyten,
+Picoplankton Abundance,Picoplankton Abundance
+Prorocentrum minimum Abundance,Prorocentrum minimum Abundance
+Total Phytoplankton Biomass,Total Phytoplankton Biomass
+"A PIBI score is calculated for each station-date sampling event in the index period, which is currently","A PIBI score is calculated for each station-date sampling event in the index period, which is currently"
+spring (March-May) and summer (July-September). A Salinity zone was assigned to each datum,spring (March-May) and summer (July-September). A Salinity zone was assigned to each datum
+"according to the layer’s mean salinity using a standard Venice System: tidal fresh (F) (0.0 - 0.5 PSU),","according to the layer’s mean salinity using a standard Venice System: tidal fresh (F) (0.0 - 0.5 PSU),"
+"oligohaline (O) (>0.5 - 5.0 PSU), mesohaline (M) (>5.0 - 18.0 PSU), and polyhaline (P) (>18.0 PSU).","oligohaline (O) (>0.5 - 5.0 PSU), mesohaline (M) (>5.0 - 18.0 PSU), and polyhaline (P) (>18.0 PSU)."
+Multiple parameters (metrics) in the databases are individually scored and then averaged. PIBI scores,Multiple parameters (metrics) in the databases are individually scored and then averaged. PIBI scores
+"range from 1.0 (very degraded communities) to 5.0 (desirable, least-impaired communities). Analysis","range from 1.0 (very degraded communities) to 5.0 (desirable, least-impaired communities). Analysis"
+"results are typically presented as: a) a median or average PIBI score, or b) the frequency of PIBI scores","results are typically presented as: a) a median or average PIBI score, or b) the frequency of PIBI scores"
+in a given rank. PIBI ranks are as follows:,
+,Phytoplankton
+P-IBI,Community Condition
+>4.0,Good
+3.33-4.0,Fair-Good
+2.67-3.32,Fair
+2.0-2.66,Fair-Poor
+"
+    ",Poor
+Table 9. P-IBI Ranges and Phytoplankton Community Condition,Table 9. P-IBI Ranges and Phytoplankton Community Condition
+For full details on calculation protocol for all calculated metrics and scoring of the tidal Phytoplankton,For full details on calculation protocol for all calculated metrics and scoring of the tidal Phytoplankton
+index of biotic integrity please see Lacouture et. a;. 2006 or the document Methodology Applied in the,index of biotic integrity please see Lacouture et. a;. 2006 or the document Methodology Applied in the
+Calculation of Chesapeake Bay Program Phytoplankton Composite Metrics and Index,Calculation of Chesapeake Bay Program Phytoplankton Composite Metrics and Index
+of Biotic Integrity (PIBI) at the following locations,of Biotic Integrity (PIBI) at the following locations
+ftp.chesapeakebay.net/Pub/Living_Resources/plank/pibi_DOC.pdf,ftp.chesapeakebay.net/Pub/Living_Resources/plank/pibi_DOC.pdf
+,52

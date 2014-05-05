@@ -1,0 +1,45 @@
+Name: “Table 1 of 1 on page 81 of 170”,Name: “Table 1 of 1 on page 81 of 170”,Name: “Table 1 of 1 on page 81 of 170”,Name: “Table 1 of 1 on page 81 of 170”,Name: “Table 1 of 1 on page 81 of 170”
+Table: 80,Table: 80,Table: 80,Table: 80,Table: 80
+,,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,The 2012 Users Guide to CBP Biological Monitoring Data,,
+DN_DATE,Lower End of Phytoplankton Index of Biotic Integrity Sample Date Matching Window,Lower End of Phytoplankton Index of Biotic Integrity Sample Date Matching Window,,
+,......................................................................................................................... Field,......................................................................................................................... Field,Date/Time,
+ECOREGION_LEVEL_4,,,,
+,EPA Level 4 Ecoregion Code .......................................................................... Field,EPA Level 4 Ecoregion Code .......................................................................... Field,Text,5
+ECOREGION_LEVEL_4_NAME,ECOREGION_LEVEL_4_NAME,,,
+,EPA Level 4 Ecoregion Code Description ....................................................... Field,EPA Level 4 Ecoregion Code Description ....................................................... Field,Text,90
+ECOREGION_LEVEL_3,,,,
+,EPA Level 3 Ecoregion Code .......................................................................... Field,EPA Level 3 Ecoregion Code .......................................................................... Field,Text,5
+ECOREGION_LEVEL_3_NAME,ECOREGION_LEVEL_3_NAME,,,
+,EPA Level 4 Ecoregion Code Description ....................................................... Field,EPA Level 4 Ecoregion Code Description ....................................................... Field,Text,90
+EPA_METHOD,EPA Analytical Method ................................................................................... Field,EPA Analytical Method ................................................................................... Field,Text,50
+EVENT_ID,Database Auto-Indexing Field .......................................................................... Field,Database Auto-Indexing Field .......................................................................... Field,Numeric,-
+EVENT_TYPE,Sampling Event Type Code ............................................................................. Field,Sampling Event Type Code ............................................................................. Field,Text,15
+EVENT_TYPE_DESCRIPTION,EVENT_TYPE_DESCRIPTION,,,
+,Sampling Event Type Code Description .......................................................... Field,Sampling Event Type Code Description .......................................................... Field,Text,50
+FALL_LINE,Above/Below Fall Line Indicator ....................................................................... Field,Above/Below Fall Line Indicator ....................................................................... Field,Text,1
+FIPS,Federal Information Processing Codes (ZIP CODES)..................................... Field,Federal Information Processing Codes (ZIP CODES)..................................... Field,Text,5
+G_CONVERSION_FACT,G_CONVERSION_FACT,,,
+,Sampling Gear Conversion Factor (#/SAMPLE TO #/AREA),Sampling Gear Conversion Factor (#/SAMPLE TO #/AREA),,
+,......................................................................................................................... Field,......................................................................................................................... Field,Text,3
+G_CONVERSION_UNITS,G_CONVERSION_UNITS,,,
+,Sampling Gear Code Conversion Factor Units ................................................ Field,Sampling Gear Code Conversion Factor Units ................................................ Field,Text,3
+G_METHOD,Sampling Gear Code ....................................................................................... Field,Sampling Gear Code ....................................................................................... Field,Text,3
+G_METHOD_DESCRIPTION,G_METHOD_DESCRIPTION,,,
+,Sampling Gear Description ............................................................................. Field,Sampling Gear Description ............................................................................. Field,Text,30
+G_METHOD_DETAILS,,,,
+,Sampling Gear Description Details ................................................................. Field,Sampling Gear Description Details ................................................................. Field,Text,50
+HAB_METHOD,Non-Tidal Benthic Habitat Assessment Method Code .................................... Field,Non-Tidal Benthic Habitat Assessment Method Code .................................... Field,Text,6
+HAB_METHOD_DESCRIPTION,HAB_METHOD_DESCRIPTION,,,
+,Non-Tidal Benthic Habitat Assessment Method Description ........................... Field,Non-Tidal Benthic Habitat Assessment Method Description ........................... Field,Memo,
+HAB_METHOD_DETAILS,HAB_METHOD_DETAILS,,,
+,Non-Tidal Benthic Habitat Assessment Method Description Details ............... Field,Non-Tidal Benthic Habitat Assessment Method Description Details ............... Field,Memo,
+HAB_METHOD_TITLE,Non-Tidal Benthic Habitat Assessment Method Title ...................................... Field,Non-Tidal Benthic Habitat Assessment Method Title ...................................... Field,Text,100
+HABITAT_REPORTING_PARAMETER,HABITAT_REPORTING_PARAMETER,,,
+,Non-Tidal Benthic Habitat,Assessment Reporting Parameter ....................... Field,Text,15
+HABITAT_REPORTING_PARAMETER_DESCRIPTION,HABITAT_REPORTING_PARAMETER_DESCRIPTION,HABITAT_REPORTING_PARAMETER_DESCRIPTION,,
+,Non-Tidal Benthic Habitat Assessment Reporting Parameter Description ..... Field,Non-Tidal Benthic Habitat Assessment Reporting Parameter Description ..... Field,Text,50
+HABITAT_TYPE,Non-Tidal Benthic Stream Habitat Characterization Code .............................. Field,Non-Tidal Benthic Stream Habitat Characterization Code .............................. Field,Text,15
+HABITAT_TYPE_DESCRIPTION,HABITAT_TYPE_DESCRIPTION,,,
+,Non-Tidal Benthic Stream Habitat Characterization Code Description ........... Field,Non-Tidal Benthic Stream Habitat Characterization Code Description ........... Field,Text,50
+,,79,,

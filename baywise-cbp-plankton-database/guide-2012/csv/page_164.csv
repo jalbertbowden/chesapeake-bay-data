@@ -1,0 +1,36 @@
+Name: “Table 1 of 1 on page 164 of 170”,Name: “Table 1 of 1 on page 164 of 170”,Name: “Table 1 of 1 on page 164 of 170”,Name: “Table 1 of 1 on page 164 of 170”,Name: “Table 1 of 1 on page 164 of 170”
+Table: 163,Table: 163,Table: 163,Table: 163,Table: 163
+,,,,
+Table E-9.,Table E-9.,Benthic Sediment Data Files,Benthic Sediment Data Files,Benthic Sediment Data Files
+,Field,Field,Width,
+,Name,Type,(dec),Descriptions
+1,STATION,Text,15,Sampling Station
+2,SAMPLE_DATE Date,SAMPLE_DATE Date,8,Sampling Date (MM/DD/YYYY)
+3,SAMPLE_TIME,Date/Time,8,Sample Collection Time (24 HH:MM)
+4,SAMPLE_NUMBER,SAMPLE_NUMBER,,
+,,Numeric,8,Sample Replicate Number
+6,PARAMETER,Character,15,Sampling Parameter
+7,VALUE,Numeric,8,Sampling Parameter Value
+8,UNITS,Character,15,Reporting Units of Value
+10,SOURCE,Character,6,Data Collection Agency
+11,YEARCODE,Character,8,Sampling Year Code (optional)
+12,CRUISENO,Character,8,Benthic Sampling Cruise Number (optional)
+13,STAEQ85,Character,8,Pre-1989 Station Designation (optional)
+14,STAEQ89,Character,8,Post-1989 Station Designation (optional)
+15,SITE,Character,8,Sampling Site Number (optional)
+16,SAMPTYPE,Character,8,Sample Collection Type
+Table E-10.,Table E-10.,Benthic Index of Biotic Integrity Data Files,Benthic Index of Biotic Integrity Data Files,Benthic Index of Biotic Integrity Data Files
+,Field,Field,Width,
+,Name,Type,(dec),Descriptions
+1,STATION,Text,15,Sampling Station
+2,SAMPLE_DATE,Date,10,Sampling Date (MM/DD/YYYY)
+3,SAMPLE_NUMBER,SAMPLE_NUMBER,,
+,,Numeric,8,Sample Replicate Number
+4,IBI_SALZONE,Character,2,IBI Salinity Zone Designation
+5,IBI_BOTTOM_TYPE,IBI_BOTTOM_TYPE,,
+,,Character,2,IBI Bottom Type Designation
+6,IBI_PARAMETER,,,
+,,Character,15,IBI Sampling Parameter
+7,IBI_VALUE,Numeric,8. 4,IBI Sampling Parameter Value
+8,IBI_SCORE,Numeric,8,IBI Sampling Parameter Score
+,,,,163

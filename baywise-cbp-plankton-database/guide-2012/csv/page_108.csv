@@ -1,0 +1,61 @@
+Name: “Table 1 of 1 on page 108 of 170”,Name: “Table 1 of 1 on page 108 of 170”
+Table: 107,Table: 107
+,
+,The 2012 Users Guide to CBP Biological Monitoring Data
+IBI_PARAMETER,IBI_PARAMETER_DESCRIPTION
+GOLD,"1- Relative Percentage Abundance Of Gastropods, Oligochaeta And Diptera"
+,Individuals
+GOLD_R,"1- Relative Percentage Abundance Of Gastropods, Oligochaeta And Diptera"
+,Individuals-Calculated On Rarefaction Data
+GRAND_SCORE,Fixed Station Replicate Averaged Total Benthic Restoration Goal Score
+HAPTO_ABUN,Total Haptophyte Abundance In Number/Liter Above Pycnocline
+HAPTO_BIOMASS,Total Haptophyte Biomass In μG Carbon/Liter Above Pycnocline
+MARGALEFS,Margalef’s Index Based On Family-Level Taxonomy
+MARGALEFS_R,Margalef’s Index Based On Family-Level Taxonomy-Calculated On Rarefaction
+,Data
+,-Calculated On Rarefaction Data
+MICROCYSTIS_AER_ABUND,Total Microcystis Abundance In Number/Liter Above Pycnocline
+MICROCYSTIS_AER_BIOMASS,Total Microcystis Biomass In μG Carbon/Liter Above Pycnocline
+NCO_TAXA_CNT,Count Of Families In Sample Minus Chironomidae And Oligochaete Families
+NCO_TAXA_CNT_R,Count Of Families In Sample Minus Chironomidae And Oligochaete Families-
+,Calculated On Rarefaction Data
+NON_INSECT_TAXA_CNT,Count Of Non-Insect Families
+NON_INSECT_TAXA_CNT_R,Count Of Non-Insect Families-Calculated On Rarefaction Data
+PC,Ave Layer Particulate Carbon Conc. In Mg/L
+PCT_BIO_DP05,Percent Total Biomass Found greater Than 5 Cm Below Sediment Water
+,Interface
+PCT_BURROWER,Percent Of Individuals That Are Adapted For Burrowing
+PCT_BURROWER_R,Percent Of Individuals That Are Adapted For Burrowing-Calculated On
+,Rarefaction Data
+PCT_CARN_OMN,Percent Carnivores And Omnivores
+PCT_CHIRONOMIDAE,Percent Of Individuals That Are Chironomids
+PCT_CHIRONOMIDAE_R,Percent Of Individuals That Are Chironomids -Calculated On Rarefaction Data
+PCT_CLIMB,Percent Of Individuals That Are Adapted For Climbing
+PCT_CLIMB_R,Percent Of Individuals That Are Adapted For Climbing-Calculated On
+,Rarefaction Data
+PCT_CLING,Percent Of Individuals That Are Adapted For Clinging
+PCT_CLING_R,Percent Of Individuals That Are Adapted For Clinging-Calculated On
+,Rarefaction Data
+PCT_CLINGER_TAXA,Count Of Clinger Families Expressed As A Percent Of The Total Number Of
+,Families Present In Sample
+PCT_CLINGER_TAXA_R,Count Of Clinger Families Expressed As A Percent Of The Total Number Of
+,Families Present In Sample-Calculated On Rarefaction Data
+PCT_COLLECT,Percent Of Individuals That Are Collectors (Filterers + Gatherers)
+PCT_COLLECT_R,Percent Of Individuals That Are Collectors (Filterers + Gatherers)-Calculated
+,On Rarefaction Data
+PCT_DEPO,Percent Deep Deposit Feeders
+PCT_DIPTERA,Percent Of Individuals That Are Diptera
+PCT_DIPTERA_R,Percent Of Individuals That Are Diptera -Calculated On Rarefaction Data
+PCT_DOM1,Percent Of Individuals That Belong To The Most Common Families
+PCT_DOM1_R,Percent Of Individuals That Belong To The Most Common Families-Calculated
+,On Rarefaction Data
+PCT_DOM2,Percent Of Individuals That Belong To The Two Most Common Families
+PCT_DOM2_R,Percent Of Individuals That Belong To The Two Most Common Families-
+,Calculated On Rarefaction Data
+PCT_DOM3,Percent Of Individuals That Belong To The Three Most Common Families
+PCT_DOM3_R,Percent Of Individuals That Belong To The Three Most Common Families-
+,Calculated On Rarefaction Data
+PCT_EPHEMEROPTERA,Percent Of Individuals That Are Ephemeroptera
+PCT_EPHEMEROPTERA_R,Percent Of Individuals That Are Ephemeroptera -Calculated On Rarefaction
+,Data
+,106

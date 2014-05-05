@@ -1,0 +1,44 @@
+Name: “Table 1 of 1 on page 83 of 170”,Name: “Table 1 of 1 on page 83 of 170”,Name: “Table 1 of 1 on page 83 of 170”,Name: “Table 1 of 1 on page 83 of 170”
+Table: 82,Table: 82,Table: 82,Table: 82
+,,,
+,The 2012 Users Guide to CBP Biological Monitoring Data,,
+LL_DATUM_DESCRIPTION,,,
+,CBP Geographic Datum Designation Code Description ................................. Field,Text,50
+LONGITUDE,Sampling Site Longitude .................................................................................. Field,Numeric,8.5
+METHOD,CBP Tidal Benthic and Plankton Biological Enumeration Method Code ......... Field,Text,6
+METHOD_DESCRIPTION,,,
+,CBP Tidal Benthic and Plankton Biological Enumeration Method Description .......,,
+,......................................................................................................................... Field,Memo,
+METHOD_DETAILS,CBP Tidal Benthic and Plankton Biological Enumeration Method Description Details,,
+,......................................................................................................................... Field,Memo,
+METHOD_TITLE,CBP Tidal Benthic and Plankton Biological Enumeration Method Title ........... Field,Text,50
+NETMESH,Screen Mesh Width (Millimeters) ..................................................................... Field,Numeric,8.4
+NODCCODE,NOAA-NODC Species Code ........................................................................... Field,Text,12
+P_DEPTH,Composite Sample Cut-Off Depth (Meters) ..................................................... Field,Numeric,8.1
+PARAMETER,Reporting Parameter (Old Name-superseded by Reporting Parameter) ........ Field,Text,15
+PARAMETER_DESCRIPTION,,,
+,Reporting Parameter Description (Old Name-superseded by Reporting_Parameter_Description),Reporting Parameter Description (Old Name-superseded by Reporting_Parameter_Description),
+,......................................................................................................................... Field,Text,100
+PENETR,Benthic Sampling Gear Penetration Depth in Centimeter ............................... Field,Numeric,8.1
+PENETR_VALUE_TYPE,,,
+,Value Type Flag for Benthic Sampling Gear Penetration Depth ..................... Field,Text,2
+PHONE,General Data Provider Contact Phone Number .............................................. Field,Text,25
+PI_EMAIL,Principal Investigator Contact EMAIL .............................................................. Field,Text,100
+PI_PHONE,Principal Investigator Contact Phone Number ................................................. Field,Text,50
+PRINCIPAL_INVESTIGATOR,,,
+,Principal Investigator Name ............................................................................. Field,Text,50
+PROBLEM_CODE,CBP Analytical Problem Code ......................................................................... Field,Text,2
+PROBLEM_CODE_DESCRIPTION,,,
+,Description of CBP Analytical Problem Code .................................................. Field,Text,100
+PROGRAM,Name of Agency or Agency Division Conducting Monitoring .......................... Field,Text,50
+PROGRAM_CODE,CBP Agency Program Code ............................................................................ Field,Text,6
+PROGRAM_DESCRIPTION,,,
+,General Description of Agency or Agency Division Monitoring Program ........ Field,Text,Memo
+PROJECT,CBP Monitoring Project Code ......................................................................... Field,Text,10
+PROJECT_DESCRIPTION,,,
+,Agency Monitoring Project Detailed Description .............................................. Field,Text,Memo
+PROJECT_NAME,Agency Monitoring Project Name .................................................................... Field,Text,100
+QUALIFIER,Analytical Detection Limit Qualifier .................................................................. Field,Text,2
+QUALIFIER_DESCRIPTION,,,
+,Analytical Detection Limit Qualifier Description ............................................... Field,Text,100
+,81,,

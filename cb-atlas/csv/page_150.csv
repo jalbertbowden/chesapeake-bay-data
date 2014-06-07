@@ -1,0 +1,49 @@
+Name: “Table 1 of 1 on page 150 of 156”,Name: “Table 1 of 1 on page 150 of 156”,Name: “Table 1 of 1 on page 150 of 156”
+Table: 148,Table: 148,Table: 148
+,,
+Appendices,,Chesapeake Bay Watershed and Its Region
+Appendix 2: Technical Notes on Map Design,,
+Selection of Base Map Data – The regional base map,Political Boundaries – The regional base map depicts,Political Boundaries – The regional base map depicts
+used to map socioeconomic indicators in this atlas,the formally defined political boundaries of states and,the formally defined political boundaries of states and
+includes state and county boundaries. Notes that this is,counties.,counties.
+"not a general purpose atlas of the region, for it focuses",,
+on socioeconomic indicators.,"Woods and Poole Data – Montgomery County, VA","Woods and Poole Data – Montgomery County, VA"
+,includes data for Radford City. Radford City is not in,includes data for Radford City. Radford City is not in
+"Choropleth Mapping – For most maps, data are",the region of interest otherwise.,the region of interest otherwise.
+grouped by quintiles (five classes) which vary in,,
+shading from light to dark (for low to high values).,Map Sources – The regional map on the cover,Map Sources – The regional map on the cover
+"This shading technique, known as choropleth mapping,",was purchased from Map Resources (http://www.,was purchased from Map Resources (http://www.
+"is usually applied to ratio data. Population density,",mapresources.com) and edited. Terrain maps can also,mapresources.com) and edited. Terrain maps can also
+"infant deaths per 1,000 live births, and median income","be generated from public domain sources, e.g. the","be generated from public domain sources, e.g. the"
+are examples. Maps that display total amounts (such,Global 30 Arc Second Elevation Data (GTOPO30),Global 30 Arc Second Elevation Data (GTOPO30)
+"as total population) often use other approaches, such",dataset (http://seamless.usgs.gov/website/Seamless/,dataset (http://seamless.usgs.gov/website/Seamless/
+"as proportional symbols. For clarity, ease of use, and",or http://eros.usgs.gov/products/elevation/gtopo30.,or http://eros.usgs.gov/products/elevation/gtopo30.
+"consistent design, choropleth mapping is used for most",php) developed at the U.S. Geological Survey’s EROS,php) developed at the U.S. Geological Survey’s EROS
+of the social indicator data.,Data Center. The standard region of interest map,Data Center. The standard region of interest map
+,used throughout the atlas was generated from U.S.,used throughout the atlas was generated from U.S.
+Quintile Classification – The quintile classification,Geological Survey shapefiles. Contextual information,Geological Survey shapefiles. Contextual information
+"means that for most maps, counties were divided","(state capitals, lakes and rivers) can be obtained from","(state capitals, lakes and rivers) can be obtained from"
+into five equal classes. This approach emphasizes,the U.S. Department of the Interior (http://www.,the U.S. Department of the Interior (http://www.
+the rankings of data values among counties. The,nationalatlas.gov) and Environmental Systems Research,nationalatlas.gov) and Environmental Systems Research
+legend accompanying the map allows the reader to,"Institute, Inc (ESRI) (http://www.esri.com).","Institute, Inc (ESRI) (http://www.esri.com)."
+see the range of values among counties within a class.,,
+Quintiles make it easy for the reader to make intuitive,Production – Indicator data for the atlas were compiled,Production – Indicator data for the atlas were compiled
+comparisons among counties; the darkest shaded,in Microsoft Excel. These were linked to shapefiles,in Microsoft Excel. These were linked to shapefiles
+"counties are in the “top quintile,” the lightest shaded",using ESRI ArcMap GIS. The GIS files were imported,using ESRI ArcMap GIS. The GIS files were imported
+"counties are in the “bottom quintile,” and so forth.",into Adobe Illustrator for final map design. The final,into Adobe Illustrator for final map design. The final
+Quintiles also facilitate comparisons between maps in,"atlas layout (text, maps, graphics) was compiled using","atlas layout (text, maps, graphics) was compiled using"
+the atlas (“this county ranks in the bottom quintile on,Adobe InDesign.,Adobe InDesign.
+all three of these indicators”).,Text Sources – Additional web resources used to,Text Sources – Additional web resources used to
+Two notes: (1) Whenever the number of counties,prepare watershed and regional descriptions are:,prepare watershed and regional descriptions are:
+"cannot be evenly divided by five, the convention for this",•,hCthtpe:s/a/pweawkwe. cBhaeys aPpreoagkreabmay.net/
+atlas series is to reduce the size of the highest quintile,•,Bay Journal (Alliance for the Chesapeake Bay)
+"first, then the next quintile if needed, then the third and",,http://www.bayjournal.com/article.cfm?article=400
+fourth quintile if needed. Hence 207 counties would,•,National Park Service and U.S. Geological Survey
+"be divided into groups of 42, 42, 41, 41, and 41, with",,http://www.nps.gov/plants/pubs/chesapeake/purpose.htm
+the last groups of 41 having the highest data values/,,hhttttpp::////wwwwww..nnppss..ggoovv//cpahjsoo//sp/jcbintr4.htm
+darkest shading. (2) Counties with identical data values,,http://pubs.usgs.gov/fs/2006/3046/
+"are grouped in the same quintile, even if this results in",•,"University of Maryland, Center for Environmental Science"
+quintiles of unequal size.,,http://ian.umces.edu/pdfs/chesapeake_futures.pdf
+,•,Maryland Public Television: Bayville
+,,http://bayville.thinkport.org/resourcelibrary/faq.aspx#a2
+144,,

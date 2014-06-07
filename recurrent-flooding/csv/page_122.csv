@@ -1,0 +1,34 @@
+Name: “Table 1 of 1 on page 122 of 150”,Name: “Table 1 of 1 on page 122 of 150”
+Table: 122,Table: 122
+,
+Section 4.4 Storm surge inundation modeling,Section 4.4 Storm surge inundation modeling
+Data and analysis for the following maps are courtesy of the Strategic Environmental Research,Data and analysis for the following maps are courtesy of the Strategic Environmental Research
+and Development Program’s (SERDP) RC-1701 project led by Ms. Kelly Burks-Copes and Dr.,and Development Program’s (SERDP) RC-1701 project led by Ms. Kelly Burks-Copes and Dr.
+"Edmond J. Russo (US Army Engineer Research and Development Center (ERDC-EL), Vicksburg,","Edmond J. Russo (US Army Engineer Research and Development Center (ERDC-EL), Vicksburg,"
+MS). Storm analyses conducted by Dr. Jane Smith (ERDC-CHL) and Dr. Jay Ratcliff (ERDC-CHL).,MS). Storm analyses conducted by Dr. Jane Smith (ERDC-CHL) and Dr. Jay Ratcliff (ERDC-CHL).
+Funding for this effort was jointly provided by the SERDP program (http://www.serdp.org/) and,Funding for this effort was jointly provided by the SERDP program (http://www.serdp.org/) and
+ERDC (http://www.erdc.usace.army.mil/) in support of FEMA.,ERDC (http://www.erdc.usace.army.mil/) in support of FEMA.
+As part of a project to develop a model that quantitatively evaluates risks to critical military,As part of a project to develop a model that quantitatively evaluates risks to critical military
+"assets (i.e., infrastructure) and mission capabilities threatened by a range of SLR, tidal","assets (i.e., infrastructure) and mission capabilities threatened by a range of SLR, tidal"
+"fluctuation, and storm surge-frequency hazards, ERDC carried out extensive modeling efforts","fluctuation, and storm surge-frequency hazards, ERDC carried out extensive modeling efforts"
+for the coastline of Virginia.,"To see more about the project, go to:"
+http://www.serdp.org/Program-Areas/Resource-Conservation-and-Climate-Change/Climate-,http://www.serdp.org/Program-Areas/Resource-Conservation-and-Climate-Change/Climate-
+Change/Vulnerability-and-Impact-Assessment/RC-1701/RC-1701/(language)/eng-US,Change/Vulnerability-and-Impact-Assessment/RC-1701/RC-1701/(language)/eng-US
+"The project resulted in detailed sea level rise and storm surge models, including 5 sea level rise","The project resulted in detailed sea level rise and storm surge models, including 5 sea level rise"
+"scenarios (0.0m, 0.5m, 1.0m, 1.5m, 2.0m) and 17 tropical storms, 3 nor’easters and the 1-year","scenarios (0.0m, 0.5m, 1.0m, 1.5m, 2.0m) and 17 tropical storms, 3 nor’easters and the 1-year"
+and 10-year storms.,"In total, they intensively assessed risks for 25 scenarios (SLR X Storm"
+"intensity = 1 scenario; for 5 SLR ranges and 5 storm intensities – 100-yr, 5-yr, 10-yr, 1-yr, and 1","intensity = 1 scenario; for 5 SLR ranges and 5 storm intensities – 100-yr, 5-yr, 10-yr, 1-yr, and 1"
+"nor’easter). Below we present maps (Figures 17, 18, 19, 20, 21) using data from one of the","nor’easter). Below we present maps (Figures 17, 18, 19, 20, 21) using data from one of the"
+"storms, placed on a 2m sea level rise.",
+"For the maps below, the models used ADCIRC’s unstructured mesh with varying grid cell sizes","For the maps below, the models used ADCIRC’s unstructured mesh with varying grid cell sizes"
+ranging from 30m to 4 km (smaller as they move inland) and FEMA’s new topo/bathy,ranging from 30m to 4 km (smaller as they move inland) and FEMA’s new topo/bathy
+surface(downscaled to 10m). It does not model the effects of hydrologic connectivity to,surface(downscaled to 10m). It does not model the effects of hydrologic connectivity to
+groundwater and flooding (although this was done on one military installation and the,groundwater and flooding (although this was done on one military installation and the
+capability exists within the models).,
+"For more details, please see the report:",
+"Copes, K. A., and E. J. Russo. (In press). Risk Quantification for Sustaining Coastal Military","Copes, K. A., and E. J. Russo. (In press). Risk Quantification for Sustaining Coastal Military"
+"Installation Assets and Mission Capabilities, Final Technical Report. Prepared by the U.S. Army","Installation Assets and Mission Capabilities, Final Technical Report. Prepared by the U.S. Army"
+"Engineer Research and Development Center (ERDC), Environmental Laboratory (EL), Vicksburg,","Engineer Research and Development Center (ERDC), Environmental Laboratory (EL), Vicksburg,"
+MS for the Strategic Environmental Research and Development Program (SERDP) under project,MS for the Strategic Environmental Research and Development Program (SERDP) under project
+#RC-1701.,
+,113

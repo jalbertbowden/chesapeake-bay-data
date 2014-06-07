@@ -1,0 +1,40 @@
+Name: “Table 1 of 1 on page 117 of 150”
+Table: 117
+""
+Section 4.2 GIS methodology
+Existing state-wide models of elevation (or topographic) surfaces use DEMs (Digital Elevation
+Models) developed from the Virginia Base Mapping Program (VBMP). DEMs have less vertical
+"and horizontal resolution than newer techniques, which can result in over-estimating areas of"
+potential inundation. More accurate LiDAR (Light Detection and Ranging) data are still being
+"collected for portions of the Tidewater Virginia region. Therefore, we built a new surface for"
+"Tidewater Virginia, consisting of LiDAR data where available and DEMs in the few localities"
+"where LiDAR are not yet available. The surface we created has the most recent, highest"
+"resolution elevation data currently existing. Onto the newly created surface, we projected a"
+"sea level rise of 1.5 feet and a storm surge of 4.5 feet (3 feet above sea level rise, considered a"
+"reasonable surge for a large, but typical storm)."
+Figure 10 shows the distribution of data type by locality. Most of the LiDAR data layers came
+"referenced to North American Vertical Datum 1988 (NAVD88), a standard geodetic vertical"
+datum. Any data layers that were in a different vertical datum were converted to NAVD88
+before using. A geographic information system (ArcGIS) was used to combine the data layers
+"into seamless elevation surfaces for five regions: Northern Neck, Middle Peninsula, Peninsula,"
+"Southside, and Eastern Shore. These highly detailed surfaces resulted in very large files,"
+between 50 and 150 gigabytes for each dataset. This meant processing times were
+"considerable, as much as 24 hours for each step in the procedure, with a minimum of 16 steps"
+per region.
+"In order to determine what land areas would flood, the elevation surfaces needed to be"
+referenced to a tidal datum. We chose to reference our surfaces to present mean higher high
+"water (MHHW), so our sea level rise and storm surge values represent water levels above this"
+"reference. Using this adjustment, sea level rise is calculated from the highest point typically"
+inundated daily. Adjusting from NAVD88 to MHHW involved using software developed by
+"NOAA called VDatum, whose primary purpose is to convert elevation data between different"
+vertical reference systems. The basic concept involves many elevation points along the
+"shoreline being converted from NAVD88 to MHHW, and then extrapolated inland. The"
+adjusted surface used in this analysis was provided by NOAA’s Coastal Services Center. This
+adjusted surface was subtracted from the NAVD88-referenced elevation surface to create a
+MHHW-referenced elevation surface.
+"Using the MHHW-referenced elevation surfaces for each region, all elevations less than or"
+equal to 1.5 feet were extracted to represent the area flooded by this potential sea level rise.
+Next all elevations greater than 1.5 and less than or equal to 4.5 feet were extracted to
+represent the area flooded by a 3 foot storm surge on top of the 1.5 foot sea level rise. The
+"areal extents of these two scenarios were overlain on three different elements: land use,"
+108
